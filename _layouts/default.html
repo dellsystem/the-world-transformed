@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="TODO" />
+    <link rel="stylesheet" type="text/css" href="semantic/dist/semantic.min.css">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="TWT_NOW" />
+    <meta property="og:title" content="The World Transformed">
+    <meta property="og:description" content="TODO">
+    <meta property="og:image" content="TODO">
+    <meta property="og:url" content="TODO">
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="The World Transformed" />
+</head>
+<body>
+    <div id="sidebar">
+    </div>
+    <div id="header">
+        {% include header.html %}
+    </div>
+    <div id="content">
+        <a name="top"></a>
+        {{ content }}
+    </div>
+    <div id="footer" class="section">
+        <div class="ui container">
+            {% include footer.html %}
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"
+        integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+        crossorigin="anonymous"></script>
+    <script src="semantic/dist/semantic.min.js"></script>
+    <script src="js/jquery.scrollie.min.js"></script>
+    <script src="js/scripts.js"></script>
+</body>
+</html>

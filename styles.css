@@ -1,0 +1,83 @@
+#content {
+    background: url('images/pattern-black.png');
+}
+
+#intro {
+    padding-top: 100px;
+    background-position: right bottom;
+    background: url('images/intro-background.png');
+    background-size: cover;
+}
+
+#programme {
+    background: url('images/programme-background.png');
+    background-position: right top;
+    background-repeat: no-repeat;
+    padding: 70px 0;
+}
+
+#tickets {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding-top: 120px;
+    background: url('images/tickets-background.png');
+    background-position: center;
+    min-height: 800px;
+    background-repeat: no-repeat;
+}
+
+#get-involved {
+    width: 1200px;
+    margin: 150px auto;
+    background: white;
+}
+
+#footer {
+    width: 100%;
+    min-height: 520px;
+    background-color: #ea506e;
+    background-image: url('images/pattern-translucent.png');
+}
+
+#partners {
+    width: 100%;
+    height: 390px;
+    padding-top: 50px;
+    background-color: #000;
+    background-image: url('images/pattern-translucent.png');
+}
+
+#footer a {
+    color: #fff;
+}
+
+#sidebar {
+    position: fixed;
+    top: 50px;
+    right: 50px;
+    background-color: #000;
+    background-image: url('images/title-outline.png');
+    width: 60px;
+    height: 396px;
+    transition: background 1s ease;
+}
+
+#header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: #ea506e;
+    width: 100%;
+    z-index: 100;
+}
+
+/* mobile */
+@media only screen and (max-width: 767px) {
+    #sidebar {
+        display: none;
+    }
+}
+
+#twt2018 {
+    padding-top: 100px;
+}
