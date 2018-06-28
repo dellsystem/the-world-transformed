@@ -29,10 +29,10 @@
 --------------------*/
 
 /* This is the single variable that controls them all */
-@emSize   : 14px;
+@emSize   : 19px;
 
 /* The size of page text  */
-@fontSize : 14px;
+@fontSize : 19px;
 
 
 /*-------------------
@@ -64,7 +64,7 @@
 @headerFontWeight : @bold;
 @headerLineHeight : unit((18 / 14), em);
 
-@h1 : unit((28 / 14), rem);
+@h1 : unit((30 / 14), rem);
 @h2 : unit((24 / 14), rem);
 @h3 : unit((18 / 14), rem);
 @h4 : unit((15 / 14), rem);
@@ -224,12 +224,12 @@
 @orange           : #F2711C;
 @yellow           : #FBBD08;
 @olive            : #B5CC18;
-@green            : #21BA45;
+@green            : #73f4a1;
 @teal             : #00B5AD;
-@blue             : #2185D0;
+@blue             : #001a89;
 @violet           : #6435C9;
 @purple           : #A333C8;
-@pink             : #E03997;
+@pink             : #ea506e;
 @brown            : #A5673F;
 @grey             : #767676;
 @black            : #1B1C1D;

@@ -9,7 +9,7 @@
 /* Button */
 @verticalMargin: 0em;
 @horizontalMargin: 0.25em;
-@backgroundColor: #E0E1E2;
+@backgroundColor: #fff;
 @backgroundImage: none;
 @background: @backgroundColor @backgroundImage;
 @lineHeight: 1em;
@@ -26,7 +26,7 @@
 @textColor: rgba(0, 0, 0, 0.6);
 @textShadow: none;
 @invertedTextShadow: @textShadow;
-@borderRadius: @defaultBorderRadius;
+@borderRadius: 0;
 @verticalAlign: baseline;
 
 /* Internal Shadow */
@@ -38,10 +38,7 @@
 @borderBoxShadowColor: transparent;
 @borderBoxShadowWidth: 1px;
 @borderBoxShadow: 0px 0px 0px @borderBoxShadowWidth @borderBoxShadowColor inset;
-@boxShadow:
-  @borderBoxShadow,
-  @shadowBoxShadow
-;
+@boxShadow: 5px 5px 0 #000;
 
 /* Icon */
 @iconHeight: @relativeTiny;
@@ -256,7 +253,7 @@
 
 /* Colors */
 @coloredBackgroundImage: none;
-@coloredBoxShadow: @shadowBoxShadow;
+@coloredBoxShadow: @boxShadow;
 
 /* Colored */
 @brownTextColor: @invertedTextColor;
@@ -316,8 +313,8 @@
 
 
 /* Ordinality */
-@primaryBackgroundImage: @coloredBackgroundImage;
-@primaryTextColor: @invertedTextColor;
+@primaryBackgroundImage: none;
+@primaryTextColor: @textColor;
 @lightPrimaryTextColor: @invertedTextColor;
 @primaryTextShadow: @invertedTextShadow;
 @primaryBoxShadow: @coloredBoxShadow;

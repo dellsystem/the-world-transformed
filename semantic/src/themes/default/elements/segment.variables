@@ -8,9 +8,9 @@
 
 @background: @white;
 @borderWidth: 1px;
-@border: @borderWidth solid @borderColor;
+@border: @borderWidth solid black;
 
-@boxShadow: @subtleShadow;
+@boxShadow: 10px 10px 0 #000;
 @verticalPadding: 1em;
 @horizontalPadding: 1em;
 @padding: @verticalPadding @horizontalPadding;
@@ -18,7 +18,7 @@
 @verticalMargin: 1rem;
 @horizontalMargin: 0em;
 @margin: @verticalMargin @horizontalMargin;
-@borderRadius: @defaultBorderRadius;
+@borderRadius: 0;
 
 /*-------------------
        Group
