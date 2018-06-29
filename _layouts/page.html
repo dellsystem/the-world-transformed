@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="masthead section" data-background="#000">
+    <div class="ui container">
+        <div class="ui centered middle aligned stackable grid">
+            {% include masthead.html %}
+        </div>
+    </div>
+</div>
+<div class="content section" data-background="#ea506e">
+    <div class="ui container">
+        <div id="page-content">
+            <div class="ui centered middle aligned stackable grid">
+                <div class="twelve wide column">
+                    <h1 class="ui header">{{ page.title }}</h1>
+                    {{ content }}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
