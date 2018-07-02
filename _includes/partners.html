@@ -1,3 +1,15 @@
 <div class="twelve wide column">
     <h1 class="ui inverted header">Partners</h1>
+    <div class="ui middle aligned grid">
+        <div class="three column row">
+            {% for partner in site.data.partners.primary %}
+            {% include partner.html %}
+            {% endfor %}
+        </div>
+        <div class="six column row">
+            {% for partner in site.data.partners.secondary %}
+            {% include partner.html %}
+            {% endfor %}
+        </div>
+    </div>
 </div>
