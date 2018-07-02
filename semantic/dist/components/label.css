@@ -879,16 +879,16 @@ a.ui.basic.purple.label:hover {
 
 .ui.pink.labels .label,
 .ui.pink.label {
-  background-color: #ea506e !important;
-  border-color: #ea506e !important;
+  background-color: #ff2c63 !important;
+  border-color: #ff2c63 !important;
   color: #FFFFFF !important;
 }
 
 /* Link */
 .ui.pink.labels .label:hover,
 a.ui.pink.label:hover {
-  background-color: #f03156 !important;
-  border-color: #f03156 !important;
+  background-color: #ff1350 !important;
+  border-color: #ff1350 !important;
   color: #FFFFFF !important;
 }
 
@@ -900,20 +900,20 @@ a.ui.pink.label:hover {
 
 /* Ribbon */
 .ui.pink.ribbon.label {
-  border-color: #e52248 !important;
+  border-color: #f80041 !important;
 }
 
 /* Basic */
 .ui.basic.pink.label {
   background-color: none #FFFFFF !important;
-  color: #ea506e !important;
-  border-color: #ea506e !important;
+  color: #ff2c63 !important;
+  border-color: #ff2c63 !important;
 }
 .ui.basic.pink.labels a.label:hover,
 a.ui.basic.pink.label:hover {
   background-color: #FFFFFF !important;
-  color: #f03156 !important;
-  border-color: #f03156 !important;
+  color: #ff1350 !important;
+  border-color: #ff1350 !important;
 }
 
 /*--- Brown ---*/

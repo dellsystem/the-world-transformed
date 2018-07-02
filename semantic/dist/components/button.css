@@ -2191,7 +2191,7 @@
 
 .ui.pink.buttons .button,
 .ui.pink.button {
-  background-color: #ea506e;
+  background-color: #ff2c63;
   color: #FFFFFF;
   text-shadow: none;
   background-image: none;
@@ -2202,19 +2202,19 @@
 }
 .ui.pink.buttons .button:hover,
 .ui.pink.button:hover {
-  background-color: #f03156;
+  background-color: #ff1350;
   color: #FFFFFF;
   text-shadow: none;
 }
 .ui.pink.buttons .button:focus,
 .ui.pink.button:focus {
-  background-color: #f81944;
+  background-color: #ff0345;
   color: #FFFFFF;
   text-shadow: none;
 }
 .ui.pink.buttons .button:active,
 .ui.pink.button:active {
-  background-color: #e52248;
+  background-color: #f80041;
   color: #FFFFFF;
   text-shadow: none;
 }
@@ -2222,7 +2222,7 @@
 .ui.pink.buttons .active.button:active,
 .ui.pink.active.button,
 .ui.pink.button .active.button:active {
-  background-color: #f42c53;
+  background-color: #ff1350;
   color: #FFFFFF;
   text-shadow: none;
 }
@@ -2230,36 +2230,36 @@
 /* Basic */
 .ui.basic.pink.buttons .button,
 .ui.basic.pink.button {
-  -webkit-box-shadow: 0px 0px 0px 1px #ea506e inset !important;
-          box-shadow: 0px 0px 0px 1px #ea506e inset !important;
-  color: #ea506e !important;
+  -webkit-box-shadow: 0px 0px 0px 1px #ff2c63 inset !important;
+          box-shadow: 0px 0px 0px 1px #ff2c63 inset !important;
+  color: #ff2c63 !important;
 }
 .ui.basic.pink.buttons .button:hover,
 .ui.basic.pink.button:hover {
   background: transparent !important;
-  -webkit-box-shadow: 0px 0px 0px 1px #f03156 inset !important;
-          box-shadow: 0px 0px 0px 1px #f03156 inset !important;
-  color: #f03156 !important;
+  -webkit-box-shadow: 0px 0px 0px 1px #ff1350 inset !important;
+          box-shadow: 0px 0px 0px 1px #ff1350 inset !important;
+  color: #ff1350 !important;
 }
 .ui.basic.pink.buttons .button:focus,
 .ui.basic.pink.button:focus {
   background: transparent !important;
-  -webkit-box-shadow: 0px 0px 0px 1px #f81944 inset !important;
-          box-shadow: 0px 0px 0px 1px #f81944 inset !important;
-  color: #f03156 !important;
+  -webkit-box-shadow: 0px 0px 0px 1px #ff0345 inset !important;
+          box-shadow: 0px 0px 0px 1px #ff0345 inset !important;
+  color: #ff1350 !important;
 }
 .ui.basic.pink.buttons .active.button,
 .ui.basic.pink.active.button {
   background: transparent !important;
-  -webkit-box-shadow: 0px 0px 0px 1px #f42c53 inset !important;
-          box-shadow: 0px 0px 0px 1px #f42c53 inset !important;
-  color: #e52248 !important;
+  -webkit-box-shadow: 0px 0px 0px 1px #ff1350 inset !important;
+          box-shadow: 0px 0px 0px 1px #ff1350 inset !important;
+  color: #f80041 !important;
 }
 .ui.basic.pink.buttons .button:active,
 .ui.basic.pink.button:active {
-  -webkit-box-shadow: 0px 0px 0px 1px #e52248 inset !important;
-          box-shadow: 0px 0px 0px 1px #e52248 inset !important;
-  color: #e52248 !important;
+  -webkit-box-shadow: 0px 0px 0px 1px #f80041 inset !important;
+          box-shadow: 0px 0px 0px 1px #f80041 inset !important;
+  color: #f80041 !important;
 }
 .ui.buttons:not(.vertical) > .basic.pink.button:not(:first-child) {
   margin-left: -1px;

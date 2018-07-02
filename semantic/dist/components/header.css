@@ -132,7 +132,7 @@
 
 h1.ui.header {
   font-size: 2.14285714rem;
-  border-bottom: 7px solid #ea506e;
+  border-bottom: 7px solid #ff2c63;
   padding-bottom: 5px;
   display: table;
 }
@@ -510,13 +510,13 @@ a.ui.inverted.purple.header:hover {
 /*--- Pink ---*/
 
 .ui.pink.header {
-  color: #ea506e !important;
+  color: #ff2c63 !important;
 }
 a.ui.pink.header:hover {
-  color: #f03156 !important;
+  color: #ff1350 !important;
 }
 .ui.pink.dividing.header {
-  border-bottom: 2px solid #ea506e;
+  border-bottom: 2px solid #ff2c63;
 }
 
 /* Inverted */

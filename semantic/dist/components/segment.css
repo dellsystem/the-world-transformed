@@ -601,10 +601,10 @@
 
 /* Pink */
 .ui.pink.segment:not(.inverted) {
-  border-top: 2px solid #ea506e !important;
+  border-top: 2px solid #ff2c63 !important;
 }
 .ui.inverted.pink.segment {
-  background-color: #ea506e !important;
+  background-color: #ff2c63 !important;
   color: #FFFFFF !important;
 }
 
