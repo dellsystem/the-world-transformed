@@ -62,7 +62,7 @@
 
 #sidebar {
     position: fixed;
-    top: 50px;
+    top: 60px;
     right: 50px;
     background-color: #000;
     background-image: url('images/title-outline.png');
@@ -108,6 +108,9 @@
         background: #fff;
         padding: 70px 0; /* to compensate for header */
     }
+    #desktop-menu {
+        display: none;
+    }
 }
 
 #twt2018 {
@@ -130,6 +133,10 @@
 
     #mobile-menu {
         display: none;
+    }
+
+    #desktop-menu {
+        display: block;
     }
 }
 
