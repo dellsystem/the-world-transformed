@@ -80,6 +80,13 @@
     z-index: 100;
 }
 
+/* basically just iphone 5 */
+@media only screen and (max-width: 350px) {
+    #hamburger .image {
+        width: 230px;
+    }
+}
+
 /* mobile */
 @media only screen and (max-width: 767px) {
     #sidebar {
