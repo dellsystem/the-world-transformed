@@ -1,25 +1,15 @@
+<div id="hamburger">
+    <i class="big content icon"></i>
+    The World Transformed
+</div>
+<div id="mobile-menu" class="ui pink inverted fluid vertical menu">
+    {% include menu.html %}
+</div>
 <div class="ui container">
-    <div class="ui centered grid">
+    <div class="ui computer only centered grid">
         <div class="twelve wide column">
-            <div class="ui inverted pointing massive pink six item menu">
-                <a class="active item" href="#intro" id="anchor-intro">
-                    Home
-                </a>
-                <a class="item" href="#twt2018" id="anchor-twt2018">
-                    TWT 2018
-                </a>
-                <a class="item" href="#tickets" id="anchor-tickets">
-                    Tickets
-                </a>
-                <a class="item" href="#programme" id="anchor-programme">
-                    Programme
-                </a>
-                <a class="item" href="#get-involved" id="anchor-get-involved">
-                    Get involved
-                </a>
-                <a class="item" href="#partners" id="anchor-partners">
-                    Partners
-                </a>
+            <div class="ui inverted massive pink six item menu">
+                {% include menu.html %}
             </div>
         </div>
     </div>

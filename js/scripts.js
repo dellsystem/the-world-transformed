@@ -9,3 +9,17 @@ $('.section').scrollie({
         $('#anchor-' + elementId).addClass('active');
     }
 });
+$('#hamburger').click(function (element) {
+    $('#mobile-menu').toggle();
+    $('#header').toggleClass('expanded');
+});
+$('#mobile-menu .anchor').click(function (e) {
+    // Terrible hack to simulate closing the menu
+    $('#hamburger').click();
+    // Smooth scrolling but only if already on the homepage
+    var aid = $(this).attr("href").substring(1);
+    if ($(aid).length) {
+        e.preventDefault();
+        $('html,body').animate({scrollTop: $(aid).offset().top}, 'slow');
+    }
+});
