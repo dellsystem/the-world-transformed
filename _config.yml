@@ -1,2 +1,6 @@
 safe: false
 url: "http://staging.theworldtransformed.org"
+exclude:
+    - README.md
+    - node_modules
+    - semantic.json
