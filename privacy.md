@@ -1,5 +1,6 @@
 ---
-title: Privacy policy
+title: "Privacy policy"
+description: "The World Transformed's privacy policy"
 layout: page
 ---
 

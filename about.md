@@ -1,6 +1,7 @@
 ---
-title: About
+title: "About"
 layout: page
+description: "The story behind The World Transformed"
 ---
 
 The World Transformed is a project which grew out of Momentum, the movement formed in the wake of Jeremy Corbyn’s 2015 leadership campaign. Seeing the optimism, energy, and creativity that emerged from that campaign, as well as the thousands of young people joining the Labour Party for the first time, we thought it was a shame that it often wasn’t properly reflected in many left-wing events. Rather than just an endless parade of panel talks, with the same old speakers giving the same old speeches, we try to do things a bit differently.
