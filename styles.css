@@ -37,7 +37,6 @@
 }
 
 #get-involved {
-    width: 1200px;
     margin: 150px auto;
     background: white;
 }
@@ -85,6 +84,19 @@
 @media only screen and (max-width: 767px) {
     #sidebar {
         display: none;
+    }
+}
+
+/* mobile, tablet */
+@media only screen and (max-width: 1200px) {
+    #twt2018 {
+        background: #fff;
+    }
+    #tickets {
+        background: #fff;
+    }
+    #programme {
+        background: #fff;
     }
 }
 
