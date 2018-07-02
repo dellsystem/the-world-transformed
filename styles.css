@@ -132,3 +132,8 @@
         display: none;
     }
 }
+
+#get-involved {
+    /* The logistics email address is too long lol */
+    word-break: break-word;
+}
