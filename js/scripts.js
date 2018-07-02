@@ -23,3 +23,12 @@ $('#mobile-menu .anchor').click(function (e) {
         $('html,body').animate({scrollTop: $(aid).offset().top}, 'slow');
     }
 });
+// sorry lmao, no time to do this properly
+$('#desktop-menu .anchor').click(function (e) {
+    // Smooth scrolling but only if already on the homepage
+    var aid = $(this).attr("href").substring(1);
+    if ($(aid).length) {
+        e.preventDefault();
+        $('html,body').animate({scrollTop: $(aid).offset().top}, 'slow');
+    }
+})
