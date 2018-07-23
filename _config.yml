@@ -1,5 +1,5 @@
 safe: false
-url: "http://staging.theworldtransformed.org"
+url: "https://theworldtransformed.org"
 exclude:
     - README.md
     - node_modules
