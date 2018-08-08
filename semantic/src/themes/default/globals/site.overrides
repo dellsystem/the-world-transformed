@@ -1,3 +1,18 @@
 /*******************************
         Global Overrides
 *******************************/
+
+html {
+  font-size: @fontSizeSmall;
+        
+  @media screen and (min-width: 900px) {
+    font-size: @fontSize;
+  }
+                      
+  @media screen and (min-width: 1200px) {
+    font-size: @fontSizeLarge;
+  }
+}
+
+
+

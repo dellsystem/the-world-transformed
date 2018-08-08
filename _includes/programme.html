@@ -1,42 +1,46 @@
 <div class="twelve wide column">
     <h1 class="ui header">Programme</h1>
-    <p>
-    This year’s festival will be welcoming …
-    </p>
-    <div class="ui bulleted list">
-        <div class="item">
-            <div class="header">
-                John McDonnell
-            </div>
-        </div>
-        <div class="item">
-            <div class="header">
-                Ash Sarkar
-            </div>
-        </div>
-        <div class="item">
-            <div class="header">
-                Leo Panitch
-            </div>
-        </div>
-        <div class="item">
-            <div class="header">
-                Chantal Mouffe
-            </div>
-        </div>
-        <div class="item">
-            <div class="header">
-                Hilary Wainwright
-            </div>
-        </div>
+    <!--
+    <div class="ui fluid image">
+      <img class="" alt="Programme Poster" src="images/programme-poster-draft.jpeg" >
+    </div>
+    -->
+</div>
+<div class="fourteen wide column">
+  
+    <h2 class="ui header"> Speakers </h2> 
+    <div id="speakers" class="ui line-up header">
+        {% for speaker in site.data.programme.speakers %}
+        {% if speaker.Confirmed == "Yes" %}
+        <h3><a> {{speaker.Name}} </a> </h3>
+        {% endif %}
+        {% endfor %}
+    </div>
+  
+    <div class="ui hidden divider"></div>
+
+    <h2 class="ui header"> Organisations </h2> 
+    <div id="organisations" class="ui line-up header">
+        {% for organisation in site.data.programme.organisations %}
+        <h3><a> {{organisation.Name}} </a> </h3>
+        {% endfor %}
     </div>
 
-    <p>
-    But that’s only the beginning. 
-    </p>
+    <div class="ui hidden divider"></div>
+
+    <h2 class="ui header"> Arts &amp; Activites </h2> 
+    <div id="artists" class="ui line-up header">
+        {% for artist in site.data.programme.artists %}
+        {% if artist.Confirmed == "Yes" %}
+        <h3><a> {{artist.Name}} </a> </h3>
+        {% endif %}
+        {% endfor %}
+    </div>
+
+    <div class="ui hidden divider"></div>
 
     <p>
-    We will be publishing our full programme in August, and we are super excited
+    We will be publishing our full programme in late August and we are super excited
     about the threads in this year’s festival. Expect four days packed with talks,
     workshops, debates, theatre, film, exhibitions, parties, dance, music and more. 
     </p>
