@@ -33,12 +33,6 @@
         {% for organisation in site.data.programme.organisations %}
         <h3><a> {{organisation.Name}} </a> </h3>
         {% endfor %}
-    </div>
-
-    <div class="ui hidden divider"></div>
-
-    <h2 class="ui header"> Parties </h2> 
-    <div id="party" class="ui line-up header">
         {% for party in site.data.programme.parties %}
         <h3><a> {{party.Party}} </a> </h3>
         {% endfor %}
