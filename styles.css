@@ -74,7 +74,7 @@
     padding-top: 50px;
     padding-bottom: 75px;
     background-color: #000;
-    background-image: url('images/pattern-translucent.png');
+    /*background-image: url('images/pattern-translucent.png');*/
 }
 
 #footer a {
