@@ -1,5 +1,5 @@
 #content {
-    background: url('images/pattern-black.png');
+   background: url('images/pattern-black.png');
 }
 
 .masthead.section {
@@ -21,10 +21,31 @@
 }
 
 #programme {
-    background: url('images/programme-background.png');
+    /*background: url('images/programme-background.png');
+    */
+    background: #fff;
     background-position: right top;
     background-repeat: no-repeat;
 }
+
+/* Maybe a more appropriate way to add this styling with semantic ui */
+#programme .line-up h3 {
+    display: inline-block;
+    margin: 0;
+}
+
+#programme .line-up h3 a{
+    text-decoration: none;
+    color: black;
+}
+
+#programme .line-up h3 a::after {
+    content: " / ";
+    font-weight: 700;
+    margin: .3em;
+    color: #73f4a1;
+}
+
 
 #tickets.section {
     margin-top: 100px;
@@ -53,7 +74,7 @@
     padding-top: 50px;
     padding-bottom: 75px;
     background-color: #000;
-    background-image: url('images/pattern-translucent.png');
+    /*background-image: url('images/pattern-translucent.png');*/
 }
 
 #footer a {

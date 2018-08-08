@@ -32,7 +32,9 @@
 @emSize   : 19px;
 
 /* The size of page text  */
-@fontSize : 19px;
+@fontSize : 18px;
+@fontSizeSmall: 14px;
+@fontSizeLarge: 20px;
 
 
 /*-------------------
@@ -51,11 +53,11 @@
     Brand Colors
 --------------------*/
 
-@primaryColor        : @blue;
-@secondaryColor      : @black;
+@primaryColor        : @red;
+@secondaryColor      : @blue;
 
-@lightPrimaryColor   : @lightBlue;
-@lightSecondaryColor : @lightBlack;
+@lightPrimaryColor   : @lightRed;
+@lightSecondaryColor : @lightBlue;
 
 /*--------------
   Page Heading
@@ -67,6 +69,7 @@
 @h1 : unit((30 / 14), rem);
 @h2 : unit((24 / 14), rem);
 @h3 : unit((18 / 14), rem);
+/*@h3 : @relativeMedium;*/
 @h4 : unit((15 / 14), rem);
 @h5 : unit((14 / 14), rem);
 
