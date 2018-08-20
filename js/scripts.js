@@ -9,13 +9,13 @@ $('.section').scrollie({
         $('#anchor-' + elementId).addClass('active');
     }
 });
-$('#hamburger').click(function (element) {
+$('#menu-button').click(function (element) {
     $('#mobile-menu').toggle();
     $('#header').toggleClass('expanded');
 });
 $('#mobile-menu .anchor').click(function (e) {
     // Terrible hack to simulate closing the menu
-    $('#hamburger').click();
+    $('#menu-button').click();
     // Smooth scrolling but only if already on the homepage
     var aid = $(this).attr("href").substring(1);
     if ($(aid).length) {

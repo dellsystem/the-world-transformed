@@ -102,11 +102,11 @@ p:last-child {
 --------------------*/
 
 a {
-  color: #4183C4;
+  color: #ff2c63;
   text-decoration: none;
 }
 a:hover {
-  color: #1e70bf;
+  color: #fe0042;
   text-decoration: none;
 }
 
@@ -124,16 +124,16 @@ a:hover {
 
 /* Site */
 ::-webkit-selection {
-  background-color: #CCE2FF;
-  color: rgba(0, 0, 0, 0.87);
+  background-color: #ff2c63;
+  color: #001a89;
 }
 ::-moz-selection {
-  background-color: #CCE2FF;
-  color: rgba(0, 0, 0, 0.87);
+  background-color: #ff2c63;
+  color: #001a89;
 }
 ::selection {
-  background-color: #CCE2FF;
-  color: rgba(0, 0, 0, 0.87);
+  background-color: #ff2c63;
+  color: #001a89;
 }
 
 /* Form */
