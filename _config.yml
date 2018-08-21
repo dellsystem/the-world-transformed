@@ -4,3 +4,6 @@ exclude:
     - README.md
     - node_modules
     - semantic.json
+
+sass:
+    sass_dir: _sass

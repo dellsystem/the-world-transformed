@@ -1,6 +1,116 @@
 ---
-# Front matter comment to ensure Jekyll properly reads file.
----
+# front matter for Jekyll
+--- 
 
-// Add your styles here
-@import "variables";
+@import 'variables';
+@import 'text';
+@import 'navbar';
+@import 'programme';
+@import 'footer';
+
+* {
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+
+#content {
+   background: url('/images/Pattern-Tiled-1.png');
+}
+
+.masthead.section {
+    padding-top: 100px;
+}
+
+.masthead span {
+    color: $pink;
+}
+.content.section {
+    padding-bottom: 100px;
+}
+
+#intro {
+    background-position: right bottom;
+    background: url('images/intro-background.png');
+    background-size: cover;
+}
+
+#page-content {
+    background: $white;
+    padding: 50px 0;
+}
+
+
+#tickets.section {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding-top: 120px;
+    background: url('images/tickets-background.png');
+    background-position: center;
+    min-height: 800px;
+    background-repeat: no-repeat;
+}
+
+#get-involved {
+    margin: 150px auto;
+    background: $white;
+}
+
+#partners {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 75px;
+    background-color: $black;
+    /*background-image: url('images/pattern-translucent.png');*/
+}
+
+#sidebar {
+    position: fixed;
+    top: 60px;
+    right: 1em;
+    background-color: $black;
+    background: url('images/title-outline-2.png') no-repeat center center fixed;
+    width: 90px;
+    height: 100%;
+    transition: background 1s ease;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+/* mobile */
+@media only screen and (max-width: 767px) {
+    #sidebar {
+        display: none;
+    }
+} 
+
+/* mobile, tablet */
+@media only screen and (max-width: 1200px) {
+   #twt2018 {
+        background: $white;
+    }
+    #tickets {
+        background: $white;
+    }
+    #get-involved {
+        padding: 70px 0; /* to compensate for header */
+    }
+    #programme {
+        background: $white;
+        padding: 70px 0; /* to compensate for header */
+    }
+}
+
+#twt2018 {
+    padding-top: 100px;
+}
+
+#get-involved {
+    /* The logistics email address is too long lol */
+    word-break: break-word;
+}
+
+
+

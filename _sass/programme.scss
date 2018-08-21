@@ -1,0 +1,29 @@
+@import "variables";
+
+#programme .container {
+    /*background: url('images/programme-background.png');
+    */
+    background: $white;
+    background-position: right top;
+    background-repeat: no-repeat;
+}
+
+/* Maybe a more appropriate way to add this styling with semantic ui */
+#programme .line-up h3 {
+    display: inline-block;
+    margin: 0;
+}
+
+#programme .line-up h3 a{
+    text-decoration: none;
+    color: black;
+}
+
+#programme .line-up h3 a::after {
+    content: " / ";
+    font-weight: 700;
+    margin: .3em;
+    color: $green;
+}
+
+

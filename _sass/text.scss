@@ -1,0 +1,13 @@
+@import "variables";
+
+html {
+  font-size: $font-sm;
+        
+  @media screen and (min-width: 900px) {
+    font-size: $font-md;
+  }
+                      
+  @media screen and (min-width: 1200px) {
+    font-size: $font-lg;
+  }
+}

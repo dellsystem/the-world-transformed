@@ -8,15 +8,9 @@
 <div id="mobile-menu" class="ui pink inverted fluid vertical menu">
     {% include menu.html %}
 </div>
-<div id="desktop-menu" class="ui container">
-    <div class="ui centered grid">
-        <div class="fourteen wide column">
-            <div class="ui massive six item secondary menu">
-                {% include menu.html %}
-            </div>
-        </div>
-    </div>
-</div>
-<div id="undershadow">
 
-</div>
+<nav id="desktop-menu">
+  {% include menu.html %} 
+</nav>
+
+<div id="nav-shadow"></div>
