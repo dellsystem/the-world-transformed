@@ -1,5 +1,204 @@
 @import "variables";
 
+/* Screen reader only */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  border: 0;
+}
+
+// Probably a better way of doing the hamburger. Currently have a 'div' within 'a' 
+.hamburger-bar {
+  width: 35px;
+  height: 5px;
+  background-color: black;
+  margin: 6px 0;
+}
+.hamburger {
+  position: fixed;
+}
+.hamburger:hover,
+.hamburger:focus {
+  background-color: $green;
+}
+
+// Hamburger styling 
+.menu-toggle {
+  display: inline-block;
+  padding: .75em 15px;
+  line-height: 1em;
+  font-size: 1em;
+  color: $black;
+}
+
+// Default styles + Mobile first. 
+.main-menu {
+  position: absolute;
+  left: -100%;          //think this is working.
+  top: 0;
+  height: 100%;
+  overflow-y: scroll;
+  overflow-x: visible;
+  transition: left 0.5s ease;
+  z-index: 999;
+  width: 100%;
+}
+
+$menu-padding: 1.5em;
+$line-height: 1em;
+
+.main-menu ul {
+  list-style: none;
+  margin: 0;
+  padding: ($menu-padding*2 + $line-height) 0 0;   // Padding to fit close icon in above menu list
+  min-height: 100%;
+  width: 100%;
+  background: $pink;
+}
+
+.main-menu a {
+  display: block;
+  padding: 1.5em 15px 1.5em 4em;
+  line-height: 1em;
+  font-size: 1em;
+  color: #fff;
+  text-decoration: none;
+}
+
+.main-menu a:hover,
+.main-menu a:focus {
+  background: #333;
+  text-decoration: underline;
+}
+
+.main-menu .menu-close {
+  position: absolute;
+  padding-left: 2em;
+  left: 0;
+  top: 0;
+}
+
+// On small devices, allow it to toggle...
+// :target for non-JavaScript
+// aria-expanded="true/false" will be for JavaScript
+
+.main-menu:target,
+.main-menu[aria-expanded="true"] {
+  left: 0;
+  outline: none;
+}
+
+.main-menu:target .menu-close,
+.main-menu[aria-expanded="true"] .menu-close {
+  z-index: 1001;
+}
+
+.main-menu:target ul,
+.main-menu[aria-expanded="true"] ul {
+  position: fixed;
+  z-index: 1000;
+}
+
+.main-menu:target,
+.main-menu[aria-expanded="true"] {
+  position: fixed;
+  display: block;  
+  content: "";
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 998;
+  background: $pink;
+  cursor: default;
+}
+/*
+@supports (position: fixed) {
+  .main-menu,
+  .main-menu:target + .backdrop,
+  .main-menu[aria-expanded="true"] + .backdrop {
+    position: fixed;
+  }
+}
+*/
+@media (min-width: 768px) {
+  .menu-toggle,
+  .main-menu .menu-close {
+    display: none;
+  }
+  
+  /* Undo positioning of off-canvas menu */
+  .main-menu {
+    position: fixed;
+    left: auto;
+    top: auto;
+    height: auto;
+    width: 100%;
+    //position: fixed;
+    z-index: 3;
+    padding: 0 4em;
+    background: $white;
+    //border: 1px solid #ccc;
+    //border-right: none;
+    height: $nav-height;
+  }
+  
+  .main-menu ul {
+    //display: flex;
+    
+    // Undo off-canvas styling 
+    //padding: 0;
+    -webkit-box-shadow: none;
+       -moz-box-shadow: none;
+            box-shadow: none;
+    //height: auto;
+    width: 100%;
+    background: $white;
+    
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+ 
+.main-menu ul li {
+    float: left;
+    text-align: center;
+    width: 16.6667%; // fallback for non-calc() browsers 
+    width: calc(100% / 5);
+    //margin-top
+    //display: inline-block;
+}
+
+.main-menu ul li a {
+    display: block;
+    text-decoration: none;
+    color: #616161;
+    padding: 10px 0;
+    //position: relative;
+    //margin: 0;
+}
+
+.main-menu ul li:first-child a {
+  border-top: 0;
+}
+ 
+  .main-menu a {
+   // color: #06c;
+    //border: 0 !important; /* Remove borders from off-canvas styling */
+  }
+  
+  .main-menu a:hover,
+  .main-menu a:focus {
+    background: none; /* Remove background from off-canvas styling */
+    color: #c00;
+  }
+}
 /*
  * Header background should be transparent on mobile when collapsed
  * Header background should be pink when expanded
@@ -7,17 +206,8 @@
  * Undershadow should be top 0 on mobile.
  * Menu to grow from top or from side?
  */
-/*
-#header {
-    position: fixed;
-    top: 0;
-    left: 0;
-    background: $white;
-    width: 100%;
-    z-index: 100;
-}
-*/
 
+/*
 #desktop-menu {
     width: 100%;
     position: fixed;
@@ -43,7 +233,7 @@
 #desktop-menu ul li {
     float: left;
     text-align: center;
-    width: 16.6667%; /* fallback for non-calc() browsers */
+    width: 16.6667%; // fallback for non-calc() browsers 
     width: calc(100% / 5);
     //margin-top
     //display: inline-block;
@@ -68,47 +258,8 @@
     top: 50px;   //for mobile 
 }
 
-/* Up to mobile breakpoint */
-@media only screen and (max-width: $screen-sm) {
-  #nav-shadow {
-    top: 0;
-  }
-  
-  #header {
-    background: none;
-  }
 
-  #hamburger {
-    display: block;
-  }
-
-  #desktop-menu {
-    display: none;
-  } 
-}
-
-
-/* beyond mobile */
-@media only screen and (min-width: $screen-sm) {
- 
-  #desktop-menu {
-    display: block;
-  }
-  
-  #menu-button {
-    display: none;
-  }
-
-  #menu-cross {
-    display: none;
-  }
-
-  #mobile-menu {
-    display: none;
-  }
-
-}
-
+// Alternates between open and close icons 
 #menu-button {
     color: $black;
     padding: 10px;
@@ -143,7 +294,7 @@
     position: fixed;
     top: 60px;
     right: 50px;
-    /*background-color: $black;*/
+    //background-color: $black;
     background-image: url('images/Title-hi-res-White.png');
     background-repeat: no-repeat;
     width: 60px;
@@ -152,11 +303,52 @@
     display: none;
 }
 
-/* basically just iphone 5 */
+
+// Up to mobile breakpoint 
+@media only screen and (max-width: $screen-sm) {
+  #nav-shadow {
+    top: 0;
+  }
+  
+  #header {
+    background: none;
+  }
+
+  #hamburger {
+    display: block;
+  }
+
+  #desktop-menu {
+    display: none;
+  } 
+}
+
+
+// beyond mobile 
+@media only screen and (min-width: $screen-sm) {
+ 
+  #desktop-menu {
+    display: block;
+  }
+  
+  #menu-button {
+    display: none;
+  }
+
+  #menu-cross {
+    display: none;
+  }
+
+  #mobile-menu {
+    display: none;
+  }
+
+}
+// basically just iphone 5 
 @media only screen and (max-width: 350px) {
     #hamburger .image {
         width: 230px;
     }
 }
 
-
+*/
