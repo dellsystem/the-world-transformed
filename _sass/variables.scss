@@ -1,0 +1,24 @@
+/*-- Base Sizes --*/
+
+/* This is the single variable that controls them all */
+@emSize   : 19px;
+
+/* The size of page text  */
+@font-sm  : 18px;
+@font-md  : 14px;
+@font-lg  : 20px;
+
+@screen-sm : 400px;
+@screen-md : 900px;
+@screen-lg : 1200px;
+
+
+/*-- Colours --*/
+@pink   : #ff2c63;
+@green  : #73f4a1;
+@blue   : #001a89;
+@white  : #ffffff;
+@black  : #000000;
+
+
+@import "test";
