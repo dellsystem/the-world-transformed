@@ -63,22 +63,22 @@ $line-height: 1em;
 
 .main-menu a {
   display: block;
-  padding: 1.5em 15px 1.5em 4em;
+  padding: 1.5em;
   line-height: 1em;
-  font-size: 1em;
+  font-size: 1.2em;
+  font-weight: 500;
   color: #fff;
   text-decoration: none;
 }
 
 .main-menu a:hover,
 .main-menu a:focus {
-  background: #333;
-  text-decoration: underline;
+  color: $green; 
+  //text-decoration: underline;
 }
 
 .main-menu .menu-close {
   position: absolute;
-  padding-left: 2em;
   left: 0;
   top: 0;
 }
@@ -117,16 +117,37 @@ $line-height: 1em;
   background: $pink;
   cursor: default;
 }
-/*
-@supports (position: fixed) {
-  .main-menu,
-  .main-menu:target + .backdrop,
-  .main-menu[aria-expanded="true"] + .backdrop {
-    position: fixed;
+
+#nav-shadow {
+  top: 0;
+  position: fixed;
+  height: 30px;
+  left: 0;
+  width: 100%;
+  z-index: 3;
+  background: linear-gradient(rgba(255,44,99,1), rgba(0,0,0,0));
+}
+ 
+@media screen and (min-width: $screen-sm) {
+  .main-menu {
+    padding: 0;
+  } 
+}
+
+@media screen and (min-width: $screen-md) {
+  .main-menu {
+    padding: 0 2.5em;
   }
 }
-*/
-@media (min-width: 768px) {
+
+@media screen and (min-width: $screen-lg) {
+  .main-menu {
+    padding: 0 8em;
+  }
+}
+
+
+@media screen and (min-width: $screen-sm) {
   .menu-toggle,
   .main-menu .menu-close {
     display: none;
@@ -139,23 +160,14 @@ $line-height: 1em;
     top: auto;
     height: auto;
     width: 100%;
-    //position: fixed;
     z-index: 3;
-    padding: 0 4em;
     background: $white;
-    //border: 1px solid #ccc;
-    //border-right: none;
     height: $nav-height;
   }
   
   .main-menu ul {
-    //display: flex;
     
     // Undo off-canvas styling 
-    //padding: 0;
-    -webkit-box-shadow: none;
-       -moz-box-shadow: none;
-            box-shadow: none;
     //height: auto;
     width: 100%;
     background: $white;
@@ -166,28 +178,24 @@ $line-height: 1em;
     height: 100%;
   }
  
-.main-menu ul li {
+  .main-menu ul li {
     float: left;
     text-align: center;
     width: 16.6667%; // fallback for non-calc() browsers 
     width: calc(100% / 5);
     //margin-top
     //display: inline-block;
-}
+  }
 
-.main-menu ul li a {
+  .main-menu ul li a {
     display: block;
     text-decoration: none;
-    color: #616161;
+    color: $black;
     padding: 10px 0;
     //position: relative;
     //margin: 0;
-}
+  }
 
-.main-menu ul li:first-child a {
-  border-top: 0;
-}
- 
   .main-menu a {
    // color: #06c;
     //border: 0 !important; /* Remove borders from off-canvas styling */
@@ -196,100 +204,14 @@ $line-height: 1em;
   .main-menu a:hover,
   .main-menu a:focus {
     background: none; /* Remove background from off-canvas styling */
-    color: #c00;
+    color: $green;
+  }
+
+  #nav-shadow {
+    top: $nav-height;   //for mobile 
   }
 }
 /*
- * Header background should be transparent on mobile when collapsed
- * Header background should be pink when expanded
- * Burger should become cross
- * Undershadow should be top 0 on mobile.
- * Menu to grow from top or from side?
- */
-
-/*
-#desktop-menu {
-    width: 100%;
-    position: fixed;
-    z-index: 3;
-    padding: 0 4em;
-    background: $white;
-    border: 1px solid #ccc;
-    border-right: none;
-    height: $nav-height;
-    //font
-    //text-align
-    // overflow
-    //top
-}
-
-#desktop-menu ul {
-    overflow: hidden;
-    margin: 0;
-    padding: 0;
-    height: 100%;
-}
-
-#desktop-menu ul li {
-    float: left;
-    text-align: center;
-    width: 16.6667%; // fallback for non-calc() browsers 
-    width: calc(100% / 5);
-    //margin-top
-    //display: inline-block;
-}
-
-#desktop-menu ul li a {
-    display: block;
-    text-decoration: none;
-    color: #616161;
-    padding: 10px 0;
-    //position: relative;
-    //margin: 0;
-}
-
-#nav-shadow {
-    position: fixed;
-    height: 30px;
-    left: 0;
-    width: 100%;
-    z-index: 3;
-    background: linear-gradient(rgba(255,44,99,1), rgba(0,0,0,0));
-    top: 50px;   //for mobile 
-}
-
-
-// Alternates between open and close icons 
-#menu-button {
-    color: $black;
-    padding: 10px;
-}
-
-#mobile-menu {
-    display: none;
-}
-
-#header.expanded {
-    background: $pink;
-    height: 100%;
-
-    #menu-cross {
-      display: block;
-    }
-
-    #menu-sidebar {
-      display: block;
-    }
-
-    #hamburger {
-      display: none;
-    }
-}
-
-#menu-cross {
-  display: none;
-}
-
 #menu-sidebrand {
     position: fixed;
     top: 60px;
@@ -303,47 +225,6 @@ $line-height: 1em;
     display: none;
 }
 
-
-// Up to mobile breakpoint 
-@media only screen and (max-width: $screen-sm) {
-  #nav-shadow {
-    top: 0;
-  }
-  
-  #header {
-    background: none;
-  }
-
-  #hamburger {
-    display: block;
-  }
-
-  #desktop-menu {
-    display: none;
-  } 
-}
-
-
-// beyond mobile 
-@media only screen and (min-width: $screen-sm) {
- 
-  #desktop-menu {
-    display: block;
-  }
-  
-  #menu-button {
-    display: none;
-  }
-
-  #menu-cross {
-    display: none;
-  }
-
-  #mobile-menu {
-    display: none;
-  }
-
-}
 // basically just iphone 5 
 @media only screen and (max-width: 350px) {
     #hamburger .image {

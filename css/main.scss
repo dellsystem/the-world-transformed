@@ -10,12 +10,13 @@
 
 * {
   text-decoration: none;
+  font-family: 'Calibre';
   list-style: none;
   box-sizing: border-box;
 }
 
 #content {
-   background: url('/images/Pattern-Tiled-1.png');
+   background: url('/images/Pattern-Tiled-grey.png');
 }
 
 .masthead.section {
@@ -31,7 +32,7 @@
 
 #intro {
     background-position: right bottom;
-    background: url('images/intro-background.png');
+    background: url('/images/intro-background.png');
     background-size: cover;
 }
 
@@ -45,7 +46,7 @@
     margin-top: 100px;
     margin-bottom: 100px;
     padding-top: 120px;
-    background: url('images/tickets-background.png');
+    background: url('/images/tickets-background.png');
     background-position: center;
     min-height: 800px;
     background-repeat: no-repeat;
@@ -63,22 +64,29 @@
     background-color: $black;
     /*background-image: url('images/pattern-translucent.png');*/
 }
-
+/*
 #sidebar {
     position: fixed;
     top: 60px;
     right: 1em;
     background-color: $black;
-    background: url('images/title-outline-2.png') no-repeat center center fixed;
+    background: url('/images/brand-outline.png');// no-repeat center center fixed;
     width: 90px;
-    height: 100%;
+    height:  591px;
     transition: background 1s ease;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    //-webkit-background-size: cover;
+    //-moz-background-size: cover;
+    //-o-background-size: cover;
+    //background-size: cover;
 }
-
+*/
+.side-brand {
+  position: fixed;
+  height: calc(100% - 60px);
+  width: auto;
+  top: 60px;
+  right: 20px;
+}
 /* mobile */
 @media only screen and (max-width: 767px) {
     #sidebar {

@@ -1,13 +1,52 @@
 @import "variables";
 
 html {
-  font-size: $font-sm;
+  font-size: $font-xs;
         
-  @media screen and (min-width: 900px) {
-    font-size: $font-md;
+  @media screen and (min-width: $screen-sm) {
+    font-size: $font-sm;
   }
                       
-  @media screen and (min-width: 1200px) {
+  @media screen and (min-width: $screen-md) {
+    font-size: $font-md;
+  }
+
+  @media screen and (min-width: $screen-lg) {
     font-size: $font-lg;
   }
 }
+
+@font-face {
+  font-family: 'Calibre';
+  src:
+      url('../fonts/Calibre-Regular.ttf') format('truetype'), url('../fonts/Calibre-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  -webkit-font-smoothing: antialiased;
+}
+
+@font-face {
+  font-family: 'Calibre';
+  src:
+      url('../fonts/Calibre-Medium.ttf') format('truetype'), url('../fonts/Calibre-Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  -webkit-font-smoothing: antialiased;
+}
+
+@font-face {
+  font-family: 'Calibre';
+  src:
+      url('../fonts/Calibre-Bold.ttf') format('truetype'),
+      url('../fonts/Calibre-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  -webkit-font-smoothing: antialiased;
+}
+
