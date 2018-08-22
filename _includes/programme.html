@@ -28,7 +28,9 @@
     <h2 class="ui header"> Organisations </h2> 
     <div id="organisations" class="ui line-up header">
         {% for organisation in site.data.programme.organisations %}
+        {% if organisation.Confirmed == "Yes" %}
         <h3><a> {{organisation.Name}} </a> </h3>
+        {% endif %}
         {% endfor %}
     </div>
 
