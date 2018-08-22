@@ -1,13 +1,13 @@
 /*-- Base Sizes --*/
 
 /* This is the single variable that controls them all */
-$emSize   : 19px;
+$emSize   : 22px;
 
 /* The size of page text  */
-$font-xs  : 14px;
-$font-sm  : 16px;
-$font-md  : 18px;
-$font-lg  : 20px;
+$font-xs  : 0.8em;
+$font-sm  : 1em;
+$font-md  : 1.2em;
+$font-lg  : 1.5em;
 
 // minimume screen sizes - xs should be default
 $screen-sm : 576px;   // e.g landscape phones

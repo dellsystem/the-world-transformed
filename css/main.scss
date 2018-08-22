@@ -20,20 +20,44 @@
 }
 
 .masthead.section {
-    padding-top: 100px;
+    padding-top: 2em;
 }
 
-.masthead span {
-    color: $pink;
+@media screen and (min-width: $screen-sm) {
+  .masthead.section {
+    padding-top: 5em;
+  }
 }
+
 .content.section {
     padding-bottom: 100px;
 }
+
+#title-segment .ui.segment {
+  padding: 0.5em;
+}
+
+#title-segment {
+  padding: 0 2em;
+}
+
+@media screen and (min-width: $screen-sm) {
+  #title-segment {
+    padding: 0 1em 0 0;
+  }
+}
+
+#title-segment span {
+    color: $pink;
+}
+
+
 
 #intro {
     background-position: right bottom;
     background: url('/images/intro-background.png');
     background-size: cover;
+    margin-bottom: 2em;
 }
 
 #page-content {
@@ -45,7 +69,7 @@
 #tickets.section {
     margin-top: 100px;
     margin-bottom: 100px;
-    padding-top: 120px;
+    padding-top: 50px;
     background: url('/images/tickets-background.png');
     background-position: center;
     min-height: 800px;
@@ -53,7 +77,8 @@
 }
 
 #get-involved {
-    margin: 150px auto;
+    margin-top: 150px;
+    margin-bottom: 3em;
     background: $white;
 }
 
@@ -64,22 +89,7 @@
     background-color: $black;
     /*background-image: url('images/pattern-translucent.png');*/
 }
-/*
-#sidebar {
-    position: fixed;
-    top: 60px;
-    right: 1em;
-    background-color: $black;
-    background: url('/images/brand-outline.png');// no-repeat center center fixed;
-    width: 90px;
-    height:  591px;
-    transition: background 1s ease;
-    //-webkit-background-size: cover;
-    //-moz-background-size: cover;
-    //-o-background-size: cover;
-    //background-size: cover;
-}
-*/
+
 .side-brand {
   position: fixed;
   height: calc(100% - 60px);
@@ -103,7 +113,7 @@
         background: $white;
     }
     #get-involved {
-        padding: 70px 0; /* to compensate for header */
+        //padding: 70px 0; /* to compensate for header */
     }
     #programme {
         background: $white;

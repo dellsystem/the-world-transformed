@@ -14,13 +14,14 @@
 
 // Probably a better way of doing the hamburger. Currently have a 'div' within 'a' 
 .hamburger-bar {
-  width: 35px;
-  height: 5px;
-  background-color: black;
+  width: 45px;
+  height: 8px;
+  background-color: $green;
   margin: 6px 0;
 }
 .hamburger {
   position: fixed;
+  z-index: 1;
 }
 .hamburger:hover,
 .hamburger:focus {
@@ -71,10 +72,21 @@ $line-height: 1em;
   text-decoration: none;
 }
 
-.main-menu a:hover,
-.main-menu a:focus {
-  color: $green; 
+.main-menu a:hover::after,
+.main-menu a:focus::after {
+  opacity: 1; 
   //text-decoration: underline;
+}
+
+.main-menu a::after {
+    content: ""; /* This is necessary for the pseudo element to work. */ 
+    display: block; /* This will put the pseudo element on its own line. */
+    margin: 0 0; /* This will center the border. */
+    width: 30%; /* Change this to whatever width you want. */
+    padding-top: 2px; /* This creates some space between the element and the border. */
+    border-bottom: 4px solid $green; /* This creates the border. Replace black with whatever color you want. */
+    opacity: 0;
+    z-index: -1;
 }
 
 .main-menu .menu-close {
@@ -196,15 +208,9 @@ $line-height: 1em;
     //margin: 0;
   }
 
-  .main-menu a {
-   // color: #06c;
-    //border: 0 !important; /* Remove borders from off-canvas styling */
-  }
-  
-  .main-menu a:hover,
-  .main-menu a:focus {
-    background: none; /* Remove background from off-canvas styling */
-    color: $green;
+  .main-menu a::after {
+    margin: 0 auto; /* This will center the border. */
+    width: 70%; /* Change this to whatever width you want. */
   }
 
   #nav-shadow {
