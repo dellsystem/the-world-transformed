@@ -61,11 +61,11 @@ layout: default
                             <a href="/speakers#{{ speaker_slug }}">
                                 {{ speaker.name }}
                             </a>
-                            {% if speaker.twitter %}
+                            {% unless speaker.twitter == '' %}
                             <a href="{{ speaker.twitter }}">
                                 <i class="twitter icon"></i>
                             </a>
-                            {% endif %}
+                            {% endunless %}
                             <div class="sub header">
                                 {% unless speaker.tag == '' %}
                                 {{ speaker.tag }}
