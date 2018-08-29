@@ -48,18 +48,22 @@ schedule_csv.writerow(['slug'])
 for row in sessions_csv:
     session = dict(zip(session_header, row))
     slug = session.pop('slug')
-    if slug.strip():
-        sessions[slug] = session
-        schedule_csv.writerow([slug])
-        for speaker_slug in session['speakers'].split(' '):
-            if speaker_slug:
-                speaker_sessions[speaker_slug].add(slug)
-        if not session['image']:
-            print "Missing image for", session['title']
-        if ' ' in session['day']:
-            print "Bad day for", session['title']
-    else:
+    if not slug.strip():
         print "Missing slug for", session['title']
+        continue
+
+    if session['status'] != 'READY':
+        continue
+
+    sessions[slug] = session
+    schedule_csv.writerow([slug])
+    for speaker_slug in session['speakers'].split(' '):
+        if speaker_slug:
+            speaker_sessions[speaker_slug].add(slug)
+    if not session['image']:
+        print "Missing image for", session['title']
+    if ' ' in session['day']:
+        print "Bad day for", session['title']
 
 # Save speakers.yml
 speaker_header = next(speakers_csv)
@@ -67,7 +71,7 @@ speakers = {}
 for row in speakers_csv:
     speaker = dict(zip(speaker_header, row))
     slug = speaker.pop('slug')
-    speaker['sessions'] = ' '.join(speaker_sessions[slug])
+    speaker['sessions'] = ' '.join(sorted(speaker_sessions[slug]))
     if speaker['sessions']:
         # Check if the speaker image file exists on the filesystem.
         speaker['photo'] = os.path.exists('../../images/speakers/%s.jpg' % slug)
@@ -100,7 +104,7 @@ description: "A session at {time} on {day} in {venue}{details}"
 for slug, session in sessions.iteritems():
     # If there's an organiser, mention that
     if session['organiser']:
-        details = 'organised by ' + session['organiser']
+        details = ' organised by ' + session['organiser']
     else:
         details = ''
 

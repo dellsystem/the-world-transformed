@@ -25,6 +25,7 @@ layout: default
                         {{ session.time }}
                         <div class="sub header">
                             {{ session.venue }}
+                            {{ session.room }}
                         </div>
                     </h2>
                 </div>
@@ -43,11 +44,12 @@ layout: default
                     {{ session.description|markdownify }}
                 </div>
             </div>
+            {% unless session.speakers == '' %}
             <br />
             <hr />
             <br />
             <h2>Speakers</h2>
-            <div class="ui three column grid">
+            <div class="ui three column stackable grid">
                 {% assign speaker_slugs = session.speakers | split:" " %}
                 {% for speaker_slug in speaker_slugs %}
                     {% assign speaker = site.data.programme.speakers[speaker_slug] %}
@@ -76,6 +78,7 @@ layout: default
                     </div>
                 {% endfor %}
             </div>
+            {% endunless %}
         </div>
     </div>
 </div>
