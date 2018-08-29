@@ -9,84 +9,81 @@
 
     Katja Kipping, Chairperson, Die Linke (The Left party)', Contact for Session: '',
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Tuesday, description: 'The demand for a reduction of work is as
-    old as the Labour movement itself. Generations of trade unionists and socialists
-    knew that time spent at work is political - their struggles won us the weekend.
-    But now the nine-to-five, five-days-a-week model for full-time work is outdated
-    and failing. With the Labour Party recently campaigning on their boldest election
-    manifesto in a generation, a radical agenda for a new economy has never been closer
-    to Westminster. It is time to grab this opportunity and move towards a 4 Day Week.',
-  image: 4-day-week, organiser: '4 Day Week Campaign, Autonomy ', room: 'Main Space ',
-  speakers: alice-martin carys-roberts aidan-harper will-stronge katja-kipping, status: READY,
-  time: '15:00-16:30', title: 'A 4 Day Week: the time is now!', venue: Black-E}
+  day: Tuesday, description: 'The demand for a reduction of work is as old as the
+    Labour movement itself. Generations of trade unionists and socialists knew that
+    time spent at work is political - their struggles won us the weekend. But now
+    the nine-to-five, five-days-a-week model for full-time work is outdated and failing.
+    With the Labour Party recently campaigning on their boldest election manifesto
+    in a generation, a radical agenda for a new economy has never been closer to Westminster.
+    It is time to grab this opportunity and move towards a 4 Day Week.', image: 4-day-week,
+  organiser: '4 Day Week Campaign, Autonomy ', room: 'Main Space ', speakers: alice-martin
+    carys-roberts aidan-harper will-stronge katja-kipping, status: READY, time: '15:00-16:30',
+  title: 'A 4 Day Week: the time is now!', venue: Black-E}
 a-global-nhs: {Action point: Charlie editing, Category: health, Confirmed Speakers: 'Natalie
     Sharples, Satoko Kisimoto,    Heidi Chow', Contact for Session: '', Format: '',
   Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Tuesday, description: 'Each year governments are diverting vast
-    amounts of resources away from citizens towards big companies. From cuts to the
-    NHS to the denial of healthcare in parts of sub-Saharan Africa, the struggle for
-    decent, accessible public services is global. From public partnerships to global
-    social protection funds there are many ideas for how to realise rights including
-    health, education social protection. Join us to debate how a Labour government
-    can redefine priorities and support access to public services for people across
-    the world.', image: healthcare, organiser: Global Justice Now & Health Poverty
-    Action, room: 'Theatre ', speakers: natalie-sharples satoko-kishimoto heidi-chow,
-  status: READY, time: '11:00-12:30', title: 'A global NHS? Public services across
-    borders', venue: Black-E}
+  day: Tuesday, description: 'Each year governments are diverting vast amounts of
+    resources away from citizens towards big companies. From cuts to the NHS to the
+    denial of healthcare in parts of sub-Saharan Africa, the struggle for decent,
+    accessible public services is global. From public partnerships to global social
+    protection funds there are many ideas for how to realise rights including health,
+    education social protection. Join us to debate how a Labour government can redefine
+    priorities and support access to public services for people across the world.',
+  image: healthcare, organiser: Global Justice Now & Health Poverty Action, room: 'Theatre ',
+  speakers: natalie-sharples satoko-kishimoto heidi-chow, status: READY, time: '11:00-12:30',
+  title: 'A global NHS? Public services across borders', venue: Black-E}
 a-movement-in-government: {Action point: '', Category: economy, Confirmed Speakers: 'Paul
     Mason, Dimitris Tzanakopoulos, Christine Berry, Joe Guinan (Chair) ', Contact for Session: Elliot,
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Sunday, description: !!python/str "What will it take to bring about\
-    \ a fundamental re-ordering of our economy \u2018for the many not the few\u2019\
-    ? What challenges will a Corbyn government face, from financial markets to the\
-    \ British state? How do we move from broad visions to clear-eyed strategy; sharpening\
-    \ our plans and mobilising the necessary social forces? What historical lessons\
-    \ can we draw upon, and how might we deploy our greatest asset\u2014our growing\
-    \ movement\u2014to deliver radical change? Come and discuss. ", image: default,
-  organiser: '', room: Main Space, speakers: paul-mason dimitris-tzanakopoulos christine-berry
-    joe-guinan, status: READY, time: '19:30-21:15', title: 'A movement in Government?',
-  venue: Black-E}
+  day: Sunday, description: !!python/str "What will it take to bring about a fundamental\
+    \ re-ordering of our economy \u2018for the many not the few\u2019? What challenges\
+    \ will a Corbyn government face, from financial markets to the British state?\
+    \ How do we move from broad visions to clear-eyed strategy; sharpening our plans\
+    \ and mobilising the necessary social forces? What historical lessons can we draw\
+    \ upon, and how might we deploy our greatest asset\u2014our growing movement\u2014\
+    to deliver radical change? Come and discuss. ", image: default, organiser: '',
+  room: Main Space, speakers: paul-mason dimitris-tzanakopoulos christine-berry joe-guinan,
+  status: READY, time: '19:30-21:15', title: 'A movement in Government?', venue: Black-E}
 a-movement-led-media: {Action point: '', Category: media, Confirmed Speakers: 'Bhaskar
     Sunkara, Eleanor Penny; Chair: Daniel Lewis Kerry-Anne Mendoza', Contact for Session: Charlie
     Macnamara, Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: Saturday, description: 'In
+  Programme Material requested (mark X if yes): '', day: Saturday, description: 'In
     the face of constant misrepresentation by the mainstream media, how should the
     left respond? It cannot simply be about creating left-wing spin machines - we
     need a democratic media system that facilitates new ways of communicating with
     each other and the wider public, and that allows us to set our own political agendas.
-    Join leading media organisations to plan how we achieve this. ', image: default,
+    Join leading media organisations to plan how we achieve this. ', image: camera-man,
   organiser: 'The Media Fund ', room: Event Space, speakers: bhaskar-sunkara eleanor-penny
     daniel-lewis kerry-anne-mendoza, status: READY, time: '11:00-12:30', title: 'How
     do we build a movement-led media?', venue: Constellations}
 a-new-economic-consensus: {Action point: '', Category: economy/democracy, Confirmed Speakers: 'Chair:
     Ed Miliband MP; Lisa Nandy MP, Richard Leonard, Grace Blakeley', Contact for Session: '',
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Sunday, description: 'Amid all the talk of splits and rivalries,
-    a new consensus has been quietly forming between different wings of the Labour
-    party - neoliberalism has divided and weakened British society. Could the road
-    to recovery run through a decentralised, democratic economy, where revived local
-    governments and worker-owned firms are supported by an active state with a national
-    vision? This event brings together a broad range of politicians and thinkers to
-    discuss their shared ambitions for a radical Labour government.', image: finance,
-  organiser: Renewal, room: Theatre, speakers: ed-miliband-mp lisa-nandy-mp richard-leonard-msp
-    grace-blakeley, status: READY, time: '13:00-14:30', title: 'A new economic consensus?',
-  venue: Hinterlands}
+  day: Sunday, description: 'Amid all the talk of splits and rivalries, a new consensus
+    has been quietly forming between different wings of the Labour party - neoliberalism
+    has divided and weakened British society. Could the road to recovery run through
+    a decentralised, democratic economy, where revived local governments and worker-owned
+    firms are supported by an active state with a national vision? This event brings
+    together a broad range of politicians and thinkers to discuss their shared ambitions
+    for a radical Labour government.', image: finance, organiser: Renewal, room: Theatre,
+  speakers: ed-miliband-mp lisa-nandy-mp richard-leonard-msp grace-blakeley, status: READY,
+  time: '13:00-14:30', title: 'A new economic consensus?', venue: Hinterlands}
 a-new-populism: {Action point: '', Category: art music culture, Confirmed Speakers: Andrew
     Dolan / Trickett, Contact for Session: Andrew Dolan, Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Monday, description: 'We are in a populist moment, with neoliberalism
-    in crisis and people all over the world turning against elite. Does this lead
-    to the politics of Trump, as many on the centre say? Or does it offer an opportunity
-    to unite people around demands for progressive change, as some on the left argue?
-    Discussing this will be renowned political thinker Chantal Mouffe, whose work
-    on populism has influenced political parties across Europe, and Jon Trickett MP,
-    Shadow Minister for the Cabinet Office and a driving force behind the Corbyn Project.',
-  image: movement, organiser: '', room: Main Space, speakers: chantal-mouffe jon-trickett-mp,
-  status: READY, time: '17:30-19:00', title: 'A new populism ', venue: Hinterlands}
+  day: Monday, description: 'We are in a populist moment, with neoliberalism in crisis
+    and people all over the world turning against elite. Does this lead to the politics
+    of Trump, as many on the centre say? Or does it offer an opportunity to unite
+    people around demands for progressive change, as some on the left argue? Discussing
+    this will be renowned political thinker Chantal Mouffe, whose work on populism
+    has influenced political parties across Europe, and Jon Trickett MP, Shadow Minister
+    for the Cabinet Office and a driving force behind the Corbyn Project.', image: movement,
+  organiser: '', room: Main Space, speakers: chantal-mouffe jon-trickett-mp, status: READY,
+  time: '17:30-19:00', title: 'A new populism ', venue: Hinterlands}
 a-party-for-the-21st-century: {Action point: Andrew editing / writing, Category: democracy,
   Confirmed Speakers: '', Contact for Session: Elliot, Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Sunday, description: !!python/str "As Conference debates the recommendations\
+  day: Sunday, description: !!python/str "As Conference debates the recommendations\
     \ of the Democracy Review and mandatory reselection, it\u2019s clear that the\
     \ politics of \u2018Corbynism\u2019 are defined by a belief that ordinary members\
     \ should be the driving force within the Labour Party. But how should that work\
@@ -102,7 +99,7 @@ a-plan-for-the-new-economy: {Action point: '', Category: economy, Confirmed Spea
     \nFurqan Naeem, Organiser, Citizens UK Greater Manchester (Invited)\n\nChair:\
     \ Michael Jacobs, Director of the IPPR Commission on Economic Justice (CONFIRMED)",
   Contact for Session: '', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: Tuesday, description: 'The
+  Programme Material requested (mark X if yes): '', day: Tuesday, description: 'The
     UK economy is not working. Living standards are not improving, young people are
     set to be poorer than their parents, the nations and regions of the country are
     pulling further apart, and we have longstanding weaknesses of investment, productivity
@@ -116,30 +113,29 @@ a-radical-alliance-for-europe: {Action point: '', Category: international, Confi
     Shea Baird, Marisa Matias, Diane Abbott, Dimitris Tzanakopoulos, Luke Cooper,
     Niccolo Milanese', Contact for Session: Luke Cooper, Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Sunday, description: !!python/str "Europe faces a stark choice:\
-    \ plunging into a new dark age marked by the rising tide of fascism and nationalism;\_\
-    or advancing a new politics of radical and progressive change.\_To make the latter\
-    \ a reality, we must reach out of our own countries and build pan-European alliances.\_\
-    This session will seek to catalyse these efforts for a new and just Europe.",
-  image: europe, organiser: Transform! Europe & Another Europe is Possible, room: Main
-    Space, speakers: dimitris-tzanakopoulos diane-abbott-mp marisa-matias kate-shea-baird
-    luke-cooper niccolo-milanese, status: READY, time: '15:00-16:30', title: A radical
-    alliance for Europe, venue: Hinterlands}
+  day: Sunday, description: !!python/str "Europe faces a stark choice: plunging into\
+    \ a new dark age marked by the rising tide of fascism and nationalism;\_or advancing\
+    \ a new politics of radical and progressive change.\_To make the latter a reality,\
+    \ we must reach out of our own countries and build pan-European alliances.\_This\
+    \ session will seek to catalyse these efforts for a new and just Europe.", image: europe,
+  organiser: Transform! Europe & Another Europe is Possible, room: Main Space, speakers: dimitris-tzanakopoulos
+    diane-abbott-mp marisa-matias-mep kate-shea-baird luke-cooper niccolo-milanese,
+  status: READY, time: '15:00-16:30', title: A radical alliance for Europe, venue: Hinterlands}
 a-socialist-story-of-modern-britain: {Action point: Elliot waiting on info, Category: education,
   Confirmed Speakers: "Melissa Benn, Alan Finlayson, Jeremy Gilbert, Clive Lewis,\
     \ Chair: Francis Foley \n", Contact for Session: Jeremy Gilbert, Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Sunday, description: !!python/str "For Labour to build the coalition\
-    \ of support that it needs, we need to be able to tell people a clear and comprehensive\
-    \ story about how the country got into the state it\u2019s in, and how we think\
-    \ we can get out of it. What should that story be? Come and discuss!", image: history,
+  day: Sunday, description: !!python/str "For Labour to build the coalition of support\
+    \ that it needs, we need to be able to tell people a clear and comprehensive story\
+    \ about how the country got into the state it\u2019s in, and how we think we can\
+    \ get out of it. What should that story be? Come and discuss!", image: history,
   organiser: Soundings, room: 'Theatre ', speakers: melissa-benn alan-finlayson jeremy-gilbert
     clive-lewis-mp francis-foley, status: READY, time: '13:00-14:30', title: 'How
     did we get here and where are we going? Telling a socialist story of modern Britain',
   venue: Black-E}
 acid-corbynism: {Action point: '', Category: art music culture, Confirmed Speakers: '',
   Contact for Session: '', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: Monday, description: !!python/str "Strengthening\
+  Programme Material requested (mark X if yes): '', day: Monday, description: !!python/str "Strengthening\
     \ relationships, deepening ideas, cutting shapes \u2013 you\u2019re invited to\
     \ the Acid Corbynism workshop and party. \_The night will start with a consciousness-raising\
     \ session to help free your post-capitalist desires followed by short discussions\
@@ -157,23 +153,23 @@ acid-corbynism: {Action point: '', Category: art music culture, Confirmed Speake
 an-evening-of-internationalism: {Action point: '', Category: international/culture,
   Confirmed Speakers: '', Contact for Session: '', Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Sunday, description: "A multimedia extravaganza of talks, films,\
-    \ music and spoken word, exploring the struggles of those resisting colonialism\
-    \ and capitalism on the front lines. Join speakers from around the world to learn\
-    \ about and celebrate these histories of resistance - from the fight against slavery,\
-    \ to 20th century anti-colonial struggles, and on to the present day. A vibrant\
-    \ spirit of international solidarity was key to all of these movements - how can\
-    \ we build on that legacy to forge a new internationalism for the 21st century?\
-    \ \n", image: international, organiser: 'War on Want, Global Justice Now, Jubilee
-    Debt Campaign, Health Poverty Action', room: Theatre, speakers: '', status: READY,
-  time: '19:30-23:30', title: !!python/str "None of us are free until we\u2019re all\
-    \ free': An evening of Internationalism", venue: Hinterlands}
+  day: Sunday, description: "A multimedia extravaganza of talks, films, music and\
+    \ spoken word, exploring the struggles of those resisting colonialism and capitalism\
+    \ on the front lines. Join speakers from around the world to learn about and celebrate\
+    \ these histories of resistance - from the fight against slavery, to 20th century\
+    \ anti-colonial struggles, and on to the present day. A vibrant spirit of international\
+    \ solidarity was key to all of these movements - how can we build on that legacy\
+    \ to forge a new internationalism for the 21st century? \n", image: international,
+  organiser: 'War on Want, Global Justice Now, Jubilee Debt Campaign, Health Poverty
+    Action', room: Theatre, speakers: '', status: READY, time: '19:30-23:30', title: !!python/str "None\
+    \ of us are free until we\u2019re all free': An evening of Internationalism",
+  venue: Hinterlands}
 an-intersection-of-class-and-gender: {Action point: '', Category: gender, Confirmed Speakers: Rhiannon
     White; Aya O'Haidar, Contact for Session: '', Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Monday, description: !!python/str "In this session, Rhiannon White\
-    \ and\_Aya\_O'Haidar will report on their discussions and workshop with working-class\
-    \ women from a boxing club in East Cardiff, in which they talked about their experiences,\
+  day: Monday, description: !!python/str "In this session, Rhiannon White and\_Aya\_\
+    O'Haidar will report on their discussions and workshop with working-class women\
+    \ from a boxing club in East Cardiff, in which they talked about their experiences,\
     \ what matters to them and how they'd like to see change happen. The session will\
     \ also include a participatory workshop about class and gender that will be co-delivered\
     \ with some of the participants, as the women ask\_who we are, where we\u2019\
@@ -184,25 +180,25 @@ beating-the-bosses: {Action point: '', Category: trade unions, Confirmed Speaker
     Wheeler (Notes From Below), Kat Wright (Acorn Manchester), Sheila Coleman,Shavanah
     Taj (PCS).', Contact for Session: Seth, Format: Trade Unions, Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Saturday, description: 'If a strike can be understood as a race
-    between bosses and workers as to who runs out of money first, it''s obvious that
-    we need to strengthen the infrastructure of the union movement in order to win.
-    This means overhauling restrictive legislation, building strike funds and strengthening
-    the relationships between workplace and community organisations. What strategies
-    can we develop to ensure workplace struggles can go the distance in hostile conditions?
-    And what role can the Labour Party play? ', image: workplace, organiser: Notes
-    From Below, room: 'Theatre ', speakers: seth-wheeler kat-wright sheila-coleman
-    shavanah-taj, status: READY, time: '13:00-14:30', title: 'Beating the bosses:
-    what do we need to win?', venue: Black-E}
+  day: Saturday, description: 'If a strike can be understood as a race between bosses
+    and workers as to who runs out of money first, it''s obvious that we need to strengthen
+    the infrastructure of the union movement in order to win. This means overhauling
+    restrictive legislation, building strike funds and strengthening the relationships
+    between workplace and community organisations. What strategies can we develop
+    to ensure workplace struggles can go the distance in hostile conditions? And what
+    role can the Labour Party play? ', image: workplace, organiser: Notes From Below,
+  room: 'Theatre ', speakers: seth-wheeler kat-wright sheila-coleman shavanah-taj,
+  status: READY, time: '13:00-14:30', title: 'Beating the bosses: what do we need
+    to win?', venue: Black-E}
 beyond-cultural-precarity: {Action point: '', Category: culture, Confirmed Speakers: Peter
     Stark; Clara Paillard, Contact for Session: '', Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Sunday, description: 'How can we fund and democratise our cultures
-    so that resources are equitably distributed, cultural workers are fairly-paid
-    and recognised for their work, and our cultural institutions are more publicly
-    accountable and supportive of grassroots creativity? In this participatory session,
-    our speakers will discuss how we might fund local cultural democracy and implement
-    minimum standards in the sector to tackle precarity and strengthen workers'' rights. ',
+  day: Sunday, description: 'How can we fund and democratise our cultures so that
+    resources are equitably distributed, cultural workers are fairly-paid and recognised
+    for their work, and our cultural institutions are more publicly accountable and
+    supportive of grassroots creativity? In this participatory session, our speakers
+    will discuss how we might fund local cultural democracy and implement minimum
+    standards in the sector to tackle precarity and strengthen workers'' rights. ',
   image: default, organiser: Movement for Cultural Democracy, room: 'Main Space ',
   speakers: clara-paillard peter-stark, status: READY, time: '09:00-10:30', title: 'Beyond
     cultural precarity ', venue: Black-E}
@@ -214,34 +210,34 @@ black-women-transforming-politics: {Action point: '', Category: race/gender, Con
 
     ', Contact for Session: Cecile c.wright230@ntlworld.com, Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Sunday, description: !!python/str "Although they did not receive\
-    \ the vote until well after their white sisters, black women have a rich and successful\
-    \ history of political activism. Organising in the communities in which they live,\
-    \ through official organisations, setting up credit unions, supplementary/Saturday\
-    \ schools, women\u2019s refuges, vital local services and via advocacy work, they\
-    \ have made their mark on political history \u2013 yet they continue to be unrepresented\
+  day: Sunday, description: !!python/str "Although they did not receive the vote until\
+    \ well after their white sisters, black women have a rich and successful history\
+    \ of political activism. Organising in the communities in which they live, through\
+    \ official organisations, setting up credit unions, supplementary/Saturday schools,\
+    \ women\u2019s refuges, vital local services and via advocacy work, they have\
+    \ made their mark on political history \u2013 yet they continue to be unrepresented\
     \ in elected political office. This session will focus on the marginal position\
     \ of black women in mainstream politics, their historic involvement in the labour\
-    \ movement and wider issues of equal representation.", image: default, organiser: CLPD
+    \ movement and wider issues of equal representation.", image: black-women, organiser: CLPD
     Women, room: Event Space, speakers: diane-abbott-mp claudia-webbe emine-ibrahim
-    zita-holbourne dr-soyna-robotham, status: READY, time: '11:00-12:30', title: Black
+    zita-holbourne dr-sonya-robotham, status: READY, time: '11:00-12:30', title: Black
     women transforming politics, venue: Constellations}
 britains-colonial-legacy-in-palestine: {Action point: '', Category: international,
   Confirmed Speakers: '', Contact for Session: '', Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Tuesday, description: !!python/str "This two-part session will\
-    \ deal with the history of British colonial rule in Palestine and the debt owed\
-    \ to Palestinians, Israel\u2019s ongoing occupation in Palestine today, and the\
-    \ UK-Israel arms trade as an element of British complicity and a key intervention\
-    \ point for grassroots activists and policy makers alike. Join a panel of politicians\
-    \ and activists to unpack this colonial history and, crucially, discuss what can\
-    \ be done to address the ongoing injustice of it. ", image: palestine, organiser: War
-    on Want, room: 'Studio ', speakers: '', status: READY, time: '13:00-14:30', title: Britain's
+  day: Tuesday, description: !!python/str "This two-part session will deal with the\
+    \ history of British colonial rule in Palestine and the debt owed to Palestinians,\
+    \ Israel\u2019s ongoing occupation in Palestine today, and the UK-Israel arms\
+    \ trade as an element of British complicity and a key intervention point for grassroots\
+    \ activists and policy makers alike. Join a panel of politicians and activists\
+    \ to unpack this colonial history and, crucially, discuss what can be done to\
+    \ address the ongoing injustice of it. ", image: palestine, organiser: War on
+    Want, room: 'Studio ', speakers: '', status: READY, time: '13:00-14:30', title: Britain's
     colonial legacy in Palestine, venue: Black-E}
 britains-new-far-right: {Action point: '', Category: '', Confirmed Speakers: Richard
     Burgon; Ash Sarkar; Alan Gibbons; Eleanor Penny, Contact for Session: Katie Kokkinou
     / Eleanor Penny, Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: Saturday, description: 'From
+  Programme Material requested (mark X if yes): '', day: Saturday, description: 'From
     Tommy Robinson on the streets to Boris Johnson in the halls of power, a growing
     far right movement is on the march. Hate crimes are on the rise, along with islamophobia,
     antisemitism, and fear-mongering about migrants. In other words, it''s no fringe
@@ -261,7 +257,7 @@ building-community-wealth: {Action point: Andrew editing, Category: social secur
     Cllr Asima Shaikh
 
     Frances Jones ', Contact for Session: '', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: Saturday, description: 'A
+  Programme Material requested (mark X if yes): '', day: Saturday, description: 'A
     new wave of municipal socialism is emerging in Britain. At its centre is the idea
     of community wealth building, which focuses on creating collaborative, sustainable
     and democratically controlled local economies, rooted in innovative institutional
@@ -276,9 +272,9 @@ cities-in-common: {Action point: '', Category: '', Confirmed Speakers: 'Raquel R
   Possible Speakers: !!python/str "Aditya C (contacted)Raquel\_Rolnik (contacted,\
     \ flight pending)Stavros\_Stavrides (Elliot to send details)Julia Salazar (Elliot\
     \ to contact)", 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Monday, description: !!python/str "Across our cities, for many\
-    \ people it's a constant struggle to get by. Inequality is rife, housing is unaffordable\
-    \ and development under the guise of \u201Cregeneration\u201D is tearing communities\
+  day: Monday, description: !!python/str "Across our cities, for many people it's\
+    \ a constant struggle to get by. Inequality is rife, housing is unaffordable and\
+    \ development under the guise of \u201Cregeneration\u201D is tearing communities\
     \ apart. Yet we rarely discuss the city in political terms, so what could we discover\
     \ through looking into urban political struggles? Join a range of thinkers to\
     \ explore how exciting and dynamic urban projects - both nationally and internationally\
@@ -291,14 +287,14 @@ class-justice: {Action point: Sam to edit blurb, Category: '', Confirmed Speaker
     \ (Hillsborough)\nRoyston Bentham (Blacklisting/Spycops)\nChair: Neil Findlay\
     \ MSP", Contact for Session: samdavidpickering@gmail.com, Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Saturday, description: 'This event brings together groups who have
-    suffered miscarriages of justice or are fighting for justice from the state. Working
-    class people and communities are routinely denied basic legal protections. When
-    tragedy occurs they''re often smeared and attacked by politicians and the press,
-    whilst their demands go unrecognised. How can communities self-organise to support
-    one another, and to fight the danger to working class lives that the state and
-    legal systems often perpetuate? Come and hear directly from campaigners struggling
-    for class justice.', image: default, organiser: 'Orgreave Truth and Justice Campaign,
+  day: Saturday, description: 'This event brings together groups who have suffered
+    miscarriages of justice or are fighting for justice from the state. Working class
+    people and communities are routinely denied basic legal protections. When tragedy
+    occurs they''re often smeared and attacked by politicians and the press, whilst
+    their demands go unrecognised. How can communities self-organise to support one
+    another, and to fight the danger to working class lives that the state and legal
+    systems often perpetuate? Come and hear directly from campaigners struggling for
+    class justice.', image: banners, organiser: 'Orgreave Truth and Justice Campaign,
     Shrewsbury 24 Campaign, Lancaster West Residents Association, Blacklist Support
     Group, Haldane Society of Socialist Lawyers', room: 'Theatre ', speakers: chris-peace
     jacqui-haynes sheila-coleman royston-bentham neil-findlay-msp, status: READY,
@@ -306,10 +302,10 @@ class-justice: {Action point: Sam to edit blurb, Category: '', Confirmed Speaker
 colombia-the-human-rights-crisis: {Action point: '', Category: international/Film,
   Confirmed Speakers: Pablo Navarrete;  Mariela Kohon, Contact for Session: '', Format: '',
   Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Sunday, description: 'Pablo Navarrete (Alborada) and Mariela Kohon
-    (Justice for Colombia) discuss the human right crisis in Colombia and the threat
-    to the country''s peace agreement under the new far right president Ivan Duque.
-    This session will include a screening of a short film called ''Truce'' which explores
+  day: Sunday, description: 'Pablo Navarrete (Alborada) and Mariela Kohon (Justice
+    for Colombia) discuss the human right crisis in Colombia and the threat to the
+    country''s peace agreement under the new far right president Ivan Duque. This
+    session will include a screening of a short film called ''Truce'' which explores
     the role of female FARC guerrillas in negotiating the Colombian conflict, who
     are seeking not only to bring an end to the world''s longest armed conflict, but
     also to guarantee women''s rights and social justice in Colombia. ', image: default,
@@ -318,38 +314,38 @@ colombia-the-human-rights-crisis: {Action point: '', Category: international/Fil
     and international solidarity ', venue: Hinterlands}
 communities-against-climate-change: {Action point: Archie following up with Sakina,
   Category: environment, Confirmed Speakers: 'Fliss Premru, Reel News; Cllr Sakina
-    Sheikh;', Contact for Session: Sakina, Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: Saturday, description: 'The
-    climate challenge means a wholesale transformation of our housing, transport,
-    economic and social structures. Labour councils can lead in the Climate fightback
-    and can create thousands of decent jobs, keep energy revenues local, end fuel
-    poverty and shift to 100% clean power. Corbyn  has created space for a 21st century
-    municipal socialism. Town hall politics can hand power back to communities; it''s
-    time to get moving. ', image: earth, organiser: Labour Energy Forum, room: Theatre,
-  speakers: fliss-premru sakina-sheikh, status: READY, time: '11:00-12:30', title: Communities
-    in the fight against climate change, venue: Black-E}
+    Sheikh; Kevin Frea; Asima Shaikh', Contact for Session: Sakina, Format: '', Possible Speakers: '',
+  'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
+  day: Saturday, description: 'The climate challenge means a wholesale transformation
+    of our housing, transport, economic and social structures. Labour councils can
+    lead in the Climate fightback and can create thousands of decent jobs, keep energy
+    revenues local, end fuel poverty and shift to 100% clean power. Corbyn  has created
+    space for a 21st century municipal socialism. Town hall politics can hand power
+    back to communities; it''s time to get moving. ', image: earth, organiser: Labour
+    Energy Forum, room: Theatre, speakers: fliss-premru sakina-sheikh, status: READY,
+  time: '11:00-12:30', title: Communities in the fight against climate change, venue: Black-E}
 conversation-with-jean-luc-melenchon: {Action point: '', Category: international,
   Confirmed Speakers: !!python/str "Jon Tricket MP, Jean-Luc M\xE9lenchon", Contact for Session: <ronanburtenshaw@gmail.com>,
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Monday, description: !!python/str "Since narrowly missing out in\
-    \ last year's presidential election, Jean-Luc M\xE9lenchon and his France Insoumise\
-    \ party have established themselves as the leading left-wing opponents of Emmanuel\
-    \ Macron. In a session introduced by Jon Trickett MP, M\xE9lenchon explains his\
-    \ political vision, the tasks facing the left in Europe today and why we need\
-    \ a citizen revolution against our political elites, before taking questions from\
-    \ the audience. ", image: europe, organiser: '', room: 'Main Space ', speakers: jon-trickett-mp
-    jean-luc-melenchon, status: READY, time: '19:30-21:15', title: !!python/str "In\
-    \ conversation with Jean-Luc M\xE9lenchon", venue: Black-E}
+  day: Monday, description: !!python/str "Since narrowly missing out in last year's\
+    \ presidential election, Jean-Luc M\xE9lenchon and his France Insoumise party\
+    \ have established themselves as the leading left-wing opponents of Emmanuel Macron.\
+    \ In a session introduced by Jon Trickett MP, M\xE9lenchon explains his political\
+    \ vision, the tasks facing the left in Europe today and why we need a citizen\
+    \ revolution against our political elites, before taking questions from the audience. ",
+  image: europe, organiser: '', room: 'Main Space ', speakers: jon-trickett-mp jean-luc-melenchon,
+  status: READY, time: '19:30-21:15', title: !!python/str "In conversation with Jean-Luc\
+    \ M\xE9lenchon", venue: Black-E}
 cybernetic-socialism: {Action point: Emma editing, Category: technology, Confirmed Speakers: !!python/str "Raul\_\
     Espejo, Operations Director, Project CybersynMiranda Hall, New Economics Foundation\_\
     Will Stronge (Chair), Co-Director, Autonomy", Contact for Session: will.stronge1@gmail.com,
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Monday, description: !!python/str "Project Cybersyn is one of the\
-    \ most remarkable initiatives in 20th century history. Before it was destroyed\
-    \ by a US-backed coup in 1973, Allende\u2019s socialist government in Chile began\
-    \ to utilise cybernetics to coordinate a planned economy, with the aim of giving\
-    \ workers control over production. What does Cybersyn mean for us in today\u2019\
-    s political and technological climate? What can social movements and radical governments\
+  day: Monday, description: !!python/str "Project Cybersyn is one of the most remarkable\
+    \ initiatives in 20th century history. Before it was destroyed by a US-backed\
+    \ coup in 1973, Allende\u2019s socialist government in Chile began to utilise\
+    \ cybernetics to coordinate a planned economy, with the aim of giving workers\
+    \ control over production. What does Cybersyn mean for us in today\u2019s political\
+    \ and technological climate? What can social movements and radical governments\
     \ learn from this historical episode? Join Raul Espejo, the Operations Director\
     \ of the original project, to discuss!", image: cybersyn, organiser: Autonomy,
   room: 'Studio ', speakers: ' raul-espejo miranda-hall will-stronge', status: READY,
@@ -359,19 +355,19 @@ debunking-the-myths: {Action point: '', Category: education, Confirmed Speakers:
     \ Dr Faiza Shaheen, Chair (CLASS) 2. Ann Pettifor (PRIME) 3. Professor\_\xD6zlem\
     \ Onaran (University of Greenwich)", Contact for Session: lester.holloway@classonline.org.uk,
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Monday, description: !!python/str "This interactive session will\
-    \ debunk economic myths and discuss how Labour activists can win the economic\
-    \ arguments on the doorstep.\_Politicians from the right have been defending their\
-    \ ideological mission to shrink the state by crippling welfare and slashing public\
-    \ services \u2013 by exploiting lies about the economy. The left are faced with\
-    \ an obstacle: how do we convince a brainwashed public that there is an alternative\
-    \ to austerity? And how do we create the space for progressives to think big in\
-    \ order to fundamentall reshape society?", image: finance, organiser: CLASS, room: Studio,
-  speakers: dr-faiza-shaheen ann-pettifor prof-ozlem-onaran, status: READY, time: '15:00-16:30',
-  title: 'Debunking the myths: explaining the economy from the left', venue: Black-E}
+  day: Monday, description: !!python/str "This interactive session will debunk economic\
+    \ myths and discuss how Labour activists can win the economic arguments on the\
+    \ doorstep.\_Politicians from the right have been defending their ideological\
+    \ mission to shrink the state by crippling welfare and slashing public services\
+    \ \u2013 by exploiting lies about the economy. The left are faced with an obstacle:\
+    \ how do we convince a brainwashed public that there is an alternative to austerity?\
+    \ And how do we create the space for progressives to think big in order to fundamentall\
+    \ reshape society?", image: finance, organiser: CLASS, room: Studio, speakers: dr-faiza-shaheen
+    ann-pettifor prof-ozlem-onaran, status: READY, time: '15:00-16:30', title: 'Debunking
+    the myths: explaining the economy from the left', venue: Black-E}
 decolonising-foreign-policy: {Action point: DONT DO THIS, Category: '', Confirmed Speakers: '',
   Contact for Session: '', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: Monday, description: !!python/str "UK\
+  Programme Material requested (mark X if yes): '', day: Monday, description: !!python/str "UK\
     \ foreign policy is shaped and informed by legacies of colonialism \u2013 prioritising\
     \ the protection of the UK\u2019s wealth and privilege at the expense of those\
     \ living in the global South. What role do trade, aid and development play in\
@@ -381,14 +377,14 @@ decolonising-foreign-policy: {Action point: DONT DO THIS, Category: '', Confirme
   title: 'Empire 2.0: Decolonising Foreign Policy', venue: Hinterlands}
 decolonising-yoga: {Action point: '', Category: '', Confirmed Speakers: '', Contact for Session: '',
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Monday, description: !!python/str "Far from offering an escape\
-    \ from the world\u2019s problems, decolonising yoga empowers active compassion,\
-    \ community-building, and opposition to capitalism and colonialism. A yoga class\
-    \ like you've probably never seen it before. ", image: yoga, organiser: '', room: Studio,
-  speakers: '', status: READY, time: '09:00-10:30', title: Decolonising yoga, venue: Black-E}
+  day: Monday, description: !!python/str "Far from offering an escape from the world\u2019\
+    s problems, decolonising yoga empowers active compassion, community-building,\
+    \ and opposition to capitalism and colonialism. A yoga class like you've probably\
+    \ never seen it before. ", image: yoga, organiser: '', room: Studio, speakers: '',
+  status: READY, time: '09:00-10:30', title: Decolonising yoga, venue: Black-E}
 deconstructing-neoliberalism-monday: {Action point: '', Category: '', Confirmed Speakers: Jeremy
     Gilbert, Contact for Session: '', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: Monday, description: !!python/str "Neoliberalism\
+  Programme Material requested (mark X if yes): '', day: Monday, description: !!python/str "Neoliberalism\
     \ isn\u2019t just an economic programme. It\u2019s a whole world-view, that has\
     \ very particular ideas about how we should  live. Over three days, we\u2019ll\
     \ look at one reading per session, covering the ways in which neoliberal ideology\
@@ -402,20 +398,20 @@ deconstructing-neoliberalism-monday: {Action point: '', Category: '', Confirmed 
 deconstructing-neoliberalism-sunday: {Action point: Elliot waiitng for info, Category: economy/internationalism,
   Confirmed Speakers: Jeremy Gilbert, Contact for Session: Jeremy Gilbert, Format: '',
   Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Sunday, description: !!python/str "Neoliberalism isn\u2019t just\
-    \ an economic programme. It\u2019s a whole world-view, that has very particular\
-    \ ideas about how we should  live. Over three days, we\u2019ll look at one reading\
-    \ per session, covering the ways in which neoliberal ideology tries to turn us\
-    \ into competitive entrepreneurs in every aspect of our lives; how it tries to\
-    \ convince us that the social elite deserve their privilege; and how it even co-opts\
-    \ the language of feminism.\n\nSession 1: Stuart Hall & Alan O\u2019Shea \u2018\
-    Common-Sense Neoliberalism\u2019 www.lwbooks.co.uk/sites/default/files/s55_02hall_oshea.pdf\n",
+  day: Sunday, description: !!python/str "Neoliberalism isn\u2019t just an economic\
+    \ programme. It\u2019s a whole world-view, that has very particular ideas about\
+    \ how we should  live. Over three days, we\u2019ll look at one reading per session,\
+    \ covering the ways in which neoliberal ideology tries to turn us into competitive\
+    \ entrepreneurs in every aspect of our lives; how it tries to convince us that\
+    \ the social elite deserve their privilege; and how it even co-opts the language\
+    \ of feminism.\n\nSession 1: Stuart Hall & Alan O\u2019Shea \u2018Common-Sense\
+    \ Neoliberalism\u2019 www.lwbooks.co.uk/sites/default/files/s55_02hall_oshea.pdf\n",
   image: reading, organiser: '', room: '', speakers: jeremy-gilbert, status: READY,
   time: '09:00-10:30', title: 'Deconstructing Neoliberalism: An easy morning reading
     group ', venue: Baltic Creative Shed}
 deconstructing-neoliberalism-tuesday: {Action point: '', Category: '', Confirmed Speakers: Jeremy
     Gilbert, Contact for Session: '', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: Tuesday, description: !!python/str "\r\n\
+  Programme Material requested (mark X if yes): '', day: Tuesday, description: !!python/str "\r\n\
     Neoliberalism isn\u2019t just an economic programme. It\u2019s a whole world-view,\
     \ that has very particular ideas about how we should  live. Over three days, we\u2019\
     ll look at one reading per session, covering the ways in which neoliberal ideology\
@@ -430,7 +426,7 @@ deconstructing-neoliberalism-tuesday: {Action point: '', Category: '', Confirmed
 developing-labours-nes: {Action point: '', Category: education, Confirmed Speakers: 'Kevin
     Courtney, Emma Hardy MP, Robert Verkaik, Ali Mussell, Chloe Tomlinson,Sharon Clancy',
   Contact for Session: hollyarigby@gmail.com, Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: Sunday, description: !!python/str "The\
+  Programme Material requested (mark X if yes): '', day: Sunday, description: !!python/str "The\
     \ 2017 Labour manifesto announced a cradle to grave, free at the point of use\
     \ National Education Service, modelled on the NHS. Yet there has been little detail\
     \ about what this will look like since it was announced 18 months ago. This session\
@@ -443,20 +439,20 @@ developing-labours-nes: {Action point: '', Category: education, Confirmed Speake
 digital-economy-101: {Action point: '', Category: technology, Confirmed Speakers: Mat
     Lawrence and Laurie Laybourn-Langton, Contact for Session: '', Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Monday, description: !!python/str "A few giant companies \u2013\
-    \ such as Google, Facebook, Apple and Amazon \u2013 have come to dominate today\u2019\
-    s digital economy. If we want to create a fair and democratic economy, we will\
-    \ need to confront the challenges they pose - from the media to privacy and the\
-    \ development of new technologies such as artificial intelligence. Based on the\
-    \ work of the IPPR Commission on Economic Justice, this session will examine what\
-    \ lies behind the power of the tech giants, and what a transformative political\
-    \ agenda could do to ensure the digital economy works for the many, not just the\
-    \ few.", image: finance, organiser: Institute for Public Policy Research, room: 'Event
-    Space ', speakers: laurie-laybourn-langton mat-lawrence, status: READY, time: '11:00-12:30',
-  title: Digital Economy 101, venue: Constellations}
+  day: Monday, description: !!python/str "A few giant companies \u2013 such as Google,\
+    \ Facebook, Apple and Amazon \u2013 have come to dominate today\u2019s digital\
+    \ economy. If we want to create a fair and democratic economy, we will need to\
+    \ confront the challenges they pose - from the media to privacy and the development\
+    \ of new technologies such as artificial intelligence. Based on the work of the\
+    \ IPPR Commission on Economic Justice, this session will examine what lies behind\
+    \ the power of the tech giants, and what a transformative political agenda could\
+    \ do to ensure the digital economy works for the many, not just the few.", image: finance,
+  organiser: Institute for Public Policy Research, room: 'Event Space ', speakers: laurie-laybourn-langton
+    mat-lawrence, status: READY, time: '11:00-12:30', title: Digital Economy 101,
+  venue: Constellations}
 eco-corbynism-mon: {Action point: '', Category: environment, Confirmed Speakers: Tom
     Gann, Contact for Session: '', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: Monday, description: !!python/str "What\
+  Programme Material requested (mark X if yes): '', day: Monday, description: !!python/str "What\
     \ would the convergence of the labour movement and the ecology\r\nmovements that\
     \ Raymond Williams called for in 1984 look like today and\r\nwhat are the blockages\
     \ that need to be overcome? How would moving\r\nbeyond the Green Keynesian interlock\
@@ -470,7 +466,7 @@ eco-corbynism-mon: {Action point: '', Category: environment, Confirmed Speakers:
   title: "Eco-Corbynism, New Socialist Reading Group\r\n", venue: 'Gallery '}
 eco-corbynism-reading-group: {Action point: '', Category: environment, Confirmed Speakers: Tom
     Gann, Contact for Session: '', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: Tuesday, description: !!python/str "What\
+  Programme Material requested (mark X if yes): '', day: Tuesday, description: !!python/str "What\
     \ would the convergence of the labour movement and the ecology\r\nmovements that\
     \ Raymond Williams called for in 1984 look like today and\r\nwhat are the blockages\
     \ that need to be overcome? How would moving\r\nbeyond the Green Keynesian interlock\
@@ -485,10 +481,10 @@ eco-corbynism-reading-group: {Action point: '', Category: environment, Confirmed
 eco-corbynism-sun: {Action point: Archie waiting for info, Category: environment,
   Confirmed Speakers: Tom Gann, Contact for Session: '', Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Sunday, description: !!python/str "What would the convergence of\
-    \ the labour movement and the ecology\r\nmovements that Raymond Williams called\
-    \ for in 1984 look like today and\r\nwhat are the blockages that need to be overcome?\
-    \ How would moving\r\nbeyond the Green Keynesian interlock of energy/climate/jobs,\
+  day: Sunday, description: !!python/str "What would the convergence of the labour\
+    \ movement and the ecology\r\nmovements that Raymond Williams called for in 1984\
+    \ look like today and\r\nwhat are the blockages that need to be overcome? How\
+    \ would moving\r\nbeyond the Green Keynesian interlock of energy/climate/jobs,\
     \ allowing\r\nfor a more expansive and critical sense of how capitalism organises\r\
     \nnature and relies on the devaluation (Maria Mies) of \u201Cwomen, nature\r\n\
     and colonies\u201D, ground contemporary eco-socialism in anti-imperialist,\r\n\
@@ -502,7 +498,7 @@ eco-corbynism-sun: {Action point: Archie waiting for info, Category: environment
 education-in-the-labour-party: {Action point: '', Category: education, Confirmed Speakers: !!python/str "Lorcan\
     \ Mullan, Lena \u0160imi\u0107, Sharon Clancy", Contact for Session: charlie clarke,
   Format: Political Education, Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: Saturday, description: 'Are
+  Programme Material requested (mark X if yes): '', day: Saturday, description: 'Are
     you a current or prospective Political Education Officer, or just interested in
     getting something going in your CLP? If so, this is the session for you. Led by
     Political Education Officers, this session will introduce attendees to the role,
@@ -519,14 +515,14 @@ end-to-sex-work-criminalisation: {Action point: '', Category: '', Confirmed Spea
     \ Smith - Scot Pep \n Chair:\_ Camille Barbagallo - Women\u2019s Strike Assembly\
     \ UK; Niki Adams - English Collective of Prostitutes ", Contact for Session: '',
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Tuesday, description: !!python/str "In 2018, with the grassroots\
-    \ union UWV, sex workers began unionising the sex industry and launched Decrim\
-    \ Now: Campaign for Sex Workers\u2019 Rights, building on years of organising\
-    \ in the Labour movement. Austerity policies and low wages disproportionately\
-    \ affect women and are a key driver for people turning to sex work. Labour4Decrim\
-    \ is raising awareness about the harms of criminalisation and the Nordic Model,\
-    \ and calling on the Labour Party to listen to sex workers and support the struggle\
-    \ to unionise and decriminalise the sex industry. ", image: prison, organiser: !!python/str " DECRIM\
+  day: Tuesday, description: !!python/str "In 2018, with the grassroots union UWV,\
+    \ sex workers began unionising the sex industry and launched Decrim Now: Campaign\
+    \ for Sex Workers\u2019 Rights, building on years of organising in the Labour\
+    \ movement. Austerity policies and low wages disproportionately affect women and\
+    \ are a key driver for people turning to sex work. Labour4Decrim is raising awareness\
+    \ about the harms of criminalisation and the Nordic Model, and calling on the\
+    \ Labour Party to listen to sex workers and support the struggle to unionise and\
+    \ decriminalise the sex industry. ", image: prison, organiser: !!python/str " DECRIM\
     \ NOW: Campaign for Sex Workers\u2019 Rights; East London Strippers Collective\n\
     \ (ELSC), English Collective of Prostitutes (ECP), Scot Pep, Sex Worker \nAdvocacy\
     \ & Resistance Movement (SWARM), the xtalk project; \nWomen's Strike Assembly\
@@ -536,34 +532,34 @@ end-to-sex-work-criminalisation: {Action point: '', Category: '', Confirmed Spea
 ending-the-drug-war: {Action point: '', Category: health/culture, Confirmed Speakers: 'Chair:
     Jane Slater; Anne-Marie Cokburn; Martin Drewry; Chris Williamson', Contact for Session: '',
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Sunday, description: !!python/str "The so called \u2018war on drugs\u2019\
-    \ is collapsing. From Canada to Portugal, US states to Uruguay, countries are\
-    \ waking up to the harm that outdated drug policies are causing to people the\
-    \ world over. The UK is lagging behind, recording record deaths year on year despite\
-    \ real solutions staring us in the face. Join us for an interactive session to\
-    \ discuss one of the most urgent social justice issues of our time. We will discuss\
-    \ how to deal with the difficult issues in the debate around drug policy reform\
-    \ and how you can be part of our growing movement for change.", image: default,
-  organiser: Health Poverty Action, room: 'Main Space ', speakers: anne-marie-cockburn
-    martin-drewry chris-williamson-mp jane-slater, status: READY, time: '15:00-16:30',
-  title: 'Drugs: ending the war and winning the battle', venue: Black-E}
+  day: Sunday, description: !!python/str "The so called \u2018war on drugs\u2019 is\
+    \ collapsing. From Canada to Portugal, US states to Uruguay, countries are waking\
+    \ up to the harm that outdated drug policies are causing to people the world over.\
+    \ The UK is lagging behind, recording record deaths year on year despite real\
+    \ solutions staring us in the face. Join us for an interactive session to discuss\
+    \ one of the most urgent social justice issues of our time. We will discuss how\
+    \ to deal with the difficult issues in the debate around drug policy reform and\
+    \ how you can be part of our growing movement for change.", image: smoke, organiser: Health
+    Poverty Action, room: 'Main Space ', speakers: anne-marie-cockburn martin-drewry
+    chris-williamson-mp jane-slater, status: READY, time: '15:00-16:30', title: 'Drugs:
+    ending the war and winning the battle', venue: Black-E}
 feeling-the-bern: {Action point: Emma editing, Category: international, Confirmed Speakers: '',
   Contact for Session: <ronanburtenshaw@gmail.com>, Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Monday, description: !!python/str "The 2016 breakthrough of Bernie\
-    \ Sanders \u2013 and the more recent success of Alexandria Ocasio-Cortez \u2013\
-    \ has put the American left in its strongest position for decades. Join a panel\
-    \ of American socialists to discuss the potential of this growing movement, what\
-    \ demands it should be making, and the obstacles it faces in making socialism\
-    \ mainstream in America.", image: america, organiser: Jacobin, room: Main Space,
-  speakers: '', status: READY, time: '13:00-14:30', title: 'Feeling the Bern: the
-    rise of the American left ', venue: Black-E}
+  day: Monday, description: !!python/str "The 2016 breakthrough of Bernie Sanders\
+    \ \u2013 and the more recent success of Alexandria Ocasio-Cortez \u2013 has put\
+    \ the American left in its strongest position for decades. Join a panel of American\
+    \ socialists to discuss the potential of this growing movement, what demands it\
+    \ should be making, and the obstacles it faces in making socialism mainstream\
+    \ in America.", image: america, organiser: Jacobin, room: Main Space, speakers: '',
+  status: READY, time: '13:00-14:30', title: 'Feeling the Bern: the rise of the American
+    left ', venue: Black-E}
 feminism-for-the-many: {Action point: '', Category: gender, Confirmed Speakers: Sofia
     Brito; Nelini Stamp; Tithi Bhattarchaya; Elif Sarican, Contact for Session: '',
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Saturday, description: 'Over the last year #MeToo has shone a light
-    on the endemic violence and structural discrimination women still suffer, whilst
-    the hundredth anniversary of some women getting the vote sparked widespread debate
+  day: Saturday, description: 'Over the last year #MeToo has shone a light on the
+    endemic violence and structural discrimination women still suffer, whilst the
+    hundredth anniversary of some women getting the vote sparked widespread debate
     about how we ensure feminism is rooted in the struggles of the most marginalised.
     This session will explore how different strands of oppression intersect and produce
     distinct gender relations, and will ask: how can we develop a feminism that not
@@ -573,7 +569,7 @@ feminism-for-the-many: {Action point: '', Category: gender, Confirmed Speakers: 
     for the many ', venue: Black-E}
 fighting-back-against-the-tech-giants: {Action point: '', Category: technology, Confirmed Speakers: '',
   Contact for Session: '', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: Tuesday, description: !!python/str "Big\
+  Programme Material requested (mark X if yes): '', day: Tuesday, description: !!python/str "Big\
     \ tech companies are growing more powerful everyday, but the fightback against\
     \ them is happening at many different levels: people working within tech firms\
     \ are agitating for change, cities are pushing to take back control of their digital\
@@ -586,21 +582,21 @@ fighting-back-against-the-tech-giants: {Action point: '', Category: technology, 
     jason-prado, status: READY, time: '13:00-14:30', title: Fighting back against
     the tech giants, venue: Black-E}
 fighting-disabled-exclusion: {Action point: '', Category: '', Confirmed Speakers: Miro
-    Griffiths; Dr Paul Clarke; Julie Ward MEP; Simon McKeown; Dr Janet Price; Marsha
+    Griffiths; Dr Paul Darke; Julie Ward MEP; Simon McKeown; Dr Janet Price; Marsha
     De Cordova MP, Contact for Session: mirogriffiths@gmail.com, Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Monday, description: 'The Conservative Government has created a
-    hostile environment for disabled people and their families. What action is required
-    to challenge the discriminatory practices that disabled people face? Join activists
-    and parliamentarians to explore the ways disabled people are portrayed as a problem
-    in society, how this contributes to their marginilisation and what the left can
-    do about it. ', image: default, organiser: Outside Centre, room: 'Theatre ', speakers: miro-griffiths
-    dr-paul-clarke julie-ward-mep simon-mckeown dr-janet-price marsha-de-cordova-mp,
+  day: Monday, description: 'The Conservative Government has created a hostile environment
+    for disabled people and their families. What action is required to challenge the
+    discriminatory practices that disabled people face? Join activists and parliamentarians
+    to explore the ways disabled people are portrayed as a problem in society, how
+    this contributes to their marginilisation and what the left can do about it. ',
+  image: default, organiser: Outside Centre, room: 'Theatre ', speakers: miro-griffiths
+    dr-paul-darke julie-ward-mep simon-mckeown dr-janet-price marsha-de-cordova-mp,
   status: READY, time: '13:00-14:30', title: Fighting disabled people's exclusion,
   venue: Black-E}
 fighting-for-trans-liberation: {Action point: '', Category: gender, Confirmed Speakers: '',
   Contact for Session: '', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: Monday, description: 'What
+  Programme Material requested (mark X if yes): '', day: Monday, description: 'What
     should be the role of trans liberation within the broader movement for socialism?
     What opportunities would a radical Labour government offer for trans liberation,
     and what would be its limitations? How do we address issues affecting trans people
@@ -616,7 +612,7 @@ future-of-trade-unions: {Action point: Hope, Category: trade unions, Confirmed S
     Ewa Jasiewicz
 
     ', Contact for Session: Seth, Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: Monday, description: !!python/str "After\
+  Programme Material requested (mark X if yes): '', day: Monday, description: !!python/str "After\
     \ a decade of wage stagnation, it\u2019s clear that workers need a new deal. With\
     \ the growth of insecure work, declining union membership, and the rapid transformation\
     \ being spurred on by the fourth industrial revolution, it has never been more\
@@ -626,21 +622,33 @@ future-of-trade-unions: {Action point: Hope, Category: trade unions, Confirmed S
     \ for strengthening workers' power. ", image: workplace, organiser: Notes From
     Below, room: Theatre, speakers: dave-ward ewa-jasiewicz, status: READY, time: '17:30-19:00',
   title: The Future of the Trade Unions, venue: Hinterlands}
+future-visions: {Action point: '', Category: '', Confirmed Speakers: 'Jeremy Corbyn,
+    Naomi Klein Via Skype, Bonnie Castillo', Contact for Session: '', Format: '',
+  Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
+  day: Sunday, description: 'The 2017 general election demonstrated that millions
+    of people are desperate for a radical transformation of society. This impulse
+    is not only restricted to the U.K. The fight for social justice is international.
+    Even in the harshest conditions, people are not only dreaming of a different society,
+    but working concretely to build it. Join Jeremy Corbyn and inspiring activists
+    from the U.K. and beyond to share their visions for the future and how, together,
+    we can see a world transformed.', image: default, organiser: '', room: Main Space,
+  speakers: 'jeremy-corbyn-mp bonnie-castillo naomi-klein ', status: READY, time: '17:30-19:00',
+  title: A World for the Many, venue: Hinterlands}
 global-finance-101: {Action point: '', Category: international/economy, Confirmed Speakers: Michael
     Jacobs and Grace Blakeley, Contact for Session: '', Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Saturday, description: !!python/str "Ten years ago the activities\
-    \ of the banks almost brought the global economy down. What happened \u2013 and\
-    \ could it happen again? What have we learned about how the financial system works?\
-    \ And how can it be reformed so that it serves the rest of the economy? This session\
-    \ will examine the \u2018financialisation\u2019 of modern capitalism and how banks\
+  day: Saturday, description: !!python/str "Ten years ago the activities of the banks\
+    \ almost brought the global economy down. What happened \u2013 and could it happen\
+    \ again? What have we learned about how the financial system works? And how can\
+    \ it be reformed so that it serves the rest of the economy? This session will\
+    \ examine the \u2018financialisation\u2019 of modern capitalism and how banks\
     \ and finance companies operate, and discuss the policies which might enable greater\
     \ democratic control of financial capital.", image: finance, organiser: Institute
     for Public Policy Research, room: Event Space, speakers: michael-jacobs grace-blakeley,
   status: READY, time: '15:00-16:30', title: 'Global Finance 101 ', venue: Constellations}
 history-lessons: {Action point: '', Category: education, Confirmed Speakers: '', Contact for Session: Charlie
     Clarke, Format: Political Education, Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: Sunday, description: !!python/str "The\
+  Programme Material requested (mark X if yes): '', day: Sunday, description: !!python/str "The\
     \ best way to develop a programme of political education that serves our movement\u2019\
     s needs today is to look to our history. By examining examples of left-wing political\
     \ education from Europe to Brazil, from the labour movement and beyond, we can\
@@ -656,7 +664,7 @@ housing-for-all: {Action point: '', Category: social security, Confirmed Speaker
 
     ', Contact for Session: benjamin.beach@icloud.com, Format: '', Possible Speakers: !!python/str "Architects\
     \ for Social Housing / RHN; Ed\_Milliband / Sadiq; START / RHN", 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: Saturday, description: !!python/str "As\
+  Programme Material requested (mark X if yes): '', day: Saturday, description: !!python/str "As\
     \ the housing crisis rages on, many are trapped in poverty or kept homeless by\
     \ a system which values profits over people. Building more social housing is a\
     \ priority for a Labour Government, yet historically, various governments have\
@@ -669,15 +677,15 @@ housing-for-all: {Action point: '', Category: social security, Confirmed Speaker
 in-and-against-the-state: {Action point: '', Category: '', Confirmed Speakers: 'John
     McDonnell MP; Mark Serwotka, Hilary Wainwright, Francesca Bria', Contact for Session: '',
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Tuesday, description: 'In recent decades the British state has
-    been transformed, with the private sector taking over many of its key functions.
-    Can what remains be radically changed? Or are we confronted by institutions designed
-    to maintain the status quo? Hear from politicians and activists who bring their
-    experiences of working in and against the state, as we seek to understand its
-    nature, whether it can be democratised and how wortkers and communities can participate
-    in organising the services they depend on.', image: movement, organiser: '', room: Main
-    Space, speakers: john-mcdonnell-mp mark-serwotka hilary-wainwright francesca-bria,
-  status: READY, time: '15:00-16:30', title: 'In and against the state ', venue: Hinterlands}
+  day: Tuesday, description: 'In recent decades the British state has been transformed,
+    with the private sector taking over many of its key functions. Can what remains
+    be radically changed? Or are we confronted by institutions designed to maintain
+    the status quo? Hear from politicians and activists who bring their experiences
+    of working in and against the state, as we seek to understand its nature, whether
+    it can be democratised and how wortkers and communities can participate in organising
+    the services they depend on.', image: movement, organiser: '', room: Main Space,
+  speakers: john-mcdonnell-mp mark-serwotka hilary-wainwright francesca-bria, status: READY,
+  time: '15:00-16:30', title: 'In and against the state ', venue: Hinterlands}
 internationalist-labour-party: {Action point: '', Category: international, Confirmed Speakers: 'Richard
     Seymour; Karma Nabulsi
 
@@ -685,40 +693,40 @@ internationalist-labour-party: {Action point: '', Category: international, Confi
 
     Charlotte Riley ', Contact for Session: yohann.koshy@newint.org, Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Saturday, description: !!python/str "Corbyn\u2019s foreign policy\
-    \ is a huge source of his support, especially among younger members who grew up\
-    \ in the \u2018war on terror\u2019. However, it's also his greatest departure\
-    \ from the consensus \u2013 not simply within the British state but also the Labour\
-    \ Party, which has often been supportive of destructive foreign military interventions.\
-    \ How can we make the party into a genuinely internationalist organisation? Come\
-    \ and discuss the history of Labour's relationship to empire and interventionism\
-    \ and hear concrete proposals for how Labour deals with colonial injustices and\
-    \ supports oppressed people around the world.", image: international, organiser: New
-    Internationalist, room: Theatre, speakers: richard-seymour karma-nabulsi dr-kehinde-andrews
-    charlotte-riley, status: READY, time: '15:00-16:30', title: 'An Internationalist
-    Labour Party?', venue: Black-E}
+  day: Saturday, description: !!python/str "Corbyn\u2019s foreign policy is a huge\
+    \ source of his support, especially among younger members who grew up in the \u2018\
+    war on terror\u2019. However, it's also his greatest departure from the consensus\
+    \ \u2013 not simply within the British state but also the Labour Party, which\
+    \ has often been supportive of destructive foreign military interventions. How\
+    \ can we make the party into a genuinely internationalist organisation? Come and\
+    \ discuss the history of Labour's relationship to empire and interventionism and\
+    \ hear concrete proposals for how Labour deals with colonial injustices and supports\
+    \ oppressed people around the world.", image: international, organiser: New Internationalist,
+  room: Theatre, speakers: richard-seymour karma-nabulsi dr-kehinde-andrews charlotte-riley,
+  status: READY, time: '15:00-16:30', title: 'An Internationalist Labour Party?',
+  venue: Black-E}
 jobs-in-nuclear-weapons: {Action point: '', Category: '', Confirmed Speakers: 'Fabian
     Hamilton MP, Shadow Minister for Peace and Disarmament Sam Mason, Policy Officer,
     PCS Paul Nowak, Deputy General Secretary, TUC Ann Feltham, Parliamentary Officer,
     CAAT Kate Hudson, General Secretary, Campaign for Nuclear Disarmament (Chairing
     event)', Contact for Session: kate.hudson@cnduk.org, Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Monday, description: !!python/str "Britain\u2019s Trident nuclear\
-    \ weapons system remains a divisive topic within the Labour Party. While many\
-    \ members want it scrapped, some argue is serves as an important deterrent. Others\
-    \ say it should be kept because so many jobs are reliant on it. If scrapping Trident\
-    \ will lead to mass job losses, we need to think about how to protect workers.\
-    \ Is manufacturing weapons of mass destruction the only way these jobs can be\
-    \ maintained, or can we create skilled and meaningful work in other industries?\
-    \ Come and hear from those centrally involved and add your voice to the discussion.",
-  image: energy, organiser: Campaign for Nuclear Disarmament, room: 'Theatre ', speakers: 'fabian-hamilton-mp
+  day: Monday, description: !!python/str "Britain\u2019s Trident nuclear weapons system\
+    \ remains a divisive topic within the Labour Party. While many members want it\
+    \ scrapped, some argue is serves as an important deterrent. Others say it should\
+    \ be kept because so many jobs are reliant on it. If scrapping Trident will lead\
+    \ to mass job losses, we need to think about how to protect workers. Is manufacturing\
+    \ weapons of mass destruction the only way these jobs can be maintained, or can\
+    \ we create skilled and meaningful work in other industries? Come and hear from\
+    \ those centrally involved and add your voice to the discussion.", image: energy,
+  organiser: Campaign for Nuclear Disarmament, room: 'Theatre ', speakers: 'fabian-hamilton-mp
     sam-mason paul-nowak ann-feltham kate-hudson ', status: READY, time: '13:00-14:30',
   title: 'Disarmament and diversification: do jobs justify making nuclear weapons?',
   venue: Hinterlands}
 kids-write-plays: {Action point: need to check the number of DBS checked adults and
     ensure the ratios are right, Category: u18s, Confirmed Speakers: '', Contact for Session: Sam
     Swann 07807 379 777, Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: Sunday, description: '6-12
+  Programme Material requested (mark X if yes): '', day: Sunday, description: '6-12
     year olds are invited to come along and think up an idea for a story. Creations
     from previous workshops have included ''An Evil Pumpkin Is Defeated By The Slaves''
     and ''After Her Enchanted Stick Is Burned A Scruffy Girl Finds A Watch To Fix
@@ -729,9 +737,9 @@ kids-write-plays: {Action point: need to check the number of DBS checked adults 
 lessons-from-the-ucu-strike: {Action point: Hope to edit, Category: '', Confirmed Speakers: 'Jo
     Mcneill, Rory Hughes, Jamie woodcock', Contact for Session: '', Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Tuesday, description: !!python/str "Over four weeks during this\
-    \ year\u2019s cold spring, university lecturers on 62 campuses walked out of lectures\
-    \ and manned picket lines in opposition to proposed changes to their pension scheme.\
+  day: Tuesday, description: !!python/str "Over four weeks during this year\u2019\
+    s cold spring, university lecturers on 62 campuses walked out of lectures and\
+    \ manned picket lines in opposition to proposed changes to their pension scheme.\
     \ With the #NoCapitulation campaign, emergency demonstrations across the country,\
     \ and occupations on campuses, this was the most militant strike in the sector\
     \ for decades. What were the forces at play during the strike? How was action\
@@ -742,7 +750,7 @@ lessons-from-the-ucu-strike: {Action point: Hope to edit, Category: '', Confirme
   venue: Black-E}
 living-the-climate-crisis: {Action point: '', Category: environment, Confirmed Speakers: '',
   Contact for Session: '', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: Tuesday, description: 'Across
+  Programme Material requested (mark X if yes): '', day: Tuesday, description: 'Across
     the world people are waking up to the human costs of the climate crisis and its
     colonial dimensions. From devastating floods in Bangladesh, to the raging wildfires
     across the globe this summer - the need for climate action is now. Labour is taking
@@ -755,12 +763,12 @@ living-the-climate-crisis: {Action point: '', Category: environment, Confirmed S
 marx-at-200: {Action point: '', Category: '', Confirmed Speakers: Vijay Prashad; Tithi
     Bhattarcharya; Aaron Bastani, Contact for Session: Elliot, Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Sunday, description: !!python/str "After the global financial crisis\
-    \ of 2008 almost precipitated the collapse of the world economy, more and more\
-    \ people have turned to the ideas of Karl Marx to help them understand the failures\
-    \ of capitalism and provide a vision for a different kind of society. In 2018,\
-    \ as even Teen Vogue are publishing articles about Marx, we ask what it means\
-    \ to be a communist today: is it possible to separate the idea of communism from\
+  day: Sunday, description: !!python/str "After the global financial crisis of 2008\
+    \ almost precipitated the collapse of the world economy, more and more people\
+    \ have turned to the ideas of Karl Marx to help them understand the failures of\
+    \ capitalism and provide a vision for a different kind of society. In 2018, as\
+    \ even Teen Vogue are publishing articles about Marx, we ask what it means to\
+    \ be a communist today: is it possible to separate the idea of communism from\
     \ gulags and secret police? Two hundred years after his birth, are Marx\u2019\
     s ideas still relevant and can they help us to overcome the crises englufing our\
     \ planet?", image: default, organiser: '', room: Main Space, speakers: vijay-prashad
@@ -768,7 +776,7 @@ marx-at-200: {Action point: '', Category: '', Confirmed Speakers: Vijay Prashad;
     literally a communist": Marx at 200', venue: Black-E}
 marxism-101: {Action point: '', Category: '', Confirmed Speakers: 'Richard Clarke,
     Mary Davis', Contact for Session: '', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: Tuesday, description: !!python/str "Marxism\
+  Programme Material requested (mark X if yes): '', day: Tuesday, description: !!python/str "Marxism\
     \ is becoming popular - even the Governor of the Bank of England has said that\
     \ if the economic crisis worsens, \u201CMarx and Engels may again become relevant\u201D\
     .\_ Marxism reveals that crisis is inherent in capitalism and that its super profits\
@@ -783,21 +791,21 @@ mental-health-and-capitalism: {Action point: '', Category: health, Confirmed Spe
     Ashworth MP, Franco ''Bifo'' Berardi, Lynne Segal, Rebecca Winson, Keir Milburn
     (Chair),Rebecca Winson', Contact for Session: '', Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Monday, description: !!python/str "There\u2019s a 30% chance you\
-    \ will suffer from severe mental distress at some point in your lifetime. We are\
-    \ in the midst of a mental health crisis, exacerbated by cuts to health and social\
-    \ services. The causes of mental distress are varied: relationships, poverty,\
-    \ trauma, to name a few. Yet we rarely discuss the impact of the system we live\
-    \ in: neoliberal capitalism. Have changes in the way we work and live caused an\
-    \ epidemic of anxiety and depression? What role can Labour play in alleviating\
-    \ mental distress? And could socialism be the best antidepressant of all?", image: default,
-  organiser: '', room: 'Theatre ', speakers: jonathan-ashworth-mp franco-bifo-berardi
-    lynne-segal rebecca-winson keir-milburn rebecca-winson, status: READY, time: '17:30-19:00',
+  day: Monday, description: !!python/str "There\u2019s a 30% chance you will suffer\
+    \ from severe mental distress at some point in your lifetime. We are in the midst\
+    \ of a mental health crisis, exacerbated by cuts to health and social services.\
+    \ The causes of mental distress are varied: relationships, poverty, trauma, to\
+    \ name a few. Yet we rarely discuss the impact of the system we live in: neoliberal\
+    \ capitalism. Have changes in the way we work and live caused an epidemic of anxiety\
+    \ and depression? What role can Labour play in alleviating mental distress? And\
+    \ could socialism be the best antidepressant of all?", image: default, organiser: '',
+  room: 'Theatre ', speakers: jonathan-ashworth-mp franco-bifo-berardi lynne-segal
+    rebecca-winson keir-milburn rebecca-winson, status: READY, time: '17:30-19:00',
   title: Lets talk about mental health....And Capitalism, venue: Black-E}
 migrant-political-voices: {Action point: more speakers to confirm, Category: international,
   Confirmed Speakers: (Chair) Steve Hudson;  Rita Chandha; Grzegorsz Rybak; Maya Goodfellow,
   Contact for Session: Steve Hudson, Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: Sunday, description: 'Many
+  Programme Material requested (mark X if yes): '', day: Sunday, description: 'Many
     migrants face political exclusion. In moving from one country to another, migrants
     often forfeit their right to a political voice in both their country of origin
     and their country of residence. They are routinely ignored by society, the media,
@@ -808,7 +816,7 @@ migrant-political-voices: {Action point: more speakers to confirm, Category: int
   time: '17:30-19:00', title: 'Migrant political voices: turning up the volume', venue: Hinterlands}
 mind-the-gap: {Action point: 'Hope to edit ', Category: gender, Confirmed Speakers: '',
   Contact for Session: '', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: Tuesday, description: !!python/str "Too\
+  Programme Material requested (mark X if yes): '', day: Tuesday, description: !!python/str "Too\
     \ few women are elected to positions in the Labour Party, and if we want our movement\
     \ to be truly radical, progressive and reprsentative, we must strive to tackle\
     \ this imbalance. This training-based workshop will focus on developing leadership\
@@ -825,43 +833,42 @@ movement-for-cultural-democracy: {Action point: '', Category: art music culture,
 
     special guests.', Contact for Session: '', Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Monday, description: !!python/str "Cultural democracy entails a\
-    \ struggle for the expansion of culture, politics and democracy beyond its current\
-    \ limits \u2013 its aim is to overcome damaging cultural hierarchies to help realise\
-    \ culture for all, by all. This session will report on current initiatives and\
-    \ provide a forum for participation to elaborate the draft \u2018manifesto for\
-    \ cultural democracy\u2019 and support the broader collective action and alliance\
-    \ building needed to realise cultural democracy in our time.", image: default,
-  organiser: Movement for Cultural Democracy, room: 'Theatre ', speakers: clara-paillard
-    stephen-pritchard rhiannon-white peter-stark nick-mahony moussa-amine-sylla sophie-hope
-    frances-northrop, status: READY, time: '15:00-16:30', title: "Where next for the\
-    \ movement for cultural democracy?\t", venue: Black-E}
+  day: Monday, description: !!python/str "Cultural democracy entails a struggle for\
+    \ the expansion of culture, politics and democracy beyond its current limits \u2013\
+    \ its aim is to overcome damaging cultural hierarchies to help realise culture\
+    \ for all, by all. This session will report on current initiatives and provide\
+    \ a forum for participation to elaborate the draft \u2018manifesto for cultural\
+    \ democracy\u2019 and support the broader collective action and alliance building\
+    \ needed to realise cultural democracy in our time.", image: default, organiser: Movement
+    for Cultural Democracy, room: 'Theatre ', speakers: clara-paillard stephen-pritchard
+    rhiannon-white peter-stark nick-mahony moussa-amine-sylla sophie-hope frances-northrop,
+  status: READY, time: '15:00-16:30', title: "Where next for the movement for cultural\
+    \ democracy?\t", venue: Black-E}
 music-in-the-movement: {Action point: put speakers in speakeer tab, Category: arts
     music culture, Confirmed Speakers: 'Dave Randall, Eliane Correa, Lowkey, Lois
     Browne, Shingai Shoniwa', Contact for Session: melaniep@plutobooks.com, Format: '',
   Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Monday, description: 'How can we use the power of culture against
-    the culture of power? Throughout history and across the world, music has been
-    used as a political weapon. Looking at examples from Rock Against Racism to Justice4Grenfell,
-    this session asks how we can use music to promote justice, solidarity and socialism.',
+  day: Monday, description: 'How can we use the power of culture against the culture
+    of power? Throughout history and across the world, music has been used as a political
+    weapon. Looking at examples from Rock Against Racism to Justice4Grenfell, this
+    session asks how we can use music to promote justice, solidarity and socialism.',
   image: music, organiser: Left Book Club, room: 'Main Space ', speakers: dave-randall
     eliane-correa lowkey lois-browne shingai-shoniwa, status: READY, time: '11:00-12:30',
   title: Music in the movement, venue: Black-E}
 nature-of-the-beast: {Action point: '', Category: film, Confirmed Speakers: Dennis
     Skinner, Contact for Session: Daniel Draper, Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Sunday, description: 'This film screening will provide a portrait
-    of the committed socialist, trade unionist and Labour politician Dennis Skinner.
-    ''Nature of The Beast'' looks at what lies behind his passion and drive, and traces
-    his rise from a local councillor to one of Britain''s most recognisable politicians.
-    The film will be followed by a Q&A session with the man himself!', image: film,
-  organiser: '', room: 'Event Space ', speakers: dennis-skinner-mp, status: READY,
-  time: '19:30-21:15', title: 'Dennis Skinner: Nature of the Beast -  Film and Q&A',
-  venue: Constellations}
+  day: Sunday, description: 'This film screening will provide a portrait of the committed
+    socialist, trade unionist and Labour politician Dennis Skinner. ''Nature of The
+    Beast'' looks at what lies behind his passion and drive, and traces his rise from
+    a local councillor to one of Britain''s most recognisable politicians. The film
+    will be followed by a Q&A session with the man himself!', image: film, organiser: '',
+  room: 'Event Space ', speakers: dennis-skinner-mp, status: READY, time: '19:30-21:15',
+  title: 'Dennis Skinner: Nature of the Beast -  Film and Q&A', venue: Constellations}
 no-pasaran: {Action point: '', Category: international, Confirmed Speakers: Franco
     'Bifo' Berardi; Nelini Stamp; Carina Book, Contact for Session: Katie Kokkinou
     / Eleanor Penny, Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: Sunday, description: 'Though
+  Programme Material requested (mark X if yes): '', day: Sunday, description: 'Though
     its devotees call themselves nationalists, fascism is firmly an international
     problem. Across the world, different countries are seeing similar upsurges of
     the far right, coordinating their street movements across borders - and sometimes
@@ -873,7 +880,7 @@ no-pasaran: {Action point: '', Category: international, Confirmed Speakers: Fran
 occupy-fleet-street: {Action point: Elliot waiting for info, Category: media, Confirmed Speakers: 'Tom
     Mills, Laura Basu, Leo Watkins, Dan Hind, Angela Phillips, Wendy Liu (chair)',
   Contact for Session: Charlie Mac, Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: Sunday, description: !!python/str "Our\
+  Programme Material requested (mark X if yes): '', day: Sunday, description: !!python/str "Our\
     \ media is in crisis and transition. There is a crisis of funding, working conditions,\
     \ quality, trust and accountability in British journalism. Google and Facebook\
     \ have rapidly acquired extraordinary power over what we see and read online.\
@@ -888,19 +895,19 @@ occupy-fleet-street: {Action point: Elliot waiting for info, Category: media, Co
 painting-the-towns-red: {Action point: Add speakers to speaker list, Category: '',
   Confirmed Speakers: 'Chair: Daniel Frost ; Gareth Eales; Jawad Khan', Contact for Session: '',
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Tuesday, description: !!python/str "In 2017 and 2018, Labour made\
-    \ gains in large cities \u2013\_especially London. Elsewhere, the picture has\
-    \ been more mixed. In some towns, like Canterbury\_and Plymouth, Labour did better\
-    \ than expected. In others, Labour struggled \u2013 and some commentators have\
-    \ suggested a problem in \u2018towns\u2019 generally. This panel challenges that\
-    \ narrative by discussing the needs of\_varied types of town, how to revive and\
-    \ support local democracy,\_and what it will take for Labour to win everywhere. ",
-  image: community, organiser: New Socialist, room: 'Theatre ', speakers: daniel-frost
-    gareth-eales jawad-khan, status: READY, time: '09:00-10:30', title: Painting the
-    towns red, venue: Black-E}
+  day: Tuesday, description: !!python/str "In 2017 and 2018, Labour made gains in\
+    \ large cities \u2013\_especially London. Elsewhere, the picture has been more\
+    \ mixed. In some towns, like Canterbury\_and Plymouth, Labour did better than\
+    \ expected. In others, Labour struggled \u2013 and some commentators have suggested\
+    \ a problem in \u2018towns\u2019 generally. This panel challenges that narrative\
+    \ by discussing the needs of\_varied types of town, how to revive and support\
+    \ local democracy,\_and what it will take for Labour to win everywhere. ", image: community,
+  organiser: New Socialist, room: 'Theatre ', speakers: daniel-frost gareth-eales
+    jawad-khan, status: READY, time: '09:00-10:30', title: Painting the towns red,
+  venue: Black-E}
 parties-and-picket-lines: {Action point: '', Category: '', Confirmed Speakers: Ken
     Loach, Contact for Session: Beth Redmond, Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: Saturday, description: 'How
+  Programme Material requested (mark X if yes): '', day: Saturday, description: 'How
     do we merge the political and cultural worlds? Over the last 12 months, along
     with many different activists and local organisations, Manchester Momentum has
     worked to create a long-lasting, positive intervention on the cultural scene in
@@ -914,9 +921,9 @@ parties-and-picket-lines: {Action point: '', Category: '', Confirmed Speakers: K
 popular-education-forum: {Action point: '', Category: education, Confirmed Speakers: Christine
     Berry; Charlie Clarke, Contact for Session: Charlie, Format: Political Education,
   Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Sunday, description: !!python/str "The World Transformed is becoming\
-    \ more than just a festival. We want to help develop socialist education all year\
-    \ round. To this end we\u2019re hosting a special forum where you\u2019ll be invited\
+  day: Sunday, description: !!python/str "The World Transformed is becoming more than\
+    \ just a festival. We want to help develop socialist education all year round.\
+    \ To this end we\u2019re hosting a special forum where you\u2019ll be invited\
     \ to help us map existing projects, share your experience around building political\
     \ education and  work out what the priorities are moving forward.  It\u2019s vital\
     \ that voices from across the movement are involved in shaping this project. So\
@@ -929,20 +936,30 @@ power-for-the-many: {Action point: '', Category: democracy, Confirmed Speakers: 
     Tricket MP; Paul Mason; Nancy Platts; Jonathan Shafi; Chair: Alice Kinghorn Grey',
   Contact for Session: willie.sullivan@electoral-reform.org.uk, Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Sunday, description: 'Democracy is about much more than elections.
-    Governments should be of the people, by the people & for the people, but currently
-    many are failing on all these fronts. What is the political, economic and social
-    impact of the ongoing centralisation of power within our institutions? Through
-    exploring ideas such as municipalism, decentralisation, and electoral reform,
-    and hearing from innovative projects in Scotland, Spain and places in England,
-    this session will help imagine how we can bring about a new democracy. ', image: default,
-  organiser: Electoral Reform Society / Politics for the Many, room: 'Main Space ',
-  speakers: jon-trickett-mp paul-mason nancy-platts jonathan-shafi alice-kinghorn-grey,
-  status: READY, time: '13:00-14:30', title: 'Power for the many: a radical agenda
-    for democracy', venue: Black-E}
+  day: Sunday, description: 'Democracy is about much more than elections. Governments
+    should be of the people, by the people & for the people, but currently many are
+    failing on all these fronts. What is the political, economic and social impact
+    of the ongoing centralisation of power within our institutions? Through exploring
+    ideas such as municipalism, decentralisation, and electoral reform, and hearing
+    from innovative projects in Scotland, Spain and places in England, this session
+    will help imagine how we can bring about a new democracy. ', image: default, organiser: Electoral
+    Reform Society / Politics for the Many, room: 'Main Space ', speakers: jon-trickett-mp
+    paul-mason nancy-platts jonathan-shafi alice-kinghorn-grey, status: READY, time: '13:00-14:30',
+  title: 'Power for the many: a radical agenda for democracy', venue: Black-E}
+progressive-nationalism: {Action point: '', Category: '', Confirmed Speakers: 'Dalia
+    Gebrial, Kojo Koram', Contact for Session: '', Format: '', Possible Speakers: '',
+  'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
+  day: Tuesday, description: 'In recent years, some people have argued the left should
+    embrace nationalism or patriotism to reconnect with voters. But what are the limitations,
+    and even dangers, of building a political project on these terms? How can we build
+    a more internationalist vision for a socialist future? This panel interrogates
+    the history of nationalism by looking at it in the wider historical and global
+    context of colonialism, racism and empire.', image: international, organiser: '',
+  room: Events Space, speakers: dalia-gebrial kojo-koram, status: READY, time: '17:30-19:00',
+  title: 'Progressive Nationalism?', venue: Constellations}
 queer-liberation-and-assimilation: {Action point: '', Category: gender, Confirmed Speakers: '',
   Contact for Session: '', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: Sunday, description: 'With
+  Programme Material requested (mark X if yes): '', day: Sunday, description: 'With
     corporations & the police joining Pride marches, the legalisation of same-sex
     marriage, the government and even some religious institutions becoming more "LGBTQ
     positive", the struggle for LGBTQ rights has forced significant societal change.
@@ -955,7 +972,7 @@ queer-liberation-and-assimilation: {Action point: '', Category: gender, Confirme
     and Assimilation ', venue: Black-E}
 racisms-past-and-present: {Action point: '', Category: race, Confirmed Speakers: 'to
     be confirmed ', Contact for Session: '', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: Monday, description: 'Join
+  Programme Material requested (mark X if yes): '', day: Monday, description: 'Join
     leading scholars for a discussion of racism in Britain, its long history and how
     the left can and should battle against it. We will discuss antisemitism, islamophobia,
     white supremacy and the Palestinian struggle for justice, looking at how bigotries
@@ -965,19 +982,19 @@ racisms-past-and-present: {Action point: '', Category: race, Confirmed Speakers:
 red-white-blue-labour: {Action point: '', Category: race, Confirmed Speakers: 'James
     Butler (Chair), Ash Sarkar', Contact for Session: '', Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Saturday, description: !!python/str "From Diane Abbott's lifelong\
-    \ anti-racist activism to Neil Kinnock\u2019s efforts to block black sections\
-    \ within the party, Labour has a polarised past when it comes to its relationship\
-    \ with Britain's BAME communities. Now, up against the normalisation of far-right\
-    \ politics by the British establishment, and the need to reconcile the differences\
-    \ between sections of its electoral coalition who have vastly different attitudes\
-    \ towards immigration, can Labour win power on a platform of progressive economic\
-    \ policy and radical anti-racism?", image: international, organiser: Novara Media,
-  room: Main Space, speakers: james-butler ash-sarkar, status: READY, time: '17:30-19:00',
+  day: Saturday, description: !!python/str "From Diane Abbott's lifelong anti-racist\
+    \ activism to Neil Kinnock\u2019s efforts to block black sections within the party,\
+    \ Labour has a polarised past when it comes to its relationship with Britain's\
+    \ BAME communities. Now, up against the normalisation of far-right politics by\
+    \ the British establishment, and the need to reconcile the differences between\
+    \ sections of its electoral coalition who have vastly different attitudes towards\
+    \ immigration, can Labour win power on a platform of progressive economic policy\
+    \ and radical anti-racism?", image: international, organiser: Novara Media, room: Main
+    Space, speakers: james-butler ash-sarkar, status: READY, time: '17:30-19:00',
   title: 'Red, White, and Blue Labour', venue: Hinterlands}
 regenerating-regeneration: {Action point: '', Category: culture, Confirmed Speakers: Stephen
     Pritchard, Contact for Session: '', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: Sunday, description: 'How
+  Programme Material requested (mark X if yes): '', day: Sunday, description: 'How
     are arts and culture implicated in regeneration, gentrification and social cleansing
     in the UK? How can we respond to the ongoing neoliberalisation of arts and culture
     which has lead to what we might call "artwashing"? Through participation and by
@@ -994,33 +1011,33 @@ rentquake: {Action point: '', Category: social secutiry, Confirmed Speakers: 'Pa
 
     Jacob Mukherjee (chair)', Contact for Session: '', Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Sunday, description: !!python/str "The number of private renters\
-    \ has doubled since 2004; many of us live in expensive housing with appalling\
-    \ conditions, from which we could be forced to move at a moment\u2019s notice.\
-    \ But now renters are getting organised! Several grassroots organiations have\
-    \ recruited hundreds of members through community outreach and direct action,\
-    \ while national campaigns have shifted the political agenda around housing. Come\
-    \ along to learn about the challenges, opportunities and tactics underpinning\
-    \ renter organising!", image: housing, organiser: 'London Renters Union, Acorn,
-    Generation Rent , Greater Manchester Housing Action ', room: Studio, speakers: paul-williams
-    siobhan-donnachie jacob-mukherjee, status: READY, time: '15:00-16:30', title: 'Rentquake:
-    strategies and tactics for the new private renter movement ', venue: Black-E}
+  day: Sunday, description: !!python/str "The number of private renters has doubled\
+    \ since 2004; many of us live in expensive housing with appalling conditions,\
+    \ from which we could be forced to move at a moment\u2019s notice. But now renters\
+    \ are getting organised! Several grassroots organiations have recruited hundreds\
+    \ of members through community outreach and direct action, while national campaigns\
+    \ have shifted the political agenda around housing. Come along to learn about\
+    \ the challenges, opportunities and tactics underpinning renter organising!",
+  image: housing, organiser: 'London Renters Union, Acorn, Generation Rent , Greater
+    Manchester Housing Action ', room: Studio, speakers: paul-williams siobhan-donnachie
+    jacob-mukherjee, status: READY, time: '15:00-16:30', title: 'Rentquake: strategies
+    and tactics for the new private renter movement ', venue: Black-E}
 runaway-finance: {Action point: '', Category: economy, Confirmed Speakers: Ann Pettifor;
     Sarah-Jayne Clifton; Michael Roberts; Matt Wrack; Fran Boait, Contact for Session: Archie,
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Sunday, description: '10 years after the Great Crash, and the finance
-    sector still reigns large. Shadow banking, money laundering, and predatory lending
-    are all out of control, at the expense of workers, states, and the stability of
-    the global economy. This session asks what needs to happen to make finance and
-    the banks work for people and planet. How do we direct investment towards the
-    real economy? Do we need to take control of the banks? And what do we do about
-    the offshore world and the global financial elite? Come and discuss. ', image: finance,
+  day: Sunday, description: '10 years after the Great Crash, and the finance sector
+    still reigns large. Shadow banking, money laundering, and predatory lending are
+    all out of control, at the expense of workers, states, and the stability of the
+    global economy. This session asks what needs to happen to make finance and the
+    banks work for people and planet. How do we direct investment towards the real
+    economy? Do we need to take control of the banks? And what do we do about the
+    offshore world and the global financial elite? Come and discuss. ', image: finance,
   organiser: '', room: 'Event Space ', speakers: ann-pettifor sarah-jayne-clifton
     michael-roberts matt-wrack fran-boait, status: READY, time: '17:30-19:00', title: 'Runaway
     finance: should we take over the banks?', venue: Constellations}
 sacrifice-zones: {Action point: '', Category: international/environment/economy, Confirmed Speakers: '',
   Contact for Session: '', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: Sunday, description: !!python/str "Neo-liberalism,\
+  Programme Material requested (mark X if yes): '', day: Sunday, description: !!python/str "Neo-liberalism,\
     \ inequality and climate change have led to a millions of people in the global\_\
     South dying or being forced from their homes. As the Planetary emergency tips\
     \ us towards a point of no return, this session explores the logic of \u2018sacrifice\
@@ -1036,53 +1053,53 @@ saving-the-nhs: {Action point: '', Category: health/economy, Confirmed Speakers:
     s Hospital campaign\nSuccessful Wigan NHS anti-outsourcing campaign\nSocialist\
     \ Health Association\nPublic Matters", Contact for Session: george@neweconomyorganisers.org,
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Sunday, description: !!python/str "Our NHS has been under attack\
-    \ from successive governments, whose policies have weakened the popular and efficient\
-    \ model on which it was founded, breaking it up, selling it off and creating a\
-    \ full-blown staffing crisis. How can the NHS be saved? Can it be improved upon?\
-    \ In this session we\u2019ll develop a plan to build the mass movement we need\
-    \ to save our NHS, hearing from a wide-ranging set of speakers from the UK and\
-    \ further afield, and, most importantly, from you!", image: healthcare, organiser: NEON,
+  day: Sunday, description: !!python/str "Our NHS has been under attack from successive\
+    \ governments, whose policies have weakened the popular and efficient model on\
+    \ which it was founded, breaking it up, selling it off and creating a full-blown\
+    \ staffing crisis. How can the NHS be saved? Can it be improved upon? In this\
+    \ session we\u2019ll develop a plan to build the mass movement we need to save\
+    \ our NHS, hearing from a wide-ranging set of speakers from the UK and further\
+    \ afield, and, most importantly, from you!", image: healthcare, organiser: NEON,
   room: Main Space, speakers: '', status: READY, time: '11:00-12:30', title: 'Saving
     the NHS: planning our fightback', venue: Black-E}
 social-strike-game: {Action point: '', Category: '', Confirmed Speakers: 'Keir Milburn,
     Gareth Brown, Will Barker', Contact for Session: Keir Milburn, Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Saturday, description: !!python/str "Come and play the Social Strike\
-    \ Game, a\_team-based strategy game that\u2019s fun for all the comrades. Use\
-    \ your imagination to figure out ways that an array of different groups can\_\
-    co-ordinate their struggles\_to\_transform their city.\_If you want to get thinking\
-    \ strategically and tactically about social struggles in the place where you actually\
-    \ live - this is the session for you! ", image: default, organiser: '', room: 'Studio ',
+  day: Saturday, description: !!python/str "Come and play the Social Strike Game,\
+    \ a\_team-based strategy game that\u2019s fun for all the comrades. Use your imagination\
+    \ to figure out ways that an array of different groups can\_co-ordinate their\
+    \ struggles\_to\_transform their city.\_If you want to get thinking strategically\
+    \ and tactically about social struggles in the place where you actually live -\
+    \ this is the session for you! ", image: default, organiser: '', room: 'Studio ',
   speakers: keir-milburn gareth-brown will-barker, status: READY, time: '15:00-16:30',
   title: 'Social Strike Game ', venue: Black-E}
 socialist-women-in-labour: {Action point: '', Category: gender, Confirmed Speakers: Emma
     Dent-Coad MP      Danielle Rowley MP      Jennifer Forbes      Ann Henderson      Leah
     Levane      Dr Faiza Shaheen      Dawn Butler MP (yet to confirm), Contact for Session: vzqzdlfns@aol.com,
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Saturday, description: 'From protecting public services to fighting
-    for affordable housing, from Corbynomics to defending our communities, Labour
-    left women across the country are shaping and implementing a socialist agenda
-    that works for the many and not the few. But how can we ensure the voices of socialist
-    women are centred within the work of the Labour Party? And why does this matter?
-    Join a panel organised by Labour Women Leading to discuss. ', image: women, organiser: Labour
+  day: Saturday, description: 'From protecting public services to fighting for affordable
+    housing, from Corbynomics to defending our communities, Labour left women across
+    the country are shaping and implementing a socialist agenda that works for the
+    many and not the few. But how can we ensure the voices of socialist women are
+    centred within the work of the Labour Party? And why does this matter? Join a
+    panel organised by Labour Women Leading to discuss. ', image: women, organiser: Labour
     Women Leading / Carmen, room: Theatre, speakers: emma-dent-coad-mp danielle-rowley-mp
     jennifer-forbes ann-henderson leah-levane dr-faiza-shaheen dawn-butler-mp, status: READY,
   time: '17:30-19:00', title: Why the Labour Party needs socialist women, venue: Black-E}
 sustainability-economics: {Action point: '', Category: environment, Confirmed Speakers: Clive
     Lewis; Kevin Anderson; Clara Paillard; Gail McAnena, Contact for Session: '',
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Tuesday, description: !!python/str "Join Shadow Treasury Minister,\
-    \ Clive Lewis, to hear about Labour\u2019s work on sustainable economics. What\
-    \ should the treasury be doing to tackle the world's looming ecological crises?\
-    \ The different environmental issues we face can't be siloed off as a separate\
-    \ topic - it's all intimately connected with our entire economic model and the\
-    \ solutions need to be integrated into every area of government. Clive Lewis will\
-    \ be joined by expert climate scientists as well as activists and organisers from\
-    \ the trade union movement to discuss how we can move forward.", image: earth,
-  organiser: '', room: Event Space, speakers: clive-lewis-mp kevin-anderson clara-paillard
-    gail-mcanena, status: READY, time: '15:00-16:30', title: 'Investing in our future:
-    sustainability economics', venue: Constellations}
+  day: Tuesday, description: !!python/str "Join Shadow Treasury Minister, Clive Lewis,\
+    \ to hear about Labour\u2019s work on sustainable economics. What should the treasury\
+    \ be doing to tackle the world's looming ecological crises? The different environmental\
+    \ issues we face can't be siloed off as a separate topic - it's all intimately\
+    \ connected with our entire economic model and the solutions need to be integrated\
+    \ into every area of government. Clive Lewis will be joined by expert climate\
+    \ scientists as well as activists and organisers from the trade union movement\
+    \ to discuss how we can move forward.", image: earth, organiser: '', room: Event
+    Space, speakers: clive-lewis-mp kevin-anderson clara-paillard gail-mcanena, status: READY,
+  time: '15:00-16:30', title: 'Investing in our future: sustainability economics',
+  venue: Constellations}
 taking-whats-ours: {Action point: Charlie editing, Category: democracy, Confirmed Speakers: '
 
     Thomas M. Hanna
@@ -1094,7 +1111,7 @@ taking-whats-ours: {Action point: Charlie editing, Category: democracy, Confirme
     Andrew Towers
 
     Andrew Cumbers', Contact for Session: '', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: Tuesday, description: 'On
+  Programme Material requested (mark X if yes): '', day: Tuesday, description: 'On
     every continent, activists and political leaders are transforming struggles to
     resist privatization into campaigns to restore public ownership. The Labour Party
     is no exception. For many however, public ownership still means nothing more than
@@ -1110,64 +1127,63 @@ the-brexit-bind: {Action point: Andrew to edit title/blurb, Category: internatio
   Confirmed Speakers: Ann Pettifor; Paul Mason; Costas Lapavitsas; Mary Kaldor; Laura
     Parker (Chair), Contact for Session: lukecooper100@yahoo.co.uk, Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Saturday, description: !!python/str "The EU referendum divided\
-    \ the nation, splitting society into two seemingly immovable camps defined by\
-    \ Leave or Remain. In GE2017 Labour united both sides of the divide around a vision\
-    \ for economic transformation, while remaining \u2018constructively ambiguous\u2019\
-    \ on Brexit. Yet as \u2018no-deal\u2019 becomes more likely, some argue Labour\
-    \ must move firmly to oppose this Brexit. Others say this will undermine Labour's\
-    \ electoral base and further shackle the UK to neoliberal economics. What\u2019\
-    s the solution? Join us and find out.", image: europe, organiser: AEIP, room: 'Main
-    Space ', speakers: ann-pettifor paul-mason costas-lapavitsas mary-kaldor laura-parker,
-  status: READY, time: '19:30-21:15', title: !!python/str "The Brexit bind: what should\
-    \ Labour\u2019s position on Brexit be?", venue: Hinterlands}
+  day: Saturday, description: !!python/str "The EU referendum divided the nation,\
+    \ splitting society into two seemingly immovable camps defined by Leave or Remain.\
+    \ In GE2017 Labour united both sides of the divide around a vision for economic\
+    \ transformation, while remaining \u2018constructively ambiguous\u2019 on Brexit.\
+    \ Yet as \u2018no-deal\u2019 becomes more likely, some argue Labour must move\
+    \ firmly to oppose this Brexit. Others say this will undermine Labour's electoral\
+    \ base and further shackle the UK to neoliberal economics. What\u2019s the solution?\
+    \ Join us and find out.", image: europe, organiser: AEIP, room: 'Main Space ',
+  speakers: ann-pettifor paul-mason costas-lapavitsas mary-kaldor laura-parker, status: READY,
+  time: '19:30-21:15', title: !!python/str "The Brexit bind: what should Labour\u2019\
+    s position on Brexit be?", venue: Hinterlands}
 the-european-left: {Action point: '', Category: international, Confirmed Speakers: 'Pablo
     Bustinduy, Fabio de Masi, Pernille Skipper, Martina Fana, Chair: Ronan Burtenshaw',
   Contact for Session: <ronanburtenshaw@gmail.com>, Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Saturday, description: 'In recent years, Europe has seen austerity
-    give way to political turmoil and the rise of the radical right. How should the
-    left respond? Join MPs from across the European left to discuss the inequalities
-    that lie at the heart of Europe, the merits of the European Union, and what we
-    can learn from the different strategies deployed by socialist parties in both
-    the past and the present. ', image: europe, organiser: Jacobin, room: 'Main Space ',
-  speakers: pablo-bustinduy fabio-de-masi pernille-skipper martina-fana ronan-burtenshaw,
-  status: READY, time: '13:00-14:30', title: 'Where next for the European left?',
-  venue: Black-E}
+  day: Saturday, description: 'In recent years, Europe has seen austerity give way
+    to political turmoil and the rise of the radical right. How should the left respond?
+    Join MPs from across the European left to discuss the inequalities that lie at
+    the heart of Europe, the merits of the European Union, and what we can learn from
+    the different strategies deployed by socialist parties in both the past and the
+    present. ', image: europe, organiser: Jacobin, room: 'Main Space ', speakers: pablo-bustinduy
+    fabio-de-masi pernille-skipper martina-fana ronan-burtenshaw, status: READY, time: '13:00-14:30',
+  title: 'Where next for the European left?', venue: Black-E}
 the-gig-economy: {Action point: Hope, Category: international, Confirmed Speakers: 'Callum
     Cant
 
     ', Contact for Session: mail@stevehudson.net, Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Monday, description: !!python/str "On paper the gig economy poses\
-    \ significant problems to union organisers regardless of geography, nevertheless,\
-    \ the last two years have seen an international wave of workers\u2019 organisation\
-    \ in this burgeoning sector. How were these struggles coordinated and can  lessons\
-    \ be applied elsewhere?", image: uber, organiser: Labour International CLP, room: Event
+  day: Monday, description: !!python/str "On paper the gig economy poses significant\
+    \ problems to union organisers regardless of geography, nevertheless, the last\
+    \ two years have seen an international wave of workers\u2019 organisation in this\
+    \ burgeoning sector. How were these struggles coordinated and can  lessons be\
+    \ applied elsewhere?", image: uber, organiser: Labour International CLP, room: Event
     Space, speakers: callum-cant, status: READY, time: '15:00-16:30', title: Transnational
     resistance in the gig economy, venue: Constellations}
 towards-a-socialist-government: {Action point: '', Category: '', Confirmed Speakers: "John\
     \ McDonnell MP\nDiane Abbott MP\nRichard Burgon MP \nRebecca Long-Bailey MP\n\
     Dennis Skinner MP\n+ Very Special Guest ", Contact for Session: '', Format: '',
   Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Tuesday, description: !!python/str "The Socialist Campaign Group\
-    \ of Labour MPs, founded by Tony Benn, has for nearly 40 years been the organised\
-    \ grouping of Labour left MPs standing for socialism, and it was from this group\
-    \ that Jeremy Corbyn\u2019s leadership campaign was launched. In this session,\
-    \ join The Socialist Campaign Group of Labour MPs for a special rally that will\
-    \ look to our shared vision of a socialist government in the UK. ", image: default,
-  organiser: Socialist Campaign Group, room: Main Space, speakers: john-mcdonnell-mp
-    diane-abbott-mp richard-burgon-mp rebecca-long-bailey-mp dennis-skinner-mp, status: READY,
-  time: '19:30-21:15', title: Towards a socialist government, venue: Hinterlands}
+  day: Tuesday, description: !!python/str "The Socialist Campaign Group of Labour\
+    \ MPs, founded by Tony Benn, has for nearly 40 years been the organised grouping\
+    \ of Labour left MPs standing for socialism, and it was from this group that Jeremy\
+    \ Corbyn\u2019s leadership campaign was launched. In this session, join The Socialist\
+    \ Campaign Group of Labour MPs for a special rally that will look to our shared\
+    \ vision of a socialist government in the UK. ", image: default, organiser: Socialist
+    Campaign Group, room: Main Space, speakers: john-mcdonnell-mp diane-abbott-mp
+    richard-burgon-mp rebecca-long-bailey-mp dennis-skinner-mp, status: READY, time: '19:30-21:15',
+  title: Towards a socialist government, venue: Hinterlands}
 trading-with-trump: {Action point: '', Category: international, Confirmed Speakers: !!python/str "Nick\
     \ Dearden, GJN and\_Jean Blaylock,\_War on Want,\_Barry Gardiner", Contact for Session: '',
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Saturday, description: !!python/str "Liam Fox is jetting around\
-    \ the world trying to sign trade deals with everyone from Trump\u2019s US to the\
-    \ Saudi regime, the murderous president of the Philippines to Turkey\u2019s dictatorial\
-    \ government. These trade deals would legitimise tyrannical regimes and could\
-    \ lock us into\_a US-style model of privatisation and deregulation. What can be\
-    \ done? Can MPs stop it? Come along and find out.\_\_\_", image: america, organiser: Global
+  day: Saturday, description: !!python/str "Liam Fox is jetting around the world trying\
+    \ to sign trade deals with everyone from Trump\u2019s US to the Saudi regime,\
+    \ the murderous president of the Philippines to Turkey\u2019s dictatorial government.\
+    \ These trade deals would legitimise tyrannical regimes and could lock us into\_\
+    a US-style model of privatisation and deregulation. What can be done? Can MPs\
+    \ stop it? Come along and find out.\_\_\_", image: america, organiser: Global
     Justice Now, room: Event Space, speakers: nick-dearden jean-blaylock barry-gardiner-mp,
   status: READY, time: '13:00-14:30', title: Trading with Trump, venue: Constellations}
 transform-the-world-8-to-13: {Action point: '', Category: u18s, Confirmed Speakers: !!python/str "Lead\
@@ -1175,7 +1191,7 @@ transform-the-world-8-to-13: {Action point: '', Category: u18s, Confirmed Speake
     \ DBS\nCo-facilitator: Jessica Buxton, jess@thebookwormplayers.com 07784101522\
     \ has DBS", Contact for Session: !!python/str "Rachael O\u2019Byrne, hello@rachaelobyrne.co.uk\
     \ 07470283495", Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: Saturday, description: !!python/str "Are\
+  Programme Material requested (mark X if yes): '', day: Saturday, description: !!python/str "Are\
     \ you passionate about making positive change to where you live, your school,\
     \ your local park, your youth club? What would you do if you were in charge of\
     \ your local council or the UK government? What changes would you make? And how\
@@ -1186,54 +1202,54 @@ transform-the-world-8-to-13: {Action point: '', Category: u18s, Confirmed Speake
 transforming-the-global-economy: {Action point: '', Category: economy, Confirmed Speakers: 'John
     McDonnell MP; Leo Panitch; Raquel Rolnik ', Contact for Session: Elliot, Format: '',
   Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Monday, description: 'In 2008, the world economy was rocked by
-    the worst crisis since the Great Depression. The crisis exposed the irrationality,
-    injustice, and unsustainability at the heart of global capitalism. And yet, a
-    decade on, we still live with its fallout. Join the Shadow Chancellor and international
-    guests to discuss what''s wrong with the whole structure of the global economy,
-    and how a radical Labour government can lead the way in building a new international
-    economic order that works for the many, not the few.', image: finance, organiser: '',
-  room: 'Main Space ', speakers: john-mcdonnell-mp leo-panitch raquel-rolnik, status: READY,
+  day: Monday, description: 'In 2008, the world economy was rocked by the worst crisis
+    since the Great Depression. The crisis exposed the irrationality, injustice, and
+    unsustainability at the heart of global capitalism. And yet, a decade on, we still
+    live with its fallout. Join the Shadow Chancellor and international guests to
+    discuss what''s wrong with the whole structure of the global economy, and how
+    a radical Labour government can lead the way in building a new international economic
+    order that works for the many, not the few.', image: finance, organiser: '', room: 'Main
+    Space ', speakers: john-mcdonnell-mp leo-panitch raquel-rolnik, status: READY,
   time: '19:30-21:15', title: '10 years since the Financial Crisis: transforming the
     global economy', venue: Hinterlands}
 tribune-relaunch: {Action point: '', Category: media, Confirmed Speakers: 'Owen Jones,
     David Harvey, Ronan Burtenshaw, Grace Blakeley', Contact for Session: <ronanburtenshaw@gmail.com>,
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Saturday, description: 'Tribune is Britain''s oldest socialist
-    magazine, started in 1937 in support of the Popular Front against fascism in Spain.
-    Over the years its leading figures - from Nye Bevan and Jennie Lee to Barbara
-    Castle and Michael Foot - have made defining contributions to socialism in Britain.
-    Now, relaunching under new ownership, contributors to Tribune''s new issue will
-    reflect on this history and the importance of winning the battle of ideas in an
-    era of capitalist crisis.', image: news, organiser: Jacobin, room: Main Space,
-  speakers: owen-jones david-harvey ronan-burtenshaw grace-blakeley, status: READY,
-  time: '17:30-19:00', title: 'Tribune: the relaunch', venue: Black-E}
+  day: Saturday, description: 'Tribune is Britain''s oldest socialist magazine, started
+    in 1937 in support of the Popular Front against fascism in Spain. Over the years
+    its leading figures - from Nye Bevan and Jennie Lee to Barbara Castle and Michael
+    Foot - have made defining contributions to socialism in Britain. Now, relaunching
+    under new ownership, contributors to Tribune''s new issue will reflect on this
+    history and the importance of winning the battle of ideas in an era of capitalist
+    crisis.', image: news, organiser: Jacobin, room: Main Space, speakers: owen-jones
+    david-harvey ronan-burtenshaw grace-blakeley, status: READY, time: '17:30-19:00',
+  title: 'Tribune: the relaunch', venue: Black-E}
 twt-football-final: {Action point: '', Category: '', Confirmed Speakers: '', Contact for Session: Adam,
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Sunday, description: 'Football has always been a sport inextricably
-    tied to so many of the traditional bases of the labour movement. But unaccountable
-    millionaire club owners has led to fan alienation that is being exploited by the
-    far right. This is in direct opposition to inclusive socialist principles and
-    must be challenged. In this special session, join Fans Supporting Foodbanks for
-    a short discussion about fan ownership of clubs and how football can be a vehicle
-    for solidarity and progressive politics, before witnessing the final of the inaugural
-    TWT 5-a-side football tournament! ', image: football, organiser: 'Fans Support
-    Foodbanks ', room: 'Sports Hall ', speakers: '', status: READY, time: '15:00-16:30',
-  title: 'Grassroots on the pitch: TWT football final ', venue: 'Sports Hall '}
+  day: Sunday, description: 'Football has always been a sport inextricably tied to
+    so many of the traditional bases of the labour movement. But unaccountable millionaire
+    club owners has led to fan alienation that is being exploited by the far right.
+    This is in direct opposition to inclusive socialist principles and must be challenged.
+    In this special session, join Fans Supporting Foodbanks for a short discussion
+    about fan ownership of clubs and how football can be a vehicle for solidarity
+    and progressive politics, before witnessing the final of the inaugural TWT 5-a-side
+    football tournament! ', image: football, organiser: 'Fans Support Foodbanks ',
+  room: 'Sports Hall ', speakers: '', status: READY, time: '15:00-16:30', title: 'Grassroots
+    on the pitch: TWT football final ', venue: 'Sports Hall '}
 update-the-welfare-state: {Action point: '', Category: social security, Confirmed Speakers: stewart-lansley
     dan-carden-mp gail-ward anna-dent will-stronge, Contact for Session: will.stronge1@gmail.com,
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Saturday, description: !!python/str "It\u2019s clear to many that\_\
-    the\_welfare system is stigmatising, punitive and no longer fit for purpose. But\
-    \ how should it be changed?\_What does a social security system based on solidarity,\
-    \ interdependence and universality look like? This roundtable session brings policy\
-    \ experts, economists and activists together to discuss how we can radically reform\
-    \ the welfare state. ", image: welfare, organiser: Autonomy, room: Theatre, speakers: stewart-lansley
-    dan-carden-mp gail-ward anna-dent will-stronge, status: READY, time: '11:00-12:30',
-  title: Update the welfare state, venue: Hinterlands}
+  day: Saturday, description: !!python/str "It\u2019s clear to many that\_the\_welfare\
+    \ system is stigmatising, punitive and no longer fit for purpose. But how should\
+    \ it be changed?\_What does a social security system based on solidarity, interdependence\
+    \ and universality look like? This roundtable session brings policy experts, economists\
+    \ and activists together to discuss how we can radically reform the welfare state. ",
+  image: welfare, organiser: Autonomy, room: Theatre, speakers: stewart-lansley dan-carden-mp
+    gail-ward anna-dent will-stronge, status: READY, time: '11:00-12:30', title: Update
+    the welfare state, venue: Hinterlands}
 wargaming-a-radical-government: {Action point: '', Category: '', Confirmed Speakers: '',
   Contact for Session: Archie, Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: Sunday, description: 'In
+  Programme Material requested (mark X if yes): '', day: Sunday, description: 'In
     a game based on the acclaimed novel, A Very British Coup, fifty players take on
     the roles of the different factions of the 1980s Labour party. They must compete
     and collaborate to ensure that their preferred policies are prioritised by the
@@ -1247,26 +1263,26 @@ wargaming-a-radical-government: {Action point: '', Category: '', Confirmed Speak
 why-political-education: {Action point: '', Category: education, Confirmed Speakers: 'John
     McDonnell ', Contact for Session: charlie clarke, Format: Political Education,
   Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Saturday, description: !!python/str "Winning elections is not enough\
-    \ to guarantee transformative change. We need to unleash the political imagination\
-    \ of the grassroots and inspire people to think and learn with each other. To\
-    \ do this we need a popular education movement. To kick off our focus on political\
-    \ education at TWT2018, we\u2019ll be hearing from a range of educators, activists\
-    \ and politicians on what we mean by popular political education? Why it\u2019\
-    s important now? And who\u2019s educating who anyway?", image: default, organiser: '',
-  room: Main Space, speakers: john-mcdonnell-mp, status: READY, time: '11:00-12:30',
-  title: 'Making the case for political education ', venue: Black-E}
+  day: Saturday, description: !!python/str "Winning elections is not enough to guarantee\
+    \ transformative change. We need to unleash the political imagination of the grassroots\
+    \ and inspire people to think and learn with each other. To do this we need a\
+    \ popular education movement. To kick off our focus on political education at\
+    \ TWT2018, we\u2019ll be hearing from a range of educators, activists and politicians\
+    \ on what we mean by popular political education? Why it\u2019s important now?\
+    \ And who\u2019s educating who anyway?", image: default, organiser: '', room: Main
+    Space, speakers: john-mcdonnell-mp, status: READY, time: '11:00-12:30', title: 'Making
+    the case for political education ', venue: Black-E}
 workers-control-in-economic-planning: {Action point: '', Category: democracy/economy,
   Confirmed Speakers: 'Hilary Wainwright, Sam Mason, Brian Salisbury, Pat Devine',
   Contact for Session: ruairidhpaton@gmail.com, Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Sunday, description: 'The Lucas Plan is one of the most radical
-    alternative models to economic planning ever drawn up by workers. By demanding
-    the right to socially useful production, the plan reopened the debate on economic
-    democracy. 40 years on, these ideas are as relevant as ever. How can we build
-    workers'' control into economic planning? What technological tools are available
-    for us to enhance the possibility of popular economic control? How can organised
-    Labour champion the right to production with a social purpose?', image: workplace,
-  organiser: 'Red Pepper, Spokesman', room: 'Theatre ', speakers: hilary-wainwright
-    sam-mason brian-salisbury pat-devine, status: READY, time: '15:00-16:30', title: Workers'
-    control in economic planning, venue: Black-E}
+  day: Sunday, description: 'The Lucas Plan is one of the most radical alternative
+    models to economic planning ever drawn up by workers. By demanding the right to
+    socially useful production, the plan reopened the debate on economic democracy.
+    40 years on, these ideas are as relevant as ever. How can we build workers'' control
+    into economic planning? What technological tools are available for us to enhance
+    the possibility of popular economic control? How can organised Labour champion
+    the right to production with a social purpose?', image: workplace, organiser: 'Red
+    Pepper, Spokesman', room: 'Theatre ', speakers: hilary-wainwright sam-mason brian-salisbury
+    pat-devine, status: READY, time: '15:00-16:30', title: Workers' control in economic
+    planning, venue: Black-E}

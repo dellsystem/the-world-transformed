@@ -75,9 +75,13 @@ for row in speakers_csv:
     if speaker['sessions']:
         # Check if the speaker image file exists on the filesystem.
         speaker['photo'] = os.path.exists('../../images/speakers/%s.jpg' % slug)
+        if not speaker['photo']:
+            print "Missing image", slug, speaker['name']
+
         speakers[slug] = speaker
     else:
-        print "No sessions for", speaker['name']
+        pass
+        #print "No sessions for", speaker['name']
 
 yaml.dump(speakers, open('speakers.yml', 'wt'))
 
