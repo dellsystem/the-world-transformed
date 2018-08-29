@@ -56,6 +56,8 @@ for row in sessions_csv:
                 speaker_sessions[speaker_slug].add(slug)
         if not session['image']:
             print "Missing image for", session['title']
+        if ' ' in session['day']:
+            print "Bad day for", session['title']
     else:
         print "Missing slug for", session['title']
 

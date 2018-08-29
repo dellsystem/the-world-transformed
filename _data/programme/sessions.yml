@@ -67,7 +67,7 @@ a-movement-led-media: {Action point: '', Category: media, Confirmed Speakers: 'B
 a-new-economic-consensus: {Action point: '', Category: economy/democracy, Confirmed Speakers: 'Chair:
     Ed Miliband MP; Lisa Nandy MP, Richard Leonard, Grace Blakeley', Contact for Session: '',
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: 'Sunday ', description: 'Amid all the talk of splits and rivalries,
+  Status: '', day: Sunday, description: 'Amid all the talk of splits and rivalries,
     a new consensus has been quietly forming between different wings of the Labour
     party - neoliberalism has divided and weakened British society. Could the road
     to recovery run through a decentralised, democratic economy, where revived local
@@ -134,7 +134,7 @@ a-socialist-story-of-modern-britain: {Action point: Elliot waiting on info, Cate
   Confirmed Speakers: "Melissa Benn, Alan Finlayson, Jeremy Gilbert, Clive Lewis,\
     \ Chair: Francis Foley \n", Contact for Session: Jeremy Gilbert, Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: 'Sunday ', description: !!python/str "For Labour to build the coalition\
+  Status: '', day: Sunday, description: !!python/str "For Labour to build the coalition\
     \ of support that it needs, we need to be able to tell people a clear and comprehensive\
     \ story about how the country got into the state it\u2019s in, and how we think\
     \ we can get out of it. What should that story be? Come and discuss!", image: history,
@@ -200,7 +200,7 @@ an-intersection-of-class-and-gender: {Action point: '', Category: gender, Confir
   title: At the intersection of class and gender, venue: Black-E}
 apps-for-the-many: {Action point: '', Category: tech, Confirmed Speakers: '', Contact for Session: '',
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: 'Tuesday ', description: Brainstorming App ideas for the Movement,
+  Status: '', day: Tuesday, description: Brainstorming App ideas for the Movement,
   image: computer, organiser: Momentum Tech, room: 'Meeting room ', speakers: '',
   time: '11:00-12:30', title: 'Apps for the many ', venue: Black-E}
 artists-4-corbyn: {Action point: '', Category: arts music and culture, Confirmed Speakers: '',
@@ -279,16 +279,16 @@ britains-colonial-legacy-in-palestine: {Action point: '', Category: internationa
 britains-new-far-right: {Action point: '', Category: '', Confirmed Speakers: Richard
     Burgon; Ash Sarkar; Alan Gibbons; Eleanor Penny, Contact for Session: Katie Kokkinou
     / Eleanor Penny, Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: 'Saturday ',
-  description: 'From Tommy Robinson on the streets to Boris Johnson in the halls of
-    power, a growing far right movement is on the march. Hate crimes are on the rise,
-    along with islamophobia, antisemitism, and fear-mongering about migrants. In other
-    words, it''s no fringe issue - far right ideas are deeply rooted in UK society.
-    We need to tackle where the the far right comes from, what makes it tick, and
-    why it''s recently grown so powerful - so we can build an anti-fascist movement
-    to beat it once and for all.', image: fascism, organiser: Katie K, room: Main
-    Space, speakers: richard-burgon-mp ash-sarkar alan-gibbons eleanor-penny, time: '15:00-16:30',
-  title: Britain's new far right, venue: Hinterlands}
+  Programme Material requested (mark X if yes): '', Status: '', day: Saturday, description: 'From
+    Tommy Robinson on the streets to Boris Johnson in the halls of power, a growing
+    far right movement is on the march. Hate crimes are on the rise, along with islamophobia,
+    antisemitism, and fear-mongering about migrants. In other words, it''s no fringe
+    issue - far right ideas are deeply rooted in UK society. We need to tackle where
+    the the far right comes from, what makes it tick, and why it''s recently grown
+    so powerful - so we can build an anti-fascist movement to beat it once and for
+    all.', image: fascism, organiser: Katie K, room: Main Space, speakers: richard-burgon-mp
+    ash-sarkar alan-gibbons eleanor-penny, time: '15:00-16:30', title: Britain's new
+    far right, venue: Hinterlands}
 building-community-wealth: {Action point: Andrew editing, Category: social security/education,
   Confirmed Speakers: '
 
@@ -586,7 +586,7 @@ digital-economy-101: {Action point: '', Category: technology, Confirmed Speakers
   title: Digital Economy 101, venue: Constellations}
 eco-corbynism-mon: {Action point: '', Category: environment, Confirmed Speakers: Tom
     Gann, Contact for Session: '', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: 'Monday ', description: !!python/str "What\
+  Programme Material requested (mark X if yes): '', Status: '', day: Monday, description: !!python/str "What\
     \ would the convergence of the labour movement and the ecology\r\nmovements that\
     \ Raymond Williams called for in 1984 look like today and\r\nwhat are the blockages\
     \ that need to be overcome? How would moving\r\nbeyond the Green Keynesian interlock\
@@ -685,21 +685,21 @@ ending-the-drug-war: {Action point: '', Category: health/culture, Confirmed Spea
 feeling-the-bern: {Action point: Emma editing, Category: international, Confirmed Speakers: '',
   Contact for Session: <ronanburtenshaw@gmail.com>, Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: 'Monday ', description: !!python/str "The 2016 breakthrough of\
-    \ Bernie Sanders \u2013 and the more recent success of Alexandria Ocasio-Cortez\
-    \ \u2013 has put the American left in its strongest position for decades. Join\
-    \ a panel of American socialists to discuss the potential of this growing movement,\
-    \ what demands it should be making, and the obstacles it faces in making socialism\
+  Status: '', day: Monday, description: !!python/str "The 2016 breakthrough of Bernie\
+    \ Sanders \u2013 and the more recent success of Alexandria Ocasio-Cortez \u2013\
+    \ has put the American left in its strongest position for decades. Join a panel\
+    \ of American socialists to discuss the potential of this growing movement, what\
+    \ demands it should be making, and the obstacles it faces in making socialism\
     \ mainstream in America.", image: america, organiser: Jacobin, room: Main Space,
   speakers: '', time: '13:00-14:30', title: 'Feeling the Bern: the rise of the American
     left ', venue: Black-E}
 feminism-for-the-many: {Action point: '', Category: gender, Confirmed Speakers: Sofia
     Brito; Nelini Stamp; Tithi Bhattarchaya; Elif Sarican, Contact for Session: '',
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: 'Saturday ', description: 'Over the last year #MeToo has shone
-    a light on the endemic violence and structural discrimination women still suffer,
-    whilst the hundredth anniversary of some women getting the vote sparked widespread
-    debate about how we ensure feminism is rooted in the struggles of the most marginalised.
+  Status: '', day: Saturday, description: 'Over the last year #MeToo has shone a light
+    on the endemic violence and structural discrimination women still suffer, whilst
+    the hundredth anniversary of some women getting the vote sparked widespread debate
+    about how we ensure feminism is rooted in the struggles of the most marginalised.
     This session will explore how different strands of oppression intersect and produce
     distinct gender relations, and will ask: how can we develop a feminism that not
     only challenges gender-based oppression, but also forms of oppression based on
@@ -817,22 +817,28 @@ housing-for-all: {Action point: '', Category: social security, Confirmed Speaker
 
     ', Contact for Session: benjamin.beach@icloud.com, Format: '', Possible Speakers: !!python/str "Architects\
     \ for Social Housing / RHN; Ed\_Milliband / Sadiq; START / RHN", 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: 'Saturday ',
-  description: !!python/str "As the housing crisis rages on, many are trapped in poverty\
-    \ or kept homeless by a system which values profits over people. Building more\
-    \ social housing is a priority for a Labour Government, yet historically, various\
-    \ governments have struggled to meet ambitious targets, leading to poor quality\
-    \ designs and constructions. How can we learn from these experiences to build\
-    \ high-quality, affordable housing for all?\_And what would the architecture\_\
-    of a radical housing programme look like? Come and collectively imagine it!",
-  image: housing, organiser: Ben B, room: Theatre, speakers: '', time: '19:30-21:15',
-  title: 'Housing for all: imagining the homes of the future', venue: Black-E}
+  Programme Material requested (mark X if yes): '', Status: '', day: Saturday, description: !!python/str "As\
+    \ the housing crisis rages on, many are trapped in poverty or kept homeless by\
+    \ a system which values profits over people. Building more social housing is a\
+    \ priority for a Labour Government, yet historically, various governments have\
+    \ struggled to meet ambitious targets, leading to poor quality designs and constructions.\
+    \ How can we learn from these experiences to build high-quality, affordable housing\
+    \ for all?\_And what would the architecture\_of a radical housing programme look\
+    \ like? Come and collectively imagine it!", image: housing, organiser: Ben B,
+  room: Theatre, speakers: '', time: '19:30-21:15', title: 'Housing for all: imagining
+    the homes of the future', venue: Black-E}
 in-and-against-the-state: {Action point: '', Category: '', Confirmed Speakers: 'John
     McDonnell MP; Mark Serwotka, Hilary Wainwright', Contact for Session: '', Format: '',
   Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: Tuesday, description: '', image: movement, organiser: '', room: Main
-    Space, speakers: john-mcdonnell-mp mark-serwotka hilary-wainwright francesca-bria,
-  time: '15:00-16:30', title: 'In and against the state ', venue: Hinterlands}
+  Status: '', day: Tuesday, description: 'In recent years the UK state has been transformed,
+    with the private sector taking over many of its key functions. Can what remains
+    be used for radical transformation? Or are we still confronted by a series of
+    institutions designed to maintain the status quo? Hear from politicians and workplace
+    activists, who bring their experiences of working in and against the state, as
+    we seek to understand its nature, whether it can be democratised and how communities
+    can participate in organising the public services they depend on.', image: movement,
+  organiser: '', room: Main Space, speakers: john-mcdonnell-mp mark-serwotka hilary-wainwright
+    francesca-bria, time: '15:00-16:30', title: 'In and against the state ', venue: Hinterlands}
 internationalist-labour-party: {Action point: '', Category: international, Confirmed Speakers: 'Richard
     Seymour; Karma Nabulsi
 
@@ -840,7 +846,7 @@ internationalist-labour-party: {Action point: '', Category: international, Confi
 
     Charlotte Riley ', Contact for Session: yohann.koshy@newint.org, Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: 'Saturday ', description: !!python/str "Corbyn\u2019s foreign policy\
+  Status: '', day: Saturday, description: !!python/str "Corbyn\u2019s foreign policy\
     \ is a huge source of his support, especially among younger members who grew up\
     \ in the \u2018war on terror\u2019. However, it's also his greatest departure\
     \ from the consensus \u2013 not simply within the British state but also the Labour\
@@ -1037,9 +1043,9 @@ movement-for-cultural-democracy: {Action point: '', Category: art music culture,
     \ cultural democracy\u2019 and support the broader collective action and alliance\
     \ building needed to realise cultural democracy in our time.", image: default,
   organiser: Movement for Cultural Democracy, room: 'Theatre ', speakers: clara-paillard
-    stephen-pritchard rhiannon-white peter-stark nick-mahony moussa-amine-sylla sophie-hope,
-  time: '15:00-16:30', title: "Where next for the movement for cultural democracy?\t",
-  venue: Black-E}
+    stephen-pritchard rhiannon-white peter-stark nick-mahony moussa-amine-sylla sophie-hope
+    frances-northrop, time: '15:00-16:30', title: "Where next for the movement for\
+    \ cultural democracy?\t", venue: Black-E}
 music-in-the-movement: {Action point: put speakers in speakeer tab, Category: arts
     music culture, Confirmed Speakers: 'Dave Randall, Eliane Correa, Lowkey, Lois
     Browne, Shingai Shoniwa', Contact for Session: melaniep@plutobooks.com, Format: '',
@@ -1076,7 +1082,7 @@ no-pasaran: {Action point: '', Category: international, Confirmed Speakers: Fran
 occupy-fleet-street: {Action point: Elliot waiting for info, Category: media, Confirmed Speakers: 'Tom
     Mills, Laura Basu, Leo Watkins, Dan Hind, Angela Phillips, Wendy Liu (chair)',
   Contact for Session: Charlie Mac, Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: 'Sunday ', description: !!python/str "Our\
+  Programme Material requested (mark X if yes): '', Status: '', day: Sunday, description: !!python/str "Our\
     \ media is in crisis and transition. There is a crisis of funding, working conditions,\
     \ quality, trust and accountability in British journalism. Google and Facebook\
     \ have rapidly acquired extraordinary power over what we see and read online.\
@@ -1102,12 +1108,12 @@ painting-the-towns-red: {Action point: Add speakers to speaker list, Category: '
     gareth-eales jawad-khan, time: '09:00-10:30', title: Painting the towns red, venue: Black-E}
 parties-and-picket-lines: {Action point: '', Category: '', Confirmed Speakers: Ken
     Loach, Contact for Session: Beth Redmond, Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: 'Saturday ',
-  description: 'How do we merge the political and cultural worlds? Over the last 12
-    months, along with many different activists and local organisations, Manchester
-    Momentum has worked to create a long-lasting, positive intervention on the cultural
-    scene in the city. From regular parties and film afternoons, to political discussions
-    and visits to picket lines, the group has sought to make politics fun and relevant
+  Programme Material requested (mark X if yes): '', Status: '', day: Saturday, description: 'How
+    do we merge the political and cultural worlds? Over the last 12 months, along
+    with many different activists and local organisations, Manchester Momentum has
+    worked to create a long-lasting, positive intervention on the cultural scene in
+    the city. From regular parties and film afternoons, to political discussions and
+    visits to picket lines, the group has sought to make politics fun and relevant
     in the face of a changing political landscape. Come along to this session to get
     the tools you need to do the same in your community!', image: default, organiser: Manchester
     Momentum, room: 'Main Space ', speakers: ken-loach beth-redmond faisal-yousif
@@ -1129,14 +1135,14 @@ popular-education-forum: {Action point: '', Category: education, Confirmed Speak
     Education Forum: Let''s build a Network!', venue: Constellations}
 post-brexit: {Action point: '', Category: '', Confirmed Speakers: '', Contact for Session: '',
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: 'Monday ', description: '', image: europe, organiser: Campaign
-    for Socialism, room: 'Studio ', speakers: '', time: '11:00-12:30', title: 'Post
-    Brexit: Federalism and other opportunities', venue: Black-E}
+  Status: '', day: Monday, description: '', image: europe, organiser: Campaign for
+    Socialism, room: 'Studio ', speakers: '', time: '11:00-12:30', title: 'Post Brexit:
+    Federalism and other opportunities', venue: Black-E}
 power-for-the-many: {Action point: '', Category: democracy, Confirmed Speakers: 'Jon
     Tricket MP; Paul Mason; Nancy Platts; Jonathan Shafi; Chair: Alice Kinghorn Grey',
   Contact for Session: willie.sullivan@electoral-reform.org.uk, Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: 'Sunday ', description: 'Democracy is about much more than elections.
+  Status: '', day: Sunday, description: 'Democracy is about much more than elections.
     Governments should be of the people, by the people & for the people, but currently
     many are failing on all these fronts. What is the political, economic and social
     impact of the ongoing centralisation of power within our institutions? Through
@@ -1363,7 +1369,7 @@ skills-3: {Action point: '', Category: '', Confirmed Speakers: '', Contact for S
   speakers: '', time: '15:00-16:30', title: Developing movement leaders, venue: Hinterlands}
 skills-4: {Action point: '', Category: '', Confirmed Speakers: '', Contact for Session: '',
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: 'Sunday ', description: 'We all want to change the world - working
+  Status: '', day: Sunday, description: 'We all want to change the world - working
     out ', image: default, organiser: Emma and Adam, room: 'Event Space ', speakers: '',
   time: '09:00-10:30', title: Disrupting the status quo, venue: Constellations}
 skills-5: {Action point: '', Category: '', Confirmed Speakers: '', Contact for Session: 'Emma
@@ -1375,7 +1381,7 @@ skills-5: {Action point: '', Category: '', Confirmed Speakers: '', Contact for S
     \ media from the grassroots up\r\n\r\n\r\n", venue: 'Baltic Creative Shed '}
 skills-6: {Action point: '', Category: '', Confirmed Speakers: '', Contact for Session: 'Emma
     and Adam ', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: 'Monday ', description: '',
+  Programme Material requested (mark X if yes): '', Status: '', day: Monday, description: '',
   image: default, organiser: '', room: 'Event Space ', speakers: '', time: '09:00-10:30',
   title: Skills 6, venue: Constellations}
 skills-7: {Action point: '', Category: '', Confirmed Speakers: '', Contact for Session: 'Emma
@@ -1395,11 +1401,11 @@ skills-8: {Action point: '', Category: '', Confirmed Speakers: '', Contact for S
   speakers: '', time: '09:00-10:30', title: 'Skills 8 ', venue: Black-E}
 skills-9: {Action point: '', Category: '', Confirmed Speakers: '', Contact for Session: '',
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: 'Tuesday ', description: '', image: default, organiser: '', room: 'Event
+  Status: '', day: Tuesday, description: '', image: default, organiser: '', room: 'Event
     Space ', speakers: '', time: '11:00-12:30', title: 'Skills 9 ', venue: Constellations}
 social-media-analytics-workshop: {Action point: '', Category: tech, Confirmed Speakers: '',
   Contact for Session: '', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: 'Tuesday ', description: A
+  Programme Material requested (mark X if yes): '', Status: '', day: Tuesday, description: A
     somewhat technically pitched session aimed at the social media savvy & developers.
     All welcome though!, image: computer, organiser: Momentum Tech, room: 'Meeting
     room ', speakers: '', time: '13:00-14:30', title: Social media analytics workshop,
@@ -1407,9 +1413,9 @@ social-media-analytics-workshop: {Action point: '', Category: tech, Confirmed Sp
 social-strike-game: {Action point: '', Category: '', Confirmed Speakers: 'Keir Milburn,
     Gareth Brown, Will Barker', Contact for Session: Keir Milburn, Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  Status: '', day: 'Saturday ', description: !!python/str "Come and play the Social\
-    \ Strike Game, a\_team-based strategy game that\u2019s fun for all the comrades.\
-    \ Use your imagination to figure out ways that an array of different groups can\_\
+  Status: '', day: Saturday, description: !!python/str "Come and play the Social Strike\
+    \ Game, a\_team-based strategy game that\u2019s fun for all the comrades. Use\
+    \ your imagination to figure out ways that an array of different groups can\_\
     co-ordinate their struggles\_to\_transform their city.\_If you want to get thinking\
     \ strategically and tactically about social struggles in the place where you actually\
     \ live - this is the session for you! ", image: default, organiser: '', room: 'Studio ',
@@ -1517,7 +1523,7 @@ time-for-10: {Action point: 'Waiting on BFAWU, Hope to edit', Category: '', Conf
     \ FIGHT FOR TEN- IAN HODSON - ian.hodson@bfawu.org- contacted AND CONFIRMED\n\
     MCSTRIKE\nDELIVEROO\n bfawu - ian to chair it\nBakers union\nPicture house\n",
   Contact for Session: Seth, Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', Status: '', day: '', description: 'With
+  Programme Material requested (mark X if yes): '', Status: '', day: Saturday, description: 'With
     decades of wage stagnation and the proliferation of precarious employment, the
     fight for a living wage across sectors has pushed itself to the forefront of recent
     labour struggles. We invite you to the launch of the Liverpool Time For 10 campaign
