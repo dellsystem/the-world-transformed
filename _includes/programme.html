@@ -1,50 +1,44 @@
-<div class="twelve wide column">
-    <h1 class="ui header">Programme</h1>
-    <div class="ui fluid image">
-      <img class="" alt="Programme Poster" src="images/programme-poster.jpg" >
+<div class="row">
+    <div class="twelve wide column">
+        <h1 class="ui header">Programme</h1>
+        <div class="ui fluid image">
+          <img class="" alt="Programme Poster" src="images/programme-poster.jpg" >
+        </div>
     </div>
-    <h2 class="ui header"> Speakers </h2> 
-    <div id="speakers" class="ui line-up header">
-        {% for speaker in site.data.programme.speakers %}
-        {% if speaker.Confirmed == "Yes" %}
-        <h3><a> {{speaker.Name}} </a> </h3>
-        {% endif %}
-        {% endfor %}
+</div>
+<div class="row">
+    <div class="six wide column">
+        <a class="ui large fluid pink button" href="/programme">
+            Programme
+        </a>
     </div>
- 
-    <div class="ui hidden divider"></div>
-
-    <h2 class="ui header"> Arts &amp; Activites </h2> 
-    <div id="artists" class="ui line-up header">
-        {% for artist in site.data.programme.artists %}
-        {% if artist.Confirmed == "Yes" %}
-        <h3><a> {{artist.Name}} </a> </h3>
-        {% endif %}
-        {% endfor %}
+    <div class="six wide column">
+        <a class="ui large fluid button" href="/speakers">
+            Speakers
+        </a>
     </div>
- 
-    <div class="ui hidden divider"></div>
+</div>
 
-    <h2 class="ui header"> Organisations </h2> 
-    <div id="organisations" class="ui line-up header">
-        {% for organisation in site.data.programme.organisations %}
-        {% if organisation.Confirmed == "Yes" %}
-        <h3><a> {{organisation.Name}} </a> </h3>
-        {% endif %}
-        {% endfor %}
+<div class="row">
+    <div class="twelve wide column">
+        <h2 class="ui header">Arts &amp; Activites</h2>
+        <div id="artists" class="ui line-up header">
+            {% for artist in site.data.programme.artists %}
+            {% if artist.Confirmed == "Yes" %}
+            <h3><a> {{artist.Name}} </a> </h3>
+            {% endif %}
+            {% endfor %}
+        </div>
+
+        <div class="ui hidden divider"></div>
+
+        <h2 class="ui header">Organisations</h2>
+        <div id="organisations" class="ui line-up header">
+            {% for organisation in site.data.programme.organisations %}
+            {% if organisation.Confirmed == "Yes" %}
+            <h3><a> {{organisation.Name}} </a> </h3>
+            {% endif %}
+            {% endfor %}
+        </div>
     </div>
-
-    <div class="ui hidden divider"></div>
-
-    <p>
-    We will be publishing our full programme in late August and we are super excited
-    about the threads in this year’s festival. Expect four days packed with talks,
-    workshops, debates, theatre, film, exhibitions, parties, dance, music and more. 
-    </p>
-
-    <p>
-    Interested in organising a session at TWT? Then please fill out our session
-    proposal form <a
-    href="https://docs.google.com/forms/d/1yknZ7vtHDb2VcKYBSsmjS0WkQnw6a-dgPrkuJKDpXr8/edit">here</a>.
-    </p>
 </div>
