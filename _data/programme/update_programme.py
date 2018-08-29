@@ -55,6 +55,28 @@ for row in sessions_csv:
     if session['status'] != 'READY':
         continue
 
+    # Calculate the start and end time (for calendar)
+    if session['day'] == 'Saturday':
+        day = 2
+    elif session['day'] == 'Sunday':
+        day = 3
+    elif session['day'] == 'Monday':
+        day = 4
+    elif session['day'] == 'Tuesday':
+        day = 5
+    try:
+        start_time, end_time = session['time'].split('-')
+    except ValueError:
+        print 'bad time', session['time'], session['title']
+    session['start_timestamp'] = '2018092{day}T{start_time}00'.format(
+        day=day,
+        start_time=start_time.replace(':', '').zfill(4),
+    )
+    session['end_timestamp'] = '2018092{day}T{end_time}00'.format(
+        day=day,
+        end_time=end_time.replace(':', '').zfill(4),
+    )
+
     sessions[slug] = session
     schedule_csv.writerow([slug])
     for speaker_slug in session['speakers'].split(' '):
