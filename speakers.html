@@ -2,7 +2,7 @@
 layout: page
 columns: sixteen
 description: "A 4-day politics, arts and music festival running alongside the Labour Party Conference. Liverpool, September 22-25."
-title: Speakers 
+title: "Speakers"
 ---
 <table class="ui celled table">
     <thead>
@@ -31,8 +31,11 @@ title: Speakers
                          class="ui fluid image" />
                     {% endif %}
                 </td>
-                <td>
-                    <h3 class="ui header" id="{{ row.slug }}">
+                <td class="speaker-cell">
+                    <div class="speaker-anchor">
+                        <a name="{{ row.slug }}"></a>
+                    </div>
+                    <h3 class="ui header">
                         {{ speaker.name }}
                         <div class="sub header">
                             {% unless speaker.tag == '' %}

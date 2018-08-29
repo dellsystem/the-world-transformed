@@ -188,3 +188,14 @@
     background-size: contain;
     background-position: center;
 }
+
+.speaker-anchor {
+    position: relative;
+}
+.speaker-anchor a {
+    position: absolute;
+    top: -65px;
+}
+.speaker-cell .ui.header {
+    margin-top: 0;
+}
