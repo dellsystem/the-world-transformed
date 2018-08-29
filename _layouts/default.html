@@ -20,9 +20,9 @@
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="TWT_NOW" />
-    <meta property="og:title" content="The World Transformed"/>
+    <meta property="og:title" content="{{ page.title }}"/>
     <meta property="og:description" content="{{ page.description }}"/>
-    <meta property="og:image" content="{{ site.url }}/images/splash.png"/>
+    <meta property="og:image" content="{{ site.url }}/images/{% if page.image %}{{ page.image }}{% else %}splash.png{% endif %}"/>
     <meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="The World Transformed" />

@@ -52,7 +52,10 @@ for row in sessions_csv:
         sessions[slug] = session
         schedule_csv.writerow([slug])
         for speaker_slug in session['speakers'].split(' '):
-            speaker_sessions[speaker_slug].add(slug)
+            if speaker_slug:
+                speaker_sessions[speaker_slug].add(slug)
+        if not session['image']:
+            print "Missing image for", session['title']
     else:
         print "Missing slug for", session['title']
 
@@ -64,6 +67,8 @@ for row in speakers_csv:
     slug = speaker.pop('slug')
     speaker['sessions'] = ' '.join(speaker_sessions[slug])
     if speaker['sessions']:
+        # Check if the speaker image file exists on the filesystem.
+        speaker['photo'] = os.path.exists('../../images/speakers/%s.jpg' % slug)
         speakers[slug] = speaker
     else:
         print "No sessions for", speaker['name']
@@ -86,15 +91,33 @@ yaml.dump(sessions, open('sessions.yml', 'wt'))
 front_matter = """---
 layout: session
 slug: {slug}
-title: "{title}"
+title: "{title} // The World Transformed"
+image: "sessions/{image}.jpg"
+description: "A session at {time} on {day} in {venue}{details}"
 ---"""
 for slug, session in sessions.iteritems():
+    # If there's an organiser, mention that
+    if session['organiser']:
+        details = 'organised by ' + session['organiser']
+    else:
+        details = ''
+
     filename = '../../sessions/%s.html' % slug
     file = open(filename, 'wt')
     file.write(
         front_matter.format(
             slug=slug,
-            title=session['title'].replace('"', '\\"')
+            title=session['title'].replace('"', '\\"'),
+            image=session['image'],
+            time=session['time'],
+            day=session['day'],
+            venue=session['venue'],
+            details=details
         )
     )
     file.close()
+
+# If there are any speakers for whom we don't have data, print them
+for speaker_slug in speaker_sessions:
+    if speaker_slug not in speakers:
+        print speaker_slug, speaker_sessions[speaker_slug]

@@ -7,7 +7,10 @@ title: Speakers
 <table class="ui celled table">
     <thead>
         <tr>
-            <th class="five wide">
+            <th class="one wide">
+                Image
+            </th>
+            <th class="four wide">
                 Name and affiliation
             </th>
             <th class="six wide">
@@ -22,6 +25,12 @@ title: Speakers
         {% for row in site.data.programme.speakers_list %}
         {% assign speaker = site.data.programme.speakers[row.slug] %}
             <tr>
+                <td>
+                    {% if speaker['photo'] %}
+                    <img src="/images/speakers/{{ row.slug }}.jpg"
+                         class="ui fluid image" />
+                    {% endif %}
+                </td>
                 <td>
                     <h3 class="ui header" id="{{ row.slug }}">
                         {{ speaker.name }}

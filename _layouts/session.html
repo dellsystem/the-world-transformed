@@ -52,7 +52,10 @@ layout: default
                 {% for speaker_slug in speaker_slugs %}
                     {% assign speaker = site.data.programme.speakers[speaker_slug] %}
                     <div class="column">
-                        <h3 class="ui header">
+                        <div class="speaker"
+                             style="background-image: url('/images/speakers/{% if speaker['photo'] %}{{ speaker_slug }}.jpg{% else %}default.png{% endif %}">
+                        </div>
+                        <h3 class="ui centered header">
                             <a href="/speakers#{{ speaker_slug }}">
                                 {{ speaker.name }}
                             </a>
