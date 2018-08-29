@@ -463,7 +463,7 @@ eco-corbynism-mon: {Action point: '', Category: environment, Confirmed Speakers:
     \nWe will explore these questions through reading texts from Williams,\r\nMies,\
     \ Jason W. Moore and Raj Patel and Andreas Malm.\r\n", image: reading, organiser: 'New
     Socialist ', room: 'Gallery ', speakers: tom-gann, status: READY, time: '11:00-12:30',
-  title: "Eco-Corbynism, New Socialist Reading Group\r\n", venue: 'Gallery '}
+  title: "Eco-Corbynism, New Socialist Reading Group\r\n", venue: Black-E}
 eco-corbynism-reading-group: {Action point: '', Category: environment, Confirmed Speakers: Tom
     Gann, Contact for Session: '', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
   Programme Material requested (mark X if yes): '', day: Tuesday, description: !!python/str "What\
@@ -477,7 +477,7 @@ eco-corbynism-reading-group: {Action point: '', Category: environment, Confirmed
     \nWe will explore these questions through reading texts from Williams,\r\nMies,\
     \ Jason W. Moore and Raj Patel and Andreas Malm.\r\n", image: reading, organiser: 'New
     Socialist ', room: 'Gallery ', speakers: tom-gann, status: READY, time: '11:00-12:30',
-  title: "\r\nEco-Corbynism, New Socialist Reading Group\r\n", venue: 'Gallery '}
+  title: "\r\nEco-Corbynism, New Socialist Reading Group\r\n", venue: Black-E}
 eco-corbynism-sun: {Action point: Archie waiting for info, Category: environment,
   Confirmed Speakers: Tom Gann, Contact for Session: '', Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
@@ -494,7 +494,7 @@ eco-corbynism-sun: {Action point: Archie waiting for info, Category: environment
   speakers: tom-gann, status: READY, time: '11:00-12:30', title: 'Eco-Corbynism, New
     Socialist Reading Group
 
-    ', venue: 'Gallery '}
+    ', venue: Black-E}
 education-in-the-labour-party: {Action point: '', Category: education, Confirmed Speakers: !!python/str "Lorcan\
     \ Mullan, Lena \u0160imi\u0107, Sharon Clancy", Contact for Session: charlie clarke,
   Format: Political Education, Possible Speakers: '', 'Programme Material Acquired?': '',
@@ -528,7 +528,7 @@ end-to-sex-work-criminalisation: {Action point: '', Category: '', Confirmed Spea
     \ & Resistance Movement (SWARM), the xtalk project; \nWomen's Strike Assembly\
     \ UK \n", room: 'Theatre ', speakers: blaire-buchanan ava-caradonna paulina-nicol
     molly-smith camille-barbagallo niki-adams, status: READY, time: '13:00-14:30',
-  title: 'Labour4Decrim: end to the criminalisation of sex work.', venue: Black-E}
+  title: 'Labour4Decrim: end the criminalisation of sex work', venue: Black-E}
 ending-the-drug-war: {Action point: '', Category: health/culture, Confirmed Speakers: 'Chair:
     Jane Slater; Anne-Marie Cokburn; Martin Drewry; Chris Williamson', Contact for Session: '',
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
@@ -567,20 +567,6 @@ feminism-for-the-many: {Action point: '', Category: gender, Confirmed Speakers: 
     class, race and nation?', image: women, organiser: '', room: 'Main Space ', speakers: tithi-bhattacharya
     nelini-stamp sofia-brito elif-sarican, status: READY, time: '19:30-21:15', title: 'Feminism
     for the many ', venue: Black-E}
-fighting-back-against-the-tech-giants: {Action point: '', Category: technology, Confirmed Speakers: '',
-  Contact for Session: '', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', day: Tuesday, description: !!python/str "Big\
-    \ tech companies are growing more powerful everyday, but the fightback against\
-    \ them is happening at many different levels: people working within tech firms\
-    \ are agitating for change, cities are pushing to take back control of their digital\
-    \ infrastructure and people who work for platforms and unions are building power\
-    \ and creating lasting change. It shouldn\u2019t just be experts and entrepreneurs\
-    \ that shape the future of technology - the voice of workers, renters, service\
-    \ users, whose lives and livelihoods will be shaped by these technologies, should\
-    \ be an important part of the discussion. Come and hear more in this session!",
-  image: finance, organiser: New Economics Foundation, room: 'Theatre ', speakers: wendy-liu
-    jason-prado, status: READY, time: '13:00-14:30', title: Fighting back against
-    the tech giants, venue: Black-E}
 fighting-disabled-exclusion: {Action point: '', Category: '', Confirmed Speakers: Miro
     Griffiths; Dr Paul Darke; Julie Ward MEP; Simon McKeown; Dr Janet Price; Marsha
     De Cordova MP, Contact for Session: mirogriffiths@gmail.com, Format: '', Possible Speakers: '',
@@ -604,8 +590,8 @@ fighting-for-trans-liberation: {Action point: '', Category: gender, Confirmed Sp
     centres and beyond. This session will explore what we mean by transgender liberation,
     situating issues affecting trans people today within the changing historical relationships
     between gender and capitalism. ', image: lgbtq, organiser: '', room: 'Theatre ',
-  speakers: '', status: READY, time: '19:30-21:15', title: Trans Liberation beyond
-    Capitalism, venue: Black-E}
+  speakers: '', status: READY, time: '19:30-21:15', title: Fighting for Trans Liberation,
+  venue: Black-E}
 future-of-trade-unions: {Action point: Hope, Category: trade unions, Confirmed Speakers: 'Dave
     Ward
 
@@ -842,8 +828,8 @@ movement-for-cultural-democracy: {Action point: '', Category: art music culture,
     \ needed to realise cultural democracy in our time.", image: default, organiser: Movement
     for Cultural Democracy, room: 'Theatre ', speakers: clara-paillard stephen-pritchard
     rhiannon-white peter-stark nick-mahony moussa-amine-sylla sophie-hope frances-northrop,
-  status: READY, time: '15:00-16:30', title: "Where next for the movement for cultural\
-    \ democracy?\t", venue: Black-E}
+  status: READY, time: '15:00-16:30', title: 'Where next for the movement for cultural
+    democracy?        ', venue: Black-E}
 music-in-the-movement: {Action point: put speakers in speakeer tab, Category: arts
     music culture, Confirmed Speakers: 'Dave Randall, Eliane Correa, Lowkey, Lois
     Browne, Shingai Shoniwa', Contact for Session: melaniep@plutobooks.com, Format: '',
@@ -1100,6 +1086,20 @@ sustainability-economics: {Action point: '', Category: environment, Confirmed Sp
     Space, speakers: clive-lewis-mp kevin-anderson clara-paillard gail-mcanena, status: READY,
   time: '15:00-16:30', title: 'Investing in our future: sustainability economics',
   venue: Constellations}
+tackling-the-tech-giants: {Action point: '', Category: technology, Confirmed Speakers: '',
+  Contact for Session: '', Format: '', Possible Speakers: francesca bria and/or someone
+    from IWGB, 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
+  day: Tuesday, description: !!python/str "Big tech companies are growing more powerful\
+    \ everyday, but the fightback against them is happening at many different levels:\
+    \ people working within tech firms are agitating for change, cities are pushing\
+    \ to take back control of their digital infrastructure and people who work for\
+    \ platforms and unions are building power and creating lasting change. It shouldn\u2019\
+    t just be experts and entrepreneurs that shape the future of technology - the\
+    \ voice of workers, renters, service users, whose lives and livelihoods will be\
+    \ shaped by these technologies, should be an important part of the discussion.\
+    \ Come and hear more in this session!", image: cybersyn, organiser: New Economics
+    Foundation, room: 'Theatre ', speakers: wendy-liu jason-prado duncan-mccann emma-black,
+  status: READY, time: '13:00-14:30', title: Tackling the tech giants, venue: Black-E}
 taking-whats-ours: {Action point: Charlie editing, Category: democracy, Confirmed Speakers: '
 
     Thomas M. Hanna
@@ -1122,7 +1122,7 @@ taking-whats-ours: {Action point: Charlie editing, Category: democracy, Confirme
 
     ', image: movement, organiser: Democracy Collaborative, room: 'Main Space ', speakers: thomas-hanna
     cat-hobbs hilary-wainwright andrew-towers andrew-cumbers, status: READY, time: '11:00-12:30',
-  title: 'Taking what''s ours: democratic public ownership', venue: Black-E}
+  title: 'Taking what''s ours: public ownership from below?', venue: Black-E}
 the-brexit-bind: {Action point: Andrew to edit title/blurb, Category: international,
   Confirmed Speakers: Ann Pettifor; Paul Mason; Costas Lapavitsas; Mary Kaldor; Laura
     Parker (Chair), Contact for Session: lukecooper100@yahoo.co.uk, Format: '', Possible Speakers: '',
@@ -1160,8 +1160,8 @@ the-gig-economy: {Action point: Hope, Category: international, Confirmed Speaker
     \ two years have seen an international wave of workers\u2019 organisation in this\
     \ burgeoning sector. How were these struggles coordinated and can  lessons be\
     \ applied elsewhere?", image: uber, organiser: Labour International CLP, room: Event
-    Space, speakers: callum-cant, status: READY, time: '15:00-16:30', title: Transnational
-    resistance in the gig economy, venue: Constellations}
+    Space, speakers: callum-cant, status: READY, time: '15:00-16:30', title: 'Deliveroo
+    and Uber: Striking beyond Borders', venue: Constellations}
 towards-a-socialist-government: {Action point: '', Category: '', Confirmed Speakers: "John\
     \ McDonnell MP\nDiane Abbott MP\nRichard Burgon MP \nRebecca Long-Bailey MP\n\
     Dennis Skinner MP\n+ Very Special Guest ", Contact for Session: '', Format: '',
@@ -1234,8 +1234,8 @@ twt-football-final: {Action point: '', Category: '', Confirmed Speakers: '', Con
     about fan ownership of clubs and how football can be a vehicle for solidarity
     and progressive politics, before witnessing the final of the inaugural TWT 5-a-side
     football tournament! ', image: football, organiser: 'Fans Support Foodbanks ',
-  room: 'Sports Hall ', speakers: '', status: READY, time: '15:00-16:30', title: 'Grassroots
-    on the pitch: TWT football final ', venue: 'Sports Hall '}
+  room: '', speakers: '', status: READY, time: '15:00-16:30', title: 'Grassroots on
+    the pitch: TWT football final ', venue: 'Sports Hall '}
 update-the-welfare-state: {Action point: '', Category: social security, Confirmed Speakers: stewart-lansley
     dan-carden-mp gail-ward anna-dent will-stronge, Contact for Session: will.stronge1@gmail.com,
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',

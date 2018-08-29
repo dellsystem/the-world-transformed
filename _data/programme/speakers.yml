@@ -78,7 +78,7 @@ ava-caradonna: {bio: 'Organiser with the x:talk project', confirmed: 'Yes', name
 aya-o-haidar: {bio: '', confirmed: 'Yes', name: Aya O'Haidar, organisation: '', other: '',
   photo: false, sessions: an-intersection-of-class-and-gender, tag: '', twitter: ''}
 barry-gardiner-mp: {bio: Shadow Secretary of State for International Trade, confirmed: 'Yes',
-  name: Barry Gardiner MP, organisation: Labour Party, other: '', photo: false, sessions: trading-with-trump,
+  name: Barry Gardiner MP, organisation: Labour Party, other: '', photo: true, sessions: trading-with-trump,
   tag: 'Politician ', twitter: 'https://twitter.com/BarryGardiner'}
 ben-beach: {bio: 'Ben Beach is a member of Plan C ', confirmed: '', name: Ben Beach,
   organisation: '', other: '', photo: false, sessions: cities-in-common, tag: '',
@@ -234,6 +234,9 @@ dr-paul-darke: {bio: 'Academic, writer & cultural critic, Director of Outside Ce
 dr-sonya-robotham: {bio: Director of Operations at Spectrum Derbyshire, confirmed: 'Yes',
   name: Dr Sonya Robotham, organisation: Spectrum Derbyshire, other: '', photo: true,
   sessions: black-women-transforming-politics, tag: Campaigner, twitter: 'https://twitter.com/SpectrumDerby'}
+duncan-mccann: {bio: Duncan is a researcher at the New Economics Foundation., confirmed: 'Yes',
+  name: Duncan McCann, organisation: New Economics Foundation, other: '', photo: true,
+  sessions: tackling-the-tech-giants, tag: Researcher, twitter: 'https://twitter.com/duncanemccann'}
 ed-miliband-mp: {bio: 'Labour MP for Doncaster North and former leader of the Labour
     Party, radio dj sensation.', confirmed: 'Yes', name: Ed Miliband MP, organisation: Labour
     Party, other: '', photo: true, sessions: a-new-economic-consensus, tag: Politician,
@@ -249,6 +252,8 @@ elif-sarican: {bio: Kurdish activist, confirmed: 'Yes', name: Elif Sarican, orga
 emine-ibrahim: {bio: 'Deputy leader of Haringey Council ', confirmed: 'Yes', name: Emine
     Ibrahim, organisation: Labour Party, other: '', photo: true, sessions: black-women-transforming-politics,
   tag: Politician, twitter: ''}
+emma-black: {bio: '', confirmed: 'Yes', name: Emma Black, organisation: Equal Care
+    Co-op, other: '', photo: false, sessions: tackling-the-tech-giants, tag: '', twitter: ''}
 emma-dent-coad-mp: {bio: Labour MP for Kensington, confirmed: 'Yes', name: Emma Dent
     Coad MP, organisation: Labour Party, other: '', photo: true, sessions: socialist-women-in-labour,
   tag: Politician, twitter: 'https://twitter.com/emmadentcoad'}
@@ -358,7 +363,7 @@ jamie-woodcock: {bio: 'Editor for Notes From Below and Historical Materialism. A
 jane-slater: {bio: '', confirmed: '', name: Jane Slater, organisation: '', other: '',
   photo: false, sessions: ending-the-drug-war, tag: '', twitter: ''}
 jason-prado: {bio: Software engineer and labour organiser, confirmed: 'Yes', name: Jason
-    Prado, organisation: Tech Workers Coalition, other: '', photo: true, sessions: fighting-back-against-the-tech-giants,
+    Prado, organisation: Tech Workers Coalition, other: '', photo: true, sessions: tackling-the-tech-giants,
   tag: Activist, twitter: 'https://twitter.com/jasonpjason'}
 jawad-khan: {bio: !!python/str "Trade Union Representative on the Young Labour National\
     \ Committee, and GMB Young Members\u2019 National Communications Officer. He is\
@@ -513,12 +518,12 @@ lynne-segal: {bio: 'Academic and feminist writer, Lynne''s most recent book is R
     Happiness: Moment''s of Collective Joy', confirmed: 'Yes', name: Lynne Segal,
   organisation: '', other: '', photo: true, sessions: mental-health-and-capitalism,
   tag: 'academic ', twitter: 'https://twitter.com/lynne_segal'}
-mariela-kohon: {bio: Marisa Isabel dos Santos Matias is a Portuguese sociologist and
-    Member of the European Parliament., confirmed: '', name: Mariela Kohon, organisation: '',
-  other: '', photo: true, sessions: colombia-the-human-rights-crisis, tag: politician,
-  twitter: ''}
-marisa-matias-mep: {bio: '', confirmed: '', name: Marisa Matias MEP, organisation: '',
-  other: '', photo: true, sessions: a-radical-alliance-for-europe, tag: '', twitter: 'https://twitter.com/mmatias_'}
+mariela-kohon: {bio: '', confirmed: '', name: Mariela Kohon, organisation: '', other: '',
+  photo: true, sessions: colombia-the-human-rights-crisis, tag: '', twitter: ''}
+marisa-matias-mep: {bio: Marisa Isabel dos Santos Matias is a Portuguese sociologist
+    and Member of the European Parliament., confirmed: '', name: Marisa Matias MEP,
+  organisation: '', other: '', photo: true, sessions: a-radical-alliance-for-europe,
+  tag: Politician, twitter: 'https://twitter.com/mmatias_'}
 mark-serwotka: {bio: General Secretary of the Public and Commercial Services Union,
   confirmed: 'Yes', name: Mark Serwotka, organisation: '', other: '', photo: true,
   sessions: in-and-against-the-state, tag: Trade Unionist, twitter: ''}
@@ -820,8 +825,8 @@ vijay-prashad: {bio: Indian historian and marxist who is Director of the Tricont
   organisation: '', other: '', photo: true, sessions: marx-at-200, tag: Academic,
   twitter: 'https://twitter.com/vijayprashad'}
 wendy-liu: {bio: Economics co-editor at New Socialist, confirmed: 'Yes', name: Wendy
-    Liu, organisation: New Socialist, other: '', photo: true, sessions: fighting-back-against-the-tech-giants
-    occupy-fleet-street, tag: Writer, twitter: 'https://twitter.com/dellsystem'}
+    Liu, organisation: New Socialist, other: '', photo: true, sessions: occupy-fleet-street
+    tackling-the-tech-giants, tag: Writer, twitter: 'https://twitter.com/dellsystem'}
 will-barker: {bio: Will Barker is from Leeds. He is a member of Plan C and co-creator
     of the Social Strike Game., confirmed: '', name: Will Barker, organisation: 'Plan
     C ', other: '', photo: true, sessions: social-strike-game, tag: '', twitter: ''}
