@@ -1,0 +1,52 @@
+---
+layout: page
+columns: sixteen
+description: "A 4-day politics, arts and music festival running alongside the Labour Party Conference. Liverpool, September 22-25."
+title: Programme
+---
+
+<div class="ui four item pointing menu" id="programme-menu">
+    <a class="active item">Saturday</a>
+    <a class="item">Sunday</a>
+    <a class="item">Monday</a>
+    <a class="item">Tuesday</a>
+</div>
+
+<table class="ui table" id="programme">
+    <tbody>
+        {% for row in site.data.programme.schedule %}
+        {% assign session = site.data.programme.sessions[row.slug] %}
+        <tr data-day="{{ session.day }}"
+            style="{% unless session.day == 'Saturday' %}display: none;{% endunless %}">
+            <td class="four wide">
+                <h2>
+                {{ session.time }}
+                </h2>
+                {{ session.venue }}
+            </td>
+            <td class="ten wide">
+                <h3 class="ui header">
+                    <a href="/sessions/{{ row.slug }}">{{ session.title }}</a>
+                    <div class="sub header">
+                    {% unless session.organiser == '' %}
+                    <strong>{{ session.organiser }}</strong>
+                    {% unless session.speakers == '' %}//{% endunless %}
+                    {% endunless %}
+                    {% assign speakers = session.speakers | split: " " %}
+                    {% for speaker_slug in speakers %}
+                        {% assign speaker = site.data.programme.speakers[speaker_slug] %}
+                        {{ speaker.name }}{% unless forloop.last %},{% endunless %}
+                    {% endfor %}
+                    </div>
+                </h3>
+            </td>
+            <td class="two wide">
+                {% unless session['image'] == 'default' %}
+                <img src="/images/sessions/thumbnail/{{ session['image'] }}.jpg"
+                     class="ui fluid image" />
+                {% endunless %}
+            </td>
+        </tr>
+        {% endfor %}
+        </tbody>
+</table>

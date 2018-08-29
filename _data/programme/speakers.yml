@@ -1,0 +1,740 @@
+aaron-bastani: {bio: 'Co-founder and senior editor at Novara Media, journalist and
+    author of ''Fully Automated Luxury Communism''', confirmed: 'Yes', name: Aaron
+    Bastani, organisation: Novara Media, other: '', photo: '', sessions: marx-at-200,
+  tag: Journalist, twitter: 'https://twitter.com/AaronBastani'}
+aidan-harper: {bio: 'Member of the 4 Day Week Campaign, and a researcher in work and
+    social policy for the New Economics Foundation (NEF)', confirmed: 'Yes', name: Aidan
+    Harper, organisation: 4 Day Week Campaign, other: '', photo: '', sessions: 4-day-week,
+  tag: Researcher, twitter: 'https://twitter.com/Aidan_Harper_'}
+alan-finlayson: {bio: '', confirmed: '', name: Alan Finlayson, organisation: '', other: '',
+  photo: '', sessions: a-socialist-story-of-modern-britain, tag: '', twitter: ''}
+alan-gibbons: {bio: '', confirmed: '', name: Alan Gibbons, organisation: '', other: '',
+  photo: '', sessions: britains-new-far-right, tag: '', twitter: ''}
+ali-mussell: {bio: '', confirmed: '', name: Ali Mussell, organisation: '', other: '',
+  photo: '', sessions: developing-labours-nes, tag: '', twitter: ''}
+alice-kinghorn-grey: {bio: 'Campaign Organiser for Electoral Reform Society (Scotland),
+    organiser for ''Act As If We Own The Place'', works on relations between the municipalist
+    movements across Spain and Scotland', confirmed: 'Yes', name: Alice Kinghorn-Grey,
+  organisation: Electoral Reform Society (Scotland), other: '', photo: CAN'T FIND
+    PHOTO, sessions: power-for-the-many, tag: Campaigner, twitter: ''}
+alice-martin: {bio: !!python/str "\_", confirmed: 'Yes', name: Alice Martin, organisation: NEF,
+  other: '', photo: '', sessions: 4-day-week, tag: Researcher, twitter: 'https://twitter.com/AlicePMartin'}
+andrew-cumbers: {bio: '', confirmed: '', name: Andrew Cumbers, organisation: '', other: '',
+  photo: '', sessions: taking-whats-ours, tag: '', twitter: ''}
+andrew-towers: {bio: Head of Political Strategy at CWU, confirmed: 'Yes', name: Andrew
+    Towers, organisation: CWU, other: '', photo: '', sessions: taking-whats-ours,
+  tag: Trade Unionist, twitter: 'https://twitter.com/_andrewtowers'}
+angela-phillips: {bio: 'Professor of Journalism at Goldsmiths, University of London
+    and the co-author of Misunderstanding News Audiences, Seven Myths of the Social
+    Media Era (2018) which considers the impact of news personalisation on media consumption
+    and democracy.', confirmed: 'Yes', name: Angela Phillips, organisation: '', other: '',
+  photo: '', sessions: occupy-fleet-street, tag: Academic, twitter: ''}
+ann-feltham: {bio: Parliamentary Co-ordinator of Campaign Against Arms Trade (CAAT),
+  confirmed: 'Yes', name: Ann Feltham, organisation: CAAT, other: '', photo: '', sessions: jobs-in-nuclear-weapons,
+  tag: Campaigner, twitter: ''}
+ann-henderson: {bio: Labour NEC candidate and University of Edinburgh rector, confirmed: 'Yes',
+  name: Ann Henderson, organisation: '', other: '', photo: '', sessions: socialist-women-in-labour,
+  tag: Political candidate, twitter: 'https://twitter.com/AnnHend88977240'}
+ann-o-byrne: {bio: '', confirmed: '', name: Ann O'Byrne, organisation: '', other: '',
+  photo: '', sessions: question-time, tag: '', twitter: ''}
+ann-pettifor: {bio: !!python/str "Ann Pettifor is a political economist, author, fellow\
+    \ of the New Economics Foundation, and director of PRIME \u2013 Policy Research\
+    \ in Macroeconomics. Since 2015, Ann is a senior economic advisor to the Labour\
+    \ Party. She is famous for her work on debt and the international financial architecture,\
+    \ leading an international campaign which resulted in the cancellation of $100\
+    \ billion of debt owed by the poorest countries.", confirmed: 'Yes', name: Ann
+    Pettifor, organisation: PRIME - Policy Research in Macroeconomics, other: '',
+  photo: '', sessions: the-brexit-bind debunking-the-myths runaway-finance, tag: Economist,
+  twitter: 'https://twitter.com/AnnPettifor'}
+anna-dent: {bio: !!python/str "Independent public policy consultant and RSA fellow\
+    \ focusing on employment, skills and welfare issues. She is currently working\
+    \ on welfare reform and basic income models.\_", confirmed: 'Yes', name: Anna
+    Dent, organisation: '', other: '', photo: CAN'T FIND PHOTO, sessions: update-the-welfare-state,
+  tag: Researcher, twitter: ''}
+anne-marie-cockburn: {bio: !!python/str "Anne-Marie Cockburn\u2019s 15 year old daughter\
+    \ Martha Fernback died in 2013 of an accidental ecstasy overdose. Ever since then\
+    \ she has tirelessly campaigned to get drugs legally controlled and regulated.\
+    \ She is a founding member of the campaign Anyone\u2019s Child, Families for Safer\
+    \ Drug Control.", confirmed: 'Yes', name: Anne-Marie Cockburn, organisation: '',
+  other: '', photo: '', sessions: ending-the-drug-war, tag: Campaigner, twitter: 'https://twitter.com/5742Days'}
+ash-sarkar: {bio: 'Senior editor at Novara Media, and lecturer in Global Politics
+    at Anglia Ruskin University and The Sandberg Instituut', confirmed: 'Yes', name: Ash
+    Sarkar, organisation: Novara Media, other: '', photo: '', sessions: britains-new-far-right
+    red-white-blue-labour, tag: Journalist, twitter: 'https://twitter.com/AyoCaesar'}
+asima-shaikh: {bio: Labour Councillor for Finsbury Park and Cabinet Member for Economic
+    Development, confirmed: '', name: Asima Shaikh, organisation: '', other: '', photo: '',
+  sessions: building-community-wealth, tag: 'Politician ', twitter: 'https://twitter.com/ashaikhn7'}
+ava-caradonna: {bio: 'Organiser with the x:talk project', confirmed: 'Yes', name: Ava
+    Caradonna, organisation: 'The x:talk project', other: '', photo: CAN'T FIND PHOTO,
+  sessions: end-to-sex-work-criminalisation, tag: Activist, twitter: ''}
+aya-o-haidar: {bio: '', confirmed: 'Yes', name: Aya O'Haidar, organisation: '', other: '',
+  photo: '', sessions: an-intersection-of-class-and-gender, tag: '', twitter: ''}
+barry-gardiner: {bio: Shadow Secretary of State for International Trade, confirmed: 'Yes',
+  name: Barry Gardiner, organisation: Labour Party, other: '', photo: '', sessions: trading-with-trump,
+  tag: 'Politician ', twitter: 'https://twitter.com/BarryGardiner'}
+ben-beach: {bio: '', confirmed: '', name: Ben Beach, organisation: '', other: '',
+  photo: '', sessions: cities-in-common, tag: '', twitter: ''}
+beth-foster-ogg: {bio: '', confirmed: '', name: Beth Foster Ogg, organisation: '',
+  other: '', photo: '', sessions: campaign-building, tag: '', twitter: ''}
+beth-redmond: {bio: 'Beth Redmond helped to set up Chorlton Socialist Club, a space
+    for local Labour Party members and supporters to explore political ideas through
+    social events outside of meetings. ', confirmed: 'Yes ', name: 'Beth Redmond ',
+  organisation: Manchester Momentum, other: '', photo: '', sessions: parties-and-picket-lines,
+  tag: 'Campaigner ', twitter: ''}
+bhaskar-sunkara: {bio: Bhaskar Sunkara is the founder of Jacobin Magazine., confirmed: '',
+  name: Bhaskar Sunkara, organisation: Jacobin Magazine, other: '', photo: '', sessions: a-movement-led-media,
+  tag: '', twitter: ''}
+blaire-buchanan: {bio: Organiser with Sex Worker Advocacy and Resistance Movement
+    (SWARM), confirmed: 'Yes', name: Blaire Buchanan, organisation: SWARM, other: '',
+  photo: CAN'T FIND PHOTO, sessions: end-to-sex-work-criminalisation, tag: Activist,
+  twitter: ''}
+brian-salisbury: {bio: Former Lucas Aerospace shop steward, confirmed: 'Yes', name: Brian
+    Salisbury, organisation: '', other: '', photo: '', sessions: workers-control-in-economic-planning,
+  tag: Trade Unionist, twitter: ''}
+callum-cant: {bio: Member of Acorn and the IWGB. Editor of Notes From Below and is
+    currently writing 'Working for Deliveroo' (forthcoming on Polity Press., confirmed: '',
+  name: Callum Cant, organisation: Notes From Below, other: '', photo: '', sessions: the-gig-economy,
+  tag: Activist, twitter: 'https://twitter.com/CallumCant1'}
+camille-barbagallo: {bio: !!python/str "Academic, activist and Women\u2019s Strike\
+    \ Assembly UK organiser", confirmed: 'Yes', name: Camille Barbagallo, organisation: !!python/str "Women\u2019\
+    s Strike Assembly UK", other: '', photo: '', sessions: end-to-sex-work-criminalisation,
+  tag: Academic, twitter: ''}
+carina-book: {bio: 'German anti-fascist organiser from Hamburg who has been involved
+    in the mobilisations against big fascist demonstrations in the last years, such
+    as the "Day of Patriots" in 2015 which ended with a ban of the right-wing march
+    and up to 15000 anti-fascists at the counter-demonstration', confirmed: 'Yes',
+  name: Carina Book, organisation: '', other: '', photo: CAN'T FIND PHOTO, sessions: no-pasaran,
+  tag: Activist, twitter: ''}
+carys-roberts: {bio: Senior Economist at Institute for Public Policy Research (IPPR),
+  confirmed: 'Yes', name: Carys Roberts, organisation: IPPR, other: '', photo: '',
+  sessions: 4-day-week, tag: Think Tank Economist, twitter: 'https://twitter.com/carysroberts'}
+cat-hobbs: {bio: Founder and Director of We Own It, confirmed: 'Yes', name: Cat Hobbs,
+  organisation: We Own It, other: '', photo: '', sessions: taking-whats-ours, tag: Campaigner,
+  twitter: 'https://twitter.com/CatHobbs'}
+chantal-mouffe: {bio: 'Belgian political theorist and Professor of Political Theory
+    at the Centre for the Study of Democracy, University of Westminster.', confirmed: 'Yes',
+  name: Chantal Mouffe, organisation: '', other: '', photo: '', sessions: a-new-populism,
+  tag: Academic, twitter: ''}
+charlie-clarke: {bio: Charlie Clarke is a member of The World Transformed team and
+    has helped organise the festival since it began in 2016. He is a member of Hackney
+    North CLP and works as a support worker in a hostel for people with complex needs.,
+  confirmed: 'Yes', name: Charlie Clarke, organisation: '', other: '', photo: '',
+  sessions: political-education-forum, tag: Activist, twitter: ''}
+charlotte-riley: {bio: '', confirmed: '', name: Charlotte Riley, organisation: '',
+  other: '', photo: '', sessions: internationalist-labour-party, tag: '', twitter: ''}
+chloe-tomlinson: {bio: '', confirmed: '', name: Chloe Tomlinson, organisation: '',
+  other: '', photo: '', sessions: developing-labours-nes, tag: '', twitter: ''}
+chris-peace: {bio: '', confirmed: '', name: Chris Peace, organisation: '', other: '',
+  photo: '', sessions: class-justice, tag: '', twitter: ''}
+chris-williamson-mp: {bio: 'Labour MP for Derby North, formerly leader of Derby City
+    Council. He is a former bricklayer, market trader, social worker and welfare rights
+    officer and has been an animal rights and trade union activist all his adult life. ',
+  confirmed: 'Yes', name: Chris Williamson MP, organisation: '', other: '', photo: '',
+  sessions: ending-the-drug-war, tag: 'Politician ', twitter: 'https://twitter.com/DerbyChrisW'}
+christine-berry: {bio: Christine Berry is a freelance researcher and writer on radical
+    economics based in Manchester. She is a Fellow of the Next System Project and
+    a Trustee of Rethinking Economics and the Finance Innovation Lab, confirmed: 'Yes',
+  name: Christine Berry, organisation: '', other: '', photo: '', sessions: political-education-forum
+    a-movement-in-government, tag: Academic, twitter: ''}
+clara-paillard: {bio: President of PCS Culture Group, confirmed: 'Yes', name: Clara
+    Paillard, organisation: PCS, other: '', photo: '', sessions: sustainability-economics
+    movement-for-cultural-democracy beyond-cultural-precarity, tag: Trade Unionist,
+  twitter: 'https://twitter.com/clarapa'}
+claudia-webbe: {bio: Member of the Labour Party National Executive Committee and councillor
+    in Islington, confirmed: 'Yes', name: Claudia Webbe, organisation: Labour Party,
+  other: '', photo: '', sessions: black-women-transforming-politics, tag: Politician,
+  twitter: 'https://twitter.com/ClaudiaWebbe'}
+clive-lewis-mp: {bio: Labour MP for Norwich South, confirmed: 'Yes', name: Clive Lewis
+    MP, organisation: Labour Party, other: '', photo: '', sessions: sustainability-economics
+    a-socialist-story-of-modern-britain, tag: Politician, twitter: 'https://twitter.com/labourlewis'}
+costas-lapavitsas: {bio: Professor of Economics at the School of Oriental and African
+    Studies, confirmed: 'Yes', name: Costas Lapavitsas, organisation: '', other: '',
+  photo: '', sessions: the-brexit-bind, tag: Academic, twitter: ''}
+dalia-gebrial: {bio: 'Decolonisation activist, PhD candidate at LSE and co-editor
+    of ''Decolonising the University''', confirmed: 'Yes', name: Dalia Gebrial, organisation: '',
+  other: '', photo: '', sessions: decolonisation, tag: Activist, twitter: 'https://twitter.com/daliaeldaba'}
+dan-carden-mp: {bio: Labour MP for Liverpool Walton, confirmed: 'Yes', name: Dan Carden
+    MP, organisation: Labour Party, other: '', photo: '', sessions: update-the-welfare-state,
+  tag: Politician, twitter: 'https://twitter.com/DanCardenMP'}
+dan-hind: {bio: 'Independent publisher and republican whose work focuses on the relationship
+    between states and the communications regimes in which they are embedded. Dan
+    is a fellow at the Democracy Collaborative, which recently published his paper
+    "The Constitutional Turn: Liberty and the Co-operative State". He also co-presents
+    the Media Democracy podcast with Tom Mills.', confirmed: 'Yes', name: Dan Hind,
+  organisation: '', other: '', photo: '', sessions: occupy-fleet-street, tag: Publisher,
+  twitter: ''}
+daniel-frost: {bio: New Socialist contributing editor and a Labour and Momentum activist
+    in Croydon. He is a PhD student and UCU member at the University of Reading.,
+  confirmed: 'Yes', name: Daniel Frost, organisation: New Socialist, other: '', photo: CAN'T
+    FIND PHOTO, sessions: painting-the-towns-red, tag: Activist, twitter: ''}
+daniel-lewis: {bio: Chairman of The Media Fund, confirmed: 'Yes', name: Daniel Lewis,
+  organisation: The Media Fund, other: '', photo: '', sessions: a-movement-led-media,
+  tag: Activist, twitter: ''}
+danielle-rowley-mp: {bio: Labour MP for Midlothian, confirmed: 'Yes', name: Danielle
+    Rowley MP, organisation: Labour Party, other: '', photo: '', sessions: socialist-women-in-labour,
+  tag: Politician, twitter: 'https://twitter.com/DaniRowley'}
+dave-randall: {bio: 'Writer, activist, musician and guitarist of Faithless, author
+    of ''Sound System: The Political Power of Music''', confirmed: 'Yes', name: Dave
+    Randall, organisation: '', other: '', photo: '', sessions: music-in-the-movement,
+  tag: Musician, twitter: 'https://twitter.com/davidrrandall'}
+dave-ward: {bio: General Secretary of the Communication Workers Union, confirmed: 'Yes',
+  name: Dave Ward, organisation: CWU, other: '', photo: '', sessions: future-of-trade-unions,
+  tag: Trade Unionist, twitter: 'https://twitter.com/DaveWardGS'}
+david-harvey: {bio: 'Distinguished Professor of Anthropology and Geography at the
+    Graduate Center of the City University of New York and author of Marx, Capital
+    & the Madness of Economic Reason; The Ways of the World; 17 Contradictions & the
+    End of Capitalism', confirmed: 'Yes', name: David Harvey, organisation: '', other: '',
+  photo: '', sessions: tribune-relaunch, tag: Academic, twitter: 'https://twitter.com/profdavidharvey'}
+dawn-butler-mp: {bio: Shadow Secretary of State for Women & Equalities and Labour
+    MP for Brent Central, confirmed: 'Yes', name: Dawn Butler MP, organisation: 'Labour
+    Party ', other: '', photo: '', sessions: socialist-women-in-labour, tag: Politician,
+  twitter: 'https://twitter.com/DawnButlerBrent'}
+dennis-skinner-mp: {bio: Labour MP for Bolsover, confirmed: 'Yes', name: Dennis Skinner
+    MP, organisation: Labour Party, other: '', photo: '', sessions: nature-of-the-beast
+    towards-a-socialist-government, tag: Politician, twitter: ''}
+diane-abbott-mp: {bio: 'Shadow Home Secretary and Labour MP for Hackney North and
+    Stoke Newington ', confirmed: 'Yes', name: Diane Abbott MP, organisation: Labour
+    Party, other: '', photo: '', sessions: towards-a-socialist-government a-radical-alliance-for-europe
+    black-women-transforming-politics, tag: Poltician, twitter: 'https://twitter.com/HackneyAbbott'}
+dimitris-tzanakopoulos: {bio: 'Minister of State for Greece and Syriza Spokesman ',
+  confirmed: 'Yes', name: Dimitris Tzanakopoulos, organisation: Syriza, other: '',
+  photo: '', sessions: a-movement-in-government a-radical-alliance-for-europe, tag: Politician,
+  twitter: ''}
+dr-faiza-shaheen: {bio: 'Dr Faiza Shaheen is an economist, activist, and Director
+    of the Centre for Labour and Social Studies (CLASS) - and now the Labour Party
+    Parliamentary candidate set to unseat Ian Duncan-Smith. In 2017, Faiza was named
+    the Observer Rising Star for Campaigning, nominated as Asian Woman of the Year
+    and featured in the Top 100 Influencers on the Left list.', confirmed: 'Yes',
+  name: Dr Faiza Shaheen, organisation: CLASS, other: 'She specialises in economic
+    and spatial inequalities, employment, regeneration and child poverty', photo: '',
+  sessions: debunking-the-myths socialist-women-in-labour, tag: Think Tank Director,
+  twitter: 'https://twitter.com/faizashaheen'}
+dr-janet-price: {bio: 'Feminist disabled campaigner working on issues of sexuality,
+    disability and social justice, Honorary Fellow at Liverpool School of Tropical
+    Medicine', confirmed: 'Yes', name: Dr Janet Price, organisation: '', other: '',
+  photo: CAN'T FIND PHOTO, sessions: fighting-disabled-exclusion, tag: Campaigner,
+  twitter: ''}
+dr-paul-clarke: {bio: '', confirmed: '', name: Dr Paul Clarke, organisation: '', other: '',
+  photo: '', sessions: fighting-disabled-exclusion, tag: '', twitter: ''}
+dr-soyna-robotham: {bio: '', confirmed: '', name: Dr Soyna Robotham, organisation: '',
+  other: '', photo: '', sessions: black-women-transforming-politics, tag: '', twitter: ''}
+ed-miliband-mp: {bio: 'Labour MP for Doncaster North and former leader of the Labour
+    Party, radio dj sensation.', confirmed: 'Yes', name: Ed Miliband MP, organisation: Labour
+    Party, other: '', photo: '', sessions: a-new-economic-consensus ed-miliband-quiz,
+  tag: Politician, twitter: 'https://twitter.com/Ed_Miliband'}
+eleanor-penny: {bio: '', confirmed: '', name: Eleanor Penny, organisation: '', other: '',
+  photo: '', sessions: a-movement-led-media britains-new-far-right, tag: '', twitter: ''}
+eliane-correa: {bio: Leader of Afro-Cuban/pan-Latin band Wara, confirmed: 'Yes', name: Eliane
+    Correa, organisation: '', other: '', photo: '', sessions: music-in-the-movement,
+  tag: Musician, twitter: 'https://twitter.com/_elianecorrea_'}
+elif-sarican: {bio: Kurdish activist, confirmed: 'Yes', name: Elif Sarican, organisation: '',
+  other: '', photo: '', sessions: feminism-for-the-many, tag: Activist, twitter: ''}
+emine-ibrahim: {bio: 'Deputy leader of Haringey Council ', confirmed: 'Yes', name: Emine
+    Ibrahim, organisation: Labour Party, other: '', photo: '', sessions: black-women-transforming-politics,
+  tag: Politician, twitter: ''}
+emma-dent-coad-mp: {bio: Labour MP for Kensington, confirmed: 'Yes', name: Emma Dent
+    Coad MP, organisation: Labour Party, other: '', photo: '', sessions: socialist-women-in-labour,
+  tag: Politician, twitter: 'https://twitter.com/emmadentcoad'}
+emma-hardy-mp: {bio: '', confirmed: '', name: Emma Hardy MP, organisation: '', other: '',
+  photo: '', sessions: developing-labours-nes, tag: '', twitter: ''}
+ewa-jasiewicz: {bio: '', confirmed: '', name: Ewa Jasiewicz, organisation: '', other: '',
+  photo: '', sessions: future-of-trade-unions, tag: '', twitter: ''}
+fabian-hamilton-mp: {bio: Labour MP for Leeds North East and Shadow Minister for Peace
+    and Disarmament, confirmed: 'Yes', name: Fabian Hamilton MP, organisation: '',
+  other: '', photo: '', sessions: jobs-in-nuclear-weapons, tag: Politician, twitter: ''}
+fabio-de-masi: {bio: German politician for left German party Die Linke and Member
+    of the European Parliament for Germany, confirmed: 'Yes', name: Fabio De Masi,
+  organisation: 'Die Linke ', other: '', photo: '', sessions: the-european-left, tag: Politician,
+  twitter: 'https://twitter.com/FabioDeMasi'}
+faisal-yousif: {bio: Faisal Yousif is a medical student who has been active in Liverpool
+    Momentum since its founding., confirmed: 'Yes', name: Faisal Yousif, organisation: Liverpool
+    Momentum, other: '', photo: '', sessions: parties-and-picket-lines, tag: 'Campaigner ',
+  twitter: ''}
+fliss-premru: {bio: '', confirmed: '', name: Fliss Premru, organisation: '', other: '',
+  photo: '', sessions: communities-against-climate-change, tag: '', twitter: ''}
+fran-boait: {bio: Executive Director of Positive Money, confirmed: 'No', name: Fran
+    Boait, organisation: Positive Money, other: '', photo: '', sessions: runaway-finance,
+  tag: '', twitter: 'https://twitter.com/franboait'}
+frances-jones: {bio: Associate Director of the Centre for Local Economic Strategies,
+  confirmed: 'Yes', name: Frances Jones, organisation: '', other: '', photo: '', sessions: building-community-wealth,
+  tag: '', twitter: ''}
+frances-o-grady: {bio: '', confirmed: '', name: Frances O'Grady, organisation: '',
+  other: '', photo: '', sessions: a-plan-for-the-new-economy, tag: '', twitter: ''}
+francesca-bria: {bio: '', confirmed: 'No', name: Francesca Bria, organisation: '',
+  other: '', photo: '', sessions: in-and-against-the-state, tag: '', twitter: ''}
+francis-foley: {bio: '', confirmed: '', name: Francis Foley, organisation: '', other: '',
+  photo: '', sessions: a-socialist-story-of-modern-britain, tag: '', twitter: ''}
+franco-bifo-berardi: {bio: 'Renowned writer and theorist of contemporary media, culture
+    and society, working mainly around the aesthetics of the contemporary psychosphere.
+    His latest books include Futurability, Phenomenology of the End, and The Soul
+    at Work. In the 1970s he was one of the founders of the pirate radio station Radio
+    Alice, the magazine A/traverso and of the political movement Autonomia', confirmed: 'Yes',
+  name: Franco 'Bifo' Berardi, organisation: '', other: '', photo: '', sessions: no-pasaran
+    mental-health-and-capitalism, tag: Author, twitter: ''}
+furqan-naeem: {bio: '', confirmed: '', name: Furqan Naeem, organisation: '', other: '',
+  photo: '', sessions: a-plan-for-the-new-economy, tag: '', twitter: ''}
+gail-mcanena: {bio: '', confirmed: '', name: Gail McAnena, organisation: New Socialist,
+  other: '', photo: '', sessions: sustainability-economics, tag: '', twitter: ''}
+gail-ward: {bio: !!python/str "Active disability campaigner with DPAC (Disabled People\_\
+    Against Cuts) and Black Triangle Campaign\_for many years.\_Gail was previously\
+    \ a Trustee at West Northumberland Food Bank/Advocacy based in Hexham where she\
+    \ gained most of her welfare training.\_She\_is a regular public speaker at events\
+    \ across the UK against austerity measures.", confirmed: 'Yes', name: Gail Ward,
+  organisation: DPAC, other: '', photo: '', sessions: update-the-welfare-state, tag: Activist,
+  twitter: 'https://twitter.com/DPAC'}
+gareth-brown: {bio: '', confirmed: '', name: Gareth Brown, organisation: '', other: '',
+  photo: '', sessions: social-strike-game, tag: '', twitter: ''}
+gareth-eales: {bio: !!python/str "Borough and County Councillor in Northamptonshire,\
+    \ and the Labour PPC for Northampton South. He is a postal worker at the Royal\
+    \ Mail and a member of the\_CWU.", confirmed: 'Yes', name: Gareth Eales, organisation: '',
+  other: '', photo: '', sessions: painting-the-towns-red, tag: 'Politician ', twitter: 'https://twitter.com/cllrgaretheales'}
+grace-blakeley: {bio: !!python/str "Writer and Research Fellow on IPPR\u2019s Commission\
+    \ on Economic Justice", confirmed: 'Yes', name: Grace Blakeley, organisation: IPPR,
+  other: '', photo: '', sessions: a-new-economic-consensus tribune-relaunch global-finance-101,
+  tag: Researcher, twitter: 'https://twitter.com/graceblakeley'}
+grzegorz-rybak: {bio: Polish politician with left-wing party Razem, confirmed: 'Yes',
+  name: Grzegorz Rybak, organisation: Razem, other: '', photo: CAN'T FIND PHOTO, sessions: migrant-political-voices,
+  tag: Politician, twitter: ''}
+hasan-patel: {bio: '', confirmed: '', name: Hasan Patel, organisation: '', other: '',
+  photo: '', sessions: question-time, tag: '', twitter: ''}
+hilary-wainwright: {bio: 'Sociologist, political activist & author, fellow of the
+    Transnational Institute and editor of Red Pepper magazine', confirmed: 'Yes',
+  name: Hilary Wainwright, organisation: Red Pepper, other: '', photo: '', sessions: in-and-against-the-state
+    workers-control-in-economic-planning taking-whats-ours, tag: Author, twitter: 'https://twitter.com/hilarypepper'}
+ian-hodson: {bio: 'National President of the Bakers, Food and Allied Workers Union
+    (BFAWU)', confirmed: 'Yes', name: Ian Hodson, organisation: BFAWU, other: '',
+  photo: '', sessions: time-for-10, tag: Trade Unionist, twitter: 'https://twitter.com/IanBFAWU'}
+isaac-rose: {bio: 'Isaac Rose is a housing activist with Greater Manchester Housing
+    Action, and has led great work holding Manchester City Council to account on their
+    development plans.', confirmed: 'Yes', name: Isaac Rose, organisation: Greater
+    Manchester Housing Action, other: '', photo: '', sessions: parties-and-picket-lines,
+  tag: 'Campaigner ', twitter: ''}
+jacob-mukherjee: {bio: Campaigns Officer at Generation Rent - an organisation fighting
+    for the rights and interests of private renters. He is currently coordinating
+    the national campaign to end no-fault evictions, confirmed: 'Yes', name: Jacob
+    Mukherjee, organisation: Generation Rent, other: '', photo: '', sessions: rentquake,
+  tag: Campaigner, twitter: ''}
+jacqui-haynes: {bio: 'Grenfell activist ', confirmed: 'Yes', name: Jacqui Haynes,
+  organisation: '', other: '', photo: '', sessions: class-justice, tag: Activist,
+  twitter: ''}
+james-butler: {bio: '', confirmed: '', name: James Butler, organisation: '', other: '',
+  photo: '', sessions: red-white-blue-labour, tag: '', twitter: ''}
+jamie-woodcock: {bio: 'Editor for Notes From Below and Historical Materialism. Author
+    of ''Working the Phones'' Pluto Press 2017 and Marx at the Arcade; consoles, controllers
+    and class struggle(forthcoming on Haymarket Press)', confirmed: 'Yes', name: Jamie
+    Woodcock, organisation: Notes From Below, other: '', photo: '', sessions: lessons-from-the-ucu-strike,
+  tag: Author, twitter: 'https://twitter.com/jamie_woodcock'}
+jane-slater: {bio: '', confirmed: '', name: Jane Slater, organisation: '', other: '',
+  photo: '', sessions: ending-the-drug-war, tag: '', twitter: ''}
+jason-prado: {bio: Software engineer and labour organiser, confirmed: 'Yes', name: Jason
+    Prado, organisation: Tech Workers Coalition, other: '', photo: '', sessions: fighting-back-against-the-tech-giants,
+  tag: Activist, twitter: 'https://twitter.com/jasonpjason'}
+jawad-khan: {bio: !!python/str "Trade Union Representative on the Young Labour National\
+    \ Committee, and GMB Young Members\u2019 National Communications Officer. He is\
+    \ an activist in Batley and\_Spen CLP.", confirmed: '', name: Jawad Khan, organisation: '',
+  other: '', photo: '', sessions: painting-the-towns-red, tag: Activist, twitter: 'https://twitter.com/jawadkhan1998'}
+jean-blaylock: {bio: '', confirmed: '', name: Jean Blaylock, organisation: '', other: '',
+  photo: '', sessions: trading-with-trump, tag: '', twitter: ''}
+jean-luc-melenchon: {bio: 'Leader of left French party La France Insoumise ', confirmed: 'Yes',
+  name: !!python/str "Jean-Luc M\xE9lenchon", organisation: La France Insoumise, other: Ran
+    for the French Presidency in 2017 and won more than seven million votes, photo: '',
+  sessions: conversation-with-jean-luc-melenchon, tag: Politician, twitter: 'https://twitter.com/JLMelenchon'}
+jennifer-forbes: {bio: Labour Party Paliamentary candidate for Truro & Falmouth, confirmed: 'Yes',
+  name: Jennifer Forbes, organisation: '', other: '', photo: '', sessions: socialist-women-in-labour,
+  tag: Political candidate, twitter: ''}
+jeremy-gilbert: {bio: 'Professor of Cultural and Political Theory ', confirmed: 'Yes',
+  name: Jeremy Gilbert, organisation: '', other: '', photo: '', sessions: deconstructing-neoliberalism-monday
+    deconstructing-neoliberalism-tuesday deconstructing-neoliberalism-sunday a-socialist-story-of-modern-britain,
+  tag: Academic, twitter: 'https://twitter.com/jemgilbert'}
+jessica-buxton: {bio: '', confirmed: '', name: Jessica Buxton, organisation: '', other: '',
+  photo: '', sessions: transform-the-world-14-plus transform-the-world-8-to-13, tag: '',
+  twitter: ''}
+jo-mcneill: {bio: 'President of the University of Liverpool UCU branch, member of
+    the UCU NEC. Recently elected as a National Negotiator for HE, sitting on the
+    national Strategy and Finance Committee and Recruitment, Organising and Campaigns
+    Committee', confirmed: 'Yes', name: Jo McNeill, organisation: Liverpool UCU, other: '',
+  photo: '', sessions: lessons-from-the-ucu-strike, tag: Trade Unionist, twitter: 'https://twitter.com/JomcneillUCU'}
+joe-guinan: {bio: Senior Fellow at Democracy Collaborative and Executive Director
+    of the Next System Project, confirmed: 'Yes', name: Joe Guinan, organisation: Democracy
+    Collaborative, other: '', photo: '', sessions: a-movement-in-government, tag: 'Think
+    Tank Director ', twitter: 'https://twitter.com/joecguinan'}
+john-mcdonnell-mp: {bio: Shadow Chancellor of the Exchequer and Labour MP for Hayes
+    and Harlington, confirmed: 'Yes', name: John McDonnell MP, organisation: Labour
+    Party, other: '', photo: '', sessions: in-and-against-the-state transforming-the-global-economy
+    towards-a-socialist-government why-political-education, tag: Politician, twitter: 'https://twitter.com/johnmcdonnellMP'}
+jon-trickett-mp: {bio: 'Labour MP for Hemsworth and Shadow Minister for the Cabinet
+    Office ', confirmed: 'Yes', name: Jon Trickett MP, organisation: Labour Party,
+  other: '', photo: '', sessions: a-new-populism conversation-with-jean-luc-melenchon
+    power-for-the-many, tag: Politician, twitter: 'https://twitter.com/jon_trickett'}
+jonathan-ashworth-mp: {bio: Labour MP for Leicester South and Shadow Secretary of
+    State for Health and Social Care, confirmed: 'Yes', name: Jonathan Ashworth MP,
+  organisation: Labour Party, other: '', photo: '', sessions: mental-health-and-capitalism,
+  tag: Politician, twitter: 'https://twitter.com/JonAshworth'}
+jonathan-shafi: {bio: !!python/str "Campaigns Manager with think tank Common Wealth,\
+    \ member of  the coalition behind \u2018Act As If We Own The Place', founder and\
+    \ coordinator of the Radical Independence Congress", confirmed: 'Yes', name: Jonathan
+    Shafi, organisation: '', other: '', photo: '', sessions: power-for-the-many, tag: Think
+    Tank Campaigner, twitter: 'https://twitter.com/jonathon_shafi'}
+julie-ward-mep: {bio: !!python/str "Labour MEP for the North-West of England, member\
+    \ of the European Parliament\u2019s Culture and Education \nCommittee and link\
+    \ MEP for UNCRPD", confirmed: 'Yes', name: Julie Ward MEP, organisation: Labour
+    Party, other: '', photo: '', sessions: fighting-disabled-exclusion, tag: Politician,
+  twitter: 'https://twitter.com/julie4nw'}
+karma-nabulsi: {bio: '', confirmed: '', name: Karma Nabulsi, organisation: '', other: '',
+  photo: '', sessions: internationalist-labour-party, tag: '', twitter: ''}
+kat-wright: {bio: 'Member of Manchester ACORN, a community member led union fighting
+    for housing justice.', confirmed: 'Yes', name: Kat Wright, organisation: ACORN
+    Manchester, other: '', photo: CAN'T FIND PHOTO, sessions: beating-the-bosses,
+  tag: Activist, twitter: ''}
+kate-hudson: {bio: General Secretary of the Campaign for Nuclear Disarmament (CND)
+    and leading anti-nuclear and anti-war campaigner, confirmed: 'Yes', name: Kate
+    Hudson, organisation: CND, other: '', photo: '', sessions: jobs-in-nuclear-weapons,
+  tag: Campaigner, twitter: 'https://twitter.com/CNDuk'}
+kate-shea-baird: {bio: '', confirmed: '', name: Kate Shea Baird, organisation: '',
+  other: '', photo: '', sessions: a-radical-alliance-for-europe, tag: '', twitter: ''}
+katja-kipping: {bio: Chairperson of left German party Die Linke and a member of German
+    Parliament, confirmed: 'Yes', name: Katja Kipping, organisation: 'Die Linke ',
+  other: '', photo: '', sessions: 4-day-week, tag: Politician, twitter: 'https://twitter.com/katjakipping'}
+kehinde-andrews: {bio: '', confirmed: '', name: Kehinde Andrews, organisation: '',
+  other: '', photo: '', sessions: internationalist-labour-party, tag: '', twitter: ''}
+keir-milburn: {bio: '', confirmed: '', name: Keir Milburn, organisation: '', other: '',
+  photo: '', sessions: social-strike-game, tag: '', twitter: ''}
+ken-loach: {bio: Award winning film and television Director, confirmed: 'Yes', name: Ken
+    Loach, organisation: '', other: '', photo: '', sessions: parties-and-picket-lines,
+  tag: Director, twitter: ''}
+kevin-anderson: {bio: 'Deputy Director of the Tyndall Centre for Climate Change Research
+    and holds a joint chair in Energy and Climate Change at the School of Mechanical,
+    Aerospace and Civil Engineering at the University of Manchester and School of
+    Environmental Sciences at the University of East Anglia', confirmed: 'Yes', name: Kevin
+    Anderson, organisation: '', other: '', photo: '', sessions: sustainability-economics,
+  tag: Academic, twitter: 'https://twitter.com/KevinClimate'}
+kevin-courtney: {bio: 'Joint General Secretary for the National Education Union (NEU) ',
+  confirmed: 'Yes', name: Kevin Courtney, organisation: NEU, other: '', photo: '',
+  sessions: developing-labours-nes, tag: Trade Unionist, twitter: 'https://twitter.com/cyclingkev'}
+kojo-koram: {bio: '', confirmed: 'Yes', name: Kojo Koram, organisation: '', other: '',
+  photo: '', sessions: decolonisation, tag: '', twitter: ''}
+laura-basu: {bio: 'Author of Media Amnesia and co-editor of The Media & Austerity,
+    both out earlier this year. She is interested in media democracy as well as the
+    wider question of how to create more democratic societies.', confirmed: 'Yes',
+  name: Laura Basu, organisation: '', other: '', photo: '', sessions: occupy-fleet-street,
+  tag: Academic, twitter: ''}
+laura-parker: {bio: '', confirmed: '', name: Laura Parker, organisation: '', other: '',
+  photo: '', sessions: the-brexit-bind, tag: '', twitter: ''}
+laurie-laybourn-langton: {bio: '', confirmed: '', name: Laurie Laybourn-Langton, organisation: IPPR,
+  other: '', photo: '', sessions: digital-economy-101, tag: '', twitter: ''}
+leah-levane: {bio: Jewish Voice for Labour co-chair and Hastings councillor, confirmed: 'Yes',
+  name: Leah Levane, organisation: Jewish Voice for Labour, other: '', photo: '',
+  sessions: socialist-women-in-labour, tag: Politician, twitter: ''}
+lena-simic: {bio: !!python/str "Lena \u0160imi\u0107, Political Education Officer\
+    \ for Walton CLP, is a transnational performance practitioner, pedagogue and scholar.\
+    \ Lena works at Edge Hill University. Originally from Dubrovnik, Croatia, Lena\
+    \ came to live in Liverpool in 2000. Together with her family she co-organizes\
+    \ the Institute for the Art and Practice of Dissent at Home, an art activist initiative\
+    \ in Everton. She\u2019s a part of Artists4Corbyn collective.", confirmed: 'Yes',
+  name: !!python/str "Lena \u0160imi\u0107", organisation: '', other: '', photo: '',
+  sessions: education-in-the-labour-party, tag: Performance Practitioner, twitter: ''}
+leo-panitch: {bio: 'Editor of the Socialist Register and distinguished research professor
+    at York University, Canada.', confirmed: 'Yes', name: Leo Panitch, organisation: '',
+  other: 'Co-author, with Sam Gindin, of The Making of Global Capitalism: The Political
+    Economy of American Empire (Verso)', photo: '', sessions: transforming-the-global-economy,
+  tag: Academic, twitter: ''}
+leo-watkins: {bio: 'Masters student at Queen Mary, University of London, member of
+    the Media Reform Coalition co-ordinating committee, and former media analyst.
+    He was involved in the successful campaign to prevent Rupert Murdoch''s 21st Century
+    Fox acquiring control of Sky News, and is currently developing a proposal for
+    new publicly funded and democratically controlled news media. ', confirmed: 'Yes',
+  name: Leo Watkins, organisation: Media Reform Coalition, other: '', photo: '', sessions: occupy-fleet-street,
+  tag: '', twitter: ''}
+lisa-nandy-mp: {bio: '', confirmed: '', name: Lisa Nandy MP, organisation: '', other: '',
+  photo: '', sessions: a-new-economic-consensus, tag: '', twitter: ''}
+lois-browne: {bio: Love Music Hate Racism campaign, confirmed: 'No', name: Lois Browne,
+  organisation: '', other: '', photo: '', sessions: music-in-the-movement, tag: Activist,
+  twitter: ''}
+lorcan-mullan: {bio: Lorcan Mullen is the Momentum NCG rep for Scotland and has been
+    an advocate for expanded political education on the Labour left. Lorcan first
+    joined the anti-austerity movement as a student leader in Belfast in 2010 and
+    has subsequently worked as a trade union organiser. He is a member of Edinburgh
+    North and Leith CLP., confirmed: 'Yes', name: Lorcan Mullan, organisation: '',
+  other: '', photo: CAN'T FIND PHOTO, sessions: education-in-the-labour-party, tag: Activist,
+  twitter: ''}
+lowkey: {bio: 'British rapper, hip-hop artist and activist', confirmed: 'Yes', name: Lowkey,
+  organisation: '', other: '', photo: '', sessions: music-in-the-movement, tag: Musician,
+  twitter: 'https://twitter.com/Lowkey0nline'}
+lynne-segal: {bio: 'Academic and feminist writer, Lynne''s most recent book is Radical
+    Happiness: Moment''s of Collective Joy', confirmed: 'Yes', name: Lynne Segal,
+  organisation: '', other: '', photo: '', sessions: mental-health-and-capitalism,
+  tag: 'academic ', twitter: ''}
+mariela-kohon: {bio: '', confirmed: '', name: Mariela Kohon, organisation: '', other: '',
+  photo: '', sessions: colombia-the-human-rights-crisis, tag: '', twitter: ''}
+marisa-matias: {bio: '', confirmed: '', name: Marisa Matias, organisation: '', other: '',
+  photo: '', sessions: a-radical-alliance-for-europe, tag: '', twitter: ''}
+mark-serwotka: {bio: General Secretary of the Public and Commercial Services Union,
+  confirmed: 'Yes', name: Mark Serwotka, organisation: '', other: '', photo: '', sessions: in-and-against-the-state,
+  tag: Trade Unionist, twitter: ''}
+marsha-de-cordova-mp: {bio: Labour MP for Battersea, confirmed: 'Yes', name: Marsha
+    de Cordova MP, organisation: Labour Party, other: '', photo: '', sessions: fighting-disabled-exclusion,
+  tag: Politician, twitter: 'https://twitter.com/MarshadeCordova'}
+martin-drewry: {bio: !!python/str "Martin Drewry is CEO of Health Poverty Action \u2013\
+    \ a politically progressive INGO working with some of the world\u2019s poorest\
+    \ and most marginalised populations in 17 countries. Martin has worked in international\
+    \ development for 25 years, including co-founding the Trade Justice Movement,\
+    \ and as one of the leaders of Make Poverty History. He views the so called \u2018\
+    war on drugs\u2019 as a key driver of global poverty and inequality.", confirmed: 'Yes',
+  name: Martin Drewry, organisation: '', other: '', photo: '', sessions: ending-the-drug-war,
+  tag: INGO Director, twitter: 'https://twitter.com/martindrewry'}
+martina-fana: {bio: Italian Journalist and author, confirmed: 'Yes', name: Martina
+    Fana, organisation: '', other: '', photo: CAN'T FIND PHOTO, sessions: the-european-left,
+  tag: Journalist, twitter: ''}
+mary-davis: {bio: !!python/str "Labour Historian. who has written, broadcast and lectured\
+    \ widely on women\u2019s history, labour history, imperialism and racism. She\
+    \ was awarded the TUC Women\u2019s Gold \nBadge in 2010 for services to trade\
+    \ unionism. She is currently a trustee of Marx Memorial Library", confirmed: 'Yes',
+  name: Mary Davis, organisation: Marx Memorial Library, other: '', photo: CAN'T FIND
+    PHOTO, sessions: marxism-101, tag: Academic, twitter: ''}
+mary-kaldor: {bio: Professor of Global Governance at the Londin School of Economics,
+  confirmed: 'Yes', name: Mary Kaldor, organisation: '', other: '', photo: '', sessions: the-brexit-bind,
+  tag: Academic, twitter: ''}
+mat-lawrence: {bio: '', confirmed: '', name: Mat Lawrence, organisation: IPPR, other: '',
+  photo: '', sessions: digital-economy-101, tag: '', twitter: ''}
+matt-wrack: {bio: 'General Secretary of the Fire Brigades Union (FBU) ', confirmed: 'Yes',
+  name: Matt Wrack, organisation: FBU, other: '', photo: '', sessions: runaway-finance,
+  tag: Trade Unionist, twitter: 'https://twitter.com/MattWrack'}
+matthew-brown: {bio: Labour politician and leader of Preston City Council, confirmed: 'Yes',
+  name: Matthew Brown, organisation: Labour Party, other: '', photo: '', sessions: building-community-wealth,
+  tag: Politician, twitter: 'https://twitter.com/MatthewBrownLab'}
+maya-goodfellow: {bio: Journalist and academic, confirmed: 'Yes', name: Maya Goodfellow,
+  organisation: '', other: '', photo: '', sessions: migrant-political-voices, tag: Journalist,
+  twitter: 'https://twitter.com/MayaGoodfellow'}
+meirian-jump: {bio: Archivist & Library Manager at the Marx Memorial Library, confirmed: 'Yes',
+  name: Meirian Jump, organisation: Marx Memorial Library, other: '', photo: '', sessions: marxism-101,
+  tag: Archivist, twitter: ''}
+melissa-benn: {bio: 'Writer & campaigner, founder of the Local Schools Network, and
+    chair of Comprehensive Future. Her books include School Wars: The Battle for Britain''s
+    Education', confirmed: 'Yes', name: Melissa Benn, organisation: '', other: '',
+  photo: '', sessions: a-socialist-story-of-modern-britain, tag: Author, twitter: 'https://twitter.com/Melissa_Benn'}
+michael-jacobs: {bio: '', confirmed: '', name: Michael Jacobs, organisation: '', other: '',
+  photo: '', sessions: global-finance-101 a-plan-for-the-new-economy, tag: '', twitter: ''}
+michael-roberts: {bio: 'Economist and author of The Great Recession: a Marxist view
+    and The Long Depression', confirmed: 'Yes', name: Michael Roberts, organisation: '',
+  other: '', photo: CAN'T FIND PHOTO, sessions: runaway-finance, tag: Economist, twitter: ''}
+miranda-hall: {bio: 'Writer and activist interested in the intersections of work,
+    gender and technology, working at the New Economics Foundation (NEF)', confirmed: 'Yes',
+  name: Miranda Hall, organisation: NEF, other: '', photo: CAN'T FIND PHOTO, sessions: cybernetic-socialism,
+  tag: Writer, twitter: 'https://twitter.com/Miranda__Lena'}
+miro-griffiths: {bio: 'Activist and academic on human rights, advisor to UK Government
+    and European Commission', confirmed: 'Yes', name: Miro Griffiths, organisation: '',
+  other: '', photo: '', sessions: fighting-disabled-exclusion, tag: Activist, twitter: 'https://twitter.com/MiroGriffiths'}
+molly-smith: {bio: Sex work activist with Sex Worker Open University and ScotPep,
+  confirmed: 'Yes', name: Molly Smith, organisation: ScotPep, other: '', photo: CAN'T
+    FIND PHOTO, sessions: end-to-sex-work-criminalisation, tag: Activist, twitter: 'https://twitter.com/pastachips'}
+moussa-amine-sylla: {bio: '', confirmed: '', name: Moussa Amine Sylla, organisation: '',
+  other: '', photo: '', sessions: movement-for-cultural-democracy, tag: '', twitter: ''}
+nancy-platts: {bio: !!python/str "Labour Councillor in Brighton, former Trade Union\
+    \ Liaison Officer in Jeremy Corbyn\u2019s Office, heads up \u2018Politics for\
+    \ the Many - Trade Unionists for Political Reform'", confirmed: 'Yes', name: Nancy
+    Platts, organisation: Labour Party, other: '', photo: '', sessions: power-for-the-many,
+  tag: 'Politician ', twitter: ''}
+neil-findlay-msp: {bio: 'Labour MSP for Lothians and Shadow Cabinet member leading
+    on Brexit, Campaigns and Party engagement', confirmed: 'Yes', name: Neil Findlay
+    MSP, organisation: Labour Party, other: '', photo: '', sessions: class-justice,
+  tag: 'Politician ', twitter: 'https://twitter.com/NeilFindlay_MSP'}
+nelini-stamp: {bio: 'National Organizing Director at the Working Families Party and
+    member of Resistance Revival Chorus ', confirmed: 'Yes', name: Nelini Stamp, organisation: Working
+    Families Party, other: '', photo: '', sessions: no-pasaran feminism-for-the-many,
+  tag: Campaigner, twitter: 'https://twitter.com/NelStamp'}
+nick-dearden: {bio: '', confirmed: '', name: Nick Dearden, organisation: '', other: '',
+  photo: '', sessions: trading-with-trump, tag: '', twitter: ''}
+nick-mahony: {bio: 'Organiser with Movement for Cultural Democracy ', confirmed: 'Yes',
+  name: Nick Mahony, organisation: Movement for Cultural Democracy, other: '', photo: CAN'T
+    FIND PHOTO, sessions: movement-for-cultural-democracy, tag: Activist, twitter: ''}
+niki-adams: {bio: Organiser with English Collective of Prostitutes, confirmed: 'Yes',
+  name: Niki Adams, organisation: English Collective of Prostitutes, other: '', photo: CAN'T
+    FIND PHOTO, sessions: end-to-sex-work-criminalisation, tag: Activist, twitter: ''}
+owen-jones: {bio: !!python/str "Guardian columnist, left-wing political activist and\
+    \ author of Chavs: The Demonisation of the Working Class and The Establishment\
+    \ \u2013 And How They Get Away With It", confirmed: 'Yes', name: Owen Jones, organisation: '',
+  other: '', photo: '', sessions: tribune-relaunch, tag: Journalist, twitter: 'https://twitter.com/OwenJones84'}
+pablo-bustinduy: {bio: 'Spanish politician of left-wing party Podemos ', confirmed: 'Yes',
+  name: Pablo Bustinduy, organisation: 'Podemos ', other: '', photo: '', sessions: the-european-left,
+  tag: Politician, twitter: 'https://twitter.com/pbustinduy'}
+pablo-navarrete: {bio: '', confirmed: '', name: Pablo Navarrete, organisation: '',
+  other: '', photo: '', sessions: colombia-the-human-rights-crisis, tag: '', twitter: ''}
+pat-devine: {bio: 'Radical economist concerned mainly with industrial economics and
+    comparative economic systems. ', confirmed: 'Yes', name: Pat Devine, organisation: '',
+  other: '', photo: '', sessions: workers-control-in-economic-planning, tag: Economist,
+  twitter: ''}
+paul-mason: {bio: !!python/str "Writer, author\_and film-maker. As economics editor\
+    \ at\_Newsnight, then\_Channel 4 News\_he covered the global financial crisis,\
+    \ the Arab Spring, the Occupy movement and the Gaza war. His bestselling book\_\
+    Postcapitalism\_has been translated into 16 languages.\_His  play\_Why It\u2019\
+    s Kicking Off Everywhere\_was televised on BBC Two\_in 2017. ", confirmed: 'Yes',
+  name: Paul Mason, organisation: '', other: 'He was formerly Culture and Digital
+    Editor of Channel 4 News, becoming the programme''s Economics Editor on 1 June
+    2014,', photo: '', sessions: the-brexit-bind power-for-the-many a-movement-in-government,
+  tag: Journalist, twitter: 'https://twitter.com/paulmasonnews'}
+paul-nowak: {bio: Deputy General Secretary of the Trades Union Congress (TUC), confirmed: 'Yes',
+  name: Paul Nowak, organisation: TUC, other: '', photo: '', sessions: jobs-in-nuclear-weapons,
+  tag: Trade Unionist, twitter: 'https://twitter.com/nowak_paul'}
+paul-williams: {bio: 'Co-Chair of ACORN Brighton, a community-based union of working-class
+    people fighting for renters rights', confirmed: 'Yes', name: Paul Williams, organisation: ACORN
+    Brighton, other: '', photo: CAN'T FIND PHOTO, sessions: rentquake, tag: Activist,
+  twitter: 'https://twitter.com/paulf_williams'}
+paulina-nicol: {bio: Organiser with English Collective of Prostitutes (ECP), confirmed: 'Yes',
+  name: Paulina Nicol, organisation: English Collective of Prostitutes, other: '',
+  photo: CAN'T FIND PHOTO, sessions: end-to-sex-work-criminalisation, tag: Activist,
+  twitter: ''}
+pernille-skipper: {bio: Danish MP and Leader of Red-Green Alliance, confirmed: 'Yes',
+  name: Pernille Skipper, organisation: Red-Green Alliance, other: '', photo: '',
+  sessions: the-european-left, tag: Politician, twitter: 'https://twitter.com/PSkipperEL'}
+peter-stark: {bio: '', confirmed: '', name: Peter Stark, organisation: '', other: '',
+  photo: '', sessions: movement-for-cultural-democracy beyond-cultural-precarity,
+  tag: '', twitter: ''}
+prof-ozlem-onaran: {bio: Author and Professor of Economics at the University of Greenwich
+    and the director of the Greenwich Political Economy Research Centre, confirmed: 'Yes',
+  name: !!python/str "Professor \xD6zlem Onaran", organisation: University of Greenwich,
+  other: '', photo: '', sessions: debunking-the-myths, tag: Academic, twitter: ''}
+rachael-o-byrne: {bio: '', confirmed: '', name: !!python/str "Rachael O\u2019Byrne",
+  organisation: '', other: '', photo: '', sessions: transform-the-world-14-plus transform-the-world-8-to-13,
+  tag: '', twitter: ''}
+raquel-rolnik: {bio: '', confirmed: '', name: Raquel Rolnik, organisation: '', other: '',
+  photo: '', sessions: transforming-the-global-economy cities-in-common, tag: '',
+  twitter: ''}
+raul-espejo: {bio: !!python/str "Operations Director of Project Cybersyn, academic\
+    \ and leading expert on organisational\_cybernetics\_", confirmed: 'Yes', name: Raul
+    Espejo, organisation: '', other: '', photo: '', sessions: cybernetic-socialism,
+  tag: Author, twitter: ''}
+rebecca-long-bailey-mp: {bio: Labour MP for Salford and Eccles, confirmed: 'Yes',
+  name: Rebecca Long-Bailey MP, organisation: '', other: '', photo: '', sessions: towards-a-socialist-government,
+  tag: Politician, twitter: 'https://twitter.com/RLong_Bailey'}
+rhiannon-white: {bio: 'Co-director of Common Wealth ', confirmed: 'Yes', name: Rhiannon
+    White, organisation: Common Wealth, other: '', photo: '', sessions: movement-for-cultural-democracy
+    an-intersection-of-class-and-gender, tag: Artist, twitter: ''}
+richard-burgon-mp: {bio: 'Labour MP for Leeds East, Shadow Secretary of State for
+    Justice and Shadow Lord Chancellor', confirmed: 'Yes', name: Richard Burgon MP,
+  organisation: Labour Party, other: '', photo: '', sessions: britains-new-far-right
+    towards-a-socialist-government, tag: Politician, twitter: 'https://twitter.com/RichardBurgon'}
+richard-clarke: {bio: !!python/str "Labour party activist currently working as a consultant\
+    \ to Lottery funded landscape schemes, Visiting Scholar at  the University of\
+    \ Westminster, member of the Marx Memorial Library\u2019s Education Sub-Commit",
+  confirmed: 'Yes', name: Richard Clarke, organisation: Marx Memorial Library, other: '',
+  photo: CAN'T FIND PHOTO, sessions: marxism-101, tag: Activist, twitter: ''}
+richard-leonard-msp: {bio: 'Leader of Scottish Labour ', confirmed: 'Yes', name: Richard
+    Leonard MSP, organisation: '', other: '', photo: '', sessions: a-new-economic-consensus,
+  tag: Politician, twitter: ''}
+richard-seymour: {bio: !!python/str "Writer, broadcaster & activist and author of\
+    \ several books, including 'Corbyn: The Strange Rebirth of Radical Politics'.\
+    \ He blogs at Lenin\u2019s Tomb.", confirmed: 'Yes', name: Richard Seymour, organisation: '',
+  other: '', photo: '', sessions: internationalist-labour-party, tag: Author, twitter: 'https://twitter.com/leninology'}
+rita-chandha: {bio: 'Organiser with Migrants'' Rights Network ', confirmed: 'Yes',
+  name: Rita Chandha, organisation: Migrants' Rights Network, other: '', photo: CAN'T
+    FIND PHOTO, sessions: migrant-political-voices, tag: Activist, twitter: 'https://twitter.com/migrants_rights'}
+robert-verkaik: {bio: '', confirmed: '', name: Robert Verkaik, organisation: '', other: '',
+  photo: '', sessions: developing-labours-nes, tag: '', twitter: ''}
+ronan-burtenshaw: {bio: 'Writer and Europe Editor for Jacobin ', confirmed: 'Yes',
+  name: Ronan Burtenshaw, organisation: Jacobin, other: '', photo: '', sessions: tribune-relaunch
+    the-european-left, tag: Writer, twitter: 'https://twitter.com/ronanburtenshaw'}
+rory-hughes: {bio: President of University of Liverpool Guild of Students, confirmed: 'Yes',
+  name: Rory Hughes, organisation: Liverpool Guild of Students, other: '', photo: '',
+  sessions: lessons-from-the-ucu-strike, tag: Activist, twitter: 'https://twitter.com/RedRoryHughes'}
+royston-bentham: {bio: Management Committee member of Spirit of Shankley and Football
+    Supporters Federation National Council member, confirmed: 'Yes', name: Royston
+    Bentham, organisation: Spirit of Shankley, other: '', photo: '', sessions: class-justice,
+  tag: Activist, twitter: 'https://twitter.com/roybentham1'}
+sakina-sheikh: {bio: '', confirmed: '', name: Sakina Sheikh, organisation: '', other: '',
+  photo: '', sessions: communities-against-climate-change, tag: '', twitter: ''}
+sam-mason: {bio: 'Policy Officer at Public and Commerical Services trade union (PCS),
+    main author of the PCS pamphlet Just Transition and Energy Democracy: a civil
+    service trade union perspective & member of the New Lucas Plan project coordinating
+    the Just Transition strand', confirmed: 'Yes', name: Sam Mason, organisation: PCS,
+  other: '', photo: CANNOT FIND PICTURE, sessions: jobs-in-nuclear-weapons workers-control-in-economic-planning,
+  tag: Trade Unionist, twitter: ''}
+sarah-jayne-clifton: {bio: Director of Jubilee Debt Campaign, confirmed: 'Yes', name: Sarah-Jayne
+    Clifton, organisation: Jubilee Debt Campaign, other: '', photo: '', sessions: runaway-finance,
+  tag: Campaigner, twitter: 'https://twitter.com/sarahjclifton'}
+sarah-weston: {bio: Sarah Weston is a doctor in politics of voice and performance
+    at the uni of Leeds and creates local-led productions with Salford Community Theatre.,
+  confirmed: 'Yes', name: Sarah Weston, organisation: Salford Community Theatre, other: '',
+  photo: '', sessions: parties-and-picket-lines, tag: Campaigner, twitter: ''}
+seth-wheeler: {bio: 'Founder member of  Plan C, editor of the socialist journal ''Notes
+    From Below'' and member of the IWGB Union. He is currently devising an educational
+    project in conjunction with CAIWU, a member-led union', confirmed: 'Yes', name: Seth
+    Wheeler, organisation: Notes From Below, other: '', photo: '', sessions: beating-the-bosses,
+  tag: Activist, twitter: 'https://twitter.com/sethnotes'}
+sharon-clancy: {bio: 'Sharon Clancy is the Political Education Officer for Mansfield
+    CLP. She''s a Senior Research Fellow in Adult Education at the University of Nottingham.
+    Her background is in community activism and public engagement and her academic
+    interests include social justice and political activism. ', confirmed: 'Yes',
+  name: Sharon Clancy, organisation: '', other: '', photo: '', sessions: education-in-the-labour-party
+    developing-labours-nes, tag: Academic, twitter: 'https://twitter.com/clancyfirefox'}
+sheila-coleman: {bio: Activist with the Hillsborough Justice Campaign, confirmed: 'Yes',
+  name: Sheila Coleman, organisation: Hillsborough Justice Campaign, other: '', photo: '',
+  sessions: class-justice beating-the-bosses, tag: Activist, twitter: 'https://twitter.com/SheilaColeman96'}
+shingai-shoniwa: {bio: 'Musician and lead vocallist in The Noisettes ', confirmed: 'Yes',
+  name: Shingai Shoniwa, organisation: '', other: '', photo: '', sessions: music-in-the-movement,
+  tag: Musician, twitter: ''}
+simon-mckeown: {bio: Award-winning and internationally exhibiting artist with a focus
+    on disability arts, confirmed: 'Yes', name: Simon McKeown, organisation: '', other: '',
+  photo: '', sessions: fighting-disabled-exclusion, tag: Artist, twitter: ''}
+siobhan-donnachie: {bio: Housing advisor and organiser with Greater Manchester Housing
+    Action (GMHA) - a network of organisers and progressive academics who advocate  and
+    campaign for radical leftwing solutions to the housing crisis in Greater Manchester,
+  confirmed: 'Yes', name: Siobhan Donnachie, organisation: GMHA, other: '', photo: CAN'T
+    FIND PHOTO, sessions: rentquake, tag: Activist, twitter: ''}
+sofia-brito: {bio: '', confirmed: '', name: Sofia Brito, organisation: '', other: '',
+  photo: '', sessions: feminism-for-the-many, tag: '', twitter: ''}
+sophie-hope: {bio: '', confirmed: '', name: Sophie Hope, organisation: '', other: '',
+  photo: '', sessions: movement-for-cultural-democracy, tag: '', twitter: ''}
+stephen-pritchard: {bio: 'Arts historian, writer, activist and artist', confirmed: 'Yes',
+  name: Stephen Pritchard, organisation: Movement for Cultural Democracy, other: '',
+  photo: '', sessions: regenerating-regeneration movement-for-cultural-democracy,
+  tag: Academic, twitter: 'https://twitter.com/etiennelefleur'}
+steve-hudson: {bio: 'Organiser with Labour International ', confirmed: 'Yes', name: Steve
+    Hudson, organisation: Labour Party, other: '', photo: CAN'T FIND PHOTO, sessions: migrant-political-voices,
+  tag: Campaigner, twitter: 'https://twitter.com/LabourInt'}
+stewart-lansley: {bio: !!python/str "Stewart Lansley is an economist and financial\
+    \ journalist. He is a visiting fellow at the School of Policy Studies, University\
+    \ of Bristol and a fellow at London's City University. He has written on inequality,\
+    \ wealth and poverty for academic and specialist journals as well as several newspapers.\_",
+  confirmed: 'Yes', name: Stewart Lansley, organisation: '', other: '', photo: '',
+  sessions: update-the-welfare-state, tag: Economist, twitter: 'https://twitter.com/StewartLansley'}
+ted-howard: {bio: 'Co-founder and President of The Democracy Collaborative, previously
+    serving as the Executive Director of the National Center for Economic Alternatives',
+  confirmed: 'Yes', name: Ted Howard, organisation: Democracy Collaborative, other: '',
+  photo: '', sessions: building-community-wealth, tag: Think Tank Director, twitter: ''}
+thomas-hanna: {bio: 'Research Director at Democracy Collaborative ', confirmed: 'Yes',
+  name: Thomas Hanna, organisation: Democracy Collaborative, other: '', photo: '',
+  sessions: taking-whats-ours, tag: Think Tank Director, twitter: 'https://twitter.com/thomasmhanna'}
+tithi-bhattacharya: {bio: 'Marxist feminist Professor of South Asian history and Director
+    of Global Studies at Purdue university, Indiana', confirmed: 'Yes', name: Tithi
+    Bhattacharya, organisation: '', other: '', photo: '', sessions: feminism-for-the-many
+    marx-at-200, tag: Academic, twitter: ''}
+tom-gann: {bio: '', confirmed: '', name: Tom Gann, organisation: New Socialist, other: '',
+  photo: '', sessions: eco-corbynism-mon eco-corbynism-reading-group eco-corbynism-sun,
+  tag: '', twitter: ''}
+tom-kibasi: {bio: '', confirmed: '', name: Tom Kibasi, organisation: IPPR, other: '',
+  photo: '', sessions: a-plan-for-the-new-economy, tag: '', twitter: ''}
+tom-mills: {bio: !!python/str "Lecturer at Aston University, the author of \u2018\
+    The BBC: Myth of a Public Service\u2019 and the co-presenter of the Media Democracy\
+    \ podcast. His academic work is centrally concerned with the ideas and practices\
+    \ of powerful groups and actors, and the social networks that influence policy\
+    \ making\r\n\r\n ", confirmed: 'Yes', name: Tom Mills, organisation: '', other: '',
+  photo: '', sessions: occupy-fleet-street, tag: Academic, twitter: ''}
+tracy-brabin-mp: {bio: '', confirmed: '', name: Tracy Brabin MP, organisation: '',
+  other: '', photo: '', sessions: question-time, tag: '', twitter: ''}
+vijay-prashad: {bio: Indian historian and marxist who is Director of the Tricontential
+    Institute and Editor of LeftWord Books, confirmed: 'Yes', name: Vijay Prashad,
+  organisation: '', other: '', photo: '', sessions: marx-at-200, tag: Academic, twitter: 'https://twitter.com/vijayprashad'}
+wendy-liu: {bio: Economics co-editor at New Socialist, confirmed: 'Yes', name: Wendy
+    Liu, organisation: New Socialist, other: '', photo: '', sessions: fighting-back-against-the-tech-giants
+    occupy-fleet-street, tag: Writer, twitter: 'https://twitter.com/dellsystem'}
+will-barker: {bio: '', confirmed: '', name: Will Barker, organisation: '', other: '',
+  photo: '', sessions: social-strike-game, tag: '', twitter: ''}
+will-stronge: {bio: !!python/str "Founding member and co-director of Autonomy, a think-tank\
+    \ concerned with the future of work. With Helen Hester, he is the co-author of\
+    \ the forthcoming primer\_Post-Work: what it is, why it matters and how we get\
+    \ there (Bloomsbury, 2019).", confirmed: 'Yes', name: Will Stronge, organisation: Autonomy,
+  other: '', photo: '', sessions: 4-day-week cybernetic-socialism update-the-welfare-state,
+  tag: Think Tank Director, twitter: 'https://twitter.com/w_stronge'}
+zita-holbourne: {bio: 'Activist, author & artist and PCS national vice-president',
+  confirmed: 'Yes', name: Zita Holbourne, organisation: PCS, other: '', photo: '',
+  sessions: black-women-transforming-politics, tag: Activist, twitter: ''}

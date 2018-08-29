@@ -1,0 +1,54 @@
+---
+layout: page
+columns: sixteen
+description: "A 4-day politics, arts and music festival running alongside the Labour Party Conference. Liverpool, September 22-25."
+title: Speakers 
+---
+<table class="ui celled table">
+    <thead>
+        <tr>
+            <th class="five wide">
+                Name and affiliation
+            </th>
+            <th class="six wide">
+                Details
+            </th>
+            <th class="five wide">
+                Sessions
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for row in site.data.programme.speakers_list %}
+        {% assign speaker = site.data.programme.speakers[row.slug] %}
+            <tr>
+                <td>
+                    <h3 class="ui header" id="{{ row.slug }}">
+                        {{ speaker.name }}
+                        <div class="sub header">
+                            {% unless speaker.tag == '' %}
+                            {{ speaker.tag }}
+                            {% unless speaker.organisation == '' %}//{% endunless %}
+                            {% endunless %}
+                            {{ speaker.organisation }}
+                        </div>
+                    </h3>
+                </td>
+                <td>{{ speaker.bio }}</td>
+                <td>
+                    {% assign sessions = speaker.sessions|split:" " %}
+                    <div class="ui bulleted list">
+                    {% for slug in sessions %}
+                        {% assign session = site.data.programme.sessions[slug] %}
+                        <div class="item">
+                            <a href="/sessions/{{ slug }}">
+                                {{ session.title }}
+                            </a> ({{ session.day }} {{ session.time }})
+                        </div>
+                    {% endfor %}
+                    </div>
+                </td>
+            </tr>
+        {% endfor %}
+    </tbody>
+</table>

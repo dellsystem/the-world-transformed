@@ -16,3 +16,17 @@ To serve the website locally, install jekyll (as a Ruby gem) and run
 
 Just push. It's hosted on GitHub pages and GitHub will automatically update
 after a few minutes.
+
+## Fetching updated programme data
+
+(Only possible if you've been given access to the spreadsheet. This step isn't
+required if you simply wish to rebuild the website, as the data will have been
+committed already.)
+
+Follow [this guide](https://developers.google.com/drive/api/v3/quickstart/python)
+to get credentials.json, then run `_data/programme/update_programme.py`
+
+## Adding new session images
+
+Add the image (.jpg) to images/sessions/, then run ./resize.sh (requires
+ImageMagick and Python).

@@ -1,0 +1,78 @@
+---
+layout: default
+---
+{% assign session = site.data.programme.sessions[page.slug] %}
+<div class="masthead section">
+</div>
+<div class="content section" data-background="#ea506e">
+    <div class="ui container">
+        <div id="page-content">
+            <p>
+                <a href="/programme">
+                    &laquo; Back to programme
+                </a>
+            </p>
+            <div id="session-image"
+                 style="background-image:url('/images/sessions/{{ session.image
+                 }}.jpg')">
+            </div>
+            <div class="ui middle aligned divided stackable grid">
+                <div class="four wide center aligned column">
+                    <h2 class="ui header">
+                        <div class="sub header">
+                            {{ session.day }}
+                        </div>
+                        {{ session.time }}
+                        <div class="sub header">
+                            {{ session.venue }}
+                        </div>
+                    </h2>
+                </div>
+                <div class="twelve wide column">
+                    <h2 class="ui header">
+                        {{ session.title }}
+                        <div class="sub header">
+                            {{ session.organiser }}
+                        </div>
+                    </h2>
+                </div>
+            </div>
+            <br />
+            <div class="ui centered middle aligned stackable grid">
+                <div class="sixteen wide column">
+                    {{ session.description|markdownify }}
+                </div>
+            </div>
+            <br />
+            <hr />
+            <br />
+            <h2>Speakers</h2>
+            <div class="ui three column grid">
+                {% assign speaker_slugs = session.speakers | split:" " %}
+                {% for speaker_slug in speaker_slugs %}
+                    {% assign speaker = site.data.programme.speakers[speaker_slug] %}
+                    <div class="column">
+                        <h3 class="ui header">
+                            <a href="/speakers#{{ speaker_slug }}">
+                                {{ speaker.name }}
+                            </a>
+                            {% if speaker.twitter %}
+                            <a href="{{ speaker.twitter }}">
+                                <i class="twitter icon"></i>
+                            </a>
+                            {% endif %}
+                            <div class="sub header">
+                                {% unless speaker.tag == '' %}
+                                {{ speaker.tag }}
+                                {% unless speaker.organisation == '' %}//{% endunless %}
+                                {% endunless %}
+                                {{ speaker.organisation }}
+                            </div>
+                        </h3>
+                        {{ speaker.bio|markdownify }}
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>

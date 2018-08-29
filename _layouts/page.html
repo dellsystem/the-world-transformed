@@ -13,7 +13,7 @@ layout: default
     <div class="ui container">
         <div id="page-content">
             <div class="ui centered middle aligned stackable grid">
-                <div class="twelve wide column">
+                <div class="{% if page.columns %}{{ page.columns }}{% else %}twelve{% endif %} wide column">
                     <h1 class="ui header">{{ page.title }}</h1>
                     {{ content }}
                 </div>

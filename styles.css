@@ -172,3 +172,11 @@
     /* The logistics email address is too long lol */
     word-break: break-word;
 }
+
+#session-image {
+    width: 100%;
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 40px;
+}
