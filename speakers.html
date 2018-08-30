@@ -1,66 +1,29 @@
 ---
-layout: page
-columns: sixteen
+layout: default
 description: "A 4-day politics, arts and music festival running alongside the Labour Party Conference. Liverpool, September 22-25."
-title: "Speakers"
+title: "Speakers // The World Transformed"
 ---
-<table class="ui celled table">
-    <thead>
-        <tr>
-            <th class="one wide">
-                Image
-            </th>
-            <th class="four wide">
-                Name and affiliation
-            </th>
-            <th class="six wide">
-                Details
-            </th>
-            <th class="five wide">
-                Sessions
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        {% for row in site.data.programme.speakers_list %}
-        {% assign speaker = site.data.programme.speakers[row.slug] %}
-            <tr>
-                <td>
-                    {% if speaker['photo'] %}
-                    <img src="/images/speakers/{{ row.slug }}.jpg"
-                         class="ui fluid image" />
-                    {% endif %}
-                </td>
-                <td class="speaker-cell">
-                    <div class="speaker-anchor">
-                        <a name="{{ row.slug }}"></a>
-                    </div>
-                    <h3 class="ui header">
-                        {{ speaker.name }}
-                        <div class="sub header">
-                            {% unless speaker.tag == '' %}
-                            {{ speaker.tag }}
-                            {% unless speaker.organisation == '' %}//{% endunless %}
-                            {% endunless %}
-                            {{ speaker.organisation }}
-                        </div>
-                    </h3>
-                </td>
-                <td>{{ speaker.bio }}</td>
-                <td>
-                    {% assign sessions = speaker.sessions|split:" " %}
-                    <div class="ui bulleted list">
-                    {% for slug in sessions %}
-                        {% assign session = site.data.programme.sessions[slug] %}
-                        <div class="item">
-                            <a href="/sessions/{{ slug }}">
-                                {{ session.title }}
-                            </a> ({{ session.day }} {{ session.time }})
-                        </div>
-                    {% endfor %}
-                    </div>
-                </td>
-            </tr>
-        {% endfor %}
-    </tbody>
-</table>
+<div class="masthead section" data-background="#000">
+    <div class="ui container">
+        <div class="ui centered middle aligned stackable grid">
+            {% include masthead.html %}
+        </div>
+    </div>
+</div>
+<div class="content section" data-background="#ea506e">
+    <div class="ui container">
+        <div id="page-content">
+            <div class="ui stackable grid">
+                <div class="twelve wide column">
+                    <h1 class="ui header">Speakers</h1>
+                </div>
+                <div class="four wide column">
+                    <a href="/programme" class="ui pink fluid button">
+                        View Schedule
+                    </a>
+                </div>
+            </div>
+            {% include speakers_table.html %}
+        </div>
+    </div>
+</div>

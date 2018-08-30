@@ -1,25 +1,47 @@
 ---
-layout: page
-columns: sixteen
+layout: default
 description: "A 4-day politics, arts and music festival running alongside the Labour Party Conference. Liverpool, September 22-25."
-title: "Programme"
+title: "Programme // The World Transformed"
 ---
 
-<div class="ui four item stackable tabs menu">
-    <a class="active item" data-tab="Saturday">Saturday</a>
-    <a class="item" data-tab="Sunday">Sunday</a>
-    <a class="item" data-tab="Monday">Monday</a>
-    <a class="item" data-tab="Tuesday">Tuesday</a>
+<div class="masthead section" data-background="#000">
+    <div class="ui container">
+        <div class="ui centered middle aligned stackable grid">
+            {% include masthead.html %}
+        </div>
+    </div>
 </div>
-<div class="ui active tab segment" data-tab="Saturday">
-    {% include schedule.html rows=site.data.programme.saturday %}
-</div>
-<div class="ui tab segment" data-tab="Sunday">
-    {% include schedule.html rows=site.data.programme.sunday %}
-</div>
-<div class="ui tab segment" data-tab="Monday">
-    {% include schedule.html rows=site.data.programme.monday %}
-</div>
-<div class="ui tab segment" data-tab="Tuesday">
-    {% include schedule.html rows=site.data.programme.tuesday %}
+<div class="content section" data-background="#ea506e">
+    <div class="ui container">
+        <div id="page-content">
+            <div class="ui stackable grid">
+                <div class="twelve wide column">
+                    <h1 class="ui header">Schedule</h1>
+                </div>
+                <div class="four wide column">
+                    <a href="/speakers" class="ui pink fluid button">
+                        View Speakers
+                    </a>
+                </div>
+            </div>
+            <div class="ui four item stackable tabs menu">
+                <a class="active item" data-tab="Saturday">Saturday</a>
+                <a class="item" data-tab="Sunday">Sunday</a>
+                <a class="item" data-tab="Monday">Monday</a>
+                <a class="item" data-tab="Tuesday">Tuesday</a>
+            </div>
+            <div class="ui active tab segment" data-tab="Saturday">
+                {% include schedule.html rows=site.data.programme.saturday %}
+            </div>
+            <div class="ui tab segment" data-tab="Sunday">
+                {% include schedule.html rows=site.data.programme.sunday %}
+            </div>
+            <div class="ui tab segment" data-tab="Monday">
+                {% include schedule.html rows=site.data.programme.monday %}
+            </div>
+            <div class="ui tab segment" data-tab="Tuesday">
+                {% include schedule.html rows=site.data.programme.tuesday %}
+            </div>
+        </div>
+    </div>
 </div>

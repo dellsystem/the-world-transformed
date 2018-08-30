@@ -21,11 +21,11 @@
 }
 
 #programme {
-    /*background: url('images/programme-background.png');
-    */
-    background: #fff;
+    background: url('images/programme-background.png');
+    background-size: cover;
     background-position: right top;
     background-repeat: no-repeat;
+    padding: 60px 0;
 }
 
 /* Maybe a more appropriate way to add this styling with semantic ui */

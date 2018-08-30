@@ -1,44 +1,15 @@
 <div class="row">
     <div class="twelve wide column">
         <h1 class="ui header">Programme</h1>
-        <div class="ui fluid image">
-          <img class="" alt="Programme Poster" src="images/programme-poster.jpg" >
-        </div>
+        <p>
+            Our programme is now available!
+        </p>
     </div>
 </div>
 <div class="row">
     <div class="six wide column">
         <a class="ui large fluid pink button" href="/programme">
-            Programme
+            Click to view the programme
         </a>
-    </div>
-    <div class="six wide column">
-        <a class="ui large fluid button" href="/speakers">
-            Speakers
-        </a>
-    </div>
-</div>
-
-<div class="row">
-    <div class="twelve wide column">
-        <h2 class="ui header">Arts &amp; Activites</h2>
-        <div id="artists" class="ui line-up header">
-            {% for artist in site.data.programme.artists %}
-            {% if artist.Confirmed == "Yes" %}
-            <h3><a> {{artist.Name}} </a> </h3>
-            {% endif %}
-            {% endfor %}
-        </div>
-
-        <div class="ui hidden divider"></div>
-
-        <h2 class="ui header">Organisations</h2>
-        <div id="organisations" class="ui line-up header">
-            {% for organisation in site.data.programme.organisations %}
-            {% if organisation.Confirmed == "Yes" %}
-            <h3><a> {{organisation.Name}} </a> </h3>
-            {% endif %}
-            {% endfor %}
-        </div>
     </div>
 </div>
