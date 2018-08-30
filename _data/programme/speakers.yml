@@ -99,9 +99,9 @@ aya-o-haidar: {bio: '', confirmed: 'Yes', name: Aya O'Haidar, organisation: '', 
 barry-gardiner-mp: {bio: Shadow Secretary of State for International Trade, confirmed: 'Yes',
   name: Barry Gardiner MP, organisation: Labour Party, other: '', photo: true, sessions: trading-with-trump,
   tag: 'Politician ', twitter: 'https://twitter.com/BarryGardiner'}
-ben-beach: {bio: 'Ben Beach is a member of Plan C ', confirmed: '', name: Ben Beach,
-  organisation: '', other: '', photo: false, sessions: cities-in-common, tag: '',
-  twitter: ''}
+ben-beach: {bio: Ben is a junior architect interested in urban struggles and a member
+    of Plan C, confirmed: '', name: Ben Beach, organisation: '', other: '', photo: false,
+  sessions: cities-in-common, tag: '', twitter: ''}
 ben-westley-clarke: {bio: 'Ben Clarke is an artist who lives and works in Camden Town,
     London. ', confirmed: 'Yes', name: Ben Westley Clarke, organisation: '', other: '',
   photo: true, sessions: good-and-bad-government, tag: Artist, twitter: ''}
@@ -452,9 +452,6 @@ joe-guinan: {bio: Senior Fellow at Democracy Collaborative and Executive Directo
     of the Next System Project, confirmed: 'Yes', name: Joe Guinan, organisation: Democracy
     Collaborative, other: '', photo: true, sessions: a-movement-in-government, tag: 'Think
     Tank Director ', twitter: 'https://twitter.com/joecguinan'}
-john-boughton: {bio: 'Social historian and author of ''Municpal Dreams: The rise and
-    fall of council housing''', confirmed: 'No', name: John Boughton, organisation: '',
-  other: '', photo: false, sessions: housing-for-all, tag: Historian, twitter: 'https://twitter.com/municipaldreams'}
 john-mcdonnell-mp: {bio: Shadow Chancellor of the Exchequer and Labour MP for Hayes
     and Harlington, confirmed: 'Yes', name: John McDonnell MP, organisation: Labour
     Party, other: '', photo: true, sessions: in-and-against-the-state towards-a-socialist-government
@@ -495,8 +492,10 @@ kate-hudson: {bio: General Secretary of the Campaign for Nuclear Disarmament (CN
     and leading anti-nuclear and anti-war campaigner, confirmed: 'Yes', name: Kate
     Hudson, organisation: CND, other: '', photo: true, sessions: jobs-in-nuclear-weapons,
   tag: Campaigner, twitter: 'https://twitter.com/CNDuk'}
-kate-macintosh: {bio: '', confirmed: 'Yes', name: Kate Macintosh, organisation: '',
-  other: '', photo: false, sessions: housing-for-all, tag: Architect, twitter: ''}
+kate-macintosh: {bio: !!python/str "Kate is a celebrated architect responsible for\
+    \ building some of Britain\u2019s most successful social housing ", confirmed: 'Yes',
+  name: Kate Macintosh, organisation: '', other: '', photo: false, sessions: housing-for-all,
+  tag: Architect, twitter: ''}
 kate-shea-baird: {bio: '', confirmed: '', name: Kate Shea Baird, organisation: '',
   other: '', photo: true, sessions: a-radical-alliance-for-europe, tag: '', twitter: ''}
 katja-kipping: {bio: !!python/str "Katja Kipping is chairperson for Die Linke, the\
@@ -546,6 +545,12 @@ lauren-mccourt: {bio: 'Lauren McCourt was a McStrike leader in Manchester. She w
 lauren-townsend: {bio: !!python/str "TGI Fridays worker \u2013 Unite Hospitality Branch.",
   confirmed: '', name: Lauren Townsend, organisation: '', other: '', photo: false,
   sessions: time-for-10, tag: '', twitter: ''}
+laurence-westgaph: {bio: !!python/str "Laurence Westgaph is an independent researcher,\
+    \ community historian, writer, broadcaster and tour guide. He has a particular\
+    \ interest in Liverpool\u2019s role in the slave trade and how its legacies have\
+    \ benefited the city and impacted its built environment.", confirmed: 'Yes', name: 'Laurence
+    Westgaph ', organisation: '', other: '', photo: false, sessions: liverpools-history-of-slavery,
+  tag: Academic and Writer, twitter: ''}
 laurie-laybourn-langton: {bio: '', confirmed: '', name: Laurie Laybourn-Langton, organisation: IPPR,
   other: '', photo: true, sessions: digital-economy-101, tag: '', twitter: ''}
 leah-levane: {bio: Jewish Voice for Labour co-chair and Hastings councillor, confirmed: 'Yes',
@@ -584,13 +589,13 @@ lisa-nandy-mp: {bio: '', confirmed: '', name: Lisa Nandy MP, organisation: '', o
 lois-browne: {bio: Love Music Hate Racism campaign, confirmed: 'No', name: Lois Browne,
   organisation: Love Music Hate Racism, other: '', photo: true, sessions: music-in-the-movement,
   tag: Activist, twitter: ''}
-lorcan-mullan: {bio: Lorcan Mullen is the Momentum NCG rep for Scotland and has been
-    an advocate for expanded political education on the Labour left. Lorcan first
-    joined the anti-austerity movement as a student leader in Belfast in 2010 and
-    has subsequently worked as a trade union organiser. He is a member of Edinburgh
-    North and Leith CLP., confirmed: 'Yes', name: Lorcan Mullan, organisation: '',
-  other: '', photo: true, sessions: education-in-the-labour-party, tag: Activist,
-  twitter: ''}
+lorcan-mullan: {bio: Lorcan Mullen is the Momentum NCG representative for Campaign
+    for Socialism and has been an advocate for expanded political education on the
+    Labour left. Lorcan first joined the anti-austerity movement as a student leader
+    in Belfast in 2010 and has subsequently worked as a trade union organiser. He
+    is a member of Edinburgh North and Leith CLP., confirmed: 'Yes', name: Lorcan
+    Mullan, organisation: '', other: '', photo: true, sessions: education-in-the-labour-party,
+  tag: Activist, twitter: ''}
 louis-woodhead: {bio: '', confirmed: '', name: Louis Woodhead, organisation: Long
     Live Southbank, other: '', photo: true, sessions: long-live-southbank, tag: Activist,
   twitter: 'https://twitter.com/louiswoodhead1'}
