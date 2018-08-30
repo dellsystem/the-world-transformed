@@ -123,9 +123,6 @@ bonnie-castillo: {bio: Executive Director of National Nurses United union of the
     States, confirmed: 'Yes', name: Bonnie Castillo, organisation: National Nurses
     United, other: '', photo: true, sessions: future-visions, tag: Trade Unionist,
   twitter: 'https://twitter.com/NNUBonnie'}
-brian-salisbury: {bio: Former Lucas Aerospace shop steward, confirmed: 'Yes', name: Brian
-    Salisbury, organisation: '', other: '', photo: false, sessions: workers-control-in-economic-planning,
-  tag: Trade Unionist, twitter: ''}
 callum-cant: {bio: Member of Acorn and the IWGB. Editor of Notes From Below and is
     currently writing 'Working for Deliveroo' (forthcoming on Polity Press., confirmed: '',
   name: Callum Cant, organisation: Notes From Below, other: '', photo: true, sessions: the-gig-economy,
@@ -324,9 +321,13 @@ faisal-yousif: {bio: Faisal Yousif is a medical student who has been active in L
 fliss-premru: {bio: Reel News, confirmed: 'Yes', name: Fliss Premru, organisation: Reel
     News, other: '', photo: false, sessions: communities-against-climate-change, tag: Film-maker,
   twitter: ''}
-fran-boait: {bio: Executive Director of Positive Money, confirmed: 'Yes', name: Fran
-    Boait, organisation: Positive Money, other: '', photo: true, sessions: runaway-finance,
-  tag: '', twitter: 'https://twitter.com/franboait'}
+fran-boait: {bio: 'Executive Director of Positive Money, Fran is also a Director of
+    Finance Watch, and a Senior Fellow at the Finance Innovation Lab. Fran was also
+    recognised as one of the most ''Inspirational Women in the City'' 2017 by Brummell
+    Magazine. Fran has also worked at various international organisations including
+    the UN, Greenpeace, and BP.  Fran is also the Labour Parliamentary candidate for
+    Gloucester. ', confirmed: 'Yes', name: Fran Boait, organisation: Positive Money,
+  other: '', photo: true, sessions: runaway-finance, tag: '', twitter: 'https://twitter.com/franboait'}
 frances-jones: {bio: Associate Director of the Centre for Local Economic Strategies,
   confirmed: 'Yes', name: Frances Jones, organisation: '', other: '', photo: true,
   sessions: building-community-wealth, tag: '', twitter: ''}
@@ -766,6 +767,8 @@ peter-stark: {bio: '', confirmed: '', name: Peter Stark, organisation: '', other
   tag: '', twitter: ''}
 peter-stefanovic: {bio: Lawyer/Journalist/Filmmaker, confirmed: '', name: Peter Stefanovic,
   organisation: '', other: '', photo: false, sessions: time-for-10, tag: '', twitter: ''}
+phil-asquith: {bio: '', confirmed: '', name: Phil Asquith, organisation: '', other: '',
+  photo: false, sessions: workers-control-in-economic-planning, tag: '', twitter: ''}
 pollyanna-ruiz: {bio: 'Pollyanna Ruiz is a Lecturer of Media and Communication in
     the School of Media, Film and Music at the University of Sussex. She is the author
     of Articulating Dissent: Protest and the Public Sphere (Pluto, 2014).', confirmed: '',
