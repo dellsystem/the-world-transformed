@@ -1,0 +1,34 @@
+<table class="ui table" id="programme">
+    <tbody>
+        {% for row in include.rows %}
+        {% assign session = site.data.programme.sessions[row.slug] %}
+        <tr>
+            <td class="four wide">
+                <h2>
+                {{ session.time }}
+                </h2>
+                {{ session.venue }}
+                {{ session.room }}
+            </td>
+            <td class="">
+                <h3 class="ui header">
+                    <a href="/sessions/{{ row.slug }}">{{ session.title }}</a>
+                    <div class="sub header">
+                    {% unless session.organiser == '' %}
+                    <strong>{{ session.organiser }}</strong>
+                    {% unless session.speakers == '' %}//{% endunless %}
+                    {% endunless %}
+                    {% include speakers.html speakers=session.speakers %}
+                    </div>
+                </h3>
+            </td>
+            <td class="collapsing">
+                {% unless session['image'] == 'default' %}
+                <img src="/images/sessions/thumbnail/{{ session['image'] }}.jpg"
+                     class="ui small image" />
+                {% endunless %}
+            </td>
+        </tr>
+        {% endfor %}
+        </tbody>
+</table>

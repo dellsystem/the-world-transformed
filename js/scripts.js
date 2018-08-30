@@ -1,15 +1,5 @@
-// If we're on the programme page, hide sessions from a different day
-$('#programme-menu .item').click(function (e) {
-    // this is extremely ugly but it works lol
-    var day = this.innerText;
-    $('#programme-menu .active').removeClass('active');
-    $(this).addClass('active');
-    $('#programme tr').hide();
-    $('#programme tr').filter(function () {
-        return $(this).data('day') === day;
-    }).show();
-});
 $('.ui.accordion').accordion();
+$('.menu .item').tab();
 $('.ui.embed').embed();
 $('.section').scrollie({
     View: function(element) {
