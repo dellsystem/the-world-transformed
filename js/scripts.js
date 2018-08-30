@@ -1,5 +1,5 @@
 $('.ui.accordion').accordion();
-$('.menu .item').tab();
+$('.menu .item').tab({history: true});
 $('.ui.embed').embed();
 $('.section').scrollie({
     View: function(element) {
