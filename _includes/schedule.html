@@ -1,4 +1,4 @@
-<table class="ui table" id="programme">
+<table class="ui table">
     <tbody>
         {% for row in include.rows %}
         {% assign session = site.data.programme.sessions[row.slug] %}
@@ -14,11 +14,20 @@
                 <h3 class="ui header">
                     <a href="/sessions/{{ row.slug }}">{{ session.title }}</a>
                     <div class="sub header">
-                    {% unless session.organiser == '' %}
-                    <strong>{{ session.organiser }}</strong>
-                    {% unless session.speakers == '' %}//{% endunless %}
-                    {% endunless %}
-                    {% include speakers.html speakers=session.speakers %}
+                        {% unless session.organiser == '' %}
+                        <strong>{{ session.organiser }}</strong>
+                        {% unless session.speakers == '' %}//{% endunless %}
+                        {% endunless %}
+                        {% include speakers.html speakers=session.speakers %}
+                        {% if session.speakers == '' %}
+                        {% unless session.final %}
+                        <em>Speakers to be announced!</em>
+                        {% endunless %}
+                        {% else %}
+                        {% unless session.final %}
+                        <em>+ more speakers to be announced!</em>
+                        {% endunless %}
+                        {% endif %}
                     </div>
                 </h3>
             </td>

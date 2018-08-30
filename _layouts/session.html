@@ -54,10 +54,14 @@ layout: default
                     {{ session.description|markdownify }}
                 </div>
             </div>
-            {% unless session.speakers == '' %}
             <br />
             <hr />
             <br />
+            {% if session.speakers == '' %}
+            <h2 class="ui centered header">
+                Speakers to be announced!
+            </h2>
+            {% else %}
             <h2>Speakers</h2>
             <div class="ui three column stackable grid">
                 {% assign speaker_slugs = session.speakers | split:" " %}
@@ -87,8 +91,16 @@ layout: default
                         {{ speaker.bio|markdownify }}
                     </div>
                 {% endfor %}
+                {% unless session.final %}
+                <div class="column">
+                    <h2 class="ui icon header">
+                        <i class="plus icon"></i>
+                        More speakers to be announced!
+                    </h2>
+                </div>
+                {% endunless %}
             </div>
-            {% endunless %}
+            {% endif %}
         </div>
     </div>
 </div>

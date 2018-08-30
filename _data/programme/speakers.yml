@@ -21,7 +21,7 @@ alan-gibbons: {bio: 'Alan Gibbons is an English writer of children''s books , co
     Gibbons, organisation: '', other: '', photo: true, sessions: britains-new-far-right,
   tag: '', twitter: ''}
 alex-mayer-mep: {bio: MEP for East of England, confirmed: '', name: Alex Mayer MEP,
-  organisation: '', other: '', photo: false, sessions: time-for-10, tag: '', twitter: ''}
+  organisation: '', other: '', photo: true, sessions: time-for-10, tag: '', twitter: ''}
 ali-mussell: {bio: Early years educator., confirmed: 'yes', name: Ali Mussell, organisation: '',
   other: '', photo: false, sessions: developing-labours-nes, tag: '', twitter: ''}
 alice-kinghorn-grey: {bio: 'Campaign Organiser for Electoral Reform Society (Scotland),
@@ -191,15 +191,20 @@ claudia-webbe: {bio: Member of the Labour Party National Executive Committee and
 clive-lewis-mp: {bio: Labour MP for Norwich South, confirmed: 'Yes', name: Clive Lewis
     MP, organisation: Labour Party, other: '', photo: true, sessions: a-socialist-story-of-modern-britain
     sustainability-economics, tag: Politician, twitter: 'https://twitter.com/labourlewis'}
-costas-lapavitsas: {bio: Professor of Economics at the School of Oriental and African
-    Studies, confirmed: 'Yes', name: Costas Lapavitsas, organisation: '', other: '',
+colin-waugh: {bio: 'Colin Waugh is a co-founder of the Independent Working Class Education
+    Network and author of Plebs: The lost legacy of independent working class education.
+    He edits Post-16 Educator.', confirmed: 'Yes', name: Colin Waugh, organisation: '',
+  other: '', photo: false, sessions: history-lessons, tag: Author, twitter: ''}
+costas-lapavitsas: {bio: 'Professor of Economics at the School of Oriental and African
+    Studies; and former member of the Hellenic Parliament for the left-wing party
+    Syriza. ', confirmed: 'Yes', name: Costas Lapavitsas, organisation: '', other: '',
   photo: true, sessions: the-brexit-bind, tag: Academic, twitter: ''}
 dalia-gebrial: {bio: 'Decolonisation activist, PhD candidate at LSE and co-editor
     of ''Decolonising the University''', confirmed: 'Yes', name: Dalia Gebrial, organisation: '',
   other: '', photo: true, sessions: progressive-nationalism, tag: Activist, twitter: 'https://twitter.com/daliaeldaba'}
 dan-carden-mp: {bio: Labour MP for Liverpool Walton, confirmed: 'Yes', name: Dan Carden
-    MP, organisation: Labour Party, other: '', photo: true, sessions: update-the-welfare-state,
-  tag: Politician, twitter: 'https://twitter.com/DanCardenMP'}
+    MP, organisation: Labour Party, other: '', photo: true, sessions: radical-history-tour
+    update-the-welfare-state, tag: Politician, twitter: 'https://twitter.com/DanCardenMP'}
 dan-hind: {bio: 'Independent publisher and republican whose work focuses on the relationship
     between states and the communications regimes in which they are embedded. Dan
     is a fellow at the Democracy Collaborative, which recently published his paper
@@ -272,14 +277,21 @@ ed-miliband-mp: {bio: 'Labour MP for Doncaster North and former leader of the La
     Party, radio dj sensation.', confirmed: 'Yes', name: Ed Miliband MP, organisation: Labour
     Party, other: '', photo: true, sessions: a-new-economic-consensus ed-miliband-quiz,
   tag: Politician, twitter: 'https://twitter.com/Ed_Miliband'}
+edd-mustill: {bio: Edd Mustill is a labour history nerd and co-presenter of the Labour
+    Days podcast. He has written a history of the Sheffield Workers' Committee and
+    is Vice-Chair of the Sheffield Heeley Constituency Labour Party., confirmed: 'Yes',
+  name: Edd Mustill, organisation: '', other: '', photo: true, sessions: history-lessons,
+  tag: Activist, twitter: ''}
 eleanor-penny: {bio: Writer and activist. Senior editor @novaramedia | Online editor
     @RedPeppermag |, confirmed: 'yes', name: Eleanor Penny, organisation: '', other: '',
   photo: true, sessions: a-movement-led-media britains-new-far-right, tag: '', twitter: ''}
 eliane-correa: {bio: Leader of Afro-Cuban/pan-Latin band Wara, confirmed: 'Yes', name: Eliane
     Correa, organisation: '', other: '', photo: true, sessions: music-in-the-movement,
   tag: Musician, twitter: 'https://twitter.com/_elianecorrea_'}
-elif-sarican: {bio: Kurdish activist, confirmed: 'Yes', name: Elif Sarican, organisation: '',
-  other: '', photo: true, sessions: feminism-for-the-many, tag: Activist, twitter: ''}
+elif-sarican: {bio: !!python/str "UK Coordinator of Kurdistan Students Union. Activist\
+    \ of the Kurdish Women\u2019s Movement.", confirmed: 'Yes', name: Elif Sarican,
+  organisation: '', other: '', photo: true, sessions: feminism-for-the-many, tag: Activist,
+  twitter: ''}
 emily-owen: {bio: Labour PPC for Aberconwy, confirmed: 'Yes', name: Emily Owen, organisation: '',
   other: '', photo: false, sessions: painting-the-towns-red, tag: Politician, twitter: 'https://twitter.com/emily4aberconwy'}
 emine-ibrahim: {bio: 'Deputy leader of Haringey Council ', confirmed: 'Yes', name: Emine
@@ -327,7 +339,7 @@ frances-o-grady: {bio: General secetary of the TUC, confirmed: 'yes', name: Fran
   tag: '', twitter: ''}
 francesca-bria: {bio: Chief Technology and Digital Innovation Officer Barcelona @BCN_digital.,
   confirmed: 'No', name: Francesca Bria, organisation: '', other: '', photo: true,
-  sessions: in-and-against-the-state, tag: '', twitter: ''}
+  sessions: cybernetic-socialism in-and-against-the-state, tag: '', twitter: ''}
 francis-foley: {bio: '', confirmed: '', name: Francis Foley, organisation: Compass,
   other: '', photo: true, sessions: a-socialist-story-of-modern-britain, tag: '',
   twitter: ''}
@@ -541,7 +553,7 @@ leah-levane: {bio: Jewish Voice for Labour co-chair and Hastings councillor, con
   sessions: socialist-women-in-labour, tag: Politician, twitter: ''}
 lee-carter: {bio: DSA member of the Virginia House of Delegates, confirmed: 'Yes',
   name: Lee Carter, organisation: '', other: '', photo: true, sessions: feeling-the-bern,
-  tag: Activist, twitter: ''}
+  tag: Activist, twitter: 'https://twitter.com/carterforva'}
 lena-simic: {bio: !!python/str "Lena \u0160imi\u0107, Political Education Officer\
     \ for Walton CLP, is a transnational performance practitioner, pedagogue and scholar.\
     \ Lena works at Edge Hill University. Originally from Dubrovnik, Croatia, Lena\
@@ -562,6 +574,11 @@ leo-watkins: {bio: 'Masters student at Queen Mary, University of London, member 
     new publicly funded and democratically controlled news media. ', confirmed: 'Yes',
   name: Leo Watkins, organisation: Media Reform Coalition, other: '', photo: true,
   sessions: occupy-fleet-street, tag: '', twitter: 'https://twitter.com/leowatkins91'}
+lindsey-mcdowell: {bio: 'Lindsey is Head of Eduction at the Fire Brigades Union. Her
+    emphasis is on democratic and facilitated learning, and the transformative power
+    of trade union education. She is a contributor to the book, Trade Union Education:
+    Transforming the World', confirmed: 'Yes', name: Lindsey McDowell, organisation: 'FBU ',
+  other: '', photo: false, sessions: why-political-education, tag: '', twitter: ''}
 lisa-nandy-mp: {bio: '', confirmed: '', name: Lisa Nandy MP, organisation: '', other: '',
   photo: true, sessions: a-new-economic-consensus, tag: '', twitter: ''}
 lois-browne: {bio: Love Music Hate Racism campaign, confirmed: 'No', name: Lois Browne,
@@ -635,7 +652,7 @@ matthew-brown: {bio: Labour politician and leader of Preston City Council, confi
   tag: Politician, twitter: 'https://twitter.com/MatthewBrownLab'}
 maurilio-pirone: {bio: 'University of Bologna, Bologna UNIBO with expertise in Race,
     Ethnicity and Politics, Political Theory, Politics and History.', confirmed: 'Yes',
-  name: Maurilio Pirone, organisation: '', other: '', photo: false, sessions: the-gig-economy,
+  name: Maurilio Pirone, organisation: '', other: '', photo: true, sessions: the-gig-economy,
   tag: Researcher, twitter: 'https://twitter.com/mau_pirone'}
 maya-goodfellow: {bio: Journalist and academic, confirmed: 'Yes', name: Maya Goodfellow,
   organisation: '', other: '', photo: true, sessions: migrant-political-voices, tag: Journalist,
@@ -799,6 +816,11 @@ richard-seymour: {bio: !!python/str "Writer, broadcaster & activist and author o
     \ several books, including 'Corbyn: The Strange Rebirth of Radical Politics'.\
     \ He blogs at Lenin\u2019s Tomb.", confirmed: 'Yes', name: Richard Seymour, organisation: '',
   other: '', photo: true, sessions: internationalist-labour-party, tag: Author, twitter: 'https://twitter.com/leninology'}
+rida-vaquas: {bio: "Rida Vaquas is a former Momentum NCG member. She is an editor\
+    \ of the Clarion and translates German socialist texts in her free time. She is\
+    \ currently working on a dissertation on the German socialist youth movement during\
+    \ the war.\r\n", confirmed: 'Yes', name: Rida Vaquas, organisation: 'The Clarion ',
+  other: '', photo: true, sessions: history-lessons, tag: Activist, twitter: ''}
 rita-chandha: {bio: 'Organiser with Migrants'' Rights Network ', confirmed: 'Yes',
   name: Rita Chandha, organisation: Migrants' Rights Network, other: '', photo: true,
   sessions: migrant-political-voices, tag: Activist, twitter: 'https://twitter.com/migrants_rights'}
@@ -908,10 +930,10 @@ ted-howard: {bio: 'Co-founder and President of The Democracy Collaborative, prev
 thomas-hanna: {bio: 'Research Director at Democracy Collaborative ', confirmed: 'Yes',
   name: Thomas Hanna, organisation: Democracy Collaborative, other: '', photo: true,
   sessions: taking-whats-ours, tag: Think Tank Director, twitter: 'https://twitter.com/thomasmhanna'}
-tithi-bhattacharya: {bio: 'Marxist feminist Professor of South Asian history and Director
-    of Global Studies at Purdue university, Indiana', confirmed: 'Yes', name: Tithi
-    Bhattacharya, organisation: '', other: '', photo: true, sessions: feminism-for-the-many
-    marx-at-200, tag: Academic, twitter: ''}
+tithi-bhattacharya: {bio: 'Professor of South Asian history and Director of Global
+    Studies at Purdue university, Indiana', confirmed: 'Yes', name: Tithi Bhattacharya,
+  organisation: '', other: '', photo: true, sessions: feminism-for-the-many marx-at-200,
+  tag: Academic, twitter: ''}
 toby-sinbad-walker: {bio: Radio Journalist, confirmed: 'Yes', name: Toby Sinbad Walker,
   organisation: '', other: '', photo: true, sessions: fighting-for-trans-liberation,
   tag: Journalist, twitter: 'https://twitter.com/tobysinbad'}

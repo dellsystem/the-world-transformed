@@ -51,10 +51,11 @@ for row in sessions_csv:
         print "Missing slug for", session['title']
         continue
 
-    if session['status'] == 'TODO':
+    status = session.pop('status')
+    if status == 'TODO':
         continue
 
-    session['final'] = False if session['status'] == 'WAITING' else True
+    session['final'] = False if status == 'WAITING' else True
 
     # Calculate the start and end time (for calendar)
     if session['day'] == 'Saturday':
@@ -83,8 +84,8 @@ for row in sessions_csv:
     for speaker_slug in session['speakers'].split(' '):
         if speaker_slug:
             speaker_sessions[speaker_slug].add(slug)
-    if not session['image']:
-        print "Missing image for", session['title']
+    if not session['image'] or not os.path.exists('../../images/sessions/%s.jpg' % session['image']):
+        print "Missing image for", session['title'], session['image']
     if ' ' in session['day']:
         print "Bad day for", session['title']
 
