@@ -469,7 +469,7 @@ cracked-play: {Action point: '', Category: arts music and culture, Confirmed Spe
     \ work alongside theatre professionals to create performances that tackle some\
     \ of our most pressing social and political concerns.", end_timestamp: 20180925T190000,
   image: theatre, organiser: '', room: Theatre, speakers: '', start_timestamp: 20180925T173000,
-  status: READY, time: '17:30-19:00', title: Cracked' - A Performance, venue: Black-E}
+  status: READY, time: '17:30-19:00', title: Cracked - A Theatrical Performance, venue: Black-E}
 cybernetic-socialism: {Action point: Emma editing, Category: technology, Confirmed Speakers: !!python/str "Raul\_\
     Espejo, Operations Director, Project CybersynMiranda Hall, New Economics Foundation\_\
     Will Stronge (Chair), Co-Director, Autonomy", Contact for Session: will.stronge1@gmail.com,
@@ -714,9 +714,9 @@ feminism-for-the-many: {Action point: '', Category: gender, Confirmed Speakers: 
     endemic violence and structural discrimination women still suffer, whilst the
     hundredth anniversary of some women getting the vote sparked widespread debate
     about how we ensure feminism is rooted in the struggles of the most marginalised.
-    This session will explore how different strands of oppression intersect and will
-    ask: how can we develop a feminism that not only challenges gender-based oppression,
-    but also forms of oppression based on class, race and nation?', end_timestamp: 20180922T211500,
+    Join feminists from around the world to explore how different strands of oppression
+    intersect and ask: how can we develop a feminism that not only challenges gender-based
+    oppression, but also forms of oppression based on class, race and nation?', end_timestamp: 20180922T211500,
   image: women, organiser: '', room: 'Main Space ', speakers: tithi-bhattacharya nelini-stamp
     sofia-brito elif-sarican eva-o-connor, start_timestamp: 20180922T193000, status: READY,
   time: '19:30-21:15', title: 'Feminism for the many ', venue: Black-E}
@@ -831,12 +831,12 @@ housing-for-all: {Action point: '', Category: social security, Confirmed Speaker
     Kate Macintosh, Anna Minto, John Boughton', Contact for Session: benjamin.beach@icloud.com,
   Format: '', Possible Speakers: !!python/str "Architects for Social Housing / RHN;\
     \ Ed\_Milliband / Sadiq; START / RHN", 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  day: Saturday, description: !!python/str "As the housing crisis rages on, many are\
-    \ trapped in poverty or kept homeless by a system which values profits over people.\
-    \ Building more social housing is a priority for a Labour Government, yet historically,\
-    \ various governments have struggled to meet ambitious targets, leading to poor\
-    \ quality designs and constructions. How can we learn from these experiences to\
-    \ build high-quality, affordable housing for all?\_And what would the architecture\_\
+  day: Saturday, description: !!python/str "As the housing crisis rages on, a growing\
+    \ number of people are trapped in poverty and even homelessness. Building more\
+    \ social housing is a priority for a Labour Government, yet historically, various\
+    \ governments have struggled to meet ambitious targets, leading to poor quality\
+    \ designs and constructions. How can we learn from these experiences to build\
+    \ high-quality, affordable housing for all?\_And what would the architecture\_\
     of a radical housing programme look like? Come and collectively imagine it!",
   end_timestamp: 20180922T211500, image: housing, organiser: '', room: Theatre, speakers: kate-macintosh
     anna-minton john-boughton, start_timestamp: 20180922T193000, status: READY, time: '19:30-21:15',
@@ -1273,6 +1273,18 @@ react-workshop: {Action point: '', Category: tech, Confirmed Speakers: '', Conta
   end_timestamp: 20180924T123000, image: computer, organiser: Momentum Tech, room: Meeting
     Room, speakers: '', start_timestamp: 20180924T110000, status: READY, time: '11:00-12:30',
   title: React Workshop, venue: Black-E}
+reading-group-antisemitism-sunday: {Action point: '', Category: '', Confirmed Speakers: '',
+  Contact for Session: '', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
+  Programme Material requested (mark X if yes): '', day: Sunday, description: 'What
+    is antisemitism? Why has it proved such a longstanding feature of European history?
+    Why does it appear at times on the left, as the "socialism of fools"? Join us
+    to discuss these questions and more through readings of some classic texts on
+    the topic, with expert discussion leaders. Following our successful Stuart Hall
+    reading group last year, this year at The World Transformed we will aim to tackle
+    a crucial question facing the left by tapping into our best traditions of political
+    education and leftwing anti-racism.', end_timestamp: 20180923T103000, image: reading,
+  organiser: '', room: Meeting Room, speakers: '', start_timestamp: 20180923T090000,
+  status: READY, time: '09:00-10:30', title: 'Reading group on Anti-Semitism ', venue: Black-E}
 red-white-blue-labour: {Action point: '', Category: race, Confirmed Speakers: 'James
     Butler (Chair), Ash Sarkar', Contact for Session: '', Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
@@ -1478,8 +1490,10 @@ sustainability-economics: {Action point: '', Category: environment, Confirmed Sp
     gail-mcanena, start_timestamp: 20180925T150000, status: READY, time: '15:00-16:30',
   title: 'Investing in our future: sustainability economics', venue: Constellations}
 tackling-the-tech-giants: {Action point: '', Category: technology, Confirmed Speakers: '',
-  Contact for Session: '', Format: '', Possible Speakers: francesca bria and/or someone
-    from IWGB, 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
+  Contact for Session: '', Format: '', Possible Speakers: 'francesca bria and/or someone
+    from IWGB
+
+    also potentially moira weigel', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
   day: Tuesday, description: !!python/str "Big tech companies are growing more powerful\
     \ everyday, but the fightback against them is happening at many different levels:\
     \ people working within tech firms are agitating for change, cities are pushing\
@@ -1515,6 +1529,14 @@ taking-whats-ours: {Action point: Charlie editing, Category: democracy, Confirme
     cat-hobbs hilary-wainwright andrew-towers andrew-cumbers, start_timestamp: 20180925T110000,
   status: READY, time: '11:00-12:30', title: 'Taking what''s ours: public ownership
     from below?', venue: Black-E}
+tech-workers-inquiry: {Action point: '', Category: tech, Confirmed Speakers: '', Contact for Session: Wendy,
+  Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
+  day: Sunday, description: 'Why are unionisation rates so low within the tech industry?
+    Are tech workers really workers? We encourage anyone who works in tech to come
+    to this small session on building worker power within the tech industry.', end_timestamp: 20180923T143000,
+  image: cybersyn, organiser: Tech Workers Coalition, room: Gallery, speakers: wendy-liu
+    jason-prado, start_timestamp: 20180923T130000, status: READY, time: '13:00-14:30',
+  title: Tech Workers' Inquiry, venue: Black-E}
 the-brexit-bind: {Action point: Andrew to edit title/blurb, Category: international,
   Confirmed Speakers: Ann Pettifor; Paul Mason; Costas Lapavitsas; Mary Kaldor; Laura
     Parker (Chair), Contact for Session: lukecooper100@yahoo.co.uk, Format: '', Possible Speakers: '',
@@ -1528,11 +1550,11 @@ the-brexit-bind: {Action point: Andrew to edit title/blurb, Category: internatio
     \ base and further shackle the UK to neoliberal economics. What\u2019s the solution?\
     \ Join us and find out.", end_timestamp: 20180922T211500, image: europe, organiser: Another
     Europe is Possible, room: 'Main Space ', speakers: ann-pettifor paul-mason costas-lapavitsas
-    mary-kaldor laura-parker, start_timestamp: 20180922T193000, status: READY, time: '19:30-21:15',
+    mary-kaldor, start_timestamp: 20180922T193000, status: READY, time: '19:30-21:15',
   title: !!python/str "The Brexit bind: what should Labour\u2019s position on Brexit\
     \ be?", venue: Hinterlands}
 the-european-left: {Action point: '', Category: international, Confirmed Speakers: 'Pablo
-    Bustinduy, Fabio de Masi, Pernille Skipper, Martina Fana, Chair: Ronan Burtenshaw',
+    Bustinduy, Fabio de Masi, Pernille Skipper, Marta Fana, Chair: Ronan Burtenshaw',
   Contact for Session: <ronanburtenshaw@gmail.com>, Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
   day: Saturday, description: 'In recent years, Europe has seen austerity give way
@@ -1541,7 +1563,7 @@ the-european-left: {Action point: '', Category: international, Confirmed Speaker
     the heart of Europe, the merits of the European Union, and what we can learn from
     the different strategies deployed by socialist parties in both the past and the
     present. ', end_timestamp: 20180922T143000, image: europe, organiser: Jacobin,
-  room: 'Main Space ', speakers: pablo-bustinduy fabio-de-masi pernille-skipper martina-fana
+  room: 'Main Space ', speakers: pablo-bustinduy fabio-de-masi pernille-skipper marta-fana
     ronan-burtenshaw, start_timestamp: 20180922T130000, status: READY, time: '13:00-14:30',
   title: 'Where next for the European left?', venue: Black-E}
 the-gig-economy: {Action point: Hope, Category: international, Confirmed Speakers: 'Callum
@@ -1566,6 +1588,21 @@ things-change: {Action point: '', Category: '', Confirmed Speakers: '', Contact 
     of ideas to create new ways of writing music.', end_timestamp: 20180923T170000,
   image: music, organiser: '', room: Garden, speakers: '', start_timestamp: 20180923T160000,
   status: READY, time: '16:00-17:00', title: THINGS CHANGE Jam Session, venue: Constellations}
+time-for-10: {Action point: 'Waiting on BFAWU, Hope to edit', Category: '', Confirmed Speakers: '
+
+    ', Contact for Session: Seth, Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
+  Programme Material requested (mark X if yes): '', day: Saturday, description: !!python/str " Workers\
+    \ at McDonald\u2019s, TGI Fridays and Wetherspoons are coming together in trade\
+    \ unions to turn back the tide on poverty pay, precarious contracts and lack of\
+    \ respect in fast food. Since the first McStrike, TGI Fridays workers are standing\
+    \ firm against their tips being stolen. This autumn the movement is growing: hear\
+    \ direct from the workers rising up; how \u201CLiverpool: Time For Ten\u201D is\
+    \ supersizing the McStrike; and learn how to show effective solidarity.", end_timestamp: 20180922T211500,
+  image: default, organiser: 'Bakers, Food and Allied Workers Union & War on Want',
+  room: 'Theatre ', speakers: asad-rehman lauren-mccourt lauren-townsend james-snowball
+    clara-paillard peter-stefanovic alex-mayer-mep, start_timestamp: 20180922T193000,
+  status: READY, time: '19:30-21:15', title: !!python/str "\u201CLiverpool: Time for\
+    \ Ten\u201D Launch & Supersizing the McStrike!", venue: Hinterlands}
 towards-a-socialist-government: {Action point: '', Category: '', Confirmed Speakers: "John\
     \ McDonnell MP\nDiane Abbott MP\nRichard Burgon MP \nRebecca Long-Bailey MP\n\
     Dennis Skinner MP\n+ Very Special Guest ", Contact for Session: '', Format: '',

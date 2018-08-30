@@ -20,6 +20,8 @@ alan-gibbons: {bio: 'Alan Gibbons is an English writer of children''s books , co
     anti-fascist and winner of a Blue Peter Book Award.', confirmed: 'yes', name: Alan
     Gibbons, organisation: '', other: '', photo: true, sessions: britains-new-far-right,
   tag: '', twitter: ''}
+alex-mayer-mep: {bio: MEP for East of England, confirmed: '', name: Alex Mayer MEP,
+  organisation: '', other: '', photo: false, sessions: time-for-10, tag: '', twitter: ''}
 ali-mussell: {bio: Early years educator., confirmed: 'yes', name: Ali Mussell, organisation: '',
   other: '', photo: false, sessions: developing-labours-nes, tag: '', twitter: ''}
 alice-kinghorn-grey: {bio: 'Campaign Organiser for Electoral Reform Society (Scotland),
@@ -79,6 +81,8 @@ anne-marie-cockburn: {bio: !!python/str "Anne-Marie Cockburn\u2019s 15 year old 
     \ She is a founding member of the campaign Anyone\u2019s Child, Families for Safer\
     \ Drug Control.", confirmed: 'Yes', name: Anne-Marie Cockburn, organisation: '',
   other: '', photo: true, sessions: ending-the-drug-war, tag: Campaigner, twitter: 'https://twitter.com/5742Days'}
+asad-rehman: {bio: '', confirmed: 'Yes', name: Asad Rehman, organisation: War on Want,
+  other: '', photo: false, sessions: time-for-10, tag: '', twitter: ''}
 ash-sarkar: {bio: 'Senior editor at Novara Media, and lecturer in Global Politics
     at Anglia Ruskin University and The Sandberg Instituut', confirmed: 'Yes', name: Ash
     Sarkar, organisation: Novara Media, other: '', photo: true, sessions: britains-new-far-right
@@ -178,8 +182,8 @@ christine-berry: {bio: Christine Berry is a freelance researcher and writer on r
     popular-education-forum, tag: Academic, twitter: ''}
 clara-paillard: {bio: President of PCS Culture Group, confirmed: 'Yes', name: Clara
     Paillard, organisation: PCS, other: '', photo: true, sessions: beyond-cultural-precarity
-    movement-for-cultural-democracy sustainability-economics, tag: Trade Unionist,
-  twitter: 'https://twitter.com/clarapa'}
+    movement-for-cultural-democracy sustainability-economics time-for-10, tag: Trade
+    Unionist, twitter: 'https://twitter.com/clarapa'}
 claudia-webbe: {bio: Member of the Labour Party National Executive Committee and councillor
     in Islington, confirmed: 'Yes', name: Claudia Webbe, organisation: Labour Party,
   other: '', photo: true, sessions: black-women-transforming-politics, tag: Politician,
@@ -390,6 +394,8 @@ james-butler: {bio: 'Senior editor of Novara Media, writer and activist ', confi
 james-murray: {bio: Deputy Mayor of London for Housing and Residential Development,
   confirmed: 'Yes', name: James Murray, organisation: '', other: '', photo: true,
   sessions: cities-in-common, tag: Politician, twitter: 'https://twitter.com/jamesmurray_ldn'}
+james-snowball: {bio: Wetherspoons Worker, confirmed: '', name: James Snowball, organisation: '',
+  other: '', photo: false, sessions: time-for-10, tag: '', twitter: ''}
 jamie-woodcock: {bio: 'Editor for Notes From Below and Historical Materialism. Author
     of ''Working the Phones'' Pluto Press 2017 and Marx at the Arcade; consoles, controllers
     and class struggle(forthcoming on Haymarket Press)', confirmed: 'Yes', name: Jamie
@@ -398,8 +404,8 @@ jamie-woodcock: {bio: 'Editor for Notes From Below and Historical Materialism. A
 jane-slater: {bio: '', confirmed: '', name: Jane Slater, organisation: '', other: '',
   photo: false, sessions: ending-the-drug-war, tag: '', twitter: ''}
 jason-prado: {bio: Software engineer and labour organiser, confirmed: 'Yes', name: Jason
-    Prado, organisation: Tech Workers Coalition, other: '', photo: true, sessions: tackling-the-tech-giants,
-  tag: Activist, twitter: 'https://twitter.com/jasonpjason'}
+    Prado, organisation: Tech Workers Coalition, other: '', photo: true, sessions: tackling-the-tech-giants
+    tech-workers-inquiry, tag: Activist, twitter: 'https://twitter.com/jasonpjason'}
 jawad-khan: {bio: !!python/str "Trade Union Representative on the Young Labour National\
     \ Committee, and GMB Young Members\u2019 National Communications Officer. He is\
     \ an activist in Batley and\_Spen CLP.", confirmed: '', name: Jawad Khan, organisation: '',
@@ -521,8 +527,13 @@ laura-basu: {bio: 'Author of Media Amnesia and co-editor of The Media & Austerit
     wider question of how to create more democratic societies.', confirmed: 'Yes',
   name: Laura Basu, organisation: '', other: '', photo: true, sessions: occupy-fleet-street,
   tag: Academic, twitter: ''}
-laura-parker: {bio: '', confirmed: '', name: Laura Parker, organisation: Momentum,
-  other: '', photo: true, sessions: the-brexit-bind, tag: '', twitter: ''}
+lauren-mccourt: {bio: 'Lauren McCourt was a McStrike leader in Manchester. She was
+    elected to Executive committee of the BFAWU, and is a committed anti-racist.',
+  confirmed: '', name: Lauren McCourt, organisation: 'Bakers, Food and Allied Workers
+    Union', other: '', photo: false, sessions: time-for-10, tag: Worker, twitter: ''}
+lauren-townsend: {bio: !!python/str "TGI Fridays worker \u2013 Unite Hospitality Branch.",
+  confirmed: '', name: Lauren Townsend, organisation: '', other: '', photo: false,
+  sessions: time-for-10, tag: '', twitter: ''}
 laurie-laybourn-langton: {bio: '', confirmed: '', name: Laurie Laybourn-Langton, organisation: IPPR,
   other: '', photo: true, sessions: digital-economy-101, tag: '', twitter: ''}
 leah-levane: {bio: Jewish Voice for Labour co-chair and Hastings councillor, confirmed: 'Yes',
@@ -589,6 +600,9 @@ mark-serwotka: {bio: General Secretary of the Public and Commercial Services Uni
 marsha-de-cordova-mp: {bio: Labour MP for Battersea, confirmed: 'Yes', name: Marsha
     de Cordova MP, organisation: Labour Party, other: '', photo: true, sessions: fighting-disabled-exclusion,
   tag: Politician, twitter: 'https://twitter.com/MarshadeCordova'}
+marta-fana: {bio: Italian Journalist and author, confirmed: 'Yes', name: Marta Fana,
+  organisation: '', other: '', photo: false, sessions: the-european-left, tag: Journalist,
+  twitter: ''}
 martin-drewry: {bio: !!python/str "Martin Drewry is CEO of Health Poverty Action \u2013\
     \ a politically progressive INGO working with some of the world\u2019s poorest\
     \ and most marginalised populations in 17 countries. Martin has worked in international\
@@ -597,9 +611,6 @@ martin-drewry: {bio: !!python/str "Martin Drewry is CEO of Health Poverty Action
     war on drugs\u2019 as a key driver of global poverty and inequality.", confirmed: 'Yes',
   name: Martin Drewry, organisation: '', other: '', photo: true, sessions: ending-the-drug-war,
   tag: INGO Director, twitter: 'https://twitter.com/martindrewry'}
-martina-fana: {bio: Italian Journalist and author, confirmed: 'Yes', name: Martina
-    Fana, organisation: '', other: '', photo: false, sessions: the-european-left,
-  tag: Journalist, twitter: ''}
 mary-davis: {bio: !!python/str "Labour Historian. who has written, broadcast and lectured\
     \ widely on women\u2019s history, labour history, imperialism and racism. She\
     \ was awarded the TUC Women\u2019s Gold \nBadge in 2010 for services to trade\
@@ -731,6 +742,8 @@ pernille-skipper: {bio: Danish MP and Leader of Red-Green Alliance, confirmed: '
 peter-stark: {bio: '', confirmed: '', name: Peter Stark, organisation: '', other: '',
   photo: false, sessions: beyond-cultural-precarity movement-for-cultural-democracy,
   tag: '', twitter: ''}
+peter-stefanovic: {bio: Lawyer/Journalist/Filmmaker, confirmed: '', name: Peter Stefanovic,
+  organisation: '', other: '', photo: false, sessions: time-for-10, tag: '', twitter: ''}
 pollyanna-ruiz: {bio: 'Pollyanna Ruiz is a Lecturer of Media and Communication in
     the School of Media, Film and Music at the University of Sussex. She is the author
     of Articulating Dissent: Protest and the Public Sphere (Pluto, 2014).', confirmed: '',
@@ -924,7 +937,7 @@ vijay-prashad: {bio: Indian historian and Marxist who is Director of the Tricont
   twitter: 'https://twitter.com/vijayprashad'}
 wendy-liu: {bio: Economics co-editor at New Socialist, confirmed: 'Yes', name: Wendy
     Liu, organisation: New Socialist, other: '', photo: true, sessions: occupy-fleet-street
-    tackling-the-tech-giants, tag: Writer, twitter: 'https://twitter.com/dellsystem'}
+    tackling-the-tech-giants tech-workers-inquiry, tag: Writer, twitter: 'https://twitter.com/dellsystem'}
 will-barker: {bio: Will Barker is from Leeds. He is a member of Plan C and co-creator
     of the Social Strike Game., confirmed: '', name: Will Barker, organisation: 'Plan
     C ', other: '', photo: true, sessions: social-strike-game, tag: '', twitter: ''}

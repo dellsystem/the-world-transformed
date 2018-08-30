@@ -43,8 +43,7 @@ sessions_csv = csv.reader(
 session_header = next(sessions_csv)
 sessions = {}
 speaker_sessions = collections.defaultdict(set)
-schedule_csv = csv.writer(open('schedule.csv', 'wt'))
-schedule_csv.writerow(['slug'])
+schedule = collections.defaultdict(list)
 for row in sessions_csv:
     session = dict(zip(session_header, row))
     slug = session.pop('slug')
@@ -52,8 +51,10 @@ for row in sessions_csv:
         print "Missing slug for", session['title']
         continue
 
-    if session['status'] != 'READY':
+    if session['status'] == 'TODO':
         continue
+
+    session['final'] = False if session['status'] == 'WAITING' else True
 
     # Calculate the start and end time (for calendar)
     if session['day'] == 'Saturday':
@@ -78,7 +79,7 @@ for row in sessions_csv:
     )
 
     sessions[slug] = session
-    schedule_csv.writerow([slug])
+    schedule[session['day'].lower().strip()].append(slug)
     for speaker_slug in session['speakers'].split(' '):
         if speaker_slug:
             speaker_sessions[speaker_slug].add(slug)
@@ -86,6 +87,14 @@ for row in sessions_csv:
         print "Missing image for", session['title']
     if ' ' in session['day']:
         print "Bad day for", session['title']
+
+# Save saturday.csv, sunday.csv, monday.csv, tuesday.csv
+for day in schedule:
+    schedule_csv = csv.writer(open('%s.csv' % day, 'wt'))
+    schedule_csv.writerow(['slug'])
+    for slug in schedule[day]:
+        schedule_csv.writerow([slug])
+    print "%s: %d sessions" % (day, len(schedule[day]))
 
 # Save speakers.yml
 speaker_header = next(speakers_csv)
