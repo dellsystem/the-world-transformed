@@ -45,7 +45,7 @@ sessions = {}
 speaker_sessions = collections.defaultdict(set)
 schedule = collections.defaultdict(list)
 for row in sessions_csv:
-    session = dict(zip(session_header, row))
+    session = dict(zip(session_header, [cell.strip() for cell in row]))
     slug = session.pop('slug')
     if not slug.strip():
         print "Missing slug for", session['title']

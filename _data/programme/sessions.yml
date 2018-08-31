@@ -16,8 +16,8 @@
     With the Labour Party recently campaigning on their boldest election manifesto
     in a generation, a radical agenda for a new economy has never been closer to Westminster.
     It is time to grab this opportunity and move towards a 4 Day Week.', end_timestamp: 20180925T163000,
-  final: true, image: 4-day-week, organiser: '4 Day Week Campaign, Autonomy ', room: 'Main
-    Space ', speakers: alice-martin carys-roberts aidan-harper will-stronge katja-kipping
+  final: true, image: 4-day-week, organiser: '4 Day Week Campaign, Autonomy', room: Main
+    Space, speakers: alice-martin carys-roberts aidan-harper will-stronge katja-kipping
     david-graeber, start_timestamp: 20180925T150000, time: '15:00-16:30', title: 'A
     4 Day Week: The Time is Now!', venue: Black-E}
 a-global-nhs: {Action point: Charlie editing, Category: health, Confirmed Speakers: 'Natalie
@@ -31,11 +31,11 @@ a-global-nhs: {Action point: Charlie editing, Category: health, Confirmed Speake
     education social protection. Join us to debate how a Labour government can redefine
     priorities and support access to public services for people across the world.',
   end_timestamp: 20180925T123000, final: true, image: healthcare, organiser: Global
-    Justice Now & Health Poverty Action, room: 'Theatre ', speakers: natalie-sharples
+    Justice Now & Health Poverty Action, room: Theatre, speakers: natalie-sharples
     satoko-kishimoto heidi-chow, start_timestamp: 20180925T110000, time: '11:00-12:30',
   title: 'A Global NHS? Public Services Across Borders', venue: Black-E}
 a-movement-in-government: {Action point: '', Category: economy, Confirmed Speakers: 'Paul
-    Mason, Dimitris Tzanakopoulos, Christine Berry, Joe Guinan (Chair) ', Contact for Session: Elliot,
+    Mason, Dimitris Tzanakopoulos, Christine Berry, Joe Guinan (Chair)', Contact for Session: Elliot,
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
   day: Sunday, description: !!python/str "What will it take to bring about a fundamental\
     \ re-ordering of our economy \u2018for the many not the few\u2019? What challenges\
@@ -43,7 +43,7 @@ a-movement-in-government: {Action point: '', Category: economy, Confirmed Speake
     \ How do we move from broad visions to clear-eyed strategy; sharpening our plans\
     \ and mobilising the necessary social forces? What historical lessons can we draw\
     \ upon, and how might we deploy our greatest asset\u2014our growing movement\u2014\
-    to deliver radical change? Come and discuss. ", end_timestamp: 20180923T211500,
+    to deliver radical change? Come and discuss.", end_timestamp: 20180923T211500,
   final: false, image: default, organiser: '', room: Main Space, speakers: paul-mason
     dimitris-tzanakopoulos christine-berry joe-guinan, start_timestamp: 20180923T193000,
   time: '19:30-21:15', title: 'A Movement in Government?', venue: Black-E}
@@ -55,9 +55,9 @@ a-movement-led-media: {Action point: '', Category: media, Confirmed Speakers: 'B
     left respond? It cannot simply be about creating left-wing spin machines - we
     need a democratic media system that facilitates new ways of communicating with
     each other and the wider public, and that allows us to set our own political agendas.
-    Join leading media organisations to plan how we achieve this. ', end_timestamp: 20180922T123000,
-  final: true, image: camera-man, organiser: 'The Media Fund ', room: Event Space,
-  speakers: bhaskar-sunkara eleanor-penny daniel-lewis kerry-anne-mendoza, start_timestamp: 20180922T110000,
+    Join leading media organisations to plan how we achieve this.', end_timestamp: 20180922T123000,
+  final: true, image: camera-man, organiser: The Media Fund, room: Event Space, speakers: bhaskar-sunkara
+    eleanor-penny daniel-lewis kerry-anne-mendoza, start_timestamp: 20180922T110000,
   time: '11:00-12:30', title: 'How Do We Build a Movement-led Media?', venue: Constellations}
 a-new-economic-consensus: {Action point: '', Category: economy/democracy, Confirmed Speakers: 'Chair:
     Ed Miliband MP; Lisa Nandy MP, Richard Leonard, Grace Blakeley', Contact for Session: '',
@@ -83,8 +83,8 @@ a-new-populism: {Action point: '', Category: art music culture, Confirmed Speake
     has influenced political parties across Europe, and Jon Trickett MP, Shadow Minister
     for the Cabinet Office and a driving force behind the Corbyn Project.', end_timestamp: 20180924T190000,
   final: true, image: movement, organiser: '', room: Main Space, speakers: chantal-mouffe
-    jon-trickett-mp, start_timestamp: 20180924T173000, time: '17:30-19:00', title: 'A
-    New Populism ', venue: Hinterlands}
+    jon-trickett-mp, start_timestamp: 20180924T173000, time: '17:30-19:00', title: A
+    New Populism, venue: Hinterlands}
 a-party-for-the-21st-century: {Action point: Andrew editing / writing, Category: democracy,
   Confirmed Speakers: '', Contact for Session: Elliot, Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
@@ -94,11 +94,9 @@ a-party-for-the-21st-century: {Action point: Andrew editing / writing, Category:
     \ members should be the driving force within the Labour Party. But how should\
     \ that work in practice? What role should members have and how do we ensure that\
     \ a future Labour Government is accountable to party members and the trade union\
-    \ movement? ", end_timestamp: 20180923T211500, final: false, image: default, organiser: '',
+    \ movement?", end_timestamp: 20180923T211500, final: false, image: default, organiser: '',
   room: Main Space, speakers: '', start_timestamp: 20180923T193000, time: '19:30-21:15',
-  title: 'From Below: A Party Fit for the 21st Century?
-
-    ', venue: Hinterlands}
+  title: 'From Below: A Party Fit for the 21st Century?', venue: Hinterlands}
 a-plan-for-the-new-economy: {Action point: '', Category: economy, Confirmed Speakers: !!python/str "Tom\
     \ Kibasi, Director of IPPR and Chair of the IPPR Commission on Economic Justice\
     \ (CONFIRMED)\n\nFrances O\u2019Grady, General Secretary of the TUC (Invited)\n\
@@ -130,14 +128,14 @@ a-radical-alliance-for-europe: {Action point: '', Category: international, Confi
     kate-shea-baird luke-cooper niccolo-milanese, start_timestamp: 20180923T150000,
   time: '15:00-16:30', title: A Radical Alliance for Europe, venue: Hinterlands}
 a-socialist-story-of-modern-britain: {Action point: Elliot waiting on info, Category: education,
-  Confirmed Speakers: "Melissa Benn, Alan Finlayson, Jeremy Gilbert, Clive Lewis,\
-    \ Chair: Francis Foley \n", Contact for Session: Jeremy Gilbert, Format: '', Possible Speakers: '',
+  Confirmed Speakers: 'Melissa Benn, Alan Finlayson, Jeremy Gilbert, Clive Lewis,
+    Chair: Francis Foley', Contact for Session: Jeremy Gilbert, Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
   day: Sunday, description: !!python/str "For Labour to build the coalition of support\
     \ that it needs, we need to be able to tell people a clear and comprehensive story\
     \ about how the country got into the state it\u2019s in, and how we think we can\
     \ get out of it. What should that story be? Come and discuss!", end_timestamp: 20180923T143000,
-  final: true, image: history, organiser: Soundings, room: 'Theatre ', speakers: melissa-benn
+  final: true, image: history, organiser: Soundings, room: Theatre, speakers: melissa-benn
     alan-finlayson jeremy-gilbert clive-lewis-mp francis-foley, start_timestamp: 20180923T130000,
   time: '13:00-14:30', title: 'How Did We Get Here and Where Are We Going? Telling
     a Socialist Story of Modern Britain', venue: Black-E}
@@ -170,7 +168,7 @@ a-world-without-prisons: {Action point: 'Andrew editing - kelsey rewrite?', Cate
     program for generations, with six new mega-prisons planned in what is already
     the most incarcerated country in Europe. Come and learn about the ways the prison
     industrial complex is being resisted on a grassroots level, and how communities
-    can build towards a world safe from violence. ', end_timestamp: 20180922T163000,
+    can build towards a world safe from violence.', end_timestamp: 20180922T163000,
   final: true, image: prison, organiser: Community Action on Prison Expansion, room: '',
   speakers: '', start_timestamp: 20180922T150000, time: '15:00-16:30', title: 'Is
     Prison the Answer?', venue: Baltic Creative Shed}
@@ -188,26 +186,24 @@ acid-corbynism: {Action point: '', Category: art music culture, Confirmed Speake
     \ immersive sounds, interactive light installations and visual histories of radical\
     \ parties.", end_timestamp: 20180924T233000, final: false, image: party, organiser: '',
   room: Theatre, speakers: '', start_timestamp: 20180924T193000, time: '19:30-23:30',
-  title: 'Acid Corbynism: Consciousness, Club Culture and Collective Joy
-
-    ', venue: Hinterlands}
+  title: 'Acid Corbynism: Consciousness, Club Culture and Collective Joy', venue: Hinterlands}
 alborada-latin-america: {Action point: '', Category: '', Confirmed Speakers: '', Contact for Session: '',
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
   day: Saturday, description: 'Alborada presents a selection of radical and socially-conscious
     short documentaries on diverse issues relating to Latin America. For more info,
     visit www.alborada.net', end_timestamp: 20180922T211500, final: true, image: film,
   organiser: Alborada, room: Cinema, speakers: '', start_timestamp: 20180922T193000,
-  time: '19:30-21:15', title: 'Alborada: Latin America Uncovered ', venue: Baltic}
+  time: '19:30-21:15', title: 'Alborada: Latin America Uncovered', venue: Baltic}
 an-evening-of-internationalism: {Action point: '', Category: international/culture,
   Confirmed Speakers: '', Contact for Session: '', Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  day: Sunday, description: "A multimedia extravaganza of talks, films, music and\
-    \ spoken word, exploring the struggles of those resisting colonialism and capitalism\
-    \ on the front lines. Join speakers from around the world to learn about and celebrate\
-    \ these histories of resistance - from the fight against slavery, to 20th century\
-    \ anti-colonial struggles, and on to the present day. A vibrant spirit of international\
-    \ solidarity was key to all of these movements - how can we build on that legacy\
-    \ to forge a new internationalism for the 21st century? \n", end_timestamp: 20180923T233000,
+  day: Sunday, description: 'A multimedia extravaganza of talks, films, music and
+    spoken word, exploring the struggles of those resisting colonialism and capitalism
+    on the front lines. Join speakers from around the world to learn about and celebrate
+    these histories of resistance - from the fight against slavery, to 20th century
+    anti-colonial struggles, and on to the present day. A vibrant spirit of international
+    solidarity was key to all of these movements - how can we build on that legacy
+    to forge a new internationalism for the 21st century?', end_timestamp: 20180923T233000,
   final: false, image: international, organiser: 'War on Want, Global Justice Now,
     Jubilee Debt Campaign & Health Poverty Action', room: Theatre, speakers: '', start_timestamp: 20180923T193000,
   time: '19:30-23:30', title: !!python/str "None of Us Are Free Until We\u2019re All\
@@ -222,14 +218,14 @@ an-intersection-of-class-and-gender: {Action point: '', Category: gender, Confir
     \ also include a participatory workshop about class and gender that will be co-delivered\
     \ with some of the participants, as the women ask\_who we are, where we\u2019\
     re from and where we\u2019re going.", end_timestamp: 20180924T103000, final: true,
-  image: women, organiser: Movement for Cultural Democracy, room: 'Theatre ', speakers: rhiannon-white
+  image: women, organiser: Movement for Cultural Democracy, room: Theatre, speakers: rhiannon-white
     aya-o-haidar, start_timestamp: 20180924T090000, time: '09:00-10:30', title: At
     the Intersection of Class and Gender, venue: Black-E}
 apps-for-the-many: {Action point: '', Category: tech, Confirmed Speakers: '', Contact for Session: '',
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
   day: Tuesday, description: Brainstorming App ideas for the Movement, end_timestamp: 20180925T123000,
   final: true, image: computer, organiser: Momentum Tech, room: Meeting Room, speakers: '',
-  start_timestamp: 20180925T110000, time: '11:00-12:30', title: 'Apps for the many ',
+  start_timestamp: 20180925T110000, time: '11:00-12:30', title: Apps for the many,
   venue: Black-E}
 artists-4-corbyn: {Action point: '', Category: arts music and culture, Confirmed Speakers: '',
   Contact for Session: Sarah, Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
@@ -252,8 +248,8 @@ beating-the-bosses: {Action point: '', Category: trade unions, Confirmed Speaker
     restrictive legislation, building strike funds and strengthening the relationships
     between workplace and community organisations. What strategies can we develop
     to ensure workplace struggles can go the distance in hostile conditions? And what
-    role can the Labour Party play? ', end_timestamp: 20180922T143000, final: true,
-  image: workplace, organiser: Notes From Below, room: 'Theatre ', speakers: seth-wheeler
+    role can the Labour Party play?', end_timestamp: 20180922T143000, final: true,
+  image: workplace, organiser: Notes From Below, room: Theatre, speakers: seth-wheeler
     kat-wright sheila-coleman shavanah-taj, start_timestamp: 20180922T130000, time: '13:00-14:30',
   title: 'Beating the Bosses: What Do We Need to Win?', venue: Black-E}
 beyond-cultural-precarity: {Action point: '', Category: culture, Confirmed Speakers: Peter
@@ -264,19 +260,16 @@ beyond-cultural-precarity: {Action point: '', Category: culture, Confirmed Speak
     for their work, and our cultural institutions are more publicly accountable and
     supportive of grassroots creativity? In this participatory session, our speakers
     will discuss how we might fund local cultural democracy and implement minimum
-    standards in the sector to tackle precarity and strengthen workers'' rights. ',
+    standards in the sector to tackle precarity and strengthen workers'' rights.',
   end_timestamp: 20180923T143000, final: true, image: default, organiser: Movement
     for Cultural Democracy, room: '', speakers: clara-paillard peter-stark, start_timestamp: 20180923T130000,
-  time: '13:00-14:30', title: 'Beyond Cultural Precarity ', venue: Baltic Creative
-    Shed}
+  time: '13:00-14:30', title: Beyond Cultural Precarity, venue: Baltic Creative Shed}
 black-women-transforming-politics: {Action point: '', Category: race/gender, Confirmed Speakers: 'Diane
     Abbott, MP, Shadow Home Secretary;  Cllr Claudia Webbe, Labour Party NEC;  Cllr
     Emine Ibrahim, Deputy Leader Haringey City Council;  Zita Holbourne, Assistant
     General Secretary PCS;   Dr Soyna Robotham, Chair, Director of Operations at Spectrum
-    Derbyshire.
-
-    ', Contact for Session: Cecile c.wright230@ntlworld.com, Format: '', Possible Speakers: '',
-  'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
+    Derbyshire.', Contact for Session: Cecile c.wright230@ntlworld.com, Format: '',
+  Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
   day: Sunday, description: !!python/str "Although they did not receive the vote until\
     \ well after their white sisters, black women have a rich and successful history\
     \ of political activism. Organising in the communities in which they live, through\
@@ -317,15 +310,13 @@ britains-new-far-right: {Action point: '', Category: '', Confirmed Speakers: Ric
   start_timestamp: 20180922T150000, time: '15:00-16:30', title: Britain's New Far
     Right, venue: Hinterlands}
 building-community-wealth: {Action point: Andrew editing, Category: social security/education,
-  Confirmed Speakers: '
-
-    Ted Howard
+  Confirmed Speakers: 'Ted Howard
 
     Cllr Matthew Brown
 
     Cllr Asima Shaikh
 
-    Frances Jones ', Contact for Session: '', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
+    Frances Jones', Contact for Session: '', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
   Programme Material requested (mark X if yes): '', day: Saturday, description: 'A
     new wave of municipal socialism is emerging in Britain. At its centre is the idea
     of community wealth building, which focuses on creating collaborative, sustainable
@@ -334,9 +325,9 @@ building-community-wealth: {Action point: Andrew editing, Category: social secur
     more about community wealth building, where it has been successful, where it needs
     encouragement, and what it means for building economic and political power from
     the bottom up.', end_timestamp: 20180922T143000, final: true, image: community,
-  organiser: Democracy Collaborative, room: 'Theatre ', speakers: ted-howard matthew-brown
+  organiser: Democracy Collaborative, room: Theatre, speakers: ted-howard matthew-brown
     asima-shaikh frances-jones, start_timestamp: 20180922T130000, time: '13:00-14:30',
-  title: 'Building Community Wealth in our Towns and Cities ', venue: Hinterlands}
+  title: Building Community Wealth in our Towns and Cities, venue: Hinterlands}
 calais-jungle: {Action point: '', Category: '', Confirmed Speakers: '', Contact for Session: sarah,
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
   day: Tuesday, description: 'This exhibtion is an intimate portrait of the Calais
@@ -353,7 +344,7 @@ campaign-building: {Action point: '', Category: '', Confirmed Speakers: Beth Fos
   day: Saturday, description: '14yrs - 18yrs? Local or National issues that make you
     angry? Want to cause some (organised) chaos? Come and talk tactics in this campaign
     building workshop which will help ensure your campaigns are winnable.', end_timestamp: 20180922T134500,
-  final: true, image: default, organiser: Momentum, room: 'Studio ', speakers: beth-foster-ogg,
+  final: true, image: default, organiser: Momentum, room: Studio, speakers: beth-foster-ogg,
   start_timestamp: 20180922T130000, time: '13:00-13:45', title: Campaign Building
     (14 -18 years), venue: Black-E}
 can't-start-a-fire-without-a-flame: {Action point: '', Category: arts music culture,
@@ -380,7 +371,7 @@ cities-in-common: {Action point: '', Category: '', Confirmed Speakers: 'Raquel R
     \ through looking into urban political struggles? Join a range of thinkers to\
     \ explore how exciting and dynamic urban projects - both nationally and internationally\
     \ - are demonstrating real alternatives to neoliberalism.", end_timestamp: 20180924T163000,
-  final: false, image: community, organiser: '', room: 'Main Space ', speakers: raquel-rolnik
+  final: false, image: community, organiser: '', room: Main Space, speakers: raquel-rolnik
     ben-beach james-murray st-anns, start_timestamp: 20180924T150000, time: '15:00-16:30',
   title: 'Cities in Common: Urban Resistance to Neoliberalism', venue: Black-E}
 class-justice: {Action point: Sam to edit blurb, Category: '', Confirmed Speakers: "Chris\
@@ -398,7 +389,7 @@ class-justice: {Action point: Sam to edit blurb, Category: '', Confirmed Speaker
     class justice.', end_timestamp: 20180922T190000, final: true, image: banners,
   organiser: 'Orgreave Truth and Justice Campaign, Shrewsbury 24 Campaign, Lancaster
     West Residents Association, Blacklist Support Group & Haldane Society of Socialist
-    Lawyers, Hillsborough Justice Campaign', room: 'Theatre ', speakers: chris-peace
+    Lawyers, Hillsborough Justice Campaign', room: Theatre, speakers: chris-peace
     jacqui-haynes sheila-coleman royston-bentham neil-findlay-msp, start_timestamp: 20180922T173000,
   time: '17:30-19:00', title: Class Justice, venue: Hinterlands}
 clement-atlee-play: {Action point: '', Category: art music culture, Confirmed Speakers: 'Adjoa
@@ -432,8 +423,8 @@ codespace-monday: {Action point: '', Category: tech, Confirmed Speakers: '', Con
     ideas, make links and learn from each-other.
 
 
-    BYOL: Bring your own laptop!  ', end_timestamp: 20180924T190000, final: true,
-  image: computer, organiser: Momentum Tech, room: Meeting Room, speakers: '', start_timestamp: 20180924T150000,
+    BYOL: Bring your own laptop!', end_timestamp: 20180924T190000, final: true, image: computer,
+  organiser: Momentum Tech, room: Meeting Room, speakers: '', start_timestamp: 20180924T150000,
   time: '15:00-19:00', title: CodeSpace Drop-In, venue: Black-E}
 codespace-sunday: {Action point: '', Category: tech, Confirmed Speakers: '', Contact for Session: '',
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
@@ -442,8 +433,8 @@ codespace-sunday: {Action point: '', Category: tech, Confirmed Speakers: '', Con
     ideas, make links and learn from each-other.
 
 
-    BYOL: Bring your own laptop!  ', end_timestamp: 20180923T190000, final: true,
-  image: computer, organiser: Momentum Tech, room: Meeting Room, speakers: '', start_timestamp: 20180923T150000,
+    BYOL: Bring your own laptop!', end_timestamp: 20180923T190000, final: true, image: computer,
+  organiser: Momentum Tech, room: Meeting Room, speakers: '', start_timestamp: 20180923T150000,
   time: '15:00-19:00', title: CodeSpace Drop-In, venue: Black-E}
 codespace-tuesday: {Action point: '', Category: tech, Confirmed Speakers: '', Contact for Session: '',
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
@@ -464,10 +455,10 @@ colombia-the-human-rights-crisis: {Action point: '', Category: international/Fil
     session will include a screening of a short film called ''Truce'' which explores
     the role of female FARC guerrillas in negotiating the Colombian conflict, who
     are seeking not only to bring an end to the world''s longest armed conflict, but
-    also to guarantee women''s rights and social justice in Colombia. ', end_timestamp: 20180923T163000,
+    also to guarantee women''s rights and social justice in Colombia.', end_timestamp: 20180923T163000,
   final: true, image: default, organiser: '', room: Theatre, speakers: pablo-navarrete
     mariela-kohon, start_timestamp: 20180923T150000, time: '15:00-16:30', title: 'Colombia:
-    The Human Rights Crisis, Search for Peace and International Solidarity ', venue: Hinterlands}
+    The Human Rights Crisis, Search for Peace and International Solidarity', venue: Hinterlands}
 communities-against-climate-change: {Action point: Archie following up with Sakina,
   Category: environment, Confirmed Speakers: 'Fliss Premru, Reel News; Cllr Sakina
     Sheikh; Kevin Frea; Asima Shaikh', Contact for Session: Sakina, Format: '', Possible Speakers: '',
@@ -477,7 +468,7 @@ communities-against-climate-change: {Action point: Archie following up with Saki
     lead in the Climate fightback and can create thousands of decent jobs, keep energy
     revenues local, end fuel poverty and shift to 100% clean power. Corbyn  has created
     space for a 21st century municipal socialism. Town hall politics can hand power
-    back to communities; it''s time to get moving. ', end_timestamp: 20180925T190000,
+    back to communities; it''s time to get moving.', end_timestamp: 20180925T190000,
   final: true, image: climate, organiser: Labour Energy Forum, room: Main Space, speakers: fliss-premru
     sakina-sheikh kevin-frea asima-shaikh, start_timestamp: 20180925T173000, time: '17:30-19:00',
   title: Communities in the Fight Against Climate Change, venue: Black-E}
@@ -489,9 +480,9 @@ conversation-with-jean-luc-melenchon: {Action point: '', Category: international
     \ have established themselves as the leading left-wing opponents of Emmanuel Macron.\
     \ In a session introduced by Jon Trickett MP, M\xE9lenchon explains his political\
     \ vision, the tasks facing the left in Europe today and why we need a citizen\
-    \ revolution against our political elites, before taking questions from the audience. ",
+    \ revolution against our political elites, before taking questions from the audience.",
   end_timestamp: 20180924T211500, final: true, image: melenchon, organiser: Jacobin,
-  room: 'Main Space ', speakers: jon-trickett-mp jean-luc-melenchon, start_timestamp: 20180924T193000,
+  room: Main Space, speakers: jon-trickett-mp jean-luc-melenchon, start_timestamp: 20180924T193000,
   time: '19:30-21:15', title: !!python/str "In Conversation with Jean-Luc M\xE9lenchon",
   venue: Black-E}
 cracked-play: {Action point: '', Category: arts music and culture, Confirmed Speakers: '',
@@ -518,7 +509,7 @@ cybernetic-socialism: {Action point: Emma editing, Category: technology, Confirm
     \ and technological climate? What can social movements and radical governments\
     \ learn from this historical episode? Join Raul Espejo, the Operations Director\
     \ of the original project, to discuss!", end_timestamp: 20180924T143000, final: true,
-  image: cybersyn, organiser: Autonomy, room: 'Studio ', speakers: raul-espejo miranda-hall
+  image: cybersyn, organiser: Autonomy, room: Studio, speakers: raul-espejo miranda-hall
     will-stronge francesca-bria, start_timestamp: 20180924T130000, time: '13:00-14:30',
   title: 'Cybernetic Socialism: Project Cybersyn in the 21st century', venue: Black-E}
 debunking-the-myths: {Action point: '', Category: education, Confirmed Speakers: !!python/str "1.\
@@ -543,7 +534,7 @@ decolonising-foreign-policy: {Action point: DONT DO THIS, Category: '', Confirme
     \ the protection of the UK\u2019s wealth and privilege at the expense of those\
     \ living in the global South. What role do trade, aid and development play in\
     \ perpetuating this legacy? This session will explore how the UK can advance justice\
-    \ and human rights around the globe.  ", end_timestamp: 20180924T163000, final: false,
+    \ and human rights around the globe.", end_timestamp: 20180924T163000, final: false,
   image: international, organiser: War on Want, room: Theatre, speakers: '', start_timestamp: 20180924T150000,
   time: '15:00-16:30', title: Empire 2.0, venue: Hinterlands}
 decolonising-yoga: {Action point: '', Category: '', Confirmed Speakers: '', Contact for Session: '',
@@ -551,7 +542,7 @@ decolonising-yoga: {Action point: '', Category: '', Confirmed Speakers: '', Cont
   day: Monday, description: !!python/str "Far from offering an escape from the world\u2019\
     s problems, decolonising yoga empowers active compassion, community-building,\
     \ and opposition to capitalism and colonialism. A yoga class like you've probably\
-    \ never seen it before. ", end_timestamp: 20180924T103000, final: true, image: yoga,
+    \ never seen it before.", end_timestamp: 20180924T103000, final: true, image: yoga,
   organiser: '', room: Studio, speakers: '', start_timestamp: 20180924T090000, time: '09:00-10:30',
   title: Decolonising Yoga, venue: Black-E}
 deconstructing-neoliberalism-monday: {Action point: '', Category: '', Confirmed Speakers: Jeremy
@@ -563,7 +554,7 @@ deconstructing-neoliberalism-monday: {Action point: '', Category: '', Confirmed 
     \ tries to turn us into competitive entrepreneurs in every aspect of our lives;\
     \ how it tries to convince us that the social elite deserve their privilege; and\
     \ how it even co-opts the language of feminism.\nSession2: Jo Littler \u2018Meritocracy:\
-    \ the great delusion that ingrains inequality\u2019 www.theguardian.com/commentisfree/2017/mar/20/meritocracy-inequality-theresa-may-donald-trump\n",
+    \ the great delusion that ingrains inequality\u2019 www.theguardian.com/commentisfree/2017/mar/20/meritocracy-inequality-theresa-may-donald-trump",
   end_timestamp: 20180924T103000, final: true, image: reading, organiser: '', room: '',
   speakers: jeremy-gilbert, start_timestamp: 20180924T090000, time: '09:00-10:30',
   title: 'Deconstructing Neoliberalism: An Easy Morning Reading Group', venue: Baltic
@@ -578,22 +569,22 @@ deconstructing-neoliberalism-sunday: {Action point: Elliot waiitng for info, Cat
     \ entrepreneurs in every aspect of our lives; how it tries to convince us that\
     \ the social elite deserve their privilege; and how it even co-opts the language\
     \ of feminism.\n\nSession 1: Stuart Hall & Alan O\u2019Shea \u2018Common-Sense\
-    \ Neoliberalism\u2019 www.lwbooks.co.uk/sites/default/files/s55_02hall_oshea.pdf\n",
+    \ Neoliberalism\u2019 www.lwbooks.co.uk/sites/default/files/s55_02hall_oshea.pdf",
   end_timestamp: 20180923T103000, final: true, image: reading, organiser: '', room: '',
   speakers: jeremy-gilbert, start_timestamp: 20180923T090000, time: '09:00-10:30',
-  title: 'Deconstructing Neoliberalism: An Easy Morning Reading Group ', venue: Baltic
+  title: 'Deconstructing Neoliberalism: An Easy Morning Reading Group', venue: Baltic
     Creative Shed}
 deconstructing-neoliberalism-tuesday: {Action point: '', Category: '', Confirmed Speakers: Jeremy
     Gilbert, Contact for Session: '', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', day: Tuesday, description: !!python/str "\r\n\
-    Neoliberalism isn\u2019t just an economic programme. It\u2019s a whole world-view,\
-    \ that has very particular ideas about how we should  live. Over three days, we\u2019\
-    ll look at one reading per session, covering the ways in which neoliberal ideology\
+  Programme Material requested (mark X if yes): '', day: Tuesday, description: !!python/str "Neoliberalism\
+    \ isn\u2019t just an economic programme. It\u2019s a whole world-view, that has\
+    \ very particular ideas about how we should  live. Over three days, we\u2019ll\
+    \ look at one reading per session, covering the ways in which neoliberal ideology\
     \ tries to turn us into competitive entrepreneurs in every aspect of our lives;\
     \ how it tries to convince us that the social elite deserve their privilege; and\
     \ how it even co-opts the language of feminism.\r\nSession3: Catherine Rottenberg\
     \ \u2018How neoliberalism colonised feminism \u2013 and what you can do about\
-    \ it\u2019  www.theconversation.com/how-neoliberalism-colonised-feminism-and-what-you-can-do-about-it-94856\r",
+    \ it\u2019  www.theconversation.com/how-neoliberalism-colonised-feminism-and-what-you-can-do-about-it-94856",
   end_timestamp: 20180925T103000, final: true, image: reading, organiser: '', room: '',
   speakers: jeremy-gilbert, start_timestamp: 20180925T090000, time: '09:00-10:30',
   title: 'Deconstructing Neoliberalism: An Easy Morning Reading Group', venue: Baltic
@@ -623,8 +614,8 @@ digital-economy-101: {Action point: '', Category: technology, Confirmed Speakers
     \ IPPR Commission on Economic Justice, this session will examine what lies behind\
     \ the power of the tech giants, and what a transformative political agenda could\
     \ do to ensure the digital economy works for the many, not just the few.", end_timestamp: 20180924T123000,
-  final: true, image: finance, organiser: Institute for Public Policy Research, room: 'Event
-    Space ', speakers: laurie-laybourn-langton mat-lawrence, start_timestamp: 20180924T110000,
+  final: true, image: finance, organiser: Institute for Public Policy Research, room: Event
+    Space, speakers: laurie-laybourn-langton mat-lawrence, start_timestamp: 20180924T110000,
   time: '11:00-12:30', title: Digital Economy 101, venue: Constellations}
 eco-corbynism-monday: {Action point: '', Category: environment, Confirmed Speakers: Tom
     Gann, Contact for Session: '', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
@@ -637,8 +628,8 @@ eco-corbynism-monday: {Action point: '', Category: environment, Confirmed Speake
     \ of \u201Cwomen, nature\r\nand colonies\u201D, ground contemporary eco-socialism\
     \ in anti-imperialist,\r\nanti-racist and feminist as well as class struggles?\r\
     \nWe will explore these questions through reading texts from Williams,\r\nMies,\
-    \ Jason W. Moore and Raj Patel and Andreas Malm.\r\n", end_timestamp: 20180924T123000,
-  final: true, image: reading, organiser: 'New Socialist ', room: 'Gallery ', speakers: tom-gann,
+    \ Jason W. Moore and Raj Patel and Andreas Malm.", end_timestamp: 20180924T123000,
+  final: true, image: reading, organiser: New Socialist, room: Gallery, speakers: tom-gann,
   start_timestamp: 20180924T110000, time: '11:00-12:30', title: Eco-Corbynism Reading
     Group, venue: Black-E}
 eco-corbynism-sunday: {Action point: Archie waiting for info, Category: environment,
@@ -653,8 +644,8 @@ eco-corbynism-sunday: {Action point: Archie waiting for info, Category: environm
     and colonies\u201D, ground contemporary eco-socialism in anti-imperialist,\r\n\
     anti-racist and feminist as well as class struggles?\r\nWe will explore these\
     \ questions through reading texts from Williams,\r\nMies, Jason W. Moore and Raj\
-    \ Patel and Andreas Malm.\r\n", end_timestamp: 20180923T123000, final: true, image: reading,
-  organiser: New Socialist, room: 'Gallery ', speakers: tom-gann, start_timestamp: 20180923T110000,
+    \ Patel and Andreas Malm.", end_timestamp: 20180923T123000, final: true, image: reading,
+  organiser: New Socialist, room: Gallery, speakers: tom-gann, start_timestamp: 20180923T110000,
   time: '11:00-12:30', title: Eco-Corbynism Reading Group, venue: Black-E}
 eco-corbynism-tuesday: {Action point: '', Category: environment, Confirmed Speakers: Tom
     Gann, Contact for Session: '', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
@@ -667,11 +658,10 @@ eco-corbynism-tuesday: {Action point: '', Category: environment, Confirmed Speak
     \ of \u201Cwomen, nature\r\nand colonies\u201D, ground contemporary eco-socialism\
     \ in anti-imperialist,\r\nanti-racist and feminist as well as class struggles?\r\
     \nWe will explore these questions through reading texts from Williams,\r\nMies,\
-    \ Jason W. Moore and Raj Patel and Andreas Malm.\r\n", end_timestamp: 20180925T123000,
-  final: true, image: reading, organiser: 'New Socialist ', room: 'Gallery ', speakers: tom-gann,
-  start_timestamp: 20180925T110000, time: '11:00-12:30', title: '
-
-    Eco-Corbynism Reading Group', venue: Black-E}
+    \ Jason W. Moore and Raj Patel and Andreas Malm.", end_timestamp: 20180925T123000,
+  final: true, image: reading, organiser: New Socialist, room: Gallery, speakers: tom-gann,
+  start_timestamp: 20180925T110000, time: '11:00-12:30', title: Eco-Corbynism Reading
+    Group, venue: Black-E}
 ed-miliband-quiz: {Action point: '', Category: '', Confirmed Speakers: '', Contact for Session: '',
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
   day: Tuesday, description: 'Know your Karl Marx from your Kinnock? Your New Left
@@ -695,14 +685,14 @@ education-in-the-labour-party: {Action point: '', Category: education, Confirmed
     We want to come out of the session with a set of demands for the party, aimed
     at how it can take the role more seriously and properly support initiatives at
     the grassroots.', end_timestamp: 20180922T143000, final: false, image: education,
-  organiser: The World Transformed, room: ' ', speakers: lorcan-mullan lena-simic
-    sharon-clancy, start_timestamp: 20180922T130000, time: '13:00-14:30', title: 'Education,
-    Education, Education...in the Labour Party', venue: 'Baltic Creative Shed '}
+  organiser: The World Transformed, room: '', speakers: lorcan-mullan lena-simic sharon-clancy,
+  start_timestamp: 20180922T130000, time: '13:00-14:30', title: 'Education, Education,
+    Education...in the Labour Party', venue: Baltic Creative Shed}
 end-to-sex-work-criminalisation: {Action point: '', Category: '', Confirmed Speakers: !!python/str "Speakers\
     \ Blaire Buchanan - Sex Worker Advocacy & Resistance Movement; Ava Caradonna -\
     \ the xtalk project; Paulina Nicol - English Collective of Prostitutes; Molly\
     \ Smith - Scot Pep \n Chair:\_ Camille Barbagallo - Women\u2019s Strike Assembly\
-    \ UK; Niki Adams - English Collective of Prostitutes ", Contact for Session: '',
+    \ UK; Niki Adams - English Collective of Prostitutes", Contact for Session: '',
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
   day: Tuesday, description: !!python/str "In 2018, with the grassroots union UWV,\
     \ sex workers began unionising the sex industry and launched Decrim Now: Campaign\
@@ -711,7 +701,7 @@ end-to-sex-work-criminalisation: {Action point: '', Category: '', Confirmed Spea
     \ are a key driver for people turning to sex work. Labour4Decrim is raising awareness\
     \ about the harms of criminalisation and the Nordic Model, and calling on the\
     \ Labour Party to listen to sex workers and support the struggle to unionise and\
-    \ decriminalise the sex industry. ", end_timestamp: 20180925T143000, final: true,
+    \ decriminalise the sex industry.", end_timestamp: 20180925T143000, final: true,
   image: prison, organiser: !!python/str "DECRIM NOW: Campaign for Sex Workers\u2019\
     \ Rights; East London Strippers Collective\n (ELSC), English Collective of Prostitutes\
     \ (ECP), Scot Pep, Sex Worker \nAdvocacy & Resistance Movement (SWARM), the xtalk\
@@ -730,8 +720,8 @@ ending-the-drug-war: {Action point: '', Category: health/culture, Confirmed Spea
     \ one of the most urgent social justice issues of our time. We will discuss how\
     \ to deal with the difficult issues in the debate around drug policy reform and\
     \ how you can be part of our growing movement for change.", end_timestamp: 20180923T163000,
-  final: true, image: smoke, organiser: Health Poverty Action, room: 'Main Space ',
-  speakers: anne-marie-cockburn martin-drewry chris-williamson-mp jane-slater, start_timestamp: 20180923T150000,
+  final: true, image: smoke, organiser: Health Poverty Action, room: Main Space, speakers: anne-marie-cockburn
+    martin-drewry chris-williamson-mp jane-slater, start_timestamp: 20180923T150000,
   time: '15:00-16:30', title: 'Drugs: Ending the War and Winning the Battle', venue: Black-E}
 feeling-the-bern: {Action point: Emma editing, Category: international, Confirmed Speakers: '',
   Contact for Session: <ronanburtenshaw@gmail.com>, Format: '', Possible Speakers: '',
@@ -744,7 +734,7 @@ feeling-the-bern: {Action point: Emma editing, Category: international, Confirme
     \ in America.", end_timestamp: 20180924T143000, final: false, image: america,
   organiser: Jacobin, room: Main Space, speakers: saikat-chakrabarti julia-salazar
     lee-carter bhaskar-sunkara, start_timestamp: 20180924T130000, time: '13:00-14:30',
-  title: 'Feeling the Bern: The Rise of the American Left ', venue: Black-E}
+  title: 'Feeling the Bern: The Rise of the American Left', venue: Black-E}
 feminism-for-the-many: {Action point: '', Category: gender, Confirmed Speakers: 'Sofia
     Brito; Nelini Stamp; Tithi Bhattarchaya; Elif Sarican, Eva O''Connor', Contact for Session: '',
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
@@ -756,9 +746,9 @@ feminism-for-the-many: {Action point: '', Category: gender, Confirmed Speakers: 
     a feminism that not only challenges sexism, but also forms of oppression and exploitation
     based on class, race and nation. No socialism without feminism, no feminism without
     socialism!', end_timestamp: 20180922T211500, final: true, image: women, organiser: '',
-  room: 'Main Space ', speakers: tithi-bhattacharya nelini-stamp sofia-brito elif-sarican
-    eva-o-connor, start_timestamp: 20180922T193000, time: '19:30-21:15', title: 'Feminism
-    for the Many ', venue: Black-E}
+  room: Main Space, speakers: tithi-bhattacharya nelini-stamp sofia-brito elif-sarican
+    eva-o-connor, start_timestamp: 20180922T193000, time: '19:30-21:15', title: Feminism
+    for the Many, venue: Black-E}
 fighting-disabled-exclusion: {Action point: '', Category: '', Confirmed Speakers: Miro
     Griffiths; Dr Paul Darke; Julie Ward MEP; Simon McKeown; Dr Janet Price; Marsha
     De Cordova MP, Contact for Session: mirogriffiths@gmail.com, Format: '', Possible Speakers: '',
@@ -767,28 +757,26 @@ fighting-disabled-exclusion: {Action point: '', Category: '', Confirmed Speakers
     for disabled people and their families. What action is required to challenge the
     discriminatory practices that disabled people face? Join activists and parliamentarians
     to explore the ways disabled people are portrayed as a problem in society, how
-    this contributes to their marginilisation and what the left can do about it. ',
+    this contributes to their marginilisation and what the left can do about it.',
   end_timestamp: 20180924T143000, final: true, image: default, organiser: Outside
-    Centre, room: 'Theatre ', speakers: miro-griffiths dr-paul-darke julie-ward-mep
-    simon-mckeown dr-janet-price marsha-de-cordova-mp, start_timestamp: 20180924T130000,
-  time: '13:00-14:30', title: Fighting Disabled People's Exclusion, venue: Black-E}
+    Centre, room: Theatre, speakers: miro-griffiths dr-paul-darke julie-ward-mep simon-mckeown
+    dr-janet-price marsha-de-cordova-mp, start_timestamp: 20180924T130000, time: '13:00-14:30',
+  title: Fighting Disabled People's Exclusion, venue: Black-E}
 fighting-for-trans-liberation: {Action point: '', Category: gender, Confirmed Speakers: 'Joni
-    Cohe, Toby Sinbad Walker, Chamindra Weerawardhana
-
-    ', Contact for Session: '', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', day: Monday, description: 'This
-    session will raise consciousness about transgender liberation, situating issues
-    affecting trans people today within the changing historical relationships between
-    gender and capitalism. What should be the role of trans liberation within the
-    broader movement for socialism? What opportunities would a radical Labour government
-    offer for trans liberation, and what would be its limitations? How can we address
-    issues affecting trans people now - in work, housing, healthcare, sex work, prisons,
-    and migrant detention centres?', end_timestamp: 20180924T211500, final: false,
-  image: lgbtq, organiser: '', room: 'Theatre ', speakers: joni-cohen toby-sinbad-walker
+    Cohe, Toby Sinbad Walker, Chamindra Weerawardhana', Contact for Session: '', Format: '',
+  Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
+  day: Monday, description: 'This session will raise consciousness about transgender
+    liberation, situating issues affecting trans people today within the changing
+    historical relationships between gender and capitalism. What should be the role
+    of trans liberation within the broader movement for socialism? What opportunities
+    would a radical Labour government offer for trans liberation, and what would be
+    its limitations? How can we address issues affecting trans people now - in work,
+    housing, healthcare, sex work, prisons, and migrant detention centres?', end_timestamp: 20180924T211500,
+  final: false, image: lgbtq, organiser: '', room: Theatre, speakers: joni-cohen toby-sinbad-walker
     chamindra-weerawardhana, start_timestamp: 20180924T193000, time: '19:30-21:15',
   title: Fighting for Trans Liberation, venue: Black-E}
 folding-our-futures: {Action point: '', Category: '', Confirmed Speakers: '', Contact for Session: 'Barbara
-    Hardcastle: barb.hardcastle@gmail.com ', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
+    Hardcastle: barb.hardcastle@gmail.com', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
   Programme Material requested (mark X if yes): '', day: Sunday, description: 'Learn
     about the story of the young japanese girl, who in the wake of the atomic bomb
     in Hiroshima (Japan), folded 1600 origami cranes in the hope to be granted a wish.
@@ -799,20 +787,18 @@ folding-our-futures: {Action point: '', Category: '', Confirmed Speakers: '', Co
 future-of-trade-unions: {Action point: Hope, Category: trade unions, Confirmed Speakers: 'Dave
     Ward
 
-    Ewa Jasiewicz
-
-    ', Contact for Session: Seth, Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', day: Monday, description: !!python/str "After\
-    \ a decade of wage stagnation, it\u2019s clear that workers need a new deal. With\
-    \ the growth of insecure work, declining union membership, and the rapid transformation\
-    \ being spurred on by the fourth industrial revolution, it has never been more\
-    \ important for workers to get organised. It\u2019s time for unions to come together\
-    \ and develop a bold new strategy to address the imbalance of power in today\u2019\
-    s economy. Join trade union General Secretaries and activists to discuss strategies\
-    \ for strengthening workers' power. ", end_timestamp: 20180924T190000, final: false,
-  image: workplace, organiser: '', room: Theatre, speakers: dave-ward ewa-jasiewicz,
-  start_timestamp: 20180924T173000, time: '17:30-19:00', title: The Future of the
-    Trade Unions, venue: Hinterlands}
+    Ewa Jasiewicz', Contact for Session: Seth, Format: '', Possible Speakers: '',
+  'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
+  day: Monday, description: !!python/str "After a decade of wage stagnation, it\u2019\
+    s clear that workers need a new deal. With the growth of insecure work, declining\
+    \ union membership, and the rapid transformation being spurred on by the fourth\
+    \ industrial revolution, it has never been more important for workers to get organised.\
+    \ It\u2019s time for unions to come together and develop a bold new strategy to\
+    \ address the imbalance of power in today\u2019s economy. Join trade union General\
+    \ Secretaries and activists to discuss strategies for strengthening workers' power.",
+  end_timestamp: 20180924T190000, final: false, image: workplace, organiser: '', room: Theatre,
+  speakers: dave-ward ewa-jasiewicz, start_timestamp: 20180924T173000, time: '17:30-19:00',
+  title: The Future of the Trade Unions, venue: Hinterlands}
 future-visions: {Action point: '', Category: '', Confirmed Speakers: 'Jeremy Corbyn,
     Naomi Klein Via Skype, Bonnie Castillo', Contact for Session: '', Format: '',
   Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
@@ -838,9 +824,9 @@ global-finance-101: {Action point: '', Category: international/economy, Confirme
     \ democratic control of financial capital.", end_timestamp: 20180922T163000, final: true,
   image: finance, organiser: Institute for Public Policy Research, room: Event Space,
   speakers: michael-jacobs grace-blakeley, start_timestamp: 20180922T150000, time: '15:00-16:30',
-  title: 'Global Finance 101 ', venue: Constellations}
-good-and-bad-government: {Action point: '', Category: '', Confirmed Speakers: 'Ben
-    Westley Clarke ', Contact for Session: Sarah, Format: '', Possible Speakers: '',
+  title: Global Finance 101, venue: Constellations}
+good-and-bad-government: {Action point: '', Category: '', Confirmed Speakers: Ben
+    Westley Clarke, Contact for Session: Sarah, Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
   day: Saturday, description: !!python/str "In this large scale, collaborative, ink\
     \ drawing workshop, participants will explore the functions of satire and fantasy.\
@@ -850,7 +836,7 @@ good-and-bad-government: {Action point: '', Category: '', Confirmed Speakers: 'B
     \ what a fair society might look like.", end_timestamp: 20180922T170000, final: true,
   image: allegory, organiser: '', room: Garden, speakers: ben-westley-clarke, start_timestamp: 20180922T110000,
   time: '11:00-17:00', title: 'Good and Bad Government: A Collaborative Drawing',
-  venue: 'Constellations '}
+  venue: Constellations}
 history-lessons: {Action point: '', Category: education, Confirmed Speakers: 'Colin
     Waugh, Rida Vaquas, Edd Mustill', Contact for Session: Charlie Clarke, Format: Political
     Education, Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
@@ -862,14 +848,11 @@ history-lessons: {Action point: '', Category: education, Confirmed Speakers: 'Co
     \ share? How did they design popular education programmes which engaged and inspired\
     \ people to act? What can we take from our history to develop popular education\
     \ for the 21st century?", end_timestamp: 20180923T123000, final: false, image: history,
-  organiser: LabourDays, room: 'Annex ', speakers: colin-waugh rida-vaquas edd-mustill,
+  organiser: LabourDays, room: Annex, speakers: colin-waugh rida-vaquas edd-mustill,
   start_timestamp: 20180923T110000, time: '11:00-12:30', title: 'History Lessons:
-    Popular Education in the 20th Century
-
-    ', venue: Hinterlands}
-housing-for-all: {Action point: '', Category: social security, Confirmed Speakers: '
-
-    Kate Macintosh, Anna Minto', Contact for Session: benjamin.beach@icloud.com, Format: '',
+    Popular Education in the 20th Century', venue: Hinterlands}
+housing-for-all: {Action point: '', Category: social security, Confirmed Speakers: 'Kate
+    Macintosh, Anna Minto', Contact for Session: benjamin.beach@icloud.com, Format: '',
   Possible Speakers: !!python/str "Architects for Social Housing / RHN; Ed\_Milliband\
     \ / Sadiq; START / RHN", 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
   day: Saturday, description: !!python/str "As the housing crisis rages on, a growing\
@@ -905,7 +888,7 @@ internationalist-labour-party: {Action point: '', Category: international, Confi
 
     Kehinde Andrews
 
-    Charlotte Riley ', Contact for Session: yohann.koshy@newint.org, Format: '', Possible Speakers: '',
+    Charlotte Riley', Contact for Session: yohann.koshy@newint.org, Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
   day: Saturday, description: !!python/str "Corbyn\u2019s foreign policy is a huge\
     \ source of his support, especially among younger members who grew up in the \u2018\
@@ -919,14 +902,12 @@ internationalist-labour-party: {Action point: '', Category: international, Confi
   image: internationalist, organiser: New Internationalist, room: Theatre, speakers: richard-seymour
     karma-nabulsi dr-kehinde-andrews charlotte-riley, start_timestamp: 20180922T150000,
   time: '15:00-16:30', title: 'An Internationalist Labour Party?', venue: Black-E}
-intro-to-coding: {Action point: '', Category: 'tech ', Confirmed Speakers: '', Contact for Session: 'Matt
-    Meggary ', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
+intro-to-coding: {Action point: '', Category: tech, Confirmed Speakers: '', Contact for Session: Matt
+    Meggary, Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
   Programme Material requested (mark X if yes): '', day: Sunday, description: 'For
     total beginners. Bring your own laptop, if you can!', end_timestamp: 20180923T123000,
   final: true, image: computer, organiser: Momentum Tech, room: Meeting Room, speakers: '',
-  start_timestamp: 20180923T110000, time: '11:00-12:30', title: '
-
-    Intro to Coding', venue: Black-E}
+  start_timestamp: 20180923T110000, time: '11:00-12:30', title: Intro to Coding, venue: Black-E}
 jobs-in-nuclear-weapons: {Action point: '', Category: '', Confirmed Speakers: 'Fabian
     Hamilton MP, Shadow Minister for Peace and Disarmament Sam Mason, Policy Officer,
     PCS Paul Nowak, Deputy General Secretary, TUC Ann Feltham, Parliamentary Officer,
@@ -941,8 +922,8 @@ jobs-in-nuclear-weapons: {Action point: '', Category: '', Confirmed Speakers: 'F
     \ weapons of mass destruction the only way these jobs can be maintained, or can\
     \ we create skilled and meaningful work in other industries? Come and hear from\
     \ those centrally involved and add your voice to the discussion.", end_timestamp: 20180924T143000,
-  final: true, image: energy, organiser: Campaign for Nuclear Disarmament, room: 'Theatre ',
-  speakers: 'fabian-hamilton-mp sam-mason paul-nowak ann-feltham kate-hudson ', start_timestamp: 20180924T130000,
+  final: true, image: energy, organiser: Campaign for Nuclear Disarmament, room: Theatre,
+  speakers: fabian-hamilton-mp sam-mason paul-nowak ann-feltham kate-hudson, start_timestamp: 20180924T130000,
   time: '13:00-14:30', title: 'Disarmament and Diversification: Do Jobs Justify Making
     Nuclear Weapons?', venue: Hinterlands}
 kids-write-plays: {Action point: need to check the number of DBS checked adults and
@@ -957,7 +938,7 @@ kids-write-plays: {Action point: need to check the number of DBS checked adults 
     will perform in the evening.', end_timestamp: 20180923T103000, final: true, image: theatre,
   organiser: '', room: Studio, speakers: sam-swann, start_timestamp: 20180923T090000,
   time: '09:00-10:30', title: Kids Write Plays!, venue: Black-E}
-king-a-film-record: {Action point: '', Category: '', Confirmed Speakers: '', Contact for Session: 'sarah ',
+king-a-film-record: {Action point: '', Category: '', Confirmed Speakers: '', Contact for Session: sarah,
   Format: Film, Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
   day: Saturday, description: !!python/str "This year marks the 50th anniversary of\
     \ the assassination of Rev Dr. Martin Luther King. This rarely-seen documentary\
@@ -983,15 +964,15 @@ lessons-from-the-ucu-strike: {Action point: Hope to edit, Category: '', Confirme
   image: education, organiser: Notes From Below, room: Studio, speakers: jo-mcneill
     rory-hughes jamie-woodcock seth-wheeler, start_timestamp: 20180925T110000, time: '11:00-12:30',
   title: 'Solidarity is our Weapon: Lessons from UCU Strike', venue: Black-E}
-live-illustration-workshop: {Action point: '', Category: 'arts music and culture ',
-  Confirmed Speakers: '', Contact for Session: '', Format: '', Possible Speakers: '',
-  'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  day: Saturday, description: 'You will be joining staff and students from Liverpool
-    School of Art and Design to produce a wall sized drawing by projecting and pausing
-    a selection of news and film clips that expose austerity in the UK, and respond
-    to what we see via drawing. The workshop is open to anyone willing to join in,
-    regardless if you are a full-time Artist or part-time Doodler.', end_timestamp: 20180922T140000,
-  final: true, image: art, organiser: '', room: Main Space, speakers: '', start_timestamp: 20180922T120000,
+live-illustration-workshop: {Action point: '', Category: arts music and culture, Confirmed Speakers: '',
+  Contact for Session: '', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
+  Programme Material requested (mark X if yes): '', day: Saturday, description: 'You
+    will be joining staff and students from Liverpool School of Art and Design to
+    produce a wall sized drawing by projecting and pausing a selection of news and
+    film clips that expose austerity in the UK, and respond to what we see via drawing.
+    The workshop is open to anyone willing to join in, regardless if you are a full-time
+    Artist or part-time Doodler.', end_timestamp: 20180922T140000, final: true, image: art,
+  organiser: '', room: Main Space, speakers: '', start_timestamp: 20180922T120000,
   time: '12:00-14:00', title: 'Live Illustration Workshop: Underlining Austerity',
   venue: Hinterlands}
 liverpools-history-of-slavery: {Action point: '', Category: '', Confirmed Speakers: Laurence
@@ -1013,7 +994,7 @@ living-the-climate-crisis: {Action point: '', Category: environment, Confirmed S
     bold steps towards Climate Justice such as opposing fracking in our backyard -
     but British corporations are still imposing dangerous fracking projects abroad
     supported by the Tory government. Join a panel of grassroots activists to discuss
-    how we move from the climate crisis to Climate Justice. ', end_timestamp: 20180922T123000,
+    how we move from the climate crisis to Climate Justice.', end_timestamp: 20180922T123000,
   final: false, image: energy, organiser: Labour Energy Forum, room: Theatre, speakers: '',
   start_timestamp: 20180922T110000, time: '11:00-12:30', title: 'Floods and Forest
     Fires: Living the Climate Crisis', venue: Black-E}
@@ -1068,9 +1049,9 @@ marxism-101: {Action point: '', Category: '', Confirmed Speakers: 'Richard Clark
     \ are based on the exploitation and oppression of\_\u2018the many\u2019, with\
     \ immense damage to our planet.\_So how can Marxism enhance our understanding\
     \ of inequality, culture, ecology, \_the family, racism, sexism, science and religion?\_\
-    Bring your questions about Marxism along to this session \u2013 and get some answers! ",
+    Bring your questions about Marxism along to this session \u2013 and get some answers!",
   end_timestamp: 20180925T163000, final: true, image: reading, organiser: Marx Memorial
-    Library, room: 'Annex ', speakers: richard-clarke mary-davis meirian-jump, start_timestamp: 20180925T150000,
+    Library, room: Annex, speakers: richard-clarke mary-davis meirian-jump, start_timestamp: 20180925T150000,
   time: '15:00-16:30', title: 'Everything You Wanted to Know About Marxism, But Were
     Too Afraid to Ask', venue: Hinterlands}
 mental-health-and-capitalism: {Action point: '', Category: health, Confirmed Speakers: 'Jon
@@ -1084,7 +1065,7 @@ mental-health-and-capitalism: {Action point: '', Category: health, Confirmed Spe
     \ we live in: neoliberal capitalism. Have changes in the way we work and live\
     \ caused an epidemic of anxiety and depression? What role can Labour play in alleviating\
     \ mental distress? And could socialism be the best antidepressant of all?", end_timestamp: 20180924T190000,
-  final: true, image: default, organiser: '', room: 'Theatre ', speakers: jonathan-ashworth-mp
+  final: true, image: default, organiser: '', room: Theatre, speakers: jonathan-ashworth-mp
     franco-bifo-berardi lynne-segal rebecca-winson keir-milburn, start_timestamp: 20180924T173000,
   time: '17:30-19:00', title: Lets Talk About Mental Health....and Capitalism, venue: Black-E}
 migrant-political-voices: {Action point: more speakers to confirm, Category: international,
@@ -1097,10 +1078,10 @@ migrant-political-voices: {Action point: more speakers to confirm, Category: int
     political parties and trade unions. In this session, migrant acitivsts and allies
     will discuss how we might put migrant voices at the front and centre of our political
     struggles.', end_timestamp: 20180923T190000, final: false, image: international,
-  organiser: Labour International CLP, room: 'Theatre ', speakers: steve-hudson rita-chandha
+  organiser: Labour International CLP, room: Theatre, speakers: steve-hudson rita-chandha
     grzegorz-rybak maya-goodfellow, start_timestamp: 20180923T173000, time: '17:30-19:00',
   title: 'Migrant Political Voices: Turning Up the Volume', venue: Hinterlands}
-mind-the-gap: {Action point: 'Hope to edit ', Category: gender, Confirmed Speakers: '',
+mind-the-gap: {Action point: Hope to edit, Category: gender, Confirmed Speakers: '',
   Contact for Session: '', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
   Programme Material requested (mark X if yes): '', day: Tuesday, description: !!python/str "Too\
     \ few women are elected to positions in the Labour Party, and if we want our movement\
@@ -1126,10 +1107,10 @@ movement-for-cultural-democracy: {Action point: '', Category: art music culture,
     \ a forum for participation to elaborate the draft \u2018manifesto for cultural\
     \ democracy\u2019 and support the broader collective action and alliance building\
     \ needed to realise cultural democracy in our time.", end_timestamp: 20180924T163000,
-  final: true, image: default, organiser: Movement for Cultural Democracy, room: 'Theatre ',
+  final: true, image: default, organiser: Movement for Cultural Democracy, room: Theatre,
   speakers: clara-paillard stephen-pritchard rhiannon-white peter-stark nick-mahony
     moussa-amine-sylla sophie-hope frances-northrop, start_timestamp: 20180924T150000,
-  time: '15:00-16:30', title: 'Where Next for the Movement for Cultural Democracy?        ',
+  time: '15:00-16:30', title: 'Where Next for the Movement for Cultural Democracy?',
   venue: Black-E}
 music-in-the-movement: {Action point: put speakers in speakeer tab, Category: arts
     music culture, Confirmed Speakers: 'Dave Randall, Eliane Correa, Lowkey, Lois
@@ -1140,7 +1121,7 @@ music-in-the-movement: {Action point: put speakers in speakeer tab, Category: ar
     weapon. Looking at examples from Love Music Hate Racism to Justice4Grenfell, this
     session asks how we can use music to promote justice, solidarity and socialism.',
   end_timestamp: 20180924T123000, final: true, image: music, organiser: Left Book
-    Club, room: 'Main Space ', speakers: dave-randall eliane-correa lowkey lois-browne
+    Club, room: Main Space, speakers: dave-randall eliane-correa lowkey lois-browne
     shingai-shoniwa, start_timestamp: 20180924T110000, time: '11:00-12:30', title: 'Soundtrack
     of the Movement: Why Music Matters', venue: Black-E}
 nae-pasaran: {Action point: '', Category: Film, Confirmed Speakers: '', Contact for Session: Sasha,
@@ -1165,7 +1146,7 @@ nature-of-the-beast: {Action point: '', Category: film, Confirmed Speakers: Denn
     Beast'' looks at what lies behind his passion and drive, and traces his rise from
     a local councillor to one of Britain''s most recognisable politicians. The film
     will be followed by a Q&A session with the man himself!', end_timestamp: 20180923T211500,
-  final: true, image: film, organiser: '', room: 'Event Space ', speakers: dennis-skinner-mp,
+  final: true, image: film, organiser: '', room: Event Space, speakers: dennis-skinner-mp,
   start_timestamp: 20180923T193000, time: '19:30-21:15', title: 'Dennis Skinner: Nature
     of the Beast -  Film and Q&A', venue: Constellations}
 no-pasaran: {Action point: '', Category: international, Confirmed Speakers: Franco
@@ -1193,10 +1174,10 @@ occupy-fleet-street: {Action point: Elliot waiting for info, Category: media, Co
     \ of media reform. Jeremy Corbyn\u2019s recent lecture offers the first glimpse\
     \ of one. How would it work in practice? Where can we go further? How can we win\
     \ over media workers to our proposals? This panel offers some answers.", end_timestamp: 20180923T123000,
-  final: true, image: news, organiser: '', room: 'Theatre ', speakers: tom-mills laura-basu
+  final: true, image: news, organiser: '', room: Theatre, speakers: tom-mills laura-basu
     leo-watkins dan-hind angela-phillips wendy-liu, start_timestamp: 20180923T110000,
   time: '11:00-12:30', title: 'Occupy Fleet Street: How to Democratise the British
-    Media ', venue: Black-E}
+    Media', venue: Black-E}
 opening-party: {Action point: '', Category: '', Confirmed Speakers: '', Contact for Session: '',
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
   day: Saturday, description: !!python/str "Our opening party will host local and\
@@ -1214,8 +1195,8 @@ painting-the-towns-red: {Action point: Add speakers to speaker list, Category: '
     \ expected. In others, Labour struggled \u2013 and some commentators have suggested\
     \ a problem in \u2018towns\u2019 generally. This panel challenges that narrative\
     \ by discussing the needs of\_varied types of town, how to revive and support\
-    \ local democracy,\_and what it will take for Labour to win everywhere. ", end_timestamp: 20180925T103000,
-  final: false, image: community, organiser: New Socialist, room: 'Theatre ', speakers: daniel-frost
+    \ local democracy,\_and what it will take for Labour to win everywhere.", end_timestamp: 20180925T103000,
+  final: false, image: community, organiser: New Socialist, room: Theatre, speakers: daniel-frost
     gareth-eales jawad-khan emily-owen, start_timestamp: 20180925T090000, time: '09:00-10:30',
   title: Painting the Towns Red, venue: Black-E}
 parties-and-picket-lines: {Action point: '', Category: '', Confirmed Speakers: Ken
@@ -1228,9 +1209,9 @@ parties-and-picket-lines: {Action point: '', Category: '', Confirmed Speakers: K
     visits to picket lines, the group has sought to make politics fun and relevant
     in the face of a changing political landscape. Come along to this session to get
     the tools you need to do the same in your community!', end_timestamp: 20180922T163000,
-  final: true, image: default, organiser: Manchester Momentum, room: 'Main Space ',
-  speakers: ken-loach beth-redmond faisal-yousif isaac-rose sarah-weston, start_timestamp: 20180922T150000,
-  time: '15:00-16:30', title: 'Parties and Picket Lines: Building Socialist Culture ',
+  final: true, image: default, organiser: Manchester Momentum, room: Main Space, speakers: ken-loach
+    beth-redmond faisal-yousif isaac-rose sarah-weston, start_timestamp: 20180922T150000,
+  time: '15:00-16:30', title: 'Parties and Picket Lines: Building Socialist Culture',
   venue: Black-E}
 popular-education-forum: {Action point: '', Category: education, Confirmed Speakers: Christine
     Berry; Charlie Clarke, Contact for Session: Charlie, Format: Political Education,
@@ -1244,13 +1225,13 @@ popular-education-forum: {Action point: '', Category: education, Confirmed Speak
     \ whether you\u2019re part of an organization or a local activist, come along,\
     \ contribute your ideas and join us in building a national network for popular\
     \ education.", end_timestamp: 20180923T163000, final: false, image: education,
-  organiser: The World Transformed, room: 'Event Space ', speakers: ' christine-berry
-    charlie-clarke', start_timestamp: 20180923T150000, time: '15:00-16:30', title: 'Popular
-    Education Forum: Let''s Build a Network!', venue: Constellations}
+  organiser: The World Transformed, room: Event Space, speakers: christine-berry charlie-clarke,
+  start_timestamp: 20180923T150000, time: '15:00-16:30', title: 'Popular Education
+    Forum: Let''s Build a Network!', venue: Constellations}
 post-brexit: {Action point: '', Category: '', Confirmed Speakers: '', Contact for Session: '',
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
   day: Monday, description: '', end_timestamp: 20180924T123000, final: false, image: federalism,
-  organiser: Campaign for Socialism, room: 'Studio ', speakers: '', start_timestamp: 20180924T110000,
+  organiser: Campaign for Socialism, room: Studio, speakers: '', start_timestamp: 20180924T110000,
   time: '11:00-12:30', title: Federalism and Other Opportunities, venue: Black-E}
 power-for-the-many: {Action point: '', Category: democracy, Confirmed Speakers: 'Jon
     Tricket MP; Paul Mason; Nancy Platts; Jonathan Shafi; Chair: Alice Kinghorn Grey',
@@ -1262,9 +1243,9 @@ power-for-the-many: {Action point: '', Category: democracy, Confirmed Speakers: 
     of the ongoing centralisation of power within our institutions? Through exploring
     ideas such as municipalism, decentralisation, and electoral reform, and hearing
     from innovative projects in Scotland, Spain and places in England, this session
-    will help imagine how we can bring about a new democracy. ', end_timestamp: 20180923T143000,
+    will help imagine how we can bring about a new democracy.', end_timestamp: 20180923T143000,
   final: true, image: default, organiser: Electoral Reform Society & Politics for
-    the Many, room: 'Main Space ', speakers: jon-trickett-mp paul-mason nancy-platts
+    the Many, room: Main Space, speakers: jon-trickett-mp paul-mason nancy-platts
     jonathan-shafi alice-kinghorn-grey, start_timestamp: 20180923T130000, time: '13:00-14:30',
   title: 'Power for the Many: A Radical Agenda for Democracy', venue: Black-E}
 power-mapping: {Action point: '', Category: '', Confirmed Speakers: '', Contact for Session: emma
@@ -1272,10 +1253,9 @@ power-mapping: {Action point: '', Category: '', Confirmed Speakers: '', Contact 
   Programme Material requested (mark X if yes): '', day: Saturday, description: 'Does
     your local Labour branch or Momentum group reflect your area? Join us for an action-focused
     session on power mapping your community and ensuring your group responds to the
-    needs of your local context. ', end_timestamp: 20180922T123000, final: true, image: default,
-  organiser: Momentum & Labour Community Organising, room: 'Annex ', speakers: '',
-  start_timestamp: 20180922T110000, time: '11:00-12:30', title: Power-mapping your
-    community, venue: Hinterlands}
+    needs of your local context.', end_timestamp: 20180922T123000, final: true, image: default,
+  organiser: Momentum & Labour Community Organising, room: Annex, speakers: '', start_timestamp: 20180922T110000,
+  time: '11:00-12:30', title: Power-mapping your community, venue: Hinterlands}
 progressive-nationalism: {Action point: '', Category: '', Confirmed Speakers: 'Dalia
     Gebrial, Kojo Koram', Contact for Session: '', Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
@@ -1298,25 +1278,24 @@ queer-liberation-and-assimilation: {Action point: '', Category: gender, Confirme
     access to trans healthcare is extremely restricted, and LGBTQ people still face
     high rates of homelessness and mental illness. How can we make sense of the contradiction
     between the assimilation of LGBTQ people and their continued exclusion? Come and
-    discuss. ', end_timestamp: 20180923T103000, final: false, image: lgbtq, organiser: Hornsey
-    and Wood Green CLP LGBT+ forum, room: 'Theatre ', speakers: '', start_timestamp: 20180923T090000,
-  time: '09:00-10:30', title: 'Has Love Won? Queer Liberation and Assimilation ',
-  venue: Black-E}
+    discuss.', end_timestamp: 20180923T103000, final: false, image: lgbtq, organiser: Hornsey
+    and Wood Green CLP LGBT+ forum, room: Theatre, speakers: '', start_timestamp: 20180923T090000,
+  time: '09:00-10:30', title: 'Has Love Won? Queer Liberation and Assimilation', venue: Black-E}
 question-time: {Action point: '', Category: '', Confirmed Speakers: 'Tracy Brabin
     (MP), Ann O''Byrne (Deputy Mayor of Liverpool??),  Hasan Patel (@CorbynistaTeen)
-    (sasha gupta running session)', Contact for Session: 'Sasha Gupta ', Format: '',
+    (sasha gupta running session)', Contact for Session: Sasha Gupta, Format: '',
   Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
   day: Saturday, description: !!python/str "Its often said that young people are the\
     \ future, but how much say do they actually have in how society is run?From the\
     \ Stepney School walkouts to the Iraq War, there is a long history  of school\
     \ students taking political action. Come along and meet MP\u2019s and activists,\
     \ ask them your questions and put forward suggestions about how things can be\
-    \ done better. ", end_timestamp: 20180922T144500, final: true, image: default,
-  organiser: '', room: 'Studio ', speakers: tracy-brabin-mp ann-o-byrne hasan-patel,
+    \ done better.", end_timestamp: 20180922T144500, final: true, image: default,
+  organiser: '', room: Studio, speakers: tracy-brabin-mp ann-o-byrne hasan-patel,
   start_timestamp: 20180922T140000, time: '14:00-14:45', title: 'Question Time: You
     Ask Them (8-18 years)', venue: Black-E}
-racisms-past-and-present: {Action point: '', Category: race, Confirmed Speakers: 'to
-    be confirmed ', Contact for Session: '', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
+racisms-past-and-present: {Action point: '', Category: race, Confirmed Speakers: to
+    be confirmed, Contact for Session: '', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
   Programme Material requested (mark X if yes): '', day: Monday, description: 'Join
     leading scholars for a discussion of racism in Britain, its long history and how
     the left can and should battle against it. We will discuss antisemitism, islamophobia,
@@ -1326,16 +1305,16 @@ racisms-past-and-present: {Action point: '', Category: race, Confirmed Speakers:
   room: Event Space, speakers: '', start_timestamp: 20180924T130000, time: '13:00-14:30',
   title: 'Invisible Histories: Racisms Past and Present', venue: Constellations}
 radical-history-tour: {Action point: '', Category: education, Confirmed Speakers: '',
-  Contact for Session: 'Robbie ', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
+  Contact for Session: Robbie, Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
   Programme Material requested (mark X if yes): '', day: Sunday, description: !!python/str "Join\
     \ Liverpool Walton MP Dan Carden on a journey back into Liverpool\u2019s turbulent\
     \ political past. \n\nThis bus tour will visit key locations of protest, struggle\
     \ and social progress in the city. A must for anyone interested in the emergence\
     \ of the labour movement.", end_timestamp: 20180923T143000, final: true, image: history,
   organiser: '', room: '', speakers: dan-carden-mp, start_timestamp: 20180923T130000,
-  time: '13:00-14:30', title: Roll Up for the Radical History Tour, venue: 'Outside '}
-react-workshop: {Action point: '', Category: tech, Confirmed Speakers: '', Contact for Session: 'Matt
-    M ', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
+  time: '13:00-14:30', title: Roll Up for the Radical History Tour, venue: Outside}
+react-workshop: {Action point: '', Category: tech, Confirmed Speakers: '', Contact for Session: Matt
+    M, Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
   day: Monday, description: For intermediate to advanced coders. Bring your own laptop!,
   end_timestamp: 20180924T123000, final: true, image: computer, organiser: Momentum
     Tech, room: Meeting Room, speakers: '', start_timestamp: 20180924T110000, time: '11:00-12:30',
@@ -1349,9 +1328,9 @@ reading-group-antisemitism-sunday: {Action point: '', Category: '', Confirmed Sp
     the topic, with expert discussion leaders. Following our successful Stuart Hall
     reading group last year, this year at The World Transformed we will aim to tackle
     a crucial question facing the left by tapping into our best traditions of political
-    education and leftwing anti-racism. ', end_timestamp: 20180923T103000, final: false,
+    education and leftwing anti-racism.', end_timestamp: 20180923T103000, final: false,
   image: reading, organiser: '', room: Meeting Room, speakers: '', start_timestamp: 20180923T090000,
-  time: '09:00-10:30', title: 'Reading Group on Anti-Semitism ', venue: Black-E}
+  time: '09:00-10:30', title: Reading Group on Anti-Semitism, venue: Black-E}
 red-white-blue-labour: {Action point: '', Category: race, Confirmed Speakers: 'James
     Butler (Chair), Ash Sarkar', Contact for Session: '', Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
@@ -1374,21 +1353,19 @@ regenerating-regeneration: {Action point: '', Category: culture, Confirmed Speak
     reflecting on our everyday class experiences, the session will explore how we
     might enable grassroots forms of regeneration to flourish - forms that benefit
     and protect existing people and communities, rather than exploit and displace
-    them. ', end_timestamp: 20180923T103000, final: true, image: housing, organiser: Movement
+    them.', end_timestamp: 20180923T103000, final: true, image: housing, organiser: Movement
     for Cultural Democracy, room: '', speakers: stephen-pritchard, start_timestamp: 20180923T090000,
-  time: '09:00-10:30', title: 'Regenerating Regeneration ', venue: Baltic Creative
-    Shed}
+  time: '09:00-10:30', title: Regenerating Regeneration, venue: Baltic Creative Shed}
 relative-poverty: {Action point: '', Category: arts music and culture, Confirmed Speakers: '',
   Contact for Session: sarah, Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', day: Tuesday, description: '
-
-    Relative Poverty is an ongoing body of work being created by Les Monaghan with
-    families defined as destitute in Doncaster, South Yorkshire. Both docmentary and
-    collaborative, it is a process-led photographic investigation that deals with
-    issues of agency, visibility, public engagement and fairness of representation. ',
-  end_timestamp: 20180925T211500, final: false, image: default, organiser: 'Les Monaghan ',
-  room: Gallery, speakers: '', start_timestamp: 20180925T190000, time: '19:00-21:15',
-  title: Relative Poverty, venue: Black-E}
+  Programme Material requested (mark X if yes): '', day: Tuesday, description: 'Relative
+    Poverty is an ongoing body of work being created by Les Monaghan with families
+    defined as destitute in Doncaster, South Yorkshire. Both docmentary and collaborative,
+    it is a process-led photographic investigation that deals with issues of agency,
+    visibility, public engagement and fairness of representation.', end_timestamp: 20180925T211500,
+  final: false, image: default, organiser: Les Monaghan, room: Gallery, speakers: '',
+  start_timestamp: 20180925T190000, time: '19:00-21:15', title: Relative Poverty,
+  venue: Black-E}
 rentquake: {Action point: '', Category: social secutiry, Confirmed Speakers: 'Paul
     Williams
 
@@ -1404,10 +1381,10 @@ rentquake: {Action point: '', Category: social secutiry, Confirmed Speakers: 'Pa
     \ have shifted the political agenda around housing. Come along to learn about\
     \ the challenges, opportunities and tactics underpinning renter organising!",
   end_timestamp: 20180923T163000, final: true, image: housing, organiser: 'London
-    Renters Union, Acorn, Generation Rent & Greater Manchester Housing Action ', room: Studio,
+    Renters Union, Acorn, Generation Rent & Greater Manchester Housing Action', room: Studio,
   speakers: paul-williams siobhan-donnachie jacob-mukherjee, start_timestamp: 20180923T150000,
   time: '15:00-16:30', title: 'Rentquake: Strategies and Tactics for the New Private
-    Renter Movement ', venue: Black-E}
+    Renter Movement', venue: Black-E}
 runaway-finance: {Action point: '', Category: economy, Confirmed Speakers: Ann Pettifor;
     Sarah-Jayne Clifton; Michael Roberts; Matt Wrack; Fran Boait, Contact for Session: Archie,
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
@@ -1417,11 +1394,11 @@ runaway-finance: {Action point: '', Category: economy, Confirmed Speakers: Ann P
     global economy. This session asks what needs to happen to make finance and the
     banks work for people and planet. How do we direct investment towards the real
     economy? Do we need to take control of the banks? And what do we do about the
-    offshore world and the global financial elite? Come and discuss. ', end_timestamp: 20180923T190000,
+    offshore world and the global financial elite? Come and discuss.', end_timestamp: 20180923T190000,
   final: true, image: finance, organiser: Jubilee Debt Campaign & Fire Brigades Union,
-  room: 'Event Space ', speakers: ann-pettifor sarah-jayne-clifton michael-roberts
-    matt-wrack fran-boait, start_timestamp: 20180923T173000, time: '17:30-19:00',
-  title: 'Runaway Finance: Should We Take Over the Banks?', venue: Constellations}
+  room: Event Space, speakers: ann-pettifor sarah-jayne-clifton michael-roberts matt-wrack
+    fran-boait, start_timestamp: 20180923T173000, time: '17:30-19:00', title: 'Runaway
+    Finance: Should We Take Over the Banks?', venue: Constellations}
 sacrifice-zones: {Action point: '', Category: international/environment/economy, Confirmed Speakers: '',
   Contact for Session: '', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
   Programme Material requested (mark X if yes): '', day: Sunday, description: !!python/str "Neo-liberalism,\
@@ -1431,9 +1408,9 @@ sacrifice-zones: {Action point: '', Category: international/environment/economy,
     \ zones\u2019 and the deliberate sacrificing of black and poor lives that has\
     \ been inherent firstly\_in\_colonialism,\_and now\_neoliberalism and climate\
     \ change. The panel will discuss how racism has shaped the dominant climate narrative\
-    \ and\_how can we decolonise environmentalism.", end_timestamp: 20180923T1430
-    00, final: false, image: earth, organiser: War on Want, room: Studio, speakers: '',
-  start_timestamp: 20180923T130000, time: '13:00-14:30 ', title: !!python/str "Sacrifice\
+    \ and\_how can we decolonise environmentalism.", end_timestamp: 20180923T143000,
+  final: false, image: earth, organiser: War on Want, room: Studio, speakers: '',
+  start_timestamp: 20180923T130000, time: '13:00-14:30', title: !!python/str "Sacrifice\
     \ Zones \u2013 Colonialism, Neoliberalism and Climate Change", venue: Black-E}
 saving-the-nhs: {Action point: '', Category: health/economy, Confirmed Speakers: !!python/str "With\
     \ contributions from:\nNational Nurses United (radical US union fighting for universal\
@@ -1459,12 +1436,12 @@ screenprinting: {Action point: '', Category: Arts, Confirmed Speakers: '', Conta
   time: '12:00-15:00', title: Screenprint Your Own Political Poster, venue: Constellations}
 skills-10: {Action point: '', Category: '', Confirmed Speakers: '', Contact for Session: '',
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  day: Tuesday, description: !!python/str "\r\nTo bring about transformative change\
-    \ we need everyone to be involved! But what are the practical challenges of organising\
+  day: Tuesday, description: !!python/str "To bring about transformative change we\
+    \ need everyone to be involved! But what are the practical challenges of organising\
     \ at scale and how can we overcome them? Join us for an action-packed session\
     \ where we\u2019ll put \u2018big organising\u2019 into action with the people\
-    \ who pioneered it in the Bernie Sanders campaign. \r\n", end_timestamp: 20180925T143000,
-  final: false, image: default, organiser: The Social Practice, room: 'Event Space ',
+    \ who pioneered it in the Bernie Sanders campaign.", end_timestamp: 20180925T143000,
+  final: false, image: default, organiser: The Social Practice, room: Event Space,
   speakers: '', start_timestamp: 20180925T130000, time: '13:00-14:30', title: 'Big
     Organising: Harnessing the Power of Volunteers', venue: Constellations}
 skills-2: {Action point: '', Category: '', Confirmed Speakers: '', Contact for Session: '',
@@ -1473,45 +1450,36 @@ skills-2: {Action point: '', Category: '', Confirmed Speakers: '', Contact for S
     answer is in matching the objectives of your members to the activities of your
     group.  Talk Socialism will run you through real world examples and hands-on exercises
     to demonstrate how to use group dynamics and social psychology for  movement building.',
-  end_timestamp: 20180922T143000, final: false, image: default, organiser: 'Talk Socialism ',
-  room: 'Annex ', speakers: '', start_timestamp: 20180922T130000, time: '13:00-14:30',
-  title: 'Group Dynamics and Movement Building
-
-    ', venue: Hinterlands}
+  end_timestamp: 20180922T143000, final: false, image: default, organiser: Talk Socialism,
+  room: Annex, speakers: '', start_timestamp: 20180922T130000, time: '13:00-14:30',
+  title: Group Dynamics and Movement Building, venue: Hinterlands}
 skills-3: {Action point: '', Category: '', Confirmed Speakers: '', Contact for Session: '',
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  day: Saturday, description: '
-
-    Democratic socialism requires people to step us as empowering leaders. But there''s
-    no blueprint for a leader, so what abilities and values does it take to lead?
-    We''ll run through some honest self-evaluation, and some hands-on exercises of
-    how to raise your game. And have fun doing it.
-
-    ', end_timestamp: 20180922T163000, final: true, image: default, organiser: Talk
-    Socialism, room: 'Annex ', speakers: '', start_timestamp: 20180922T150000, time: '15:00-16:30',
+  day: Saturday, description: 'Democratic socialism requires people to step us as
+    empowering leaders. But there''s no blueprint for a leader, so what abilities
+    and values does it take to lead? We''ll run through some honest self-evaluation,
+    and some hands-on exercises of how to raise your game. And have fun doing it.',
+  end_timestamp: 20180922T163000, final: true, image: default, organiser: Talk Socialism,
+  room: Annex, speakers: '', start_timestamp: 20180922T150000, time: '15:00-16:30',
   title: Developing Movement Leaders, venue: Hinterlands}
 skills-4: {Action point: '', Category: '', Confirmed Speakers: '', Contact for Session: '',
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
   day: Sunday, description: We all want to change the world - working out how to do
     it is the hard part. Join the conversation as a range of movement activists share
     their creative direct action strategies and tactics for transformative change.,
-  end_timestamp: 20180923T103000, final: true, image: default, organiser: '', room: 'Event
-    Space ', speakers: '', start_timestamp: 20180923T090000, time: '09:00-10:30',
-  title: Disrupting the Status Quo, venue: Constellations}
-skills-5: {Action point: '', Category: '', Confirmed Speakers: '', Contact for Session: 'Emma
-    and Adam ', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
+  end_timestamp: 20180923T103000, final: true, image: default, organiser: '', room: Event
+    Space, speakers: '', start_timestamp: 20180923T090000, time: '09:00-10:30', title: Disrupting
+    the Status Quo, venue: Constellations}
+skills-5: {Action point: '', Category: '', Confirmed Speakers: '', Contact for Session: Emma
+    and Adam, Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
   Programme Material requested (mark X if yes): '', day: Sunday, description: 'We
     know that the mainstream media upholds the status quo - but what are we going
     to do about it? Join us as we explore ''content creation'' from the grassroots.',
   end_timestamp: 20180923T123000, final: true, image: default, organiser: Populate
-    & others, room: ' ', speakers: '', start_timestamp: 20180923T110000, time: '11:00-12:30',
-  title: 'Making Media from the Grassroots Up
-
-
-
-    ', venue: 'Baltic Creative Shed '}
-skills-7: {Action point: '', Category: '', Confirmed Speakers: '', Contact for Session: 'Emma
-    and Adam ', Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
+    & others, room: '', speakers: '', start_timestamp: 20180923T110000, time: '11:00-12:30',
+  title: Making Media from the Grassroots Up, venue: Baltic Creative Shed}
+skills-7: {Action point: '', Category: '', Confirmed Speakers: '', Contact for Session: Emma
+    and Adam, Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
   Programme Material requested (mark X if yes): '', day: Monday, description: "Simple\
     \ framing tips to massively improve campaign messaging\r\n\r\nSo you have the\
     \ chance to speak to the media, but how do you make the most of the opportunity?\
@@ -1519,7 +1487,7 @@ skills-7: {Action point: '', Category: '', Confirmed Speakers: '', Contact for S
     \ airtime that you get?\r\n\r\nLearn some basic tips on making your campaign messages\
     \ hit home with as wide an audience as possible, and find out how the NEON Spokesperson\
     \ Network is shaking up the news media with confident, diverse and progressive\
-    \ voices.\r\n", end_timestamp: 20180924T123000, final: true, image: default, organiser: NEON,
+    \ voices.", end_timestamp: 20180924T123000, final: true, image: default, organiser: NEON,
   room: '', speakers: '', start_timestamp: 20180924T110000, time: '11:00-12:30', title: Telling
     Stories that Build Power, venue: Baltic Creative Shed}
 social-media-analytics-workshop: {Action point: '', Category: tech, Confirmed Speakers: '',
@@ -1537,10 +1505,10 @@ social-strike-game: {Action point: '', Category: '', Confirmed Speakers: 'Keir M
     \ to figure out ways that an array of different groups can\_co-ordinate their\
     \ struggles\_to\_transform their city.\_If you want to get thinking strategically\
     \ and tactically about social struggles in the place where you actually live -\
-    \ this is the session for you! ", end_timestamp: 20180922T163000, final: true,
-  image: default, organiser: '', room: 'Studio ', speakers: keir-milburn gareth-brown
-    will-barker, start_timestamp: 20180922T150000, time: '15:00-16:30', title: 'Social
-    Strike Game ', venue: Black-E}
+    \ this is the session for you!", end_timestamp: 20180922T163000, final: true,
+  image: default, organiser: '', room: Studio, speakers: keir-milburn gareth-brown
+    will-barker, start_timestamp: 20180922T150000, time: '15:00-16:30', title: Social
+    Strike Game, venue: Black-E}
 socialist-women-in-labour: {Action point: '', Category: gender, Confirmed Speakers: Emma
     Dent-Coad MP      Danielle Rowley MP      Jennifer Forbes      Ann Henderson      Leah
     Levane      Dr Faiza Shaheen      Dawn Butler MP (yet to confirm), Contact for Session: vzqzdlfns@aol.com,
@@ -1550,7 +1518,7 @@ socialist-women-in-labour: {Action point: '', Category: gender, Confirmed Speake
     the country are shaping and implementing a socialist agenda that works for the
     many and not the few. But how can we ensure the voices of socialist women are
     centred within the work of the Labour Party? And why does this matter? Join a
-    panel organised by Labour Women Leading to discuss. ', end_timestamp: 20180922T190000,
+    panel organised by Labour Women Leading to discuss.', end_timestamp: 20180922T190000,
   final: true, image: socialist-women, organiser: Labour Women Leading, room: Theatre,
   speakers: emma-dent-coad-mp danielle-rowley-mp jennifer-forbes ann-henderson leah-levane
     dr-faiza-shaheen dawn-butler-mp, start_timestamp: 20180922T173000, time: '17:30-19:00',
@@ -1586,9 +1554,8 @@ tackling-the-tech-giants: {Action point: '', Category: technology, Confirmed Spe
   image: cybersyn, organiser: New Economics Foundation, room: Theatre, speakers: wendy-liu
     jason-prado duncan-mccann emma-black, start_timestamp: 20180925T130000, time: '13:00-14:30',
   title: Taking on the Tech Giants, venue: Black-E}
-taking-whats-ours: {Action point: Charlie editing, Category: democracy, Confirmed Speakers: '
-
-    Thomas M. Hanna
+taking-whats-ours: {Action point: Charlie editing, Category: democracy, Confirmed Speakers: 'Thomas
+    M. Hanna
 
     Cat Hobbs
 
@@ -1605,7 +1572,7 @@ taking-whats-ours: {Action point: Charlie editing, Category: democracy, Confirme
     across the globe, this session will discuss how this needn''t be the case, and
     what democratic forms of public ownership, with worker and community participation
     at their heart, might look like.', end_timestamp: 20180925T123000, final: true,
-  image: movement, organiser: Democracy Collaborative, room: 'Main Space ', speakers: thomas-hanna
+  image: movement, organiser: Democracy Collaborative, room: Main Space, speakers: thomas-hanna
     cat-hobbs hilary-wainwright andrew-towers andrew-cumbers, start_timestamp: 20180925T110000,
   time: '11:00-12:30', title: 'Taking What''s Ours: Public Ownership from Below?',
   venue: Black-E}
@@ -1615,7 +1582,7 @@ tech-workers-inquiry: {Action point: '', Category: tech, Confirmed Speakers: '',
     Are tech workers really workers? We encourage anyone who works in tech to come
     to this small session on building worker power within the tech industry.', end_timestamp: 20180923T143000,
   final: false, image: cybersyn, organiser: Tech Workers Coalition, room: Gallery,
-  speakers: 'jason-prado joe-corcoran wendy-liu ', start_timestamp: 20180923T130000,
+  speakers: jason-prado joe-corcoran wendy-liu, start_timestamp: 20180923T130000,
   time: '13:00-14:30', title: Tech Workers' Inquiry, venue: Black-E}
 the-brexit-bind: {Action point: Andrew to edit title/blurb, Category: international,
   Confirmed Speakers: Ann Pettifor; Paul Mason; Costas Lapavitsas; Mary Kaldor; Laura
@@ -1629,7 +1596,7 @@ the-brexit-bind: {Action point: Andrew to edit title/blurb, Category: internatio
     \ firmly to oppose this Brexit. Others say this will undermine Labour's electoral\
     \ base and further shackle the UK to neoliberal economics. What\u2019s the solution?\
     \ Join us and find out.", end_timestamp: 20180922T211500, final: true, image: europe,
-  organiser: Another Europe is Possible, room: 'Main Space ', speakers: ann-pettifor
+  organiser: Another Europe is Possible, room: Main Space, speakers: ann-pettifor
     paul-mason costas-lapavitsas mary-kaldor, start_timestamp: 20180922T193000, time: '19:30-21:15',
   title: !!python/str "The Brexit Bind: What Should Labour\u2019s Position be?", venue: Hinterlands}
 the-european-left: {Action point: '', Category: international, Confirmed Speakers: 'Pablo
@@ -1641,8 +1608,8 @@ the-european-left: {Action point: '', Category: international, Confirmed Speaker
     Join MPs from across the European left to discuss the inequalities that lie at
     the heart of Europe, the merits of the European Union, and what we can learn from
     the different strategies deployed by socialist parties in both the past and the
-    present. ', end_timestamp: 20180922T143000, final: true, image: europe, organiser: Jacobin,
-  room: 'Main Space ', speakers: pablo-bustinduy fabio-de-masi pernille-skipper marta-fana
+    present.', end_timestamp: 20180922T143000, final: true, image: europe, organiser: Jacobin,
+  room: Main Space, speakers: pablo-bustinduy fabio-de-masi pernille-skipper marta-fana
     ronan-burtenshaw, start_timestamp: 20180922T130000, time: '13:00-14:30', title: 'Where
     Next for the European Left?', venue: Black-E}
 the-gig-economy: {Action point: Hope, Category: international, Confirmed Speakers: 'Callum
@@ -1684,10 +1651,9 @@ this-is-bate-bola: {Action point: '', Category: '', Confirmed Speakers: '', Cont
   organiser: '', room: Baltic Cinema, speakers: '', start_timestamp: 20180923T173000,
   time: '17:30-18:30', title: This Is Bate Bola & The Good Fight Film Screenings,
   venue: Baltic Cinema}
-time-for-10: {Action point: 'Waiting on BFAWU, Hope to edit', Category: '', Confirmed Speakers: '
-
-    ', Contact for Session: Seth, Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
-  Programme Material requested (mark X if yes): '', day: Saturday, description: !!python/str " Workers\
+time-for-10: {Action point: 'Waiting on BFAWU, Hope to edit', Category: '', Confirmed Speakers: '',
+  Contact for Session: Seth, Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
+  Programme Material requested (mark X if yes): '', day: Saturday, description: !!python/str "Workers\
     \ at McDonald\u2019s, TGI Fridays and Wetherspoons are coming together in trade\
     \ unions to turn back the tide on poverty pay, precarious contracts and lack of\
     \ respect in fast food. Since the first McStrike, TGI Fridays workers are standing\
@@ -1695,20 +1661,20 @@ time-for-10: {Action point: 'Waiting on BFAWU, Hope to edit', Category: '', Conf
     \ direct from the workers rising up; how \u201CLiverpool: Time For Ten\u201D is\
     \ supersizing the McStrike; and learn how to show effective solidarity.", end_timestamp: 20180922T211500,
   final: true, image: default, organiser: 'Bakers, Food and Allied Workers Union &
-    War on Want', room: 'Studio ', speakers: asad-rehman lauren-mccourt lauren-townsend
+    War on Want', room: Studio, speakers: asad-rehman lauren-mccourt lauren-townsend
     james-snowball clara-paillard peter-stefanovic alex-mayer-mep, start_timestamp: 20180922T193000,
   time: '19:30-21:15', title: 'Liverpool: Time for Ten Launch & Supersizing the McStrike!',
-  venue: 'Black-E '}
+  venue: Black-E}
 towards-a-socialist-government: {Action point: '', Category: '', Confirmed Speakers: "John\
     \ McDonnell MP\nDiane Abbott MP\nRichard Burgon MP \nRebecca Long-Bailey MP\n\
-    Dennis Skinner MP\n+ Very Special Guest ", Contact for Session: '', Format: '',
+    Dennis Skinner MP\n+ Very Special Guest", Contact for Session: '', Format: '',
   Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
   day: Tuesday, description: !!python/str "The Socialist Campaign Group of Labour\
     \ MPs, founded by Tony Benn, has for nearly 40 years been the organised grouping\
     \ of Labour left MPs standing for socialism, and it was from this group that Jeremy\
     \ Corbyn\u2019s leadership campaign was launched. In this session, join The Socialist\
     \ Campaign Group of Labour MPs for a special rally that will look to our shared\
-    \ vision of a socialist government in the UK. ", end_timestamp: 20180925T211500,
+    \ vision of a socialist government in the UK.", end_timestamp: 20180925T211500,
   final: false, image: default, organiser: Socialist Campaign Group, room: Main Space,
   speakers: john-mcdonnell-mp diane-abbott-mp richard-burgon-mp rebecca-long-bailey-mp
     dennis-skinner-mp, start_timestamp: 20180925T193000, time: '19:30-21:15', title: Towards
@@ -1725,7 +1691,7 @@ trading-with-trump: {Action point: '', Category: international, Confirmed Speake
   image: america, organiser: Global Justice Now, room: Event Space, speakers: nick-dearden
     jean-blaylock barry-gardiner-mp, start_timestamp: 20180922T130000, time: '13:00-14:30',
   title: Trading with Trump, venue: Constellations}
-transform-the-world-14-plus: {Action point: 'check the DBS regulations: ', Category: u18s,
+transform-the-world-14-plus: {Action point: 'check the DBS regulations:', Category: u18s,
   Confirmed Speakers: !!python/str "Lead facilitator: Rachael O\u2019Byrne, hello@rachaelobyrne.co.uk\
     \ 07470283495 has DBS\nCo-facilitator: Jessica Buxton, jess@thebookwormplayers.com\
     \ 07784101522 has DBS", Contact for Session: !!python/str "Rachael O\u2019Byrne,\
@@ -1736,9 +1702,9 @@ transform-the-world-14-plus: {Action point: 'check the DBS regulations: ', Categ
     \ your local council or the UK government? What changes would you make? And how\
     \ would you convince people your ideas are good ones? In our interactive workshop\
     \ we\u2019ll put together a manifesto of ideas for transforming the world.", end_timestamp: 20180922T12.4500,
-  final: true, image: default, organiser: '', room: 'Studio ', speakers: rachael-o-byrne
+  final: true, image: default, organiser: '', room: Studio, speakers: rachael-o-byrne
     jessica-buxton, start_timestamp: 20180922T113000, time: '11:30-12.45', title: World
-    Transformers (14 - 18 years), venue: 'Black-E  '}
+    Transformers (14 - 18 years), venue: Black-E}
 transform-the-world-8-to-13: {Action point: '', Category: u18s, Confirmed Speakers: !!python/str "Lead\
     \ facilitator: Rachael O\u2019Byrne, hello@rachaelobyrne.co.uk 07470283495 has\
     \ DBS\nCo-facilitator: Jessica Buxton, jess@thebookwormplayers.com 07784101522\
@@ -1750,11 +1716,11 @@ transform-the-world-8-to-13: {Action point: '', Category: u18s, Confirmed Speake
     \ your local council or the UK government? What changes would you make? And how\
     \ would you convince people your ideas are good ones? In our interactive workshop\
     \ we\u2019ll put together a manifesto of ideas for transforming the world.", end_timestamp: 20180922T111500,
-  final: true, image: child, organiser: '', room: 'Studio ', speakers: rachael-o-byrne
+  final: true, image: child, organiser: '', room: Studio, speakers: rachael-o-byrne
     jessica-buxton, start_timestamp: 20180922T100000, time: '10:00-11:15', title: World
     Transformers (8-13 years), venue: Black-E}
-transforming-the-global-economy: {Action point: '', Category: economy, Confirmed Speakers: 'John
-    McDonnell MP; Leo Panitch; Raquel Rolnik ', Contact for Session: Elliot, Format: '',
+transforming-the-global-economy: {Action point: '', Category: economy, Confirmed Speakers: John
+    McDonnell MP; Leo Panitch; Raquel Rolnik, Contact for Session: Elliot, Format: '',
   Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
   day: Monday, description: 'In 2008, the world economy was rocked by the worst crisis
     since the Great Depression. The crisis exposed the irrationality, injustice, and
@@ -1763,7 +1729,7 @@ transforming-the-global-economy: {Action point: '', Category: economy, Confirmed
     discuss what''s wrong with the whole structure of the global economy, and how
     a radical Labour government can lead the way in building a new international economic
     order that works for the many, not the few.', end_timestamp: 20180924T211500,
-  final: false, image: finance, organiser: '', room: 'Main Space ', speakers: john-mcdonnell-mp
+  final: false, image: finance, organiser: '', room: Main Space, speakers: john-mcdonnell-mp
     leo-panitch raquel-rolnik, start_timestamp: 20180924T193000, time: '19:30-21:15',
   title: '10 Years Since the Financial Crisis: Transforming the Global Economy', venue: Hinterlands}
 tribune-relaunch: {Action point: '', Category: media, Confirmed Speakers: 'Owen Jones,
@@ -1788,9 +1754,9 @@ twt-football-final: {Action point: '', Category: '', Confirmed Speakers: '', Con
     In this special session, join Fans Supporting Foodbanks for a short discussion
     about fan ownership of clubs and how football can be a vehicle for solidarity
     and progressive politics, before witnessing the final of the inaugural TWT 5-a-side
-    football tournament! ', end_timestamp: 20180923T163000, final: false, image: football,
-  organiser: 'Fans Supporting Foodbanks ', room: '', speakers: '', start_timestamp: 20180923T150000,
-  time: '15:00-16:30', title: 'Grassroots on the Pitch: TWT Football Final ', venue: Sports
+    football tournament!', end_timestamp: 20180923T163000, final: false, image: football,
+  organiser: Fans Supporting Foodbanks, room: '', speakers: '', start_timestamp: 20180923T150000,
+  time: '15:00-16:30', title: 'Grassroots on the Pitch: TWT Football Final', venue: Sports
     Hall}
 update-the-welfare-state: {Action point: '', Category: social security, Confirmed Speakers: stewart-lansley
     dan-carden-mp gail-ward anna-dent will-stronge, Contact for Session: will.stronge1@gmail.com,
@@ -1799,7 +1765,7 @@ update-the-welfare-state: {Action point: '', Category: social security, Confirme
     \ system is stigmatising, punitive and no longer fit for purpose. But how should\
     \ it be changed?\_What does a social security system based on solidarity, interdependence\
     \ and universality look like? This roundtable session brings policy experts, economists\
-    \ and activists together to discuss how we can radically reform the welfare state. ",
+    \ and activists together to discuss how we can radically reform the welfare state.",
   end_timestamp: 20180922T123000, final: true, image: welfare, organiser: Autonomy,
   room: Theatre, speakers: stewart-lansley dan-carden-mp gail-ward anna-dent will-stronge,
   start_timestamp: 20180922T110000, time: '11:00-12:30', title: Update the Welfare
@@ -1816,7 +1782,7 @@ why-political-education: {Action point: '', Category: education, Confirmed Speak
     \ And who\u2019s educating who anyway?", end_timestamp: 20180922T123000, final: false,
   image: mcdonnell, organiser: The World Transformed, room: Main Space, speakers: john-mcdonnell-mp
     lindsey-mcdowell, start_timestamp: 20180922T110000, time: '11:00-12:30', title: 'Opening
-    Session: Making the Case for Political Education ', venue: Black-E}
+    Session: Making the Case for Political Education', venue: Black-E}
 workers-control-in-economic-planning: {Action point: '', Category: democracy/economy,
   Confirmed Speakers: 'Hilary Wainwright, Sam Mason, Phil Asquith, Pat Devine', Contact for Session: ruairidhpaton@gmail.com,
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
@@ -1827,6 +1793,6 @@ workers-control-in-economic-planning: {Action point: '', Category: democracy/eco
     into economic planning? What technological tools are available for us to enhance
     the possibility of popular economic control? How can organised Labour champion
     the right to production with a social purpose?', end_timestamp: 20180923T163000,
-  final: true, image: workplace, organiser: Red Pepper & Spokesman, room: 'Theatre ',
+  final: true, image: workplace, organiser: Red Pepper & Spokesman, room: Theatre,
   speakers: hilary-wainwright sam-mason phil-asquith pat-devine, start_timestamp: 20180923T150000,
   time: '15:00-16:30', title: Workers' Control in Economic Planning, venue: Black-E}
