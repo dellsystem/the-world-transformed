@@ -46,6 +46,7 @@ speaker_sessions = collections.defaultdict(set)
 schedule = collections.defaultdict(list)
 for row in sessions_csv:
     session = dict(zip(session_header, [cell.strip() for cell in row]))
+
     slug = session.pop('slug')
     if not slug.strip():
         print "Missing slug for", session['title']
@@ -78,6 +79,11 @@ for row in sessions_csv:
         day=day,
         end_time=end_time.replace(':', '').zfill(4),
     )
+
+    # Get rid of the columns where the header's first letter is capitalised.
+    for key in session.keys():
+        if key[0].upper() == key[0]:
+            session.pop(key)
 
     sessions[slug] = session
     schedule[session['day'].lower().strip()].append(slug)
