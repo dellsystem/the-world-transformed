@@ -17,9 +17,9 @@
     in a generation, a radical agenda for a new economy has never been closer to Westminster.
     It is time to grab this opportunity and move towards a 4 Day Week.', end_timestamp: 20180925T163000,
   final: true, image: 4-day-week, organiser: '4 Day Week Campaign, Autonomy ', room: 'Main
-    Space ', speakers: alice-martin carys-roberts aidan-harper will-stronge katja-kipping,
-  start_timestamp: 20180925T150000, time: '15:00-16:30', title: 'A 4 Day Week: The
-    Time is Now!', venue: Black-E}
+    Space ', speakers: alice-martin carys-roberts aidan-harper will-stronge katja-kipping
+    david-graeber, start_timestamp: 20180925T150000, time: '15:00-16:30', title: 'A
+    4 Day Week: The Time is Now!', venue: Black-E}
 a-global-nhs: {Action point: Charlie editing, Category: health, Confirmed Speakers: 'Natalie
     Sharples, Satoko Kisimoto,    Heidi Chow', Contact for Session: '', Format: '',
   Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
@@ -197,7 +197,7 @@ alborada-latin-america: {Action point: '', Category: '', Confirmed Speakers: '',
     short documentaries on diverse issues relating to Latin America. For more info,
     visit www.alborada.net', end_timestamp: 20180922T211500, final: true, image: film,
   organiser: Alborada, room: Cinema, speakers: '', start_timestamp: 20180922T193000,
-  time: '19:30-21:15', title: 'Alborada: Latin American Uncovered ', venue: Baltic}
+  time: '19:30-21:15', title: 'Alborada: Latin America Uncovered ', venue: Baltic}
 an-evening-of-internationalism: {Action point: '', Category: international/culture,
   Confirmed Speakers: '', Contact for Session: '', Format: '', Possible Speakers: '',
   'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
@@ -265,10 +265,10 @@ beyond-cultural-precarity: {Action point: '', Category: culture, Confirmed Speak
     supportive of grassroots creativity? In this participatory session, our speakers
     will discuss how we might fund local cultural democracy and implement minimum
     standards in the sector to tackle precarity and strengthen workers'' rights. ',
-  end_timestamp: 20180923T103000, final: true, image: default, organiser: Movement
-    for Cultural Democracy, room: 'Main Space ', speakers: clara-paillard peter-stark,
-  start_timestamp: 20180923T090000, time: '09:00-10:30', title: 'Beyond Cultural Precarity ',
-  venue: Black-E}
+  end_timestamp: 20180923T143000, final: true, image: default, organiser: Movement
+    for Cultural Democracy, room: '', speakers: clara-paillard peter-stark, start_timestamp: 20180923T130000,
+  time: '13:00-14:30', title: 'Beyond Cultural Precarity ', venue: Baltic Creative
+    Shed}
 black-women-transforming-politics: {Action point: '', Category: race/gender, Confirmed Speakers: 'Diane
     Abbott, MP, Shadow Home Secretary;  Cllr Claudia Webbe, Labour Party NEC;  Cllr
     Emine Ibrahim, Deputy Leader Haringey City Council;  Zita Holbourne, Assistant
@@ -381,7 +381,7 @@ cities-in-common: {Action point: '', Category: '', Confirmed Speakers: 'Raquel R
     \ explore how exciting and dynamic urban projects - both nationally and internationally\
     \ - are demonstrating real alternatives to neoliberalism.", end_timestamp: 20180924T163000,
   final: false, image: community, organiser: '', room: 'Main Space ', speakers: raquel-rolnik
-    ben-beach james-murray, start_timestamp: 20180924T150000, time: '15:00-16:30',
+    ben-beach james-murray st-anns, start_timestamp: 20180924T150000, time: '15:00-16:30',
   title: 'Cities in Common: Urban Resistance to Neoliberalism', venue: Black-E}
 class-justice: {Action point: Sam to edit blurb, Category: '', Confirmed Speakers: "Chris\
     \ Peace, (Orgreave)\nShrewsbury speaker \nJacqui Haynes (Grenfell)\nSheila Coleman\
@@ -398,9 +398,9 @@ class-justice: {Action point: Sam to edit blurb, Category: '', Confirmed Speaker
     class justice.', end_timestamp: 20180922T190000, final: true, image: banners,
   organiser: 'Orgreave Truth and Justice Campaign, Shrewsbury 24 Campaign, Lancaster
     West Residents Association, Blacklist Support Group & Haldane Society of Socialist
-    Lawyers', room: 'Theatre ', speakers: chris-peace jacqui-haynes sheila-coleman
-    royston-bentham neil-findlay-msp, start_timestamp: 20180922T173000, time: '17:30-19:00',
-  title: Class Justice, venue: Hinterlands}
+    Lawyers, Hillsborough Justice Campaign', room: 'Theatre ', speakers: chris-peace
+    jacqui-haynes sheila-coleman royston-bentham neil-findlay-msp, start_timestamp: 20180922T173000,
+  time: '17:30-19:00', title: Class Justice, venue: Hinterlands}
 clement-atlee-play: {Action point: '', Category: art music culture, Confirmed Speakers: 'Adjoa
     Andoh, Richard Attlee, Kika Markham, Paul Mason', Contact for Session: Sarah,
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
@@ -884,7 +884,7 @@ housing-for-all: {Action point: '', Category: social security, Confirmed Speaker
   title: 'Housing for All: Imagining the Homes of the Future', venue: Hinterlands}
 how-to-win-big: {Action point: '', Category: '', Confirmed Speakers: '', Contact for Session: '',
   Format: '', Possible Speakers: '', 'Programme Material Acquired?': '', Programme Material requested (mark X if yes): '',
-  day: Tuesday, description: Coming soon..., end_timestamp: 20180925T193000, final: false,
+  day: Tuesday, description: Coming soon..., end_timestamp: 20180925T193000, final: true,
   image: default, organiser: '', room: Main Space, speakers: '', start_timestamp: 20180925T173000,
   time: '17:30-19:30', title: How to Win BIG, venue: Hinterlands}
 in-and-against-the-state: {Action point: '', Category: '', Confirmed Speakers: 'John
@@ -1374,9 +1374,9 @@ regenerating-regeneration: {Action point: '', Category: culture, Confirmed Speak
     reflecting on our everyday class experiences, the session will explore how we
     might enable grassroots forms of regeneration to flourish - forms that benefit
     and protect existing people and communities, rather than exploit and displace
-    them. ', end_timestamp: 20180923T143000, final: true, image: housing, organiser: Movement
-    for Cultural Democracy, room: '', speakers: stephen-pritchard, start_timestamp: 20180923T130000,
-  time: '13:00-14:30', title: 'Regenerating Regeneration ', venue: Baltic Creative
+    them. ', end_timestamp: 20180923T103000, final: true, image: housing, organiser: Movement
+    for Cultural Democracy, room: '', speakers: stephen-pritchard, start_timestamp: 20180923T090000,
+  time: '09:00-10:30', title: 'Regenerating Regeneration ', venue: Baltic Creative
     Shed}
 relative-poverty: {Action point: '', Category: arts music and culture, Confirmed Speakers: '',
   Contact for Session: sarah, Format: '', Possible Speakers: '', 'Programme Material Acquired?': '',
@@ -1615,8 +1615,8 @@ tech-workers-inquiry: {Action point: '', Category: tech, Confirmed Speakers: '',
     Are tech workers really workers? We encourage anyone who works in tech to come
     to this small session on building worker power within the tech industry.', end_timestamp: 20180923T143000,
   final: false, image: cybersyn, organiser: Tech Workers Coalition, room: Gallery,
-  speakers: wendy-liu jason-prado, start_timestamp: 20180923T130000, time: '13:00-14:30',
-  title: Tech Workers' Inquiry, venue: Black-E}
+  speakers: 'jason-prado joe-corcoran wendy-liu ', start_timestamp: 20180923T130000,
+  time: '13:00-14:30', title: Tech Workers' Inquiry, venue: Black-E}
 the-brexit-bind: {Action point: Andrew to edit title/blurb, Category: international,
   Confirmed Speakers: Ann Pettifor; Paul Mason; Costas Lapavitsas; Mary Kaldor; Laura
     Parker (Chair), Contact for Session: lukecooper100@yahoo.co.uk, Format: '', Possible Speakers: '',
@@ -1631,8 +1631,7 @@ the-brexit-bind: {Action point: Andrew to edit title/blurb, Category: internatio
     \ Join us and find out.", end_timestamp: 20180922T211500, final: true, image: europe,
   organiser: Another Europe is Possible, room: 'Main Space ', speakers: ann-pettifor
     paul-mason costas-lapavitsas mary-kaldor, start_timestamp: 20180922T193000, time: '19:30-21:15',
-  title: !!python/str "The Brexit Bind: What Should Labour\u2019s Position on Brexit\
-    \ be?", venue: Hinterlands}
+  title: !!python/str "The Brexit Bind: What Should Labour\u2019s Position be?", venue: Hinterlands}
 the-european-left: {Action point: '', Category: international, Confirmed Speakers: 'Pablo
     Bustinduy, Fabio de Masi, Pernille Skipper, Marta Fana, Chair: Ronan Burtenshaw',
   Contact for Session: <ronanburtenshaw@gmail.com>, Format: '', Possible Speakers: '',
@@ -1698,8 +1697,8 @@ time-for-10: {Action point: 'Waiting on BFAWU, Hope to edit', Category: '', Conf
   final: true, image: default, organiser: 'Bakers, Food and Allied Workers Union &
     War on Want', room: 'Studio ', speakers: asad-rehman lauren-mccourt lauren-townsend
     james-snowball clara-paillard peter-stefanovic alex-mayer-mep, start_timestamp: 20180922T193000,
-  time: '19:30-21:15', title: !!python/str "\u201CLiverpool: Time for Ten\u201D Launch\
-    \ & Supersizing the McStrike!", venue: 'Black-E '}
+  time: '19:30-21:15', title: 'Liverpool: Time for Ten Launch & Supersizing the McStrike!',
+  venue: 'Black-E '}
 towards-a-socialist-government: {Action point: '', Category: '', Confirmed Speakers: "John\
     \ McDonnell MP\nDiane Abbott MP\nRichard Burgon MP \nRebecca Long-Bailey MP\n\
     Dennis Skinner MP\n+ Very Special Guest ", Contact for Session: '', Format: '',

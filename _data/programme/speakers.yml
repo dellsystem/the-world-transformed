@@ -100,8 +100,8 @@ barry-gardiner-mp: {bio: Shadow Secretary of State for International Trade, conf
   name: Barry Gardiner MP, organisation: Labour Party, other: '', photo: true, sessions: trading-with-trump,
   tag: 'Politician ', twitter: 'https://twitter.com/BarryGardiner'}
 ben-beach: {bio: Ben is a junior architect interested in urban struggles and a member
-    of Plan C, confirmed: '', name: Ben Beach, organisation: '', other: '', photo: false,
-  sessions: cities-in-common, tag: '', twitter: ''}
+    of Plan C, confirmed: 'Yes', name: Ben Beach, organisation: '', other: '', photo: false,
+  sessions: cities-in-common, tag: '', twitter: 'https://mobile.twitter.com/benbeachos'}
 ben-westley-clarke: {bio: 'Ben Clarke is an artist who lives and works in Camden Town,
     London. ', confirmed: 'Yes', name: Ben Westley Clarke, organisation: '', other: '',
   photo: true, sessions: good-and-bad-government, tag: Artist, twitter: ''}
@@ -165,7 +165,8 @@ charlotte-riley: {bio: "Charlotte Lydia Riley is a lecturer in twentieth century
   photo: true, sessions: internationalist-labour-party, tag: Academic, twitter: 'https://twitter.com/lottelydia'}
 chloe-tomlinson: {bio: '', confirmed: '', name: Chloe Tomlinson, organisation: '',
   other: '', photo: true, sessions: developing-labours-nes, tag: '', twitter: ''}
-chris-peace: {bio: '', confirmed: '', name: Chris Peace, organisation: '', other: '',
+chris-peace: {bio: 'Orgreave Truth and Justice Campaign and Labour PPC for North East
+    Derbyshire ', confirmed: 'Yes', name: Chris Peace, organisation: '', other: '',
   photo: false, sessions: class-justice, tag: '', twitter: ''}
 chris-williamson-mp: {bio: 'Labour MP for Derby North, formerly leader of Derby City
     Council. He is a former bricklayer, market trader, social worker and welfare rights
@@ -181,10 +182,10 @@ clara-paillard: {bio: President of PCS Culture Group, confirmed: 'Yes', name: Cl
     Paillard, organisation: PCS, other: '', photo: true, sessions: beyond-cultural-precarity
     movement-for-cultural-democracy sustainability-economics time-for-10, tag: Trade
     Unionist, twitter: 'https://twitter.com/clarapa'}
-claudia-webbe: {bio: Member of the Labour Party National Executive Committee and councillor
-    in Islington, confirmed: 'Yes', name: Claudia Webbe, organisation: Labour Party,
-  other: '', photo: true, sessions: black-women-transforming-politics, tag: Politician,
-  twitter: 'https://twitter.com/ClaudiaWebbe'}
+claudia-webbe: {bio: Member of the Labour Party National Executive Committee and Executive
+    member for Environment and Transport at Islington Council, confirmed: 'Yes', name: Claudia
+    Webbe, organisation: Labour Party, other: '', photo: true, sessions: black-women-transforming-politics,
+  tag: Politician, twitter: 'https://twitter.com/ClaudiaWebbe'}
 clive-lewis-mp: {bio: Labour MP for Norwich South, confirmed: 'Yes', name: Clive Lewis
     MP, organisation: Labour Party, other: '', photo: true, sessions: a-socialist-story-of-modern-britain
     sustainability-economics, tag: Politician, twitter: 'https://twitter.com/labourlewis'}
@@ -226,6 +227,11 @@ dave-randall: {bio: 'Writer, activist, musician and guitarist of Faithless, auth
 dave-ward: {bio: General Secretary of the Communication Workers Union, confirmed: 'Yes',
   name: Dave Ward, organisation: CWU, other: '', photo: true, sessions: future-of-trade-unions,
   tag: Trade Unionist, twitter: 'https://twitter.com/DaveWardGS'}
+david-graeber: {bio: 'Professor of anthropology at the LSE; author of books including
+    - Debt: The First 5000 years; and Bullshit Jobs. He was involved in the Global
+    Justice Movement and Occupy Wall Street', confirmed: 'Yes', name: David Graeber,
+  organisation: '', other: '', photo: false, sessions: 4-day-week, tag: 'Academic
+    / Activist ', twitter: 'https://mobile.twitter.com/davidgraeber'}
 david-harvey: {bio: 'Distinguished Professor of Anthropology and Geography at the
     Graduate Center of the City University of New York and author of Marx, Capital
     & the Madness of Economic Reason; The Ways of the World; 17 Contradictions & the
@@ -449,6 +455,9 @@ jo-mcneill: {bio: 'President of the University of Liverpool UCU branch, member o
     national Strategy and Finance Committee and Recruitment, Organising and Campaigns
     Committee', confirmed: 'Yes', name: Jo McNeill, organisation: Liverpool UCU, other: '',
   photo: true, sessions: lessons-from-the-ucu-strike, tag: Trade Unionist, twitter: 'https://twitter.com/JomcneillUCU'}
+joe-corcoran: {bio: Editorial group at New Socialist and software engineer, confirmed: 'Yes',
+  name: Joe Corcoran, organisation: New Socialist, other: '', photo: true, sessions: tech-workers-inquiry,
+  tag: '', twitter: 'https://twitter.com/josephcorcoran'}
 joe-guinan: {bio: Senior Fellow at Democracy Collaborative and Executive Director
     of the Next System Project, confirmed: 'Yes', name: Joe Guinan, organisation: Democracy
     Collaborative, other: '', photo: true, sessions: a-movement-in-government, tag: 'Think
@@ -624,7 +633,7 @@ marsha-de-cordova-mp: {bio: Labour MP for Battersea, confirmed: 'Yes', name: Mar
     de Cordova MP, organisation: Labour Party, other: '', photo: true, sessions: fighting-disabled-exclusion,
   tag: Politician, twitter: 'https://twitter.com/MarshadeCordova'}
 marta-fana: {bio: Italian Journalist and author, confirmed: 'Yes', name: Marta Fana,
-  organisation: '', other: '', photo: false, sessions: the-european-left, tag: Journalist,
+  organisation: '', other: '', photo: true, sessions: the-european-left, tag: Journalist,
   twitter: ''}
 martin-drewry: {bio: !!python/str "Martin Drewry is CEO of Health Poverty Action \u2013\
     \ a politically progressive INGO working with some of the world\u2019s poorest\
@@ -847,7 +856,7 @@ royston-bentham: {bio: Management Committee member of Spirit of Shankley and Foo
   tag: Activist, twitter: 'https://twitter.com/roybentham1'}
 saikat-chakrabarti: {bio: Senior advisor to Alexandria Ocasio-Cortez and co-founder
     Justice Democrats, confirmed: 'Yes', name: Saikat Chakrabarti, organisation: '',
-  other: '', photo: false, sessions: feeling-the-bern, tag: '', twitter: ''}
+  other: '', photo: true, sessions: feeling-the-bern, tag: '', twitter: ''}
 sakina-sheikh: {bio: Lewisham Labour councillor and campaigner for Labour Energy Forum,
   confirmed: '', name: Sakina Sheikh, organisation: Labour Energy Forum, other: '',
   photo: true, sessions: communities-against-climate-change, tag: Activist, twitter: ''}
@@ -892,9 +901,10 @@ shavanah-taj: {bio: Secretary for Wales & National Officer for South West at PCS
     Union, confirmed: 'yes', name: Shavanah Taj, organisation: PCS, other: '', photo: true,
   sessions: beating-the-bosses, tag: Trade Unionist, twitter: !!python/str "@shavtaj\
     \ \u200F"}
-sheila-coleman: {bio: Activist with the Hillsborough Justice Campaign, confirmed: 'Yes',
-  name: Sheila Coleman, organisation: Hillsborough Justice Campaign, other: '', photo: true,
-  sessions: beating-the-bosses class-justice, tag: Activist, twitter: 'https://twitter.com/SheilaColeman96'}
+sheila-coleman: {bio: 'Activist with the Hillsborough Justice Campaign and Unite Community,
+    North West Coordinator ', confirmed: 'Yes', name: Sheila Coleman, organisation: Hillsborough
+    Justice Campaign, other: '', photo: true, sessions: beating-the-bosses class-justice,
+  tag: Activist, twitter: 'https://twitter.com/SheilaColeman96'}
 shingai-shoniwa: {bio: 'Musician and lead vocalist in The Noisettes ', confirmed: 'Yes',
   name: Shingai Shoniwa, organisation: '', other: '', photo: true, sessions: music-in-the-movement,
   tag: Musician, twitter: ''}
@@ -912,6 +922,11 @@ sofia-brito: {bio: Activist in the Chilean student movement and feminist campaig
 sophie-hope: {bio: 'Lecturer in Arts Management at Birkbeck University ', confirmed: '',
   name: Sophie Hope, organisation: Birkbeck University, other: '', photo: true, sessions: movement-for-cultural-democracy,
   tag: 'Academic ', twitter: 'https://twitter.com/alicemellings'}
+st-anns: {bio: !!python/str "StART is a group of Haringey residents and workers who\
+    \ want to see the St Ann\u2019s Hospital site used permanently for the good of\
+    \ their local community. ", confirmed: 'Yes', name: !!python/str "St Ann\u2019\
+    s Redevelopment Trust", organisation: '', other: '', photo: false, sessions: cities-in-common,
+  tag: '', twitter: ''}
 steffan-blayney: {bio: Steffan Blayney is an editor at History Workshop Online and
     co-organiser of History Acts., confirmed: '', name: Steffan Blayney, organisation: '',
   other: '', photo: true, sessions: long-live-southbank, tag: Academic, twitter: 'https://twitter.com/SteffanBlayney'}
