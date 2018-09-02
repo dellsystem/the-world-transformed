@@ -197,7 +197,7 @@ beyond-cultural-precarity: {day: Sunday, description: 'How can we fund and democ
     and implement minimum standards in the sector to tackle precarity and strengthen
     workers'' rights.', end_timestamp: 20180923T143000, final: true, image: default,
   organiser: Movement for Cultural Democracy, room: '', speakers: clara-paillard peter-stark,
-  start_timestamp: 20180923T130000, time: '13:00-14:30', title: Beyond Cultural Precarity,
+  start_timestamp: 20180923T130000, time: '13:00-14:30', title: Beyond cultural precarity,
   venue: Baltic Creative Shed}
 black-women-transforming-politics: {day: Sunday, description: !!python/str "Although\
     \ they did not receive the vote until well after their white sisters, black women\
@@ -212,6 +212,13 @@ black-women-transforming-politics: {day: Sunday, description: !!python/str "Alth
     Women, room: Event Space, speakers: diane-abbott-mp claudia-webbe emine-ibrahim
     zita-holbourne dr-sonya-robotham, start_timestamp: 20180923T110000, time: '11:00-12:30',
   title: Black Women Transforming Politics, venue: Constellations}
+bringing-twt-to-your-community: {day: Tuesday, description: !!python/str "Has being\
+    \ at the festival made you wish that events like this took place in your area?\
+    \ What\u2019s stopping you from organising your own \u201CTWT-style\u201D event\
+    \ in your community? Come along to hear the tips and tricks from people who have\
+    \ done it before.", end_timestamp: 20180925T103000, final: true, image: default,
+  organiser: The World Transformed, room: Studio, speakers: '', start_timestamp: 20180925T090000,
+  time: '09:00-10:30', title: Bringing TWT to your community, venue: Black-E}
 britains-colonial-legacy-in-palestine: {day: Tuesday, description: !!python/str "Israel\
     \ uses military force to maintain its oppression of Palestinians. It targets people\
     \ with tear gas grenades, rubber-coated bullets and live ammunition, and carries\
@@ -286,8 +293,8 @@ class-justice: {day: Saturday, description: 'This event brings together groups w
     state and legal systems often perpetuate? Come and hear directly from campaigners
     struggling for class justice.', end_timestamp: 20180922T190000, final: true, image: banners,
   organiser: 'Orgreave Truth and Justice Campaign, Shrewsbury 24 Campaign, Lancaster
-    West Residents Association, Blacklist Support Group & Haldane Society of Socialist
-    Lawyers, Hillsborough Justice Campaign', room: Theatre, speakers: chris-peace
+    West Residents Association, Blacklist Support Group, Hillsborough Justice Campaign
+    & Haldane Society of Socialist Lawyers', room: Theatre, speakers: chris-peace
     jacqui-haynes sheila-coleman royston-bentham neil-findlay-msp, start_timestamp: 20180922T173000,
   time: '17:30-19:00', title: Class Justice, venue: Hinterlands}
 clement-atlee-play: {day: Monday, description: !!python/str "For a man who led our\
@@ -623,6 +630,12 @@ future-visions: {day: Sunday, description: 'The 2017 general election demonstrat
   final: false, image: default, organiser: '', room: Main Space, speakers: jeremy-corbyn-mp
     bonnie-castillo naomi-klein, start_timestamp: 20180923T173000, time: '17:30-19:00',
   title: A World for the Many, venue: Hinterlands}
+getting-your-local-groups-working: {day: Tuesday, description: 'How do you build a
+    strong team that harnesses the strengths of your local group members? Join us
+    as we explore the tips and tricks of effective facilitation and team building.',
+  end_timestamp: 20180925T123000, final: true, image: default, organiser: Momentum
+    and Labour Community Organising Team, room: Event Space, speakers: '', start_timestamp: 20180925T110000,
+  time: '11:00-12:30', title: Getting your local groups working, venue: Constellations}
 global-finance-101: {day: Saturday, description: !!python/str "Ten years ago the activities\
     \ of the banks almost brought the global economy down. What happened \u2013 and\
     \ could it happen again? What have we learned about how the financial system works?\
@@ -768,11 +781,11 @@ long-live-southbank: {day: Saturday, description: 'Long Live Southbank is a dive
     from re-development was a success. The screening of the film, highlighting the
     struggle and course of political involvement shows the importance of the skate
     spot amongst its setting and the community. The after-showing drop-in will invite
-    the audience to ask questions to broaden the discussion around youth culture and
-    advocacy.', end_timestamp: 20180922T190000, final: true, image: bw, organiser: '',
-  room: Cinema, speakers: louis-woodhead stuart-maclure matt-nelmes pollyanna-ruiz
-    steffan-blayney, start_timestamp: 20180922T173000, time: '17:30-19:00', title: 'You
-    Can''t Move History: Film Screening and Q&A', venue: Baltic}
+    audiences to ask questions to better understand, and broaden the discussion around
+    youth culture and advocacy.', end_timestamp: 20180922T190000, final: true, image: bw,
+  organiser: '', room: Cinema, speakers: louis-woodhead stuart-maclure matt-nelmes
+    pollyanna-ruiz steffan-blayney, start_timestamp: 20180922T173000, time: '17:30-19:00',
+  title: 'You Can''t Move History: Film Screening and Q&A', venue: Baltic}
 mapp-and-beyond: {day: Sunday, description: !!python/str "A behind the scenes look\
     \ at Momentum\u2019s new conference app, as well as discussion of future digital\
     \ infrastructure developments at Momentum", end_timestamp: 20180923T143000, final: true,
@@ -783,7 +796,7 @@ marx-at-200: {day: Sunday, description: !!python/str "After the global financial
     \ people have turned to the ideas of Karl Marx to help them understand the failures\
     \ of capitalism and provide a vision for a different kind of society. In 2018,\
     \ as even Teen Vogue are publishing articles about Marx, we ask what it means\
-    \ to be a communist today: is it possible to separate the idea of communism from\
+    \ to be a communist today. Is it possible to separate the idea of communism from\
     \ gulags and secret police? Two hundred years after his birth, are Marx\u2019\
     s ideas still relevant and can they help us to overcome the crises englufing our\
     \ planet?", end_timestamp: 20180923T190000, final: false, image: default, organiser: '',
@@ -819,7 +832,7 @@ migrant-political-voices: {day: Sunday, description: 'Many migrants face politic
     and trade unions. In this session, migrant acitivsts and allies will discuss how
     we might put migrant voices at the front and centre of our political struggles.',
   end_timestamp: 20180923T190000, final: false, image: international, organiser: Labour
-    International CLP, room: Theatre, speakers: steve-hudson rita-chandha grzegorz-rybak
+    International CLP, room: Theatre, speakers: steve-hudson rita-chadha grzegorz-rybak
     maya-goodfellow, start_timestamp: 20180923T173000, time: '17:30-19:00', title: 'Migrant
     Political Voices: Turning Up the Volume', venue: Hinterlands}
 mind-the-gap: {day: Tuesday, description: !!python/str "Too few women are elected\
@@ -829,9 +842,9 @@ mind-the-gap: {day: Tuesday, description: !!python/str "Too few women are electe
     \ with participants to identify\_what type of leader they want to be and\_sharing\_\
     their leadership strengths and experience, in order to ultimately develop women\
     \ leaders across our movement. This workshop is for self-defining women.", end_timestamp: 20180925T123000,
-  final: true, image: women, organiser: '', room: '', speakers: '', start_timestamp: 20180925T110000,
-  time: '11:00-12:30', title: 'Mind the Gap: Developing Women Leaders in Labour',
-  venue: Baltic Creative Shed}
+  final: true, image: women, organiser: Labour Women Leading, room: '', speakers: '',
+  start_timestamp: 20180925T110000, time: '11:00-12:30', title: 'Mind the Gap: Developing
+    Women Leaders in Labour', venue: Baltic Creative Shed}
 movement-for-cultural-democracy: {day: Monday, description: !!python/str "Cultural\
     \ democracy entails a struggle for the expansion of culture, politics and democracy\
     \ beyond its current limits \u2013 its aim is to overcome damaging cultural hierarchies\
@@ -1097,7 +1110,7 @@ skills-10: {day: Tuesday, description: !!python/str "To bring about transformati
     \ session where we\u2019ll put \u2018big organising\u2019 into action with the\
     \ people who pioneered it in the Bernie Sanders campaign.", end_timestamp: 20180925T143000,
   final: false, image: default, organiser: The Social Practice, room: Event Space,
-  speakers: '', start_timestamp: 20180925T130000, time: '13:00-14:30', title: 'Big
+  speakers: becky-bond, start_timestamp: 20180925T130000, time: '13:00-14:30', title: 'Big
     Organising: Harnessing the Power of Volunteers', venue: Constellations}
 skills-2: {day: Saturday, description: 'What makes some groups thrive and others falter?  The
     answer is in matching the objectives of your members to the activities of your
