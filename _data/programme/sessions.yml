@@ -141,8 +141,10 @@ acid-corbynism: {day: Monday, description: !!python/str "Strengthening relations
   speakers: '', start_timestamp: 20180924T193000, time: '19:30-23:30', title: 'Acid
     Corbynism: Consciousness, Club Culture and Collective Joy', venue: Hinterlands}
 alborada-latin-america: {day: Saturday, description: 'Alborada presents a selection
-    of radical and socially-conscious short documentaries on diverse issues relating
-    to Latin America. For more info, visit www.alborada.net', end_timestamp: 20180922T211500,
+    of radical and socially-conscious short documentaries on Latin America. These
+    stories focus on some of the main issues facing Latin American communities, movements
+    and activists today to ask what we can learn from them and how we can lend support
+    and solidarity to those fighting for social justice and equality.', end_timestamp: 20180922T211500,
   final: true, image: film, organiser: Alborada, room: Cinema, speakers: '', start_timestamp: 20180922T193000,
   time: '19:30-21:15', title: 'Alborada: Latin America Uncovered', venue: Baltic}
 an-evening-of-internationalism: {day: Sunday, description: 'A multimedia extravaganza
@@ -199,6 +201,23 @@ beyond-cultural-precarity: {day: Sunday, description: 'How can we fund and democ
   organiser: Movement for Cultural Democracy, room: '', speakers: clara-paillard peter-stark,
   start_timestamp: 20180923T130000, time: '13:00-14:30', title: Beyond cultural precarity,
   venue: Baltic Creative Shed}
+big-organising: {day: Tuesday, description: !!python/str "To bring about transformative\
+    \ change we need everyone to be involved! But what are the practical challenges\
+    \ of organising at scale and how can we overcome them? Join us for an action-packed\
+    \ session where we\u2019ll put \u2018big organising\u2019 into action with the\
+    \ people who pioneered it in the Bernie Sanders campaign.", end_timestamp: 20180925T143000,
+  final: false, image: default, organiser: The Social Practice, room: Event Space,
+  speakers: becky-bond, start_timestamp: 20180925T130000, time: '13:00-14:30', title: 'Big
+    Organising: Harnessing the Power of Volunteers', venue: Constellations}
+black-flowers: {day: Saturday, description: 'In a city built on the slave trade, this
+    film explores how black artists can intervene, create and decolonise historically
+    white spaces where black people have not been welcome. Set in the old Liverpool
+    Town Hall and using film, poetry and art to heal the wounds of slavery and move
+    forward together as a united community. Join the filmmakers in conversation after
+    the film.', end_timestamp: 20180922T140000, final: true, image: film, organiser: ROOT-Ed
+    Zine and Kiara Mohamed, room: '', speakers: '', start_timestamp: 20180922T130000,
+  time: '13:00-14:00', title: Black Flowers Screening + Discussion, venue: Baltic
+    Cinema}
 black-women-transforming-politics: {day: Sunday, description: !!python/str "Although\
     \ they did not receive the vote until well after their white sisters, black women\
     \ have a rich and successful history of political activism. Organising in the\
@@ -250,6 +269,12 @@ building-community-wealth: {day: Saturday, description: 'A new wave of municipal
   final: true, image: community, organiser: Democracy Collaborative, room: Theatre,
   speakers: ted-howard matthew-brown asima-shaikh frances-jones, start_timestamp: 20180922T130000,
   time: '13:00-14:30', title: Building Community Wealth in our Towns and Cities, venue: Hinterlands}
+building-local-campaigns-that-win: {day: Monday, description: 'Building local campaigns
+    that win. How to pick an issue, how to plan a campaign, picking the right tactics
+    and following through!', end_timestamp: 20180924T103000, final: true, image: default,
+  organiser: Momentum & Labour Community Organising, room: Event Space, speakers: '',
+  start_timestamp: 20180924T090000, time: '09:00-10:30', title: Building local campaigns
+    that win, venue: Constellations}
 calais-jungle: {day: Tuesday, description: 'This exhibtion is an intimate portrait
     of the Calais Jungle, highlighting the resilience of people within a highly precarious
     situation. The passage of time in the images exemplifies that there has always
@@ -359,9 +384,9 @@ communities-against-climate-change: {day: Tuesday, description: 'The climate cha
     clean power. Corbyn  has created space for a 21st century municipal socialism.
     Town hall politics can hand power back to communities; it''s time to get moving.',
   end_timestamp: 20180925T190000, final: true, image: climate, organiser: Labour Energy
-    Forum, room: Main Space, speakers: fliss-premru sakina-sheikh kevin-frea asima-shaikh,
+    Forum, room: Theatre, speakers: fliss-premru sakina-sheikh kevin-frea asima-shaikh,
   start_timestamp: 20180925T173000, time: '17:30-19:00', title: Communities in the
-    Fight Against Climate Change, venue: Black-E}
+    Fight Against Climate Change, venue: Hinterlands}
 conversation-with-jean-luc-melenchon: {day: Monday, description: !!python/str "Since\
     \ narrowly missing out in last year's presidential election, Jean-Luc M\xE9lenchon\
     \ and his France Insoumise party have established themselves as the leading left-wing\
@@ -372,14 +397,7 @@ conversation-with-jean-luc-melenchon: {day: Monday, description: !!python/str "S
   image: melenchon, organiser: Jacobin, room: Main Space, speakers: jon-trickett-mp
     jean-luc-melenchon, start_timestamp: 20180924T193000, time: '19:30-21:15', title: !!python/str "In\
     \ Conversation with Jean-Luc M\xE9lenchon", venue: Black-E}
-cracked-play: {day: Tuesday, description: !!python/str "Collective Encounters new\
-    \ play explores how easy it is for us to fall through the cracks in society, and\
-    \ how hard it is to get out. Visually stunning, with a unique physical language\
-    \ and steam punk aesthetic. Expect loud music, shocking stories, and powerful\
-    \ performances\u2013 this is not for the faint hearted! Collective Encounters\
-    \ uses theatre to engage those on the margins of society. Participants work alongside\
-    \ theatre professionals to create performances that tackle some of our most pressing\
-    \ social and political concerns.", end_timestamp: 20180925T190000, final: true,
+cracked-play: {day: Tuesday, description: '', end_timestamp: 20180925T190000, final: true,
   image: theatre, organiser: '', room: Theatre, speakers: '', start_timestamp: 20180925T173000,
   time: '17:30-19:00', title: 'Cracked: A Theatrical Performance', venue: Black-E}
 cybernetic-socialism: {day: Monday, description: !!python/str "Project Cybersyn is\
@@ -466,6 +484,13 @@ developing-labours-nes: {day: Sunday, description: !!python/str "The 2017 Labour
     robert-verkaik ali-mussell chloe-tomlinson, start_timestamp: 20180923T110000,
   time: '11:00-12:30', title: 'From Cradle to Grave: Developing Labour''s National
     Education Service', venue: Hinterlands}
+developing-movement-leaders: {day: Saturday, description: 'Democratic socialism requires
+    people to step us as empowering leaders. But there''s no blueprint for a leader,
+    so what abilities and values does it take to lead? We''ll run through some honest
+    self-evaluation, and some hands-on exercises of how to raise your game. And have
+    fun doing it.', end_timestamp: 20180922T163000, final: true, image: default, organiser: Talk
+    Socialism, room: Annex, speakers: '', start_timestamp: 20180922T150000, time: '15:00-16:30',
+  title: Developing Movement Leaders, venue: Hinterlands}
 digital-economy-101: {day: Monday, description: !!python/str "A few giant companies\
     \ \u2013 such as Google, Facebook, Apple and Amazon \u2013 have come to dominate\
     \ today\u2019s digital economy. If we want to create a fair and democratic economy,\
@@ -478,6 +503,12 @@ digital-economy-101: {day: Monday, description: !!python/str "A few giant compan
     for Public Policy Research, room: Event Space, speakers: laurie-laybourn-langton
     mat-lawrence, start_timestamp: 20180924T110000, time: '11:00-12:30', title: Digital
     Economy 101, venue: Constellations}
+disrupting-the-status-quo: {day: Sunday, description: We all want to change the world
+    - working out how to do it is the hard part. Join the conversation as a range
+    of movement activists share their creative direct action strategies and tactics
+    for transformative change., end_timestamp: 20180923T103000, final: true, image: default,
+  organiser: '', room: Event Space, speakers: '', start_timestamp: 20180923T090000,
+  time: '09:00-10:30', title: Disrupting the Status Quo, venue: Constellations}
 eco-corbynism-monday: {day: Monday, description: !!python/str "What would the convergence\
     \ of the labour movement and the ecology\r\nmovements that Raymond Williams called\
     \ for in 1984 look like today and\r\nwhat are the blockages that need to be overcome?\
@@ -558,10 +589,10 @@ ending-the-drug-war: {day: Sunday, description: !!python/str "The so called \u20
     \ session to discuss one of the most urgent social justice issues of our time.\
     \ We will discuss how to deal with the difficult issues in the debate around drug\
     \ policy reform and how you can be part of our growing movement for change.",
-  end_timestamp: 20180923T163000, final: true, image: smoke, organiser: Health Poverty
-    Action, room: Main Space, speakers: anne-marie-cockburn martin-drewry chris-williamson-mp
-    jane-slater, start_timestamp: 20180923T150000, time: '15:00-16:30', title: 'Drugs:
-    Ending the War and Winning the Battle', venue: Black-E}
+  end_timestamp: 20180923T163000, final: true, image: smoke, organiser: 'Health Poverty
+    Action, Transform Drug Policy Foundation', room: Main Space, speakers: anne-marie-cockburn
+    martin-drewry chris-williamson-mp jane-slater, start_timestamp: 20180923T150000,
+  time: '15:00-16:30', title: 'Drugs: Ending the War and Winning the Battle', venue: Black-E}
 feeling-the-bern: {day: Monday, description: !!python/str "The 2016 breakthrough of\
     \ Bernie Sanders \u2013 and the more recent success of Alexandria Ocasio-Cortez\
     \ \u2013 has put the American left in its strongest position for decades. Join\
@@ -628,8 +659,16 @@ future-visions: {day: Sunday, description: 'The 2017 general election demonstrat
     inspiring activists from the U.K. and beyond to share their visions for the future
     and how, together, we can see a world transformed.', end_timestamp: 20180923T190000,
   final: false, image: default, organiser: '', room: Main Space, speakers: jeremy-corbyn-mp
-    bonnie-castillo naomi-klein, start_timestamp: 20180923T173000, time: '17:30-19:00',
+    bonnie-castillo naomi-klein jacqui-haynes, start_timestamp: 20180923T173000, time: '17:30-19:00',
   title: A World for the Many, venue: Hinterlands}
+generation-solidarity: {day: Tuesday, description: 'Increasingly, age, not class appears
+    as the most prominent dividing line in politics. As young people have turned towards
+    the left, older voters have turned to the right. What are the causes of this growing
+    divide? Are things as simple as the statistics look? And how can we build intergenerational
+    solidarity to overcome these divisions? Join five socialists from five different
+    generations to discuss these questions and more.', end_timestamp: 20180925T190000,
+  final: false, image: default, organiser: '', room: Main Space, speakers: '', start_timestamp: 20180925T173000,
+  time: '17:30-19:00', title: Generation Solidarity, venue: Black-E}
 getting-your-local-groups-working: {day: Tuesday, description: 'How do you build a
     strong team that harnesses the strengths of your local group members? Join us
     as we explore the tips and tricks of effective facilitation and team building.',
@@ -655,6 +694,14 @@ good-and-bad-government: {day: Saturday, description: !!python/str "In this larg
   final: true, image: allegory, organiser: '', room: Garden, speakers: ben-westley-clarke,
   start_timestamp: 20180922T110000, time: '11:00-17:00', title: 'Good and Bad Government:
     A Collaborative Drawing', venue: Constellations}
+group-dynamics-and-movement-building: {day: Saturday, description: 'What makes some
+    groups thrive and others falter?  The answer is in matching the objectives of
+    your members to the activities of your group.  Talk Socialism will run you through
+    real world examples and hands-on exercises to demonstrate how to use group dynamics
+    and social psychology for  movement building.', end_timestamp: 20180922T143000,
+  final: false, image: default, organiser: Talk Socialism, room: Annex, speakers: '',
+  start_timestamp: 20180922T130000, time: '13:00-14:30', title: Group Dynamics and
+    Movement Building, venue: Hinterlands}
 history-lessons: {day: Sunday, description: !!python/str "The best way to develop\
     \ a programme of political education that serves our movement\u2019s needs today\
     \ is to look to our history. By examining examples of left-wing political education\
@@ -664,7 +711,7 @@ history-lessons: {day: Sunday, description: !!python/str "The best way to develo
     \ which engaged and inspired people to act? What can we take from our history\
     \ to develop popular education for the 21st century?", end_timestamp: 20180923T123000,
   final: false, image: history, organiser: LabourDays, room: Annex, speakers: colin-waugh
-    rida-vaquas edd-mustill, start_timestamp: 20180923T110000, time: '11:00-12:30',
+    rida-vaquas edd-mustill hilary-wainwright, start_timestamp: 20180923T110000, time: '11:00-12:30',
   title: 'History Lessons: Popular Education in the 20th Century', venue: Hinterlands}
 housing-for-all: {day: Saturday, description: !!python/str "As the housing crisis\
     \ rages on, a growing number of people are trapped in poverty and even homelessness.\
@@ -674,11 +721,12 @@ housing-for-all: {day: Saturday, description: !!python/str "As the housing crisi
     \ build high-quality, affordable housing for all?\_And what would the architecture\_\
     of a radical housing programme look like? Come and collectively imagine it!",
   end_timestamp: 20180922T211500, final: false, image: housing, organiser: '', room: Theatre,
-  speakers: kate-macintosh anna-minton, start_timestamp: 20180922T193000, time: '19:30-21:15',
-  title: 'Housing for All: Imagining the Homes of the Future', venue: Hinterlands}
-how-to-win-big: {day: Tuesday, description: Coming soon..., end_timestamp: 20180925T193000,
+  speakers: kate-macintosh anna-minton ben-beach, start_timestamp: 20180922T193000,
+  time: '19:30-21:15', title: 'Housing for All: Imagining the Homes of the Future',
+  venue: Hinterlands}
+how-to-win-big: {day: Tuesday, description: Coming soon..., end_timestamp: 20180925T190000,
   final: true, image: default, organiser: '', room: Main Space, speakers: '', start_timestamp: 20180925T173000,
-  time: '17:30-19:30', title: How to Win BIG, venue: Hinterlands}
+  time: '17:30-19:00', title: How to Win BIG, venue: Hinterlands}
 in-and-against-the-state: {day: Tuesday, description: 'In recent decades the British
     state has been transformed, with the private sector taking over many of its key
     functions. Can what remains be radically changed? Or are we confronted by institutions
@@ -727,6 +775,13 @@ kids-write-plays: {day: Sunday, description: '6-12 year olds are invited to come
   end_timestamp: 20180923T103000, final: true, image: theatre, organiser: '', room: Studio,
   speakers: sam-swann, start_timestamp: 20180923T090000, time: '09:00-10:30', title: Kids
     Write Plays!, venue: Black-E}
+kids-write-plays-performance: {day: Sunday, description: 'Kids Write Plays in the
+    morning, adults perform those kids'' plays in the evening. Plots from previous
+    plays include "An Evil Pumpkin Is Defeated By The Slaves" and "A Scruffy Girl
+    Finds A Witch To Fix Her Enchanted Stick". They are hilarious and poignant and
+    prophetic and you have to come along!', end_timestamp: 20180923T173000, final: true,
+  image: theatre, organiser: '', room: Garden, speakers: sam-swann, start_timestamp: 20180923T170000,
+  time: '17:00-17:30', title: Kids Write Plays! Performance, venue: Constellations}
 king-a-film-record: {day: Saturday, description: !!python/str "This year marks the\
     \ 50th anniversary of the assassination of Rev Dr. Martin Luther King. This rarely-seen\
     \ documentary from 1970 traces King\u2019s life and accomplishments from the 1955\
@@ -786,6 +841,12 @@ long-live-southbank: {day: Saturday, description: 'Long Live Southbank is a dive
   organiser: '', room: Cinema, speakers: louis-woodhead stuart-maclure matt-nelmes
     pollyanna-ruiz steffan-blayney, start_timestamp: 20180922T173000, time: '17:30-19:00',
   title: 'You Can''t Move History: Film Screening and Q&A', venue: Baltic}
+making-grassroots-media: {day: Sunday, description: 'We know that the mainstream media
+    upholds the status quo - but what are we going to do about it? Join us as we explore
+    ''content creation'' from the grassroots.', end_timestamp: 20180923T123000, final: true,
+  image: default, organiser: Populate & others, room: '', speakers: '', start_timestamp: 20180923T110000,
+  time: '11:00-12:30', title: Making Media from the Grassroots Up, venue: Baltic Creative
+    Shed}
 mapp-and-beyond: {day: Sunday, description: !!python/str "A behind the scenes look\
     \ at Momentum\u2019s new conference app, as well as discussion of future digital\
     \ infrastructure developments at Momentum", end_timestamp: 20180923T143000, final: true,
@@ -842,9 +903,16 @@ mind-the-gap: {day: Tuesday, description: !!python/str "Too few women are electe
     \ with participants to identify\_what type of leader they want to be and\_sharing\_\
     their leadership strengths and experience, in order to ultimately develop women\
     \ leaders across our movement. This workshop is for self-defining women.", end_timestamp: 20180925T123000,
-  final: true, image: women, organiser: Labour Women Leading, room: '', speakers: '',
+  final: true, image: women, organiser: Labour Women Leading, room: '', speakers: alison-mcgarry,
   start_timestamp: 20180925T110000, time: '11:00-12:30', title: 'Mind the Gap: Developing
     Women Leaders in Labour', venue: Baltic Creative Shed}
+more-earth: {day: Sunday, description: !!python/str "More Earth Will Fall is an intimate,\
+    \ emotional portrait of a family living in the heart of one of Rio's most conflict-ridden\
+    \ favelas. Given extraordinary access over five years, the story offers a rare\
+    \ insight into what life is like for those caught in the middle of Brazil\u2019\
+    s poverty and violence.", end_timestamp: 20180923T123000, final: true, image: film,
+  organiser: '', room: '', speakers: '', start_timestamp: 20180923T110000, time: '11:00-12:30',
+  title: More Earth Will Fall Film Screening, venue: Baltic Cinema}
 movement-for-cultural-democracy: {day: Monday, description: !!python/str "Cultural\
     \ democracy entails a struggle for the expansion of culture, politics and democracy\
     \ beyond its current limits \u2013 its aim is to overcome damaging cultural hierarchies\
@@ -855,8 +923,8 @@ movement-for-cultural-democracy: {day: Monday, description: !!python/str "Cultur
   final: true, image: default, organiser: Movement for Cultural Democracy, room: Theatre,
   speakers: clara-paillard stephen-pritchard rhiannon-white peter-stark nick-mahony
     moussa-amine-sylla sophie-hope frances-northrop, start_timestamp: 20180924T150000,
-  time: '15:00-16:30', title: 'Where Next for the Movement for Cultural Democracy?',
-  venue: Black-E}
+  time: '15:00-16:30', title: 'A people powered manifesto for radical cultural democracy
+    - what next?', venue: Black-E}
 music-in-the-movement: {day: Monday, description: 'How can we use the power of culture
     against the culture of power? Throughout history and across the world, music has
     been used as a political weapon. Looking at examples from Love Music Hate Racism
@@ -943,9 +1011,9 @@ popular-education-forum: {day: Sunday, description: !!python/str "The World Tran
     \ So whether you\u2019re part of an organization or a local activist, come along,\
     \ contribute your ideas and join us in building a national network for popular\
     \ education.", end_timestamp: 20180923T163000, final: false, image: education,
-  organiser: The World Transformed, room: Event Space, speakers: christine-berry charlie-clarke,
-  start_timestamp: 20180923T150000, time: '15:00-16:30', title: 'Popular Education
-    Forum: Let''s Build a Network!', venue: Constellations}
+  organiser: The World Transformed, room: Event Space, speakers: christine-berry charlie-clarke
+    laura-parker, start_timestamp: 20180923T150000, time: '15:00-16:30', title: 'Popular
+    Education Forum: Let''s Build a Network!', venue: Constellations}
 post-brexit: {day: Monday, description: '', end_timestamp: 20180924T123000, final: false,
   image: federalism, organiser: Campaign for Socialism, room: Studio, speakers: '',
   start_timestamp: 20180924T110000, time: '11:00-12:30', title: Federalism and Other
@@ -968,15 +1036,6 @@ power-mapping: {day: Saturday, description: 'Does your local Labour branch or Mo
   end_timestamp: 20180922T123000, final: true, image: default, organiser: Momentum
     & Labour Community Organising, room: Annex, speakers: '', start_timestamp: 20180922T110000,
   time: '11:00-12:30', title: Power-mapping your community, venue: Hinterlands}
-progressive-nationalism: {day: Tuesday, description: 'In recent years, some people
-    have argued the left should embrace nationalism or patriotism to connect with
-    voters. But what are the limitations, and even dangers, of building a political
-    project on these terms? Can we build a more internationalist vision for a socialist
-    future? This panel interrogates the history of nationalism by looking at it in
-    the wider historical and global context of colonialism, racism and empire.', end_timestamp: 20180925T190000,
-  final: false, image: international, organiser: '', room: Events Space, speakers: dalia-gebrial
-    kojo-koram, start_timestamp: 20180925T173000, time: '17:30-19:00', title: 'Progressive
-    Nationalism?', venue: Constellations}
 queer-liberation-and-assimilation: {day: Sunday, description: 'With corporations &
     the police joining Pride marches, the legalisation of same-sex marriage, the government
     and even some religious institutions becoming more "LGBTQ positive", the struggle
@@ -1104,50 +1163,6 @@ screenprinting: {day: Sunday, description: 'Come and learn how to screenprint an
   final: true, image: art, organiser: Print Moon Studios, room: Garden, speakers: '',
   start_timestamp: 20180923T120000, time: '12:00-15:00', title: Screenprint Your Own
     Political Poster, venue: Constellations}
-skills-10: {day: Tuesday, description: !!python/str "To bring about transformative\
-    \ change we need everyone to be involved! But what are the practical challenges\
-    \ of organising at scale and how can we overcome them? Join us for an action-packed\
-    \ session where we\u2019ll put \u2018big organising\u2019 into action with the\
-    \ people who pioneered it in the Bernie Sanders campaign.", end_timestamp: 20180925T143000,
-  final: false, image: default, organiser: The Social Practice, room: Event Space,
-  speakers: becky-bond, start_timestamp: 20180925T130000, time: '13:00-14:30', title: 'Big
-    Organising: Harnessing the Power of Volunteers', venue: Constellations}
-skills-2: {day: Saturday, description: 'What makes some groups thrive and others falter?  The
-    answer is in matching the objectives of your members to the activities of your
-    group.  Talk Socialism will run you through real world examples and hands-on exercises
-    to demonstrate how to use group dynamics and social psychology for  movement building.',
-  end_timestamp: 20180922T143000, final: false, image: default, organiser: Talk Socialism,
-  room: Annex, speakers: '', start_timestamp: 20180922T130000, time: '13:00-14:30',
-  title: Group Dynamics and Movement Building, venue: Hinterlands}
-skills-3: {day: Saturday, description: 'Democratic socialism requires people to step
-    us as empowering leaders. But there''s no blueprint for a leader, so what abilities
-    and values does it take to lead? We''ll run through some honest self-evaluation,
-    and some hands-on exercises of how to raise your game. And have fun doing it.',
-  end_timestamp: 20180922T163000, final: true, image: default, organiser: Talk Socialism,
-  room: Annex, speakers: '', start_timestamp: 20180922T150000, time: '15:00-16:30',
-  title: Developing Movement Leaders, venue: Hinterlands}
-skills-4: {day: Sunday, description: We all want to change the world - working out
-    how to do it is the hard part. Join the conversation as a range of movement activists
-    share their creative direct action strategies and tactics for transformative change.,
-  end_timestamp: 20180923T103000, final: true, image: default, organiser: '', room: Event
-    Space, speakers: '', start_timestamp: 20180923T090000, time: '09:00-10:30', title: Disrupting
-    the Status Quo, venue: Constellations}
-skills-5: {day: Sunday, description: 'We know that the mainstream media upholds the
-    status quo - but what are we going to do about it? Join us as we explore ''content
-    creation'' from the grassroots.', end_timestamp: 20180923T123000, final: true,
-  image: default, organiser: Populate & others, room: '', speakers: '', start_timestamp: 20180923T110000,
-  time: '11:00-12:30', title: Making Media from the Grassroots Up, venue: Baltic Creative
-    Shed}
-skills-7: {day: Monday, description: "Simple framing tips to massively improve campaign\
-    \ messaging\r\n\r\nSo you have the chance to speak to the media, but how do you\
-    \ make the most of the opportunity? How do you ensure that you get the most bang\
-    \ for your buck on the tiny bit of airtime that you get?\r\n\r\nLearn some basic\
-    \ tips on making your campaign messages hit home with as wide an audience as possible,\
-    \ and find out how the NEON Spokesperson Network is shaking up the news media\
-    \ with confident, diverse and progressive voices.", end_timestamp: 20180924T123000,
-  final: true, image: default, organiser: NEON, room: '', speakers: '', start_timestamp: 20180924T110000,
-  time: '11:00-12:30', title: Telling Stories that Build Power, venue: Baltic Creative
-    Shed}
 social-media-analytics-workshop: {day: Tuesday, description: A somewhat technically
     pitched session aimed at the social media savvy & developers. All welcome though!,
   end_timestamp: 20180925T143000, final: true, image: computer, organiser: Momentum
@@ -1214,6 +1229,16 @@ tech-workers-inquiry: {day: Sunday, description: 'Why are unionisation rates so 
   organiser: Tech Workers Coalition, room: Gallery, speakers: jason-prado joe-corcoran
     wendy-liu, start_timestamp: 20180923T130000, time: '13:00-14:30', title: Tech
     Workers' Inquiry, venue: Black-E}
+telling-stories-that-build-power: {day: Monday, description: "Simple framing tips\
+    \ to massively improve campaign messaging\r\n\r\nSo you have the chance to speak\
+    \ to the media, but how do you make the most of the opportunity? How do you ensure\
+    \ that you get the most bang for your buck on the tiny bit of airtime that you\
+    \ get?\r\n\r\nLearn some basic tips on making your campaign messages hit home\
+    \ with as wide an audience as possible, and find out how the NEON Spokesperson\
+    \ Network is shaking up the news media with confident, diverse and progressive\
+    \ voices.", end_timestamp: 20180924T123000, final: true, image: default, organiser: NEON,
+  room: '', speakers: '', start_timestamp: 20180924T110000, time: '11:00-12:30', title: Telling
+    Stories that Build Power, venue: Baltic Creative Shed}
 the-brexit-bind: {day: Saturday, description: !!python/str "The EU referendum divided\
     \ the nation, splitting society into two seemingly immovable camps defined by\
     \ Leave or Remain. In GE2017 Labour united both sides of the divide around a vision\
@@ -1249,7 +1274,7 @@ things-change: {day: Sunday, description: 'A project that builds a culture of so
     around the sharing of ideas to create new ways of writing music.', end_timestamp: 20180923T170000,
   final: true, image: music, organiser: '', room: Garden, speakers: '', start_timestamp: 20180923T160000,
   time: '16:00-17:00', title: THINGS CHANGE Jam Session, venue: Constellations}
-this-is-bate-bola: {day: Sunday, description: !!python/str "The Good Fight is based\
+this-is-bate-bola: {day: Saturday, description: !!python/str "The Good Fight is based\
     \ around the story of Alan Duarte who has lost nine close family members to gun\
     \ violence in his favela community in Rio de Janeiro. Now, through his boxing\
     \ project, he\u2019s fighting to build a better future for his son and his community.\
@@ -1260,9 +1285,9 @@ this-is-bate-bola: {day: Sunday, description: !!python/str "The Good Fight is ba
     \ that are a surreal mixture of play and menace. A tradition that has its roots\
     \ in ancient European carnival traditions and in African rituals, they look like\
     \ visitors from another planet. A film by Ben Holman & Neirin Jones with original\
-    \ soundtrack by Ben Lamar Gay.", end_timestamp: 20180923T183000, final: true,
-  image: film, organiser: '', room: Baltic Cinema, speakers: '', start_timestamp: 20180923T173000,
-  time: '17:30-18:30', title: This Is Bate Bola & The Good Fight Film Screenings,
+    \ soundtrack by Ben Lamar Gay.", end_timestamp: 20180922T130000, final: true,
+  image: film, organiser: '', room: Baltic Cinema, speakers: '', start_timestamp: 20180922T120000,
+  time: '12:00-13:00', title: This Is Bate Bola & The Good Fight Film Screenings,
   venue: Baltic Cinema}
 time-for-10: {day: Saturday, description: !!python/str "Workers at McDonald\u2019\
     s, TGI Fridays and Wetherspoons are coming together in trade unions to turn back\
@@ -1353,6 +1378,14 @@ update-the-welfare-state: {day: Saturday, description: !!python/str "It\u2019s c
   final: true, image: welfare, organiser: Autonomy, room: Theatre, speakers: stewart-lansley
     dan-carden-mp gail-ward anna-dent will-stronge, start_timestamp: 20180922T110000,
   time: '11:00-12:30', title: Update the Welfare State, venue: Hinterlands}
+we-are-many: {day: Sunday, description: !!python/str "This fearless, thought-provoking\
+    \ documentary is the remarkable inside story behind the first ever global demonstration,\
+    \ and its surprising and unreported legacy. The film features testimony from a\
+    \ unique cast of direct participants, including organizers, activists, high-profile\
+    \ figures, and of course the public, filmed in seven countries \u2013 Italy, Spain,\
+    \ Egypt, Sweden, Australia, UK, and the USA.", end_timestamp: 20180923T163000,
+  final: true, image: film, organiser: '', room: '', speakers: '', start_timestamp: 20180923T150000,
+  time: '15:00-16:30', title: We Are Many Film Screening, venue: Baltic Cinema}
 why-political-education: {day: Saturday, description: !!python/str "Winning elections\
     \ is not enough to guarantee transformative change. We need to unleash the political\
     \ imagination of the grassroots and inspire people to think and learn with each\
@@ -1361,7 +1394,7 @@ why-political-education: {day: Saturday, description: !!python/str "Winning elec
     \ activists and politicians on what we mean by popular political education? Why\
     \ it\u2019s important now? And who\u2019s educating who anyway?", end_timestamp: 20180922T123000,
   final: false, image: mcdonnell, organiser: The World Transformed, room: Main Space,
-  speakers: john-mcdonnell-mp lindsey-mcdowell, start_timestamp: 20180922T110000,
+  speakers: john-mcdonnell-mp lindsey-mcdowell gary-anderson, start_timestamp: 20180922T110000,
   time: '11:00-12:30', title: 'Opening Session: Making the Case for Political Education',
   venue: Black-E}
 workers-control-in-economic-planning: {day: Sunday, description: 'The Lucas Plan is

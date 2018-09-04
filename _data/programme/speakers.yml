@@ -29,12 +29,12 @@ alice-kinghorn-grey: {bio: 'Campaign Organiser for Electoral Reform Society (Sco
     movements across Spain and Scotland', confirmed: 'Yes', name: Alice Kinghorn-Grey,
   organisation: Electoral Reform Society (Scotland), other: '', photo: false, sessions: power-for-the-many,
   tag: Campaigner, twitter: ''}
-alice-martin: {bio: !!python/str "Alice\u2019s recent focus has been on tackling insecurity\
-    \ in the workplace and is currently working on a book for Polity on trade unions.\
-    \ She has also been \_building a campaign against the public land fire sale, putting\
-    \ forward a vision for housing that has democratic control at its heart.", confirmed: 'Yes',
-  name: Alice Martin, organisation: NEF, other: '', photo: true, sessions: 4-day-week,
-  tag: Researcher, twitter: 'https://twitter.com/AlicePMartin'}
+alice-martin: {bio: 'Alice is Head of Work and Pay at the New Economics Foundation
+    and is author of Why We Need Trade Unions in the 21st Century (Polity Press, 2019).',
+  confirmed: 'Yes', name: Alice Martin, organisation: NEF, other: '', photo: true,
+  sessions: 4-day-week, tag: Researcher, twitter: 'https://twitter.com/AlicePMartin'}
+alison-mcgarry: {bio: '', confirmed: 'yes', name: Alison McGarry, organisation: '',
+  other: '', photo: false, sessions: mind-the-gap, tag: '', twitter: ''}
 andrew-cumbers: {bio: Political economist, confirmed: 'yes', name: Andrew Cumbers,
   organisation: '', other: '', photo: true, sessions: taking-whats-ours, tag: '',
   twitter: 'https://twitter.com/acumbers'}
@@ -102,10 +102,10 @@ barry-gardiner-mp: {bio: Shadow Secretary of State for International Trade, conf
 becky-bond: {bio: !!python/str "Former Senior Advisor to Bernie Sanders presidential\
     \ campaign and co-author of \u2018Rules for Revolutionaries: How Big Organizing\
     \ Can Change Everything'", confirmed: 'Yes', name: Becky Bond, organisation: '',
-  other: '', photo: true, sessions: skills-10, tag: Campaigner, twitter: 'https://twitter.com/bbond'}
-ben-beach: {bio: Ben is a junior architect interested in urban struggles and a member
-    of Plan C, confirmed: 'Yes', name: Ben Beach, organisation: '', other: '', photo: false,
-  sessions: cities-in-common, tag: '', twitter: 'https://mobile.twitter.com/benbeachos'}
+  other: '', photo: true, sessions: big-organising, tag: Campaigner, twitter: 'https://twitter.com/bbond'}
+ben-beach: {bio: 'Architect, housing activist and a member of Plan C', confirmed: 'Yes',
+  name: Ben Beach, organisation: '', other: '', photo: false, sessions: cities-in-common
+    housing-for-all, tag: '', twitter: 'https://twitter.com/benbeachos'}
 ben-westley-clarke: {bio: 'Ben Clarke is an artist who lives and works in Camden Town,
     London. ', confirmed: 'Yes', name: Ben Westley Clarke, organisation: '', other: '',
   photo: true, sessions: good-and-bad-government, tag: Artist, twitter: ''}
@@ -201,9 +201,6 @@ costas-lapavitsas: {bio: 'Professor of Economics at the School of Oriental and A
     Studies; and former member of the Hellenic Parliament for the left-wing party
     Syriza. ', confirmed: 'Yes', name: Costas Lapavitsas, organisation: '', other: '',
   photo: true, sessions: the-brexit-bind, tag: Academic, twitter: ''}
-dalia-gebrial: {bio: 'Decolonisation activist, PhD candidate at LSE and co-editor
-    of ''Decolonising the University''', confirmed: 'Yes', name: Dalia Gebrial, organisation: '',
-  other: '', photo: true, sessions: progressive-nationalism, tag: Activist, twitter: 'https://twitter.com/daliaeldaba'}
 dan-carden-mp: {bio: Labour MP for Liverpool Walton, confirmed: 'Yes', name: Dan Carden
     MP, organisation: Labour Party, other: '', photo: true, sessions: radical-history-tour
     update-the-welfare-state, tag: Politician, twitter: 'https://twitter.com/DanCardenMP'}
@@ -382,6 +379,12 @@ gareth-eales: {bio: !!python/str "Borough and County Councillor in Northamptonsh
     \ and the Labour PPC for Northampton South. He is a postal worker at the Royal\
     \ Mail and a member of the\_CWU.", confirmed: 'Yes', name: Gareth Eales, organisation: '',
   other: '', photo: true, sessions: painting-the-towns-red, tag: 'Politician ', twitter: 'https://twitter.com/cllrgaretheales'}
+gary-anderson: {bio: 'Co-founder of the Free University of Liverpool, the Institute
+    for the Art and Practice of Dissent at Home, as well as Artists4Corbyn. Gary teaches
+    drama at Liverpool Hope University and chairs the UCU branch. He maintains that
+    political education is as revolutionary as falling in love - it changes everything.',
+  confirmed: 'Yes', name: Gary Anderson, organisation: '', other: '', photo: false,
+  sessions: why-political-education, tag: Academic, twitter: ''}
 grace-blakeley: {bio: !!python/str "Writer and Research Fellow on IPPR\u2019s Commission\
     \ on Economic Justice", confirmed: 'Yes', name: Grace Blakeley, organisation: IPPR,
   other: '', photo: true, sessions: a-new-economic-consensus global-finance-101 tribune-relaunch,
@@ -396,8 +399,9 @@ heidi-chow: {bio: Senior campaigns manager for Global Justice Now, confirmed: 'Y
   tag: '', twitter: ''}
 hilary-wainwright: {bio: 'Sociologist, political activist & author, fellow of the
     Transnational Institute and editor of Red Pepper magazine', confirmed: 'Yes',
-  name: Hilary Wainwright, organisation: Red Pepper, other: '', photo: true, sessions: in-and-against-the-state
-    taking-whats-ours workers-control-in-economic-planning, tag: Author, twitter: 'https://twitter.com/hilarypepper'}
+  name: Hilary Wainwright, organisation: Red Pepper, other: '', photo: true, sessions: history-lessons
+    in-and-against-the-state taking-whats-ours workers-control-in-economic-planning,
+  tag: Author, twitter: 'https://twitter.com/hilarypepper'}
 isaac-rose: {bio: 'Isaac Rose is a housing activist with Greater Manchester Housing
     Action, and has led great work holding Manchester City Council to account on their
     development plans.', confirmed: 'Yes', name: Isaac Rose, organisation: Greater
@@ -410,7 +414,7 @@ jacob-mukherjee: {bio: Campaigns Officer at Generation Rent - an organisation fi
   tag: Campaigner, twitter: ''}
 jacqui-haynes: {bio: 'Chair of Lancaster West Residents Association and Grenfell Justice
     activist ', confirmed: 'Yes', name: Jacqui Haynes, organisation: '', other: '',
-  photo: true, sessions: class-justice, tag: Activist, twitter: ''}
+  photo: true, sessions: class-justice future-visions, tag: Activist, twitter: ''}
 james-butler: {bio: 'Senior editor of Novara Media, writer and activist ', confirmed: '',
   name: James Butler, organisation: Novara Media, other: '', photo: true, sessions: red-white-blue-labour,
   tag: '', twitter: ''}
@@ -547,15 +551,13 @@ kevin-frea: {bio: Labour councillor and activist for Red Green Labour, confirmed
   tag: Politician, twitter: ''}
 kika-markham: {bio: '', confirmed: '', name: Kika Markham, organisation: '', other: '',
   photo: true, sessions: clement-atlee-play, tag: Actress, twitter: ''}
-kojo-koram: {bio: 'Lecturer at Essex Law School. His research interests include questions
-    around international law, empire and race.', confirmed: 'Yes', name: Kojo Koram,
-  organisation: '', other: '', photo: true, sessions: progressive-nationalism, tag: Lecturer,
-  twitter: 'https://twitter.com/KojoKoram'}
 laura-basu: {bio: 'Author of Media Amnesia and co-editor of The Media & Austerity,
     both out earlier this year. She is interested in media democracy as well as the
     wider question of how to create more democratic societies.', confirmed: 'Yes',
   name: Laura Basu, organisation: '', other: '', photo: true, sessions: occupy-fleet-street,
   tag: Academic, twitter: ''}
+laura-parker: {bio: '', confirmed: '', name: Laura Parker, organisation: Momentum,
+  other: '', photo: true, sessions: popular-education-forum, tag: '', twitter: 'https://twitter.com/ParkerCiccone'}
 lauren-mccourt: {bio: 'Lauren McCourt was a McStrike leader in Manchester. She was
     elected to Executive committee of the BFAWU, and is a committed anti-racist.',
   confirmed: '', name: Lauren McCourt, organisation: 'Bakers, Food and Allied Workers
@@ -850,7 +852,7 @@ rida-vaquas: {bio: "Rida Vaquas is a former Momentum NCG member. She is an edito
     \ the war.\r\n", confirmed: 'Yes', name: Rida Vaquas, organisation: 'The Clarion ',
   other: '', photo: true, sessions: history-lessons, tag: Activist, twitter: ''}
 rita-chadha: {bio: 'Director of Migrants'' Rights Network ', confirmed: 'Yes', name: Rita
-    Chadha, organisation: Migrants' Rights Network, other: '', photo: false, sessions: migrant-political-voices,
+    Chadha, organisation: Migrants' Rights Network, other: '', photo: true, sessions: migrant-political-voices,
   tag: Activist, twitter: 'https://twitter.com/migrants_rights'}
 robert-verkaik: {bio: 'Journalist (Indy, i, Guardian,Sun Times etc) specialising in
     security and education. ', confirmed: '', name: Robert Verkaik, organisation: '',
@@ -861,10 +863,10 @@ ronan-burtenshaw: {bio: 'Writer and Europe Editor for Jacobin ', confirmed: 'Yes
 rory-hughes: {bio: President of University of Liverpool Guild of Students, confirmed: 'Yes',
   name: Rory Hughes, organisation: Liverpool Guild of Students, other: '', photo: true,
   sessions: lessons-from-the-ucu-strike, tag: Activist, twitter: 'https://twitter.com/RedRoryHughes'}
-royston-bentham: {bio: Management Committee member of Spirit of Shankly and Football
-    Supporters Federation National Council member, confirmed: 'Yes', name: Royston
-    Bentham, organisation: Spirit of Shankley, other: '', photo: true, sessions: class-justice,
-  tag: Activist, twitter: 'https://twitter.com/roybentham1'}
+royston-bentham: {bio: Blacklist Support Group and Management Committee member of
+    Spirit of Shankly and Football Supporters Federation National Council member,
+  confirmed: 'Yes', name: Royston Bentham, organisation: Spirit of Shankly, other: '',
+  photo: true, sessions: class-justice, tag: Activist, twitter: 'https://twitter.com/roybentham1'}
 saikat-chakrabarti: {bio: Senior advisor to Alexandria Ocasio-Cortez and co-founder
     of Justice Democrats, confirmed: 'Yes', name: Saikat Chakrabarti, organisation: '',
   other: '', photo: true, sessions: feeling-the-bern, tag: '', twitter: ''}
@@ -879,7 +881,7 @@ sam-mason: {bio: 'Policy Officer at Public and Commerical Services trade union (
   tag: Trade Unionist, twitter: ''}
 sam-swann: {bio: 'Labour party activist, co-host of the Novara podcast ''The Lockdown''  and
     actor ', confirmed: '', name: Sam Swann, organisation: '', other: '', photo: true,
-  sessions: kids-write-plays, tag: Actor, twitter: 'https://twitter.com/SamGSwann'}
+  sessions: kids-write-plays kids-write-plays-performance, tag: Actor, twitter: 'https://twitter.com/SamGSwann'}
 sarah-jayne-clifton: {bio: !!python/str "Sarah-Jayne Clifton is director of Jubilee\
     \ Debt Campaign, a charity working to end poverty caused by unjust debt through\
     \ education, research and campaigning. Previously she coordinated Friends of the\
