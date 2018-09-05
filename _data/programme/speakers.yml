@@ -82,7 +82,7 @@ anne-marie-cockburn: {bio: !!python/str "Anne-Marie Cockburn\u2019s 15 year old 
     \ Drug Control.", confirmed: 'Yes', name: Anne-Marie Cockburn, organisation: '',
   other: '', photo: true, sessions: ending-the-drug-war, tag: Campaigner, twitter: 'https://twitter.com/5742Days'}
 asad-rehman: {bio: '', confirmed: 'Yes', name: Asad Rehman, organisation: War on Want,
-  other: '', photo: false, sessions: time-for-10, tag: '', twitter: ''}
+  other: '', photo: true, sessions: time-for-10, tag: '', twitter: ''}
 ash-sarkar: {bio: 'Senior editor at Novara Media, and lecturer in Global Politics
     at Anglia Ruskin University and The Sandberg Instituut', confirmed: 'Yes', name: Ash
     Sarkar, organisation: Novara Media, other: '', photo: true, sessions: britains-new-far-right
@@ -104,7 +104,7 @@ becky-bond: {bio: !!python/str "Former Senior Advisor to Bernie Sanders presiden
     \ Can Change Everything'", confirmed: 'Yes', name: Becky Bond, organisation: '',
   other: '', photo: true, sessions: big-organising, tag: Campaigner, twitter: 'https://twitter.com/bbond'}
 ben-beach: {bio: 'Architect, housing activist and a member of Plan C', confirmed: 'Yes',
-  name: Ben Beach, organisation: '', other: '', photo: false, sessions: cities-in-common
+  name: Ben Beach, organisation: '', other: '', photo: true, sessions: cities-in-common
     housing-for-all, tag: '', twitter: 'https://twitter.com/benbeachos'}
 ben-westley-clarke: {bio: 'Ben Clarke is an artist who lives and works in Camden Town,
     London. ', confirmed: 'Yes', name: Ben Westley Clarke, organisation: '', other: '',
@@ -296,7 +296,7 @@ elif-sarican: {bio: !!python/str "UK Coordinator of Kurdistan Students Union. Ac
   organisation: '', other: '', photo: true, sessions: feminism-for-the-many, tag: Activist,
   twitter: ''}
 emily-owen: {bio: Labour PPC for Aberconwy, confirmed: 'Yes', name: Emily Owen, organisation: '',
-  other: '', photo: false, sessions: painting-the-towns-red, tag: Politician, twitter: 'https://twitter.com/emily4aberconwy'}
+  other: '', photo: true, sessions: painting-the-towns-red, tag: Politician, twitter: 'https://twitter.com/emily4aberconwy'}
 emine-ibrahim: {bio: 'Deputy leader of Haringey Council ', confirmed: 'Yes', name: Emine
     Ibrahim, organisation: Labour Party, other: '', photo: true, sessions: black-women-transforming-politics,
   tag: Politician, twitter: ''}
@@ -383,7 +383,7 @@ gary-anderson: {bio: 'Co-founder of the Free University of Liverpool, the Instit
     for the Art and Practice of Dissent at Home, as well as Artists4Corbyn. Gary teaches
     drama at Liverpool Hope University and chairs the UCU branch. He maintains that
     political education is as revolutionary as falling in love - it changes everything.',
-  confirmed: 'Yes', name: Gary Anderson, organisation: '', other: '', photo: false,
+  confirmed: 'Yes', name: Gary Anderson, organisation: '', other: '', photo: true,
   sessions: why-political-education, tag: Academic, twitter: ''}
 grace-blakeley: {bio: !!python/str "Writer and Research Fellow on IPPR\u2019s Commission\
     \ on Economic Justice", confirmed: 'Yes', name: Grace Blakeley, organisation: IPPR,
@@ -488,7 +488,7 @@ jonathan-shafi: {bio: !!python/str "Campaigns Manager with think tank Common Wea
     Shafi, organisation: '', other: '', photo: true, sessions: power-for-the-many,
   tag: Think Tank Campaigner, twitter: 'https://twitter.com/jonathon_shafi'}
 joni-cohen: {bio: '', confirmed: 'Yes', name: Joni Cohen, organisation: '', other: '',
-  photo: false, sessions: fighting-for-trans-liberation, tag: Activist, twitter: 'https://twitter.com/diasporia'}
+  photo: true, sessions: fighting-for-trans-liberation, tag: Activist, twitter: 'https://twitter.com/diasporia'}
 julia-salazar: {bio: DSA candidate for State Senate in Brooklyn, confirmed: 'Yes',
   name: Julia Salazar, organisation: '', other: '', photo: true, sessions: feeling-the-bern,
   tag: Activist, twitter: 'https://twitter.com/SalazarSenate18'}
@@ -794,7 +794,7 @@ phil-asquith: {bio: '', confirmed: '', name: Phil Asquith, organisation: '', oth
 pollyanna-ruiz: {bio: 'Pollyanna Ruiz is a Lecturer of Media and Communication in
     the School of Media, Film and Music at the University of Sussex. She is the author
     of Articulating Dissent: Protest and the Public Sphere (Pluto, 2014).', confirmed: '',
-  name: Pollyanna Ruiz, organisation: University of Sussex, other: '', photo: false,
+  name: Pollyanna Ruiz, organisation: University of Sussex, other: '', photo: true,
   sessions: long-live-southbank, tag: Academic, twitter: 'https://twitter.com/pollyanna_ruiz'}
 prof-ozlem-onaran: {bio: Author and Professor of Economics at the University of Greenwich
     and the director of the Greenwich Political Economy Research Centre, confirmed: 'Yes',
