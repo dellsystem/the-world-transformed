@@ -320,8 +320,8 @@ class-justice: {day: Saturday, description: 'This event brings together groups w
   organiser: 'Orgreave Truth and Justice Campaign, Shrewsbury 24 Campaign, Lancaster
     West Residents Association, Blacklist Support Group, Hillsborough Justice Campaign
     & Haldane Society of Socialist Lawyers', room: Theatre, speakers: chris-peace
-    jacqui-haynes sheila-coleman royston-bentham neil-findlay-msp, start_timestamp: 20180922T173000,
-  time: '17:30-19:00', title: Class Justice, venue: Hinterlands}
+    jacqui-haynes sheila-coleman royston-bentham neil-findlay-msp eileen-turnbull,
+  start_timestamp: 20180922T173000, time: '17:30-19:00', title: Class Justice, venue: Hinterlands}
 clement-atlee-play: {day: Monday, description: !!python/str "For a man who led our\
     \ greatest transformational government, we know next to nothing about Clem Attlee\
     \ \u2013 who he was, what motivated him, where is his passion for socialism originated\
@@ -350,14 +350,6 @@ codespace-monday: {day: Monday, description: 'Come for an hour or stay the whole
     BYOL: Bring your own laptop!', end_timestamp: 20180924T190000, final: true, image: computer,
   organiser: Momentum Tech, room: Meeting Room, speakers: '', start_timestamp: 20180924T150000,
   time: '15:00-19:00', title: CodeSpace Drop-In, venue: Black-E}
-codespace-sunday: {day: Sunday, description: 'Come for an hour or stay the whole day.
-    A chance for beginners step into coding and experienced coders to hack together
-    tools, prototype ideas, make links and learn from each-other.
-
-
-    BYOL: Bring your own laptop!', end_timestamp: 20180923T190000, final: true, image: computer,
-  organiser: Momentum Tech, room: Meeting Room, speakers: '', start_timestamp: 20180923T150000,
-  time: '15:00-19:00', title: CodeSpace Drop-In, venue: Black-E}
 codespace-tuesday: {day: Tuesday, description: 'Come for an hour or stay the whole
     day. A chance for beginners step into coding and experienced coders to hack together
     tools, prototype ideas, make links and learn from each-other.
@@ -384,9 +376,9 @@ communities-against-climate-change: {day: Tuesday, description: 'The climate cha
     clean power. Corbyn  has created space for a 21st century municipal socialism.
     Town hall politics can hand power back to communities; it''s time to get moving.',
   end_timestamp: 20180925T190000, final: true, image: climate, organiser: Labour Energy
-    Forum, room: Theatre, speakers: fliss-premru sakina-sheikh kevin-frea asima-shaikh,
-  start_timestamp: 20180925T173000, time: '17:30-19:00', title: Communities in the
-    Fight Against Climate Change, venue: Hinterlands}
+    Forum, room: Theatre, speakers: fliss-premru sakina-sheikh kevin-frea asima-shaikh
+    steve-battlemuch, start_timestamp: 20180925T173000, time: '17:30-19:00', title: Communities
+    in the Fight Against Climate Change, venue: Hinterlands}
 conversation-with-jean-luc-melenchon: {day: Monday, description: !!python/str "Since\
     \ narrowly missing out in last year's presidential election, Jean-Luc M\xE9lenchon\
     \ and his France Insoumise party have established themselves as the leading left-wing\
@@ -434,7 +426,7 @@ decolonising-yoga: {day: Monday, description: !!python/str "Far from offering an
     \ from the world\u2019s problems, decolonising yoga empowers active compassion,\
     \ community-building, and opposition to capitalism and colonialism. A yoga class\
     \ like you've probably never seen it before.", end_timestamp: 20180924T103000,
-  final: true, image: yoga, organiser: '', room: Studio, speakers: '', start_timestamp: 20180924T090000,
+  final: true, image: yoga, organiser: '', room: Studio, speakers: simran-uppal, start_timestamp: 20180924T090000,
   time: '09:00-10:30', title: Decolonising Yoga, venue: Black-E}
 deconstructing-neoliberalism-monday: {day: Monday, description: !!python/str "Neoliberalism\
     \ isn\u2019t just an economic programme. It\u2019s a whole world-view, that has\
@@ -648,9 +640,9 @@ future-of-trade-unions: {day: Monday, description: !!python/str "After a decade 
     \ develop a bold new strategy to address the imbalance of power in today\u2019\
     s economy. Join trade union General Secretaries and activists to discuss strategies\
     \ for strengthening workers' power.", end_timestamp: 20180924T190000, final: false,
-  image: workplace, organiser: '', room: Theatre, speakers: dave-ward ewa-jasiewicz,
-  start_timestamp: 20180924T173000, time: '17:30-19:00', title: The Future of the
-    Trade Unions, venue: Hinterlands}
+  image: workplace, organiser: '', room: Theatre, speakers: dave-ward ewa-jasiewicz
+    tim-roache, start_timestamp: 20180924T173000, time: '17:30-19:00', title: The
+    Future of the Trade Unions, venue: Hinterlands}
 future-visions: {day: Sunday, description: 'The 2017 general election demonstrated
     that millions of people are desperate for a radical transformation of society.
     This impulse is not only restricted to the U.K. The fight for social justice is
@@ -661,7 +653,7 @@ future-visions: {day: Sunday, description: 'The 2017 general election demonstrat
   final: false, image: default, organiser: '', room: Main Space, speakers: jeremy-corbyn-mp
     bonnie-castillo naomi-klein jacqui-haynes, start_timestamp: 20180923T173000, time: '17:30-19:00',
   title: A World for the Many, venue: Hinterlands}
-generation-solidarity: {day: Tuesday, description: 'Increasingly, age, not class appears
+generation-solidarity: {day: Tuesday, description: 'Increasingly age, not class, appears
     as the most prominent dividing line in politics. As young people have turned towards
     the left, older voters have turned to the right. What are the causes of this growing
     divide? Are things as simple as the statistics look? And how can we build intergenerational
@@ -849,9 +841,9 @@ making-grassroots-media: {day: Sunday, description: 'We know that the mainstream
     Shed}
 mapp-and-beyond: {day: Sunday, description: !!python/str "A behind the scenes look\
     \ at Momentum\u2019s new conference app, as well as discussion of future digital\
-    \ infrastructure developments at Momentum", end_timestamp: 20180923T143000, final: true,
-  image: computer, organiser: Momentum Tech, room: Meeting Room, speakers: '', start_timestamp: 20180923T130000,
-  time: '13:00-14:30', title: M.APP and beyond, venue: Black-E}
+    \ infrastructure developments at Momentum", end_timestamp: 20180923T163000, final: true,
+  image: computer, organiser: Momentum Tech, room: Meeting Room, speakers: '', start_timestamp: 20180923T150000,
+  time: '15:00-16:30', title: M.APP and beyond, venue: Black-E}
 marx-at-200: {day: Sunday, description: !!python/str "After the global financial crisis\
     \ of 2008 almost precipitated the collapse of the world economy, more and more\
     \ people have turned to the ideas of Karl Marx to help them understand the failures\
@@ -937,14 +929,14 @@ nae-pasaran: {day: Sunday, description: !!python/str "In 1974, factory workers i
     \ Scotland refuse to repair jet engines from Chilean Air Force in protest against\
     \ Pinochet\u2019s brutal dictatorship. Four years later, the engines mysteriously\
     \ disappear, ending the longest single action of international solidarity in the\
-    \ UK. The workers never found out the scale of their impact. Until now. As September\
-    \ marks the 45th anniversary of the Chilean Coup, this special advance preview\
-    \ screening of Nae Pasaran! will be followed by a Q&A discussion with director\
-    \ Felipe Bustos Sierra. Supported by Creative Scotland, Unite the union, Unison,\
-    \ National Union of Journalists and Amnesty UK, NAE PASARAN! is in UK cinemas\
-    \ from 2nd November. Duration: 96 minute", end_timestamp: 20180923T211500, final: true,
-  image: film, organiser: '', room: '', speakers: '', start_timestamp: 20180923T193000,
-  time: '19:30-21:15', title: NAE PASARAN! Film Screening, venue: Baltic Cinema}
+    \ UK. The workers never found out the scale of their impact. Until now. This September\
+    \ marks the 45th anniversary of the Chilean Coup and The World Transformed is\
+    \ proud to host a special advance preview screening of Nae Pasaran! Supported\
+    \ by Creative Scotland, Unite the union, Unison, National Union of Journalists\
+    \ and Amnesty UK, NAE PASARAN! is in UK cinemas from 2nd November. Duration: 96\
+    \ minute", end_timestamp: 20180923T211500, final: true, image: film, organiser: '',
+  room: '', speakers: '', start_timestamp: 20180923T193000, time: '19:30-21:15', title: NAE
+    PASARAN! Film Screening, venue: Baltic Cinema}
 nature-of-the-beast: {day: Sunday, description: 'This film screening will provide
     a portrait of the committed socialist, trade unionist and Labour politician Dennis
     Skinner. ''Nature of The Beast'' looks at what lies behind his passion and drive,
@@ -989,8 +981,9 @@ painting-the-towns-red: {day: Tuesday, description: !!python/str "In 2017 and 20
     \ that narrative by discussing the needs of\_varied types of town, how to revive\
     \ and support local democracy,\_and what it will take for Labour to win everywhere.",
   end_timestamp: 20180925T103000, final: false, image: community, organiser: New Socialist,
-  room: Theatre, speakers: daniel-frost gareth-eales jawad-khan emily-owen, start_timestamp: 20180925T090000,
-  time: '09:00-10:30', title: Painting the Towns Red, venue: Black-E}
+  room: Theatre, speakers: daniel-frost gareth-eales jawad-khan emily-owen sonya-ward,
+  start_timestamp: 20180925T090000, time: '09:00-10:30', title: Painting the Towns
+    Red, venue: Black-E}
 parties-and-picket-lines: {day: Saturday, description: 'How do we merge the political
     and cultural worlds? Over the last 12 months, along with many different activists
     and local organisations, Manchester Momentum has worked to create a long-lasting,
