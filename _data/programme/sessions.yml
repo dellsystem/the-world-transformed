@@ -147,17 +147,29 @@ alborada-latin-america: {day: Saturday, description: 'Alborada presents a select
     and solidarity to those fighting for social justice and equality.', end_timestamp: 20180922T211500,
   final: true, image: film, organiser: Alborada, room: Cinema, speakers: '', start_timestamp: 20180922T193000,
   time: '19:30-21:15', title: 'Alborada: Latin America Uncovered', venue: Baltic}
-an-evening-of-internationalism: {day: Sunday, description: 'A multimedia extravaganza
-    of talks, films, music and spoken word, exploring the struggles of those resisting
-    colonialism and capitalism on the front lines. Join speakers from around the world
-    to learn about and celebrate these histories of resistance - from the fight against
-    slavery, to 20th century anti-colonial struggles, and on to the present day. A
-    vibrant spirit of international solidarity was key to all of these movements -
-    how can we build on that legacy to forge a new internationalism for the 21st century?',
-  end_timestamp: 20180923T233000, final: false, image: international, organiser: 'War
-    on Want, Global Justice Now, Jubilee Debt Campaign & Health Poverty Action', room: Theatre,
-  speakers: '', start_timestamp: 20180923T193000, time: '19:30-23:30', title: !!python/str "None\
-    \ of Us Are Free Until We\u2019re All Free: An Evening of Internationalism", venue: Hinterlands}
+an-evening-of-internationalism: {day: Sunday, description: !!python/str "A multimedia\
+    \ extravaganza of talks, films, music and spoken word, exploring the struggles\
+    \ of those resisting colonialism and capitalism on the front lines. Join speakers\
+    \ from around the world to learn about and celebrate these histories of resistance\
+    \ - from the fight against slavery, to 20th century anti-colonial struggles, and\
+    \ on to the present day. A vibrant spirit of international solidarity was key\
+    \ to all of these movements - how can we build on that legacy to forge a new internationalism\
+    \ for the 21st century? \nFeaturing: \n\n \nFilm showings: \n\n\u201CBritain\u2019\
+    s legacy in the world \u2013 why the left must be internationalist?\u201D\n\n\u201C\
+    Resistance and Rebellion \u2013 The story of global social movements.\u201D\n\n\
+    \ \nPanels: \n\n1.       Lessons for activists on internationalism today\n\n2.\
+    \       What role for the UK in an international left?                       \
+    \                                                                            \
+    \                                                                            \
+    \           Live performance:\n\nAfrocidade, the Bahian powerhouse from Brazil\
+    \ bring their sounds of resistance to TWT with a unique blend of Brazilian rhythms,\
+    \ Dancehall, Afrobeat and Dub. With powerful lyricism and blazing rhythms they\
+    \ bring the street to the stage.\n\n \nDJ set: \n\nMovimento sound system\n\n\
+    Food and drink available.", end_timestamp: 20180923T233000, final: false, image: international,
+  organiser: 'War on Want, Global Justice Now, Jubilee Debt Campaign & Health Poverty
+    Action', room: Theatre, speakers: '', start_timestamp: 20180923T193000, time: '19:30-23:30',
+  title: !!python/str "None of Us Are Free Until We\u2019re All Free: An Evening of\
+    \ Internationalism", venue: Hinterlands}
 an-intersection-of-class-and-gender: {day: Monday, description: !!python/str "In this\
     \ session, Rhiannon White and\_Aya\_O'Haidar will report on their discussions\
     \ and workshop with working-class women from a boxing club in East Cardiff, in\
@@ -215,7 +227,7 @@ black-flowers: {day: Saturday, description: 'In a city built on the slave trade,
     Town Hall and using film, poetry and art to heal the wounds of slavery and move
     forward together as a united community. Join the filmmakers in conversation after
     the film.', end_timestamp: 20180922T140000, final: true, image: film, organiser: ROOT-Ed
-    Zine and Kiara Mohamed, room: '', speakers: '', start_timestamp: 20180922T130000,
+    Zine and Kiara Mohamed, room: '', speakers: kiara-mohamed, start_timestamp: 20180922T130000,
   time: '13:00-14:00', title: Black Flowers Screening + Discussion, venue: Baltic
     Cinema}
 black-women-transforming-politics: {day: Sunday, description: !!python/str "Although\
@@ -238,27 +250,21 @@ bringing-twt-to-your-community: {day: Tuesday, description: !!python/str "Has be
     \ done it before.", end_timestamp: 20180925T103000, final: true, image: default,
   organiser: The World Transformed, room: Studio, speakers: '', start_timestamp: 20180925T090000,
   time: '09:00-10:30', title: Bringing TWT to your community, venue: Black-E}
-britains-colonial-legacy-in-palestine: {day: Tuesday, description: !!python/str "Israel\
-    \ uses military force to maintain its oppression of Palestinians. It targets people\
-    \ with tear gas grenades, rubber-coated bullets and live ammunition, and carries\
-    \ out mass arrests, house demolitions and extrajudicial executions. This brutality\
-    \ lies at\_the heart of Israel\u2019s systematic violations of Palestinian rights,\
-    \ amounting to serious breaches of international law, and even war crimes.\_How\
-    \ can we end the\_complicity of Britain\u2019s trade in arms in\_this violence\
-    \ and\_destruction.", end_timestamp: 20180925T143000, final: false, image: palestine,
-  organiser: War on Want, room: Studio, speakers: '', start_timestamp: 20180925T130000,
-  time: '13:00-14:30', title: 'A Deadly Investment: The UK''s Trade in Arms to Israel',
-  venue: Black-E}
 britains-new-far-right: {day: Saturday, description: 'From Tommy Robinson on the streets
     to Boris Johnson in the halls of power, a growing far right movement is on the
     march. Hate crimes are on the rise, along with islamophobia, antisemitism, and
     fear-mongering about migrants. In other words, it''s no fringe issue - far right
     ideas are deeply rooted in UK society. We need to tackle where the the far right
     comes from, what makes it tick, and why it''s recently grown so powerful - so
-    we can build an anti-fascist movement to beat it once and for all.', end_timestamp: 20180922T163000,
-  final: true, image: antifascist, organiser: '', room: Main Space, speakers: richard-burgon-mp
-    ash-sarkar alan-gibbons eleanor-penny, start_timestamp: 20180922T150000, time: '15:00-16:30',
-  title: Britain's New Far Right, venue: Hinterlands}
+    we can build an anti-fascist movement to beat it once and for all.
+
+
+    _Photo by [Mark Ramsay](https://www.flickr.com/photos/neutronboy/43356709902/in/dateposted-public/)
+    and released under a [Creative Commons license](https://creativecommons.org/licenses/by/2.0/uk/)._',
+  end_timestamp: 20180922T163000, final: true, image: antifascist, organiser: '',
+  room: Main Space, speakers: richard-burgon-mp ash-sarkar alan-gibbons eleanor-penny,
+  start_timestamp: 20180922T150000, time: '15:00-16:30', title: Britain's New Far
+    Right, venue: Hinterlands}
 building-community-wealth: {day: Saturday, description: 'A new wave of municipal socialism
     is emerging in Britain. At its centre is the idea of community wealth building,
     which focuses on creating collaborative, sustainable and democratically controlled
@@ -400,22 +406,21 @@ creative-campaigning: {day: Saturday, description: 'Since launching in 2013, Lon
     award winning campaign. This drop-in workshop gives activists the chance to learn
     methods to help strengthen their own creative campaign as well as broaden discussions
     around youth culture and advocacy.', end_timestamp: 20180922T160000, final: true,
-  image: default, organiser: '', room: Gallery, speakers: '', start_timestamp: 20180922T130000,
-  time: '13:00-16:00', title: Creative Campaign Surgery with Long Live Southbank,
-  venue: Black-E}
+  image: default, organiser: '', room: Gallery, speakers: louis-woodhead stuart-maclure
+    matt-nelmes, start_timestamp: 20180922T130000, time: '13:00-16:00', title: Creative
+    Campaign Surgery with Long Live Southbank, venue: Black-E}
 creative-class: {day: Saturday, description: !!python/str "How is creative labour\
     \ particular in its relationship to politics and precarity? How does this damage\
     \ the agency of both creative workers and creative disciplines when struggling\
     \ to shape society? How can we can work towards fairer conditions in which to\
-    \ produce better work? Charlotte Grace teaches architecture and is involved in\
-    \ numerous struggles across the built environment. She\u2019ll chat to Louis Schulz,\
-    \ who\u2019s a member of Turner Prize-winning architecture collective Assemble,\
-    \ about exploitation and collectivisation. This is a participatory event in which\
-    \ creative labourers can bring their individual and collective concerns about\
-    \ the politics of their professions to discuss with us.", end_timestamp: 20180922T143000,
-  final: true, image: art, organiser: '', room: Entrance, speakers: charlotte-grace
-    louis-schulz, start_timestamp: 20180922T130000, time: '13:00-14:30', title: Creative
-    Class, venue: Hinterlands}
+    \ produce better work? Charlotte Grace teaches architecture and works for Novara\
+    \ Media. She\u2019ll chat to Louis Schulz, who\u2019s a member of Turner Prize-winning\
+    \ architecture collective Assemble, about exploitation and collectivisation. This\
+    \ is a participatory event in which creative labourers can bring their individual\
+    \ and collective concerns about the politics of their professions to discuss with\
+    \ us.", end_timestamp: 20180922T143000, final: true, image: art, organiser: '',
+  room: Entrance, speakers: charlotte-grace louis-schulz, start_timestamp: 20180922T130000,
+  time: '13:00-14:30', title: Creative Class, venue: Hinterlands}
 cybernetic-socialism: {day: Monday, description: !!python/str "Project Cybersyn is\
     \ one of the most remarkable initiatives in 20th century history. Before it was\
     \ destroyed by a US-backed coup in 1973, Allende\u2019s socialist government in\
@@ -443,9 +448,10 @@ decolonising-foreign-policy: {day: Monday, description: !!python/str "UK foreign
     \ of the UK\u2019s wealth and privilege at the expense of those living in the\
     \ global South. What role do trade, aid and development play in perpetuating this\
     \ legacy? This session will explore how the UK can advance justice and human rights\
-    \ around the globe.", end_timestamp: 20180924T163000, final: false, image: international,
-  organiser: War on Want, room: Theatre, speakers: '', start_timestamp: 20180924T150000,
-  time: '15:00-16:30', title: Empire 2.0, venue: Hinterlands}
+    \ around the globe.", end_timestamp: 20180924T163000, final: true, image: international,
+  organiser: War on Want, room: Theatre, speakers: vijay-prashad anna-stavrianakis
+    ryvka-barnard gargi-bhattacharyya, start_timestamp: 20180924T150000, time: '15:00-16:30',
+  title: Empire 2.0, venue: Hinterlands}
 decolonising-yoga: {day: Monday, description: !!python/str "Far from offering an escape\
     \ from the world\u2019s problems, decolonising yoga empowers active compassion,\
     \ community-building, and opposition to capitalism and colonialism. A yoga class\
@@ -647,7 +653,7 @@ fighting-for-trans-liberation: {day: Monday, description: 'This session will rai
     and what would be its limitations? How can we address issues affecting trans people
     now - in work, housing, healthcare, sex work, prisons, and migrant detention centres?',
   end_timestamp: 20180924T211500, final: false, image: lgbtq, organiser: '', room: Theatre,
-  speakers: joni-cohen toby-sinbad-walker chamindra-weerawardhana, start_timestamp: 20180924T193000,
+  speakers: joni-cohen toby-sinbad-walker chamindra-weerawardhana evren-bh, start_timestamp: 20180924T193000,
   time: '19:30-21:15', title: Fighting for Trans Liberation, venue: Black-E}
 folding-our-futures: {day: Sunday, description: 'Learn about the story of the young
     japanese girl, who in the wake of the atomic bomb in Hiroshima (Japan), folded
@@ -1045,7 +1051,7 @@ power-for-the-many: {day: Sunday, description: 'Democracy is about much more tha
     England, this session will help imagine how we can bring about a new democracy.',
   end_timestamp: 20180923T143000, final: true, image: default, organiser: Electoral
     Reform Society & Politics for the Many, room: Main Space, speakers: jon-trickett-mp
-    paul-mason nancy-platts jonathan-shafi alice-kinghorn-grey, start_timestamp: 20180923T130000,
+    nancy-platts jonathan-shafi alice-kinghorn-gray kate-shea-baird paul-mason, start_timestamp: 20180923T130000,
   time: '13:00-14:30', title: 'Power for the Many: A Radical Agenda for Democracy',
   venue: Black-E}
 power-mapping: {day: Saturday, description: 'Does your local Labour branch or Momentum
@@ -1160,8 +1166,9 @@ sacrifice-zones: {day: Sunday, description: !!python/str "Neo-liberalism, inequa
     \ and the deliberate sacrificing of black and poor lives that has been inherent\
     \ firstly\_in\_colonialism,\_and now\_neoliberalism and climate change. The panel\
     \ will discuss how racism has shaped the dominant climate narrative and\_how can\
-    \ we decolonise environmentalism.", end_timestamp: 20180923T143000, final: false,
-  image: earth, organiser: War on Want, room: Studio, speakers: '', start_timestamp: 20180923T130000,
+    \ we decolonise environmentalism.", end_timestamp: 20180923T143000, final: true,
+  image: earth, organiser: War on Want, room: Studio, speakers: asad-rehman sivan-kartha
+    igor-felipe zita-holbourne firoze-manji vijay-prashad, start_timestamp: 20180923T130000,
   time: '13:00-14:30', title: !!python/str "Sacrifice Zones \u2013 Colonialism, Neoliberalism\
     \ and Climate Change", venue: Black-E}
 saving-the-nhs: {day: Sunday, description: !!python/str "Our NHS has been under attack\
@@ -1204,6 +1211,17 @@ socialist-women-in-labour: {day: Saturday, description: 'From protecting public 
   speakers: emma-dent-coad-mp danielle-rowley-mp jennifer-forbes ann-henderson leah-levane
     dr-faiza-shaheen dawn-butler-mp, start_timestamp: 20180922T173000, time: '17:30-19:00',
   title: Why the Labour Party Needs Socialist Women, venue: Black-E}
+solidarity-with-palestinians: {day: Tuesday, description: !!python/str "The Palestinian\
+    \ Great Return March was met with a brutal crack down by the Israeli Military,\
+    \ leading to a devastating loss of life. While the UK government condemned the\
+    \ massacres, it has continued selling weapons to Israel.  Exporting weapons when\
+    \ they may be used in violations of international law breaks the UK\u2019s own\
+    \ policy. The refusal to hold Israel to account over this crackdown is part of\
+    \ a longer history of UK complicity in violations of Palestinian rights, and a\
+    \ larger failure of UK policy on the arms trade.", end_timestamp: 20180925T143000,
+  final: false, image: palestine, organiser: War on Want, room: Studio, speakers: marsha-de-cordova-mp
+    alia-malak ryvka-barnard hazem-jamjoum, start_timestamp: 20180925T130000, time: '13:00-14:30',
+  title: 'Solidarity with Palestinians: Challenging UK Militarism', venue: Black-E}
 sustainability-economics: {day: Tuesday, description: !!python/str "Join Shadow Treasury\
     \ Minister, Clive Lewis, to hear about Labour\u2019s work on sustainable economics.\
     \ What should the treasury be doing to tackle the world's looming ecological crises?\
@@ -1273,9 +1291,9 @@ the-british-ruling-class: {day: Tuesday, description: !!python/str "Something ve
     \ stable and successful in the entire world. Yet in 2018, the institutions underpinning\
     \ their rule seem to be in a state of permanent crisis - from the Conservative\
     \ Party, to the media, to the banks. What happened to our ruling class? And how\
-    \ should we react?", end_timestamp: 20180925T211500, final: true, image: default,
-  organiser: '', room: Theatre, speakers: '', start_timestamp: 20180925T193000, time: '19:30-21:15',
-  title: 'What happened to the British ruling class?', venue: Hinterlands}
+    \ should we react?", end_timestamp: 20180925T211500, final: false, image: default,
+  organiser: '', room: Theatre, speakers: richard-seymour dawn-foster, start_timestamp: 20180925T193000,
+  time: '19:30-21:15', title: 'What happened to the British ruling class?', venue: Hinterlands}
 the-european-left: {day: Saturday, description: 'In recent years, Europe has seen
     austerity give way to political turmoil and the rise of the radical right. How
     should the left respond? Join MPs from across the European left to discuss the
