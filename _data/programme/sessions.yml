@@ -28,7 +28,7 @@ a-movement-in-government: {day: Sunday, description: !!python/str "What will it 
     \ historical lessons can we draw upon, and how might we deploy our greatest asset\u2014\
     our growing movement\u2014to deliver radical change? Come and discuss.", end_timestamp: 20180923T211500,
   final: false, image: default, organiser: '', room: Main Space, speakers: paul-mason
-    dimitris-tzanakopoulos christine-berry joe-guinan, start_timestamp: 20180923T193000,
+    dimitris-tzanakopoulos christine-berry joe-guinan laura-parker, start_timestamp: 20180923T193000,
   time: '19:30-21:15', title: 'A Movement in Government?', venue: Black-E}
 a-movement-led-media: {day: Saturday, description: 'In the face of constant misrepresentation
     by the mainstream media, how should the left respond? It cannot simply be about
@@ -392,6 +392,30 @@ conversation-with-jean-luc-melenchon: {day: Monday, description: !!python/str "S
 cracked-play: {day: Tuesday, description: '', end_timestamp: 20180925T190000, final: true,
   image: theatre, organiser: '', room: Theatre, speakers: '', start_timestamp: 20180925T173000,
   time: '17:30-19:00', title: 'Cracked: A Theatrical Performance', venue: Black-E}
+creative-campaigning: {day: Saturday, description: 'Since launching in 2013, Long
+    Live Southbank (LLSB) has operated as a diverse and multi-generational grassroots
+    organisation. Throughout the initial campaign to save the beloved home of British
+    skateboarding from destruction, and now the current campaign to restore sections
+    of the space, LLSB has learnt a great deal about how to operate a successful and
+    award winning campaign. This drop-in workshop gives activists the chance to learn
+    methods to help strengthen their own creative campaign as well as broaden discussions
+    around youth culture and advocacy.', end_timestamp: 20180922T160000, final: true,
+  image: default, organiser: '', room: Gallery, speakers: '', start_timestamp: 20180922T130000,
+  time: '13:00-16:00', title: Creative Campaign Surgery with Long Live Southbank,
+  venue: Black-E}
+creative-class: {day: Saturday, description: !!python/str "How is creative labour\
+    \ particular in its relationship to politics and precarity? How does this damage\
+    \ the agency of both creative workers and creative disciplines when struggling\
+    \ to shape society? How can we can work towards fairer conditions in which to\
+    \ produce better work? Charlotte Grace teaches architecture and is involved in\
+    \ numerous struggles across the built environment. She\u2019ll chat to Louis Schulz,\
+    \ who\u2019s a member of Turner Prize-winning architecture collective Assemble,\
+    \ about exploitation and collectivisation. This is a participatory event in which\
+    \ creative labourers can bring their individual and collective concerns about\
+    \ the politics of their professions to discuss with us.", end_timestamp: 20180922T143000,
+  final: true, image: art, organiser: '', room: Entrance, speakers: charlotte-grace
+    louis-schulz, start_timestamp: 20180922T130000, time: '13:00-14:30', title: Creative
+    Class, venue: Hinterlands}
 cybernetic-socialism: {day: Monday, description: !!python/str "Project Cybersyn is\
     \ one of the most remarkable initiatives in 20th century history. Before it was\
     \ destroyed by a US-backed coup in 1973, Allende\u2019s socialist government in\
@@ -659,8 +683,9 @@ generation-solidarity: {day: Tuesday, description: 'Increasingly age, not class,
     divide? Are things as simple as the statistics look? And how can we build intergenerational
     solidarity to overcome these divisions? Join five socialists from five different
     generations to discuss these questions and more.', end_timestamp: 20180925T190000,
-  final: false, image: default, organiser: '', room: Main Space, speakers: '', start_timestamp: 20180925T173000,
-  time: '17:30-19:00', title: Generation Solidarity, venue: Black-E}
+  final: false, image: default, organiser: '', room: Main Space, speakers: james-butler
+    keir-milburn amal-bider julie-lyon-taylor, start_timestamp: 20180925T173000, time: '17:30-19:00',
+  title: Generation Solidarity, venue: Black-E}
 getting-your-local-groups-working: {day: Tuesday, description: 'How do you build a
     strong team that harnesses the strengths of your local group members? Join us
     as we explore the tips and tricks of effective facilitation and team building.',
@@ -819,9 +844,9 @@ living-the-climate-crisis: {day: Saturday, description: 'Across the world people
     corporations are still imposing dangerous fracking projects abroad supported by
     the Tory government. Join a panel of grassroots activists to discuss how we move
     from the climate crisis to Climate Justice.', end_timestamp: 20180922T123000,
-  final: false, image: energy, organiser: Labour Energy Forum, room: Theatre, speakers: '',
-  start_timestamp: 20180922T110000, time: '11:00-12:30', title: 'Floods and Forest
-    Fires: Living the Climate Crisis', venue: Black-E}
+  final: false, image: energy, organiser: Labour Energy Forum, room: Theatre, speakers: tahir-latif
+    louise-castro anna-markova, start_timestamp: 20180922T110000, time: '11:00-12:30',
+  title: 'Floods and Forest Fires: Living the Climate Crisis', venue: Black-E}
 long-live-southbank: {day: Saturday, description: 'Long Live Southbank is a diverse,
     multi-generational grassroots organisation. Championing unique and youth-led direct
     action, the initial campaign to save the beloved home of British skateboarding
@@ -1051,12 +1076,11 @@ question-time: {day: Saturday, description: !!python/str "Its often said that yo
     Ask Them (8-18 years)', venue: Black-E}
 racisms-past-and-present: {day: Monday, description: 'Join leading scholars for a
     discussion of racism in Britain, its long history and how the left can and should
-    battle against it. We will discuss antisemitism, islamophobia, white supremacy
-    and the Palestinian struggle for justice, looking at how bigotries flourish and
-    how the left has succeeded or failed in confronting and beating them.', end_timestamp: 20180924T143000,
-  final: false, image: international, organiser: '', room: Event Space, speakers: '',
-  start_timestamp: 20180924T130000, time: '13:00-14:30', title: 'Invisible Histories:
-    Racisms Past and Present', venue: Constellations}
+    battle against it. We will look at how bigotries flourish and how the left has
+    succeeded or failed in confronting and beating them.', end_timestamp: 20180924T143000,
+  final: false, image: international, organiser: '', room: Event Space, speakers: jacqueline-rose
+    karma-nabulsi robert-berkeley, start_timestamp: 20180924T130000, time: '13:00-14:30',
+  title: 'Invisible Histories: Racisms Past and Present', venue: Constellations}
 radical-history-tour: {day: Sunday, description: !!python/str "Join Liverpool Walton\
     \ MP Dan Carden on a journey back into Liverpool\u2019s turbulent political past.\
     \ \n\nThis bus tour will visit key locations of protest, struggle and social progress\
@@ -1243,6 +1267,15 @@ the-brexit-bind: {day: Saturday, description: !!python/str "The EU referendum di
   image: europe, organiser: Another Europe is Possible, room: Main Space, speakers: ann-pettifor
     paul-mason costas-lapavitsas mary-kaldor, start_timestamp: 20180922T193000, time: '19:30-21:15',
   title: !!python/str "The Brexit Bind: What Should Labour\u2019s Position be?", venue: Hinterlands}
+the-british-ruling-class: {day: Tuesday, description: !!python/str "Something very\
+    \ strange is happening in British politics, and it\u2019s not just the rise of\
+    \ Jeremy Corbyn. For centuries, the British ruling class has been one of the most\
+    \ stable and successful in the entire world. Yet in 2018, the institutions underpinning\
+    \ their rule seem to be in a state of permanent crisis - from the Conservative\
+    \ Party, to the media, to the banks. What happened to our ruling class? And how\
+    \ should we react?", end_timestamp: 20180925T211500, final: true, image: default,
+  organiser: '', room: Theatre, speakers: '', start_timestamp: 20180925T193000, time: '19:30-21:15',
+  title: 'What happened to the British ruling class?', venue: Hinterlands}
 the-european-left: {day: Saturday, description: 'In recent years, Europe has seen
     austerity give way to political turmoil and the rise of the radical right. How
     should the left respond? Join MPs from across the European left to discuss the
@@ -1399,5 +1432,5 @@ workers-control-in-economic-planning: {day: Sunday, description: 'The Lucas Plan
     How can organised Labour champion the right to production with a social purpose?',
   end_timestamp: 20180923T163000, final: true, image: workplace, organiser: Red Pepper
     & Spokesman, room: Theatre, speakers: hilary-wainwright sam-mason phil-asquith
-    pat-devine, start_timestamp: 20180923T150000, time: '15:00-16:30', title: Workers'
-    Control in Economic Planning, venue: Black-E}
+    pat-devine john-mcdonnell-mp, start_timestamp: 20180923T150000, time: '15:00-16:30',
+  title: Workers' Control in Economic Planning, venue: Black-E}

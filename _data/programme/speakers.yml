@@ -22,8 +22,9 @@ alan-gibbons: {bio: 'Alan Gibbons is an English writer of children''s books , co
   tag: '', twitter: ''}
 alex-mayer-mep: {bio: MEP for East of England, confirmed: '', name: Alex Mayer MEP,
   organisation: '', other: '', photo: true, sessions: time-for-10, tag: '', twitter: ''}
-ali-mussell: {bio: Early years educator., confirmed: 'yes', name: Ali Mussell, organisation: '',
-  other: '', photo: false, sessions: developing-labours-nes, tag: '', twitter: ''}
+ali-mussell: {bio: 'Early Years Teacher, Radical Education Forum', confirmed: 'yes',
+  name: Ali Mussell, organisation: '', other: '', photo: false, sessions: developing-labours-nes,
+  tag: '', twitter: ''}
 alice-kinghorn-grey: {bio: 'Campaign Organiser for Electoral Reform Society (Scotland),
     organiser for ''Act As If We Own The Place'', works on relations between the municipalist
     movements across Spain and Scotland', confirmed: 'Yes', name: Alice Kinghorn-Grey,
@@ -35,6 +36,8 @@ alice-martin: {bio: 'Alice is Head of Work and Pay at the New Economics Foundati
   sessions: 4-day-week, tag: Researcher, twitter: 'https://twitter.com/AlicePMartin'}
 alison-mcgarry: {bio: '', confirmed: 'yes', name: Alison McGarry, organisation: '',
   other: '', photo: false, sessions: mind-the-gap, tag: '', twitter: ''}
+amal-bider: {bio: '', confirmed: '', name: Amal Bider, organisation: '', other: '',
+  photo: false, sessions: generation-solidarity, tag: '', twitter: ''}
 andrew-cumbers: {bio: Political economist, confirmed: 'yes', name: Andrew Cumbers,
   organisation: '', other: '', photo: true, sessions: taking-whats-ours, tag: '',
   twitter: 'https://twitter.com/acumbers'}
@@ -71,6 +74,9 @@ anna-dent: {bio: !!python/str "Independent public policy consultant and RSA fell
     \ on welfare reform and basic income models.\_", confirmed: 'Yes', name: Anna
     Dent, organisation: '', other: '', photo: false, sessions: update-the-welfare-state,
   tag: Researcher, twitter: ''}
+anna-markova: {bio: Campaigns coordinator for Platform, confirmed: 'No', name: Anna
+    Markova, organisation: Platform, other: '', photo: false, sessions: living-the-climate-crisis,
+  tag: Activist, twitter: ''}
 anna-minton: {bio: 'Anna Minton is a writer, journalist and Reader in Architecture
     at UEL. She has written two books, Ground Control in 2009 and Big Capital in 2017',
   confirmed: 'Yes', name: Anna Minton, organisation: '', other: '', photo: true, sessions: housing-for-all,
@@ -155,7 +161,7 @@ chamindra-weerawardhana: {bio: 'Dr Chamindra Weerawardhana is a gender and justi
     elsewhere in Europe, Canada, and Sri Lanka. Her book, "Decolonising Peacebuilding",
     is out later this year. ', confirmed: 'Yes', name: Dr Chamindra Weerawardhana,
   organisation: '', other: '', photo: true, sessions: fighting-for-trans-liberation,
-  tag: '', twitter: ''}
+  tag: '', twitter: 'https://twitter.com/fremancourt'}
 chantal-mouffe: {bio: 'Belgian political theorist and Professor of Political Theory
     at the Centre for the Study of Democracy, University of Westminster.', confirmed: 'Yes',
   name: Chantal Mouffe, organisation: '', other: '', photo: true, sessions: a-new-populism,
@@ -165,16 +171,19 @@ charlie-clarke: {bio: Charlie Clarke is a member of The World Transformed team a
     North CLP and works as a support worker in a hostel for people with complex needs.,
   confirmed: 'Yes', name: Charlie Clarke, organisation: '', other: '', photo: true,
   sessions: popular-education-forum, tag: Activist, twitter: ''}
+charlotte-grace: {bio: '', confirmed: '', name: Charlotte Grace, organisation: '',
+  other: '', photo: false, sessions: creative-class, tag: '', twitter: ''}
 charlotte-riley: {bio: "Charlotte Lydia Riley is a lecturer in twentieth century British\
     \ history at the University of Southampton. She works on the history of the Labour\
     \ Party, the end of the British Empire, overseas development, aid and humanitarianism.\
     \ \r\n", confirmed: 'yes', name: Charlotte Riley, organisation: '', other: '',
   photo: true, sessions: internationalist-labour-party, tag: '', twitter: 'https://twitter.com/lottelydia'}
-chloe-tomlinson: {bio: '', confirmed: '', name: Chloe Tomlinson, organisation: '',
-  other: '', photo: true, sessions: developing-labours-nes, tag: '', twitter: ''}
+chloe-tomlinson: {bio: National Education Union Young Teachers, confirmed: '', name: Chloe
+    Tomlinson, organisation: '', other: '', photo: true, sessions: developing-labours-nes,
+  tag: '', twitter: ''}
 chris-peace: {bio: 'Orgreave Truth and Justice Campaign and Labour PPC for North East
     Derbyshire ', confirmed: 'Yes', name: Chris Peace, organisation: '', other: '',
-  photo: false, sessions: class-justice, tag: '', twitter: ''}
+  photo: true, sessions: class-justice, tag: '', twitter: ''}
 chris-williamson-mp: {bio: 'Labour MP for Derby North, formerly leader of Derby City
     Council. He is a former bricklayer, market trader, social worker and welfare rights
     officer and has been an animal rights and trade union activist all his adult life. ',
@@ -310,11 +319,12 @@ emma-black: {bio: '', confirmed: 'Yes', name: Emma Black, organisation: Equal Ca
 emma-dent-coad-mp: {bio: Labour MP for Kensington, confirmed: 'Yes', name: Emma Dent
     Coad MP, organisation: Labour Party, other: '', photo: true, sessions: socialist-women-in-labour,
   tag: Politician, twitter: 'https://twitter.com/emmadentcoad'}
-emma-hardy-mp: {bio: '', confirmed: '', name: Emma Hardy MP, organisation: '', other: '',
-  photo: true, sessions: developing-labours-nes, tag: '', twitter: ''}
+emma-hardy-mp: {bio: Education Select Committee and former teacher, confirmed: '',
+  name: Emma Hardy MP, organisation: '', other: '', photo: true, sessions: developing-labours-nes,
+  tag: '', twitter: ''}
 eva-o-connor: {bio: 'Irish stage actress, playwright and campaigner to Repeal the
     8th Amendment ', confirmed: 'Yes', name: Eva O'Connor, organisation: '', other: '',
-  photo: false, sessions: feminism-for-the-many, tag: Activist, twitter: ''}
+  photo: true, sessions: feminism-for-the-many, tag: Activist, twitter: ''}
 ewa-jasiewicz: {bio: 'Is a trade unionist, activst and journalist.', confirmed: 'Yes',
   name: Ewa Jasiewicz, organisation: '', other: '', photo: true, sessions: future-of-trade-unions,
   tag: '', twitter: ''}
@@ -417,12 +427,15 @@ jacob-mukherjee: {bio: Campaigns Officer at Generation Rent - an organisation fi
     the national campaign to end no-fault evictions, confirmed: 'Yes', name: Jacob
     Mukherjee, organisation: Generation Rent, other: '', photo: true, sessions: rentquake,
   tag: Campaigner, twitter: ''}
+jacqueline-rose: {bio: 'Professor of Humanities at Birkbeck, University of London',
+  confirmed: '', name: Jacqueline Rose, organisation: '', other: '', photo: true,
+  sessions: racisms-past-and-present, tag: '', twitter: ''}
 jacqui-haynes: {bio: 'Chair of Lancaster West Residents Association and Grenfell Justice
     activist ', confirmed: 'Yes', name: Jacqui Haynes, organisation: '', other: '',
   photo: true, sessions: class-justice future-visions, tag: Activist, twitter: ''}
 james-butler: {bio: 'Senior editor of Novara Media, writer and activist ', confirmed: '',
-  name: James Butler, organisation: Novara Media, other: '', photo: true, sessions: red-white-blue-labour,
-  tag: '', twitter: ''}
+  name: James Butler, organisation: Novara Media, other: '', photo: true, sessions: generation-solidarity
+    red-white-blue-labour, tag: '', twitter: 'https://twitter.com/piercepenniless'}
 james-murray: {bio: Deputy Mayor of London for Housing and Residential Development,
   confirmed: 'Yes', name: James Murray, organisation: '', other: '', photo: true,
   sessions: cities-in-common, tag: Politician, twitter: 'https://twitter.com/jamesmurray_ldn'}
@@ -479,7 +492,8 @@ joe-guinan: {bio: Senior Fellow at Democracy Collaborative and Executive Directo
 john-mcdonnell-mp: {bio: Shadow Chancellor of the Exchequer and Labour MP for Hayes
     and Harlington, confirmed: 'Yes', name: John McDonnell MP, organisation: Labour
     Party, other: '', photo: true, sessions: in-and-against-the-state towards-a-socialist-government
-    transforming-the-global-economy why-political-education, tag: Politician, twitter: 'https://twitter.com/johnmcdonnellMP'}
+    transforming-the-global-economy why-political-education workers-control-in-economic-planning,
+  tag: Politician, twitter: 'https://twitter.com/johnmcdonnellMP'}
 jon-trickett-mp: {bio: 'Labour MP for Hemsworth and Shadow Minister for the Cabinet
     Office ', confirmed: 'Yes', name: Jon Trickett MP, organisation: Labour Party,
   other: '', photo: true, sessions: a-new-populism conversation-with-jean-luc-melenchon
@@ -503,6 +517,8 @@ joni-cohen: {bio: !!python/str "Joni Alizah Cohen is an independent writer and r
 julia-salazar: {bio: DSA candidate for State Senate in Brooklyn, confirmed: 'Yes',
   name: Julia Salazar, organisation: '', other: '', photo: true, sessions: feeling-the-bern,
   tag: Activist, twitter: 'https://twitter.com/SalazarSenate18'}
+julie-lyon-taylor: {bio: '', confirmed: 'Yes', name: Julie-Lyon-Taylor, organisation: '',
+  other: '', photo: true, sessions: generation-solidarity, tag: '', twitter: ''}
 julie-ward-mep: {bio: !!python/str "Labour MEP for the North-West of England, member\
     \ of the European Parliament\u2019s Culture and Education \nCommittee and link\
     \ MEP for UNCRPD", confirmed: 'Yes', name: Julie Ward MEP, organisation: Labour
@@ -511,8 +527,8 @@ julie-ward-mep: {bio: !!python/str "Labour MEP for the North-West of England, me
 karma-nabulsi: {bio: 'Karma Nabulsi is Fellow in Politics at St Edmund Hall, and Associate
     Professor at the University of Oxford, where she is Director of Undergraduate
     Studies at the Department of Politics and International Relations', confirmed: '',
-  name: Karma Nabulsi, organisation: '', other: '', photo: true, sessions: internationalist-labour-party,
-  tag: Author, twitter: ''}
+  name: Karma Nabulsi, organisation: '', other: '', photo: true, sessions: internationalist-labour-party
+    racisms-past-and-present, tag: Author, twitter: ''}
 kat-wright: {bio: 'Member of Manchester ACORN, a community member led union fighting
     for housing justice.', confirmed: 'Yes', name: Kat Wright, organisation: ACORN
     Manchester, other: '', photo: false, sessions: beating-the-bosses, tag: Activist,
@@ -540,8 +556,8 @@ katja-kipping: {bio: !!python/str "Katja Kipping is chairperson for Die Linke, t
 keir-milburn: {bio: 'Keir Milburn is lecturer in Political Economy and Organisation
     at the University of Leicester. His book, Generation Left, will be published by
     Polity in January 2019. He is a Member of Plan C.', confirmed: 'Yes', name: Keir
-    Milburn, organisation: Plan C, other: '', photo: true, sessions: mental-health-and-capitalism
-    social-strike-game, tag: '', twitter: 'https://twitter.com/KeirMilburn'}
+    Milburn, organisation: Plan C, other: '', photo: true, sessions: generation-solidarity
+    mental-health-and-capitalism social-strike-game, tag: '', twitter: 'https://twitter.com/KeirMilburn'}
 ken-loach: {bio: Award winning film and television Director, confirmed: 'Yes', name: Ken
     Loach, organisation: '', other: '', photo: true, sessions: parties-and-picket-lines,
   tag: Director, twitter: 'https://twitter.com/KenLoachSixteen'}
@@ -568,7 +584,8 @@ laura-basu: {bio: 'Author of Media Amnesia and co-editor of The Media & Austerit
   name: Laura Basu, organisation: '', other: '', photo: true, sessions: occupy-fleet-street,
   tag: '', twitter: ''}
 laura-parker: {bio: '', confirmed: '', name: Laura Parker, organisation: Momentum,
-  other: '', photo: true, sessions: popular-education-forum, tag: '', twitter: 'https://twitter.com/ParkerCiccone'}
+  other: '', photo: true, sessions: a-movement-in-government popular-education-forum,
+  tag: '', twitter: 'https://twitter.com/ParkerCiccone'}
 lauren-mccourt: {bio: 'Lauren McCourt was a McStrike leader in Manchester. She was
     elected to Executive committee of the BFAWU, and is a committed anti-racist.',
   confirmed: '', name: Lauren McCourt, organisation: 'Bakers, Food and Allied Workers
@@ -627,9 +644,14 @@ lorcan-mullan: {bio: Lorcan Mullen is the Momentum NCG representative for Campai
     is a member of Edinburgh North and Leith CLP., confirmed: 'Yes', name: Lorcan
     Mullan, organisation: '', other: '', photo: true, sessions: education-in-the-labour-party,
   tag: Activist, twitter: ''}
+louis-schulz: {bio: '', confirmed: '', name: Louis Schulz, organisation: '', other: '',
+  photo: false, sessions: creative-class, tag: '', twitter: ''}
 louis-woodhead: {bio: '', confirmed: '', name: Louis Woodhead, organisation: Long
     Live Southbank, other: '', photo: true, sessions: long-live-southbank, tag: Activist,
   twitter: 'https://twitter.com/louiswoodhead1'}
+louise-castro: {bio: Grassroots anti-fracking campaigner, confirmed: 'Yes', name: Louise
+    Castro, organisation: '', other: '', photo: true, sessions: living-the-climate-crisis,
+  tag: Activist, twitter: ''}
 lowkey: {bio: 'British rapper, hip-hop artist and activist', confirmed: 'Yes', name: Lowkey,
   organisation: '', other: '', photo: true, sessions: music-in-the-movement, tag: Musician,
   twitter: 'https://twitter.com/Lowkey0nline'}
@@ -800,8 +822,10 @@ peter-stark: {bio: '', confirmed: '', name: Peter Stark, organisation: '', other
   tag: '', twitter: ''}
 peter-stefanovic: {bio: Lawyer/Journalist/Filmmaker, confirmed: '', name: Peter Stefanovic,
   organisation: '', other: '', photo: false, sessions: time-for-10, tag: '', twitter: ''}
-phil-asquith: {bio: '', confirmed: '', name: Phil Asquith, organisation: '', other: '',
-  photo: false, sessions: workers-control-in-economic-planning, tag: '', twitter: ''}
+phil-asquith: {bio: An active member in the Lucas Aerospace shop stewards committee
+    and its alternative plan for socially useful production., confirmed: 'Yes', name: Phil
+    Asquith, organisation: '', other: '', photo: true, sessions: workers-control-in-economic-planning,
+  tag: '', twitter: ''}
 pollyanna-ruiz: {bio: 'Pollyanna Ruiz is a Lecturer of Media and Communication in
     the School of Media, Film and Music at the University of Sussex. She is the author
     of Articulating Dissent: Protest and the Public Sphere (Pluto, 2014).', confirmed: '',
@@ -865,9 +889,14 @@ rida-vaquas: {bio: "Rida Vaquas is a former Momentum NCG member. She is an edito
 rita-chadha: {bio: 'Director of Migrants'' Rights Network ', confirmed: 'Yes', name: Rita
     Chadha, organisation: Migrants' Rights Network, other: '', photo: true, sessions: migrant-political-voices,
   tag: Activist, twitter: 'https://twitter.com/migrants_rights'}
-robert-verkaik: {bio: 'Journalist (Indy, i, Guardian,Sun Times etc) specialising in
-    security and education. ', confirmed: '', name: Robert Verkaik, organisation: '',
-  other: '', photo: true, sessions: developing-labours-nes, tag: 'Journalist ', twitter: 'https://twitter.com/robertverkaik1'}
+robert-berkeley: {bio: Editor of Blackout UK. Former Director of the Runnymede Trust,
+  confirmed: '', name: Robert Berkeley, organisation: '', other: '', photo: false,
+  sessions: racisms-past-and-present, tag: '', twitter: 'https://twitter.com/Berkeleythinks'}
+robert-verkaik: {bio: '
+
+    Author of ''Posh Boys: How the English Public Schools Ruin Britain''', confirmed: '',
+  name: Robert Verkaik, organisation: '', other: '', photo: true, sessions: developing-labours-nes,
+  tag: 'Journalist ', twitter: 'https://twitter.com/robertverkaik1'}
 ronan-burtenshaw: {bio: 'Writer and Europe Editor for Jacobin ', confirmed: 'Yes',
   name: Ronan Burtenshaw, organisation: Jacobin, other: '', photo: true, sessions: the-european-left
     tribune-relaunch, tag: Writer, twitter: 'https://twitter.com/ronanburtenshaw'}
@@ -950,7 +979,7 @@ sofia-brito: {bio: Activist in the Chilean student movement and feminist campaig
   tag: Activist, twitter: ''}
 sonya-ward: {bio: Labour PPC for Mansfield and Leader of Mansfield District Council
     Labour Group., confirmed: 'Yes', name: Sonya Ward, organisation: '', other: '',
-  photo: false, sessions: painting-the-towns-red, tag: '', twitter: ''}
+  photo: true, sessions: painting-the-towns-red, tag: '', twitter: ''}
 sophie-hope: {bio: 'Lecturer in Arts Management at Birkbeck University ', confirmed: '',
   name: Sophie Hope, organisation: Birkbeck University, other: '', photo: true, sessions: movement-for-cultural-democracy,
   tag: '', twitter: 'https://twitter.com/alicemellings'}
@@ -982,6 +1011,9 @@ stewart-lansley: {bio: !!python/str "Stewart Lansley is an economist and financi
 stuart-maclure: {bio: Project manager at Long live Southwark, confirmed: '', name: Stuart
     Maclure, organisation: '', other: '', photo: false, sessions: long-live-southbank,
   tag: '', twitter: ''}
+tahir-latif: {bio: Environmental campaigner and PCS activist, confirmed: 'Yes', name: Tahir
+    Latif, organisation: PCS, other: '', photo: false, sessions: living-the-climate-crisis,
+  tag: Activist, twitter: ''}
 ted-howard: {bio: 'Co-founder and President of The Democracy Collaborative, previously
     serving as the Executive Director of the National Center for Economic Alternatives',
   confirmed: 'Yes', name: Ted Howard, organisation: Democracy Collaborative, other: '',
@@ -990,7 +1022,7 @@ thomas-hanna: {bio: 'Research Director at Democracy Collaborative ', confirmed: 
   name: Thomas Hanna, organisation: Democracy Collaborative, other: '', photo: true,
   sessions: taking-whats-ours, tag: Think Tank Director, twitter: 'https://twitter.com/thomasmhanna'}
 tim-roache: {bio: General Secretary of the GMB Union, confirmed: 'yes ', name: Tim
-    Roache, organisation: GMB, other: '', photo: false, sessions: future-of-trade-unions,
+    Roache, organisation: GMB, other: '', photo: true, sessions: future-of-trade-unions,
   tag: '', twitter: ''}
 tithi-bhattacharya: {bio: 'Professor of South Asian history and Director of Global
     Studies at Purdue university, Indiana', confirmed: 'Yes', name: Tithi Bhattacharya,
