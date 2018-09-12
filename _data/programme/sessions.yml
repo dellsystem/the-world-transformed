@@ -77,7 +77,7 @@ a-plan-for-the-new-economy: {day: Tuesday, description: 'The UK economy is not w
     will set out its analysis of the state of the economy and present an ambitious
     plan for reform.', end_timestamp: 20180925T143000, final: true, image: finance,
   organiser: Institute for Public Policy Research, room: Main Space, speakers: tom-kibasi
-    frances-o-grady furqan-naeem michael-jacobs, start_timestamp: 20180925T130000,
+    furqan-naeem jill-rubery catherine-colebrook dawn-foster, start_timestamp: 20180925T130000,
   time: '13:00-14:30', title: 'Prosperity and Justice: A Plan for the New Economy',
   venue: Black-E}
 a-radical-alliance-for-europe: {day: Sunday, description: !!python/str "Europe faces\
@@ -531,42 +531,40 @@ disrupting-the-status-quo: {day: Sunday, description: We all want to change the 
     for transformative change., end_timestamp: 20180923T103000, final: true, image: default,
   organiser: '', room: Event Space, speakers: '', start_timestamp: 20180923T090000,
   time: '09:00-10:30', title: Disrupting the Status Quo, venue: Constellations}
-eco-corbynism-monday: {day: Monday, description: !!python/str "What would the convergence\
-    \ of the labour movement and the ecology\r\nmovements that Raymond Williams called\
-    \ for in 1984 look like today and\r\nwhat are the blockages that need to be overcome?\
-    \ How would moving\r\nbeyond the Green Keynesian interlock of energy/climate/jobs,\
-    \ allowing\r\nfor a more expansive and critical sense of how capitalism organises\r\
-    \nnature and relies on the devaluation (Maria Mies) of \u201Cwomen, nature\r\n\
-    and colonies\u201D, ground contemporary eco-socialism in anti-imperialist,\r\n\
-    anti-racist and feminist as well as class struggles?\r\nWe will explore these\
-    \ questions through reading texts from Williams,\r\nMies, Jason W. Moore and Raj\
-    \ Patel and Andreas Malm.", end_timestamp: 20180924T123000, final: true, image: reading,
-  organiser: New Socialist, room: Gallery, speakers: tom-gann, start_timestamp: 20180924T110000,
-  time: '11:00-12:30', title: Eco-Corbynism Reading Group, venue: Black-E}
-eco-corbynism-sunday: {day: Sunday, description: !!python/str "What would the convergence\
-    \ of the labour movement and the ecology\r\nmovements that Raymond Williams called\
-    \ for in 1984 look like today and\r\nwhat are the blockages that need to be overcome?\
-    \ How would moving\r\nbeyond the Green Keynesian interlock of energy/climate/jobs,\
-    \ allowing\r\nfor a more expansive and critical sense of how capitalism organises\r\
-    \nnature and relies on the devaluation (Maria Mies) of \u201Cwomen, nature\r\n\
-    and colonies\u201D, ground contemporary eco-socialism in anti-imperialist,\r\n\
-    anti-racist and feminist as well as class struggles?\r\nWe will explore these\
-    \ questions through reading texts from Williams,\r\nMies, Jason W. Moore and Raj\
-    \ Patel and Andreas Malm.", end_timestamp: 20180923T123000, final: true, image: reading,
-  organiser: New Socialist, room: Gallery, speakers: tom-gann, start_timestamp: 20180923T110000,
-  time: '11:00-12:30', title: Eco-Corbynism Reading Group, venue: Black-E}
-eco-corbynism-tuesday: {day: Tuesday, description: !!python/str "What would the convergence\
-    \ of the labour movement and the ecology\r\nmovements that Raymond Williams called\
-    \ for in 1984 look like today and\r\nwhat are the blockages that need to be overcome?\
-    \ How would moving\r\nbeyond the Green Keynesian interlock of energy/climate/jobs,\
-    \ allowing\r\nfor a more expansive and critical sense of how capitalism organises\r\
-    \nnature and relies on the devaluation (Maria Mies) of \u201Cwomen, nature\r\n\
-    and colonies\u201D, ground contemporary eco-socialism in anti-imperialist,\r\n\
-    anti-racist and feminist as well as class struggles?\r\nWe will explore these\
-    \ questions through reading texts from Williams,\r\nMies, Jason W. Moore and Raj\
-    \ Patel and Andreas Malm.", end_timestamp: 20180925T123000, final: true, image: reading,
-  organiser: New Socialist, room: Gallery, speakers: tom-gann, start_timestamp: 20180925T110000,
-  time: '11:00-12:30', title: Eco-Corbynism Reading Group, venue: Black-E}
+eco-corbynism-monday: {day: Monday, description: 'What would the convergence of the
+    labour movement and the ecology movements that Raymond Williams called for in
+    1984 look like today and what are the blockages that need to be overcome? How
+    can we ground contemporary eco-socialism in anti-imperialist, anti-racist and
+    feminist as well as class struggles? We will explore these questions through reading
+    texts from Williams, Mies, Jason W. Moore and Raj Patel and Andreas Malm.', end_timestamp: 20180924T123000,
+  final: true, image: reading, organiser: New Socialist, room: Gallery, speakers: tom-gann,
+  start_timestamp: 20180924T110000, time: '11:00-12:30', title: Eco-Corbynism Reading
+    Group, venue: Black-E}
+eco-corbynism-sunday: {day: Sunday, description: 'What would the convergence of the
+    labour movement and the ecology movements that Raymond Williams called for in
+    1984 look like today and what are the blockages that need to be overcome? How
+    can we ground contemporary eco-socialism in anti-imperialist, anti-racist and
+    feminist as well as class struggles? We will explore these questions through reading
+    texts from Williams, Mies, Jason W. Moore and Raj Patel and Andreas Malm.', end_timestamp: 20180923T123000,
+  final: true, image: reading, organiser: New Socialist, room: Gallery, speakers: tom-gann,
+  start_timestamp: 20180923T110000, time: '11:00-12:30', title: Eco-Corbynism Reading
+    Group, venue: Black-E}
+eco-corbynism-tuesday: {day: Tuesday, description: 'What would the convergence of
+    the labour movement and the ecology
+
+    movements that Raymond Williams called for in 1984 look like today and
+
+    what are the blockages that need to be overcome? How can we ground contemporary
+    eco-socialism in anti-imperialist,
+
+    anti-racist and feminist as well as class struggles?
+
+    We will explore these questions through reading texts from Williams,
+
+    Mies, Jason W. Moore and Raj Patel and Andreas Malm.', end_timestamp: 20180925T123000,
+  final: true, image: reading, organiser: New Socialist, room: Gallery, speakers: tom-gann,
+  start_timestamp: 20180925T110000, time: '11:00-12:30', title: Eco-Corbynism Reading
+    Group, venue: Black-E}
 ed-miliband-quiz: {day: Tuesday, description: 'Know your Karl Marx from your Kinnock?
     Your New Left from your New Labour? If you do, then this is the quiz for you!
     We''ll be taking a tour through UK political history and current affairs, mixing
@@ -670,9 +668,9 @@ future-of-trade-unions: {day: Monday, description: !!python/str "After a decade 
     \ develop a bold new strategy to address the imbalance of power in today\u2019\
     s economy. Join trade union General Secretaries and activists to discuss strategies\
     \ for strengthening workers' power.", end_timestamp: 20180924T190000, final: false,
-  image: workplace, organiser: '', room: Theatre, speakers: dave-ward ewa-jasiewicz
-    tim-roache, start_timestamp: 20180924T173000, time: '17:30-19:00', title: The
-    Future of the Trade Unions, venue: Hinterlands}
+  image: workplace, organiser: '', room: Theatre, speakers: dave-ward tim-roache,
+  start_timestamp: 20180924T173000, time: '17:30-19:00', title: The Future of the
+    Trade Unions, venue: Hinterlands}
 future-visions: {day: Sunday, description: 'The 2017 general election demonstrated
     that millions of people are desperate for a radical transformation of society.
     This impulse is not only restricted to the U.K. The fight for social justice is
@@ -884,8 +882,9 @@ marx-at-200: {day: Sunday, description: !!python/str "After the global financial
     \ gulags and secret police? Two hundred years after his birth, are Marx\u2019\
     s ideas still relevant and can they help us to overcome the crises englufing our\
     \ planet?", end_timestamp: 20180923T190000, final: false, image: default, organiser: '',
-  room: Main Space, speakers: vijay-prashad tithi-bhattacharya aaron-bastani, start_timestamp: 20180923T173000,
-  time: '17:30-19:00', title: 'I''m Literally a Communist: Marx at 200', venue: Black-E}
+  room: Main Space, speakers: vijay-prashad tithi-bhattacharya aaron-bastani lynne-segal,
+  start_timestamp: 20180923T173000, time: '17:30-19:00', title: 'I''m Literally a
+    Communist: Marx at 200', venue: Black-E}
 marxism-101: {day: Tuesday, description: !!python/str "Marxism is becoming popular\
     \ - even the Governor of the Bank of England has said that if the economic crisis\
     \ worsens, \u201CMarx and Engels may again become relevant\u201D.\_ Marxism reveals\
@@ -1038,10 +1037,14 @@ popular-education-forum: {day: Sunday, description: !!python/str "The World Tran
   organiser: The World Transformed, room: Event Space, speakers: christine-berry charlie-clarke
     laura-parker, start_timestamp: 20180923T150000, time: '15:00-16:30', title: 'Popular
     Education Forum: Let''s Build a Network!', venue: Constellations}
-post-brexit: {day: Monday, description: '', end_timestamp: 20180924T123000, final: false,
-  image: federalism, organiser: Campaign for Socialism, room: Studio, speakers: '',
-  start_timestamp: 20180924T110000, time: '11:00-12:30', title: Federalism and Other
-    Opportunities, venue: Black-E}
+post-brexit: {day: Monday, description: !!python/str "Brexit will reshape our relationship\
+    \ with the world. What is less spoken about is how it may end up changing the\
+    \ very structure of the UK itself. Join our discussion panel with the Scottish\
+    \ Campaign for Socialism and the Red Paper Collective to hear about Labour\u2019\
+    s opportunity for a radial, federal UK.", end_timestamp: 20180924T123000, final: true,
+  image: federalism, organiser: 'Campaign for Socialism, Red Paper Collective', room: Studio,
+  speakers: neil-findlay-msp pauline-bryan siobhan-mccready matt-kerr, start_timestamp: 20180924T110000,
+  time: '11:00-12:30', title: Federalism and Other Opportunities, venue: Black-E}
 power-for-the-many: {day: Sunday, description: 'Democracy is about much more than
     elections. Governments should be of the people, by the people & for the people,
     but currently many are failing on all these fronts. What is the political, economic
@@ -1243,8 +1246,8 @@ tackling-the-tech-giants: {day: Tuesday, description: !!python/str "Big tech com
     \ the future of technology - the voice of workers, renters, service users, whose\
     \ lives and livelihoods will be shaped by these technologies, should be an important\
     \ part of the discussion. Come and hear more in this session!", end_timestamp: 20180925T143000,
-  final: false, image: cybersyn, organiser: New Economics Foundation, room: Theatre,
-  speakers: wendy-liu jason-prado duncan-mccann emma-black, start_timestamp: 20180925T130000,
+  final: true, image: cybersyn, organiser: New Economics Foundation, room: Theatre,
+  speakers: wendy-liu jason-prado duncan-mccann emma-black lydia-hughes, start_timestamp: 20180925T130000,
   time: '13:00-14:30', title: Taking on the Tech Giants, venue: Black-E}
 taking-whats-ours: {day: Tuesday, description: 'On every continent, activists and
     political leaders are transforming struggles to resist privatisation into campaigns
@@ -1291,9 +1294,10 @@ the-british-ruling-class: {day: Tuesday, description: !!python/str "Something ve
     \ stable and successful in the entire world. Yet in 2018, the institutions underpinning\
     \ their rule seem to be in a state of permanent crisis - from the Conservative\
     \ Party, to the media, to the banks. What happened to our ruling class? And how\
-    \ should we react?", end_timestamp: 20180925T211500, final: false, image: default,
-  organiser: '', room: Theatre, speakers: richard-seymour dawn-foster, start_timestamp: 20180925T193000,
-  time: '19:30-21:15', title: 'What happened to the British ruling class?', venue: Hinterlands}
+    \ should we react?", end_timestamp: 20180925T211500, final: true, image: default,
+  organiser: '', room: Theatre, speakers: richard-seymour dawn-foster maya-goodfellow
+    adam-ramsay, start_timestamp: 20180925T193000, time: '19:30-21:15', title: 'What
+    happened to the British ruling class?', venue: Hinterlands}
 the-european-left: {day: Saturday, description: 'In recent years, Europe has seen
     austerity give way to political turmoil and the rise of the radical right. How
     should the left respond? Join MPs from across the European left to discuss the

@@ -2,6 +2,10 @@ aaron-bastani: {bio: 'Co-founder and senior editor at Novara Media, journalist a
     author of ''Fully Automated Luxury Communism''', confirmed: 'Yes', name: Aaron
     Bastani, organisation: Novara Media, other: '', photo: true, sessions: marx-at-200,
   tag: Journalist, twitter: 'https://twitter.com/AaronBastani'}
+adam-ramsay: {bio: 'Adam Ramsay is the Co-Editor of openDemocracyUK and also works
+    with Bright Green. Before, he was a full time campaigner with People & Planet.',
+  confirmed: '', name: Adam Ramsay, organisation: openDemocracyUK, other: '', photo: false,
+  sessions: the-british-ruling-class, tag: '', twitter: 'https://twitter.com/AdamRamsay'}
 adjoa-andoh: {bio: 'Is an actress of stage and screen; appearing in the films as diverse
     as ''Invictus'' and ''Adulthood'', and on stage in productions ranging from ''His
     Dark Materials'' to ''The Vagina Monologues''.', confirmed: 'Yes', name: Adjoa
@@ -166,6 +170,9 @@ carys-roberts: {bio: !!python/str "Carys works on the\_IPPR\_Commission on Econo
 cat-hobbs: {bio: Founder and Director of We Own It, confirmed: 'Yes', name: Cat Hobbs,
   organisation: We Own It, other: '', photo: true, sessions: taking-whats-ours, tag: Campaigner,
   twitter: 'https://twitter.com/CatHobbs'}
+catherine-colebrook: {bio: Chief economist at IPPR, confirmed: 'Yes', name: Catherine
+    Colebrook, organisation: IPPR, other: '', photo: false, sessions: a-plan-for-the-new-economy,
+  tag: Researcher, twitter: ''}
 chamindra-weerawardhana: {bio: !!python/str "Dr Chamindra Weerawardhana is a gender\
     \ justice advocate, journalist, author, and gender politics academic. Chamindra\
     \ was LGBT+ Officer of the Labour Party Northern Ireland, and has worked on Transfeminism\
@@ -267,7 +274,8 @@ dawn-butler-mp: {bio: Shadow Secretary of State for Women & Equalities and Labou
   twitter: 'https://twitter.com/DawnButlerBrent'}
 dawn-foster: {bio: 'Guardian columnist who writes on politics, social affairs and
     economics', confirmed: 'Yes', name: Dawn Foster, organisation: '', other: '',
-  photo: true, sessions: the-british-ruling-class, tag: Journalist, twitter: 'https://twitter.com/DawnHFoster'}
+  photo: true, sessions: a-plan-for-the-new-economy the-british-ruling-class, tag: Journalist,
+  twitter: 'https://twitter.com/DawnHFoster'}
 dennis-skinner-mp: {bio: Labour MP for Bolsover, confirmed: 'Yes', name: Dennis Skinner
     MP, organisation: Labour Party, other: '', photo: true, sessions: nature-of-the-beast
     towards-a-socialist-government, tag: Politician, twitter: ''}
@@ -347,9 +355,6 @@ evren-bh: {bio: Evren has been involved in trans activism for nearly a decade. T
     far-right rhetoric. They organise with several leftist and trans liberation groups
     around London., confirmed: '', name: Evren BH, organisation: '', other: '', photo: false,
   sessions: fighting-for-trans-liberation, tag: '', twitter: ''}
-ewa-jasiewicz: {bio: 'Is a trade unionist, activst and journalist.', confirmed: 'Yes',
-  name: Ewa Jasiewicz, organisation: '', other: '', photo: true, sessions: future-of-trade-unions,
-  tag: '', twitter: ''}
 fabian-hamilton-mp: {bio: Labour MP for Leeds North East and Shadow Minister for Peace
     and Disarmament, confirmed: 'Yes', name: Fabian Hamilton MP, organisation: '',
   other: '', photo: true, sessions: jobs-in-nuclear-weapons, tag: Politician, twitter: ''}
@@ -385,9 +390,6 @@ frances-northrop: {bio: 'Frances is a freelance consultant, working with communi
     as an adviser for the the NEF/Co-ops UK Community Economic Development Programme',
   confirmed: 'yes', name: Frances Northrop, organisation: New Economics Foundation,
   other: '', photo: true, sessions: movement-for-cultural-democracy, tag: '', twitter: ''}
-frances-o-grady: {bio: General secetary of the TUC, confirmed: 'yes', name: Frances
-    O'Grady, organisation: '', other: '', photo: true, sessions: a-plan-for-the-new-economy,
-  tag: '', twitter: ''}
 francesca-bria: {bio: Chief Technology and Digital Innovation Officer for the City
     of Barcelona. Founder of the Decode Project., confirmed: 'Yes', name: Francesca
     Bria, organisation: '', other: '', photo: true, sessions: cybernetic-socialism
@@ -530,6 +532,9 @@ jessica-buxton: {bio: 'Jess is actively working as an Actor, Facilitator and wri
     theatre for children.', confirmed: '', name: Jessica Buxton, organisation: The
     Book Worm Players, other: '', photo: true, sessions: transform-the-world-14-plus
     transform-the-world-8-to-13, tag: '', twitter: ''}
+jill-rubery: {bio: Economist at Manchester University, confirmed: 'Yes', name: Jill
+    Rubery, organisation: '', other: '', photo: false, sessions: a-plan-for-the-new-economy,
+  tag: Academic, twitter: ''}
 jo-mcneill: {bio: 'President of the University of Liverpool UCU branch, member of
     the UCU NEC. Recently elected as a National Negotiator for HE, sitting on the
     national Strategy and Finance Committee and Recruitment, Organising and Campaigns
@@ -723,9 +728,12 @@ luke-cooper: {bio: 'Dr Luke Cooper is Course Leader, BA (Hons) Politics and Seni
     Lecturer, International Politics at Anglia Ruskin University.', confirmed: '',
   name: Luke Cooper, organisation: '', other: '', photo: true, sessions: a-radical-alliance-for-europe,
   tag: '', twitter: 'https://twitter.com/lukecooper100'}
+lydia-hughes: {bio: Lydia is an editor at Notes From Below., confirmed: '', name: Lydia
+    Hughes, organisation: '', other: '', photo: false, sessions: tackling-the-tech-giants,
+  tag: '', twitter: 'https://twitter.com/lydiakathleenh'}
 lynne-segal: {bio: 'Academic and feminist writer, Lynne''s most recent book is Radical
     Happiness: Moment''s of Collective Joy', confirmed: 'Yes', name: Lynne Segal,
-  organisation: '', other: '', photo: true, sessions: mental-health-and-capitalism,
+  organisation: '', other: '', photo: true, sessions: marx-at-200 mental-health-and-capitalism,
   tag: '', twitter: 'https://twitter.com/lynne_segal'}
 mariela-kohon: {bio: '', confirmed: '', name: Mariela Kohon, organisation: '', other: '',
   photo: true, sessions: colombia-the-human-rights-crisis, tag: '', twitter: 'https://twitter.com/MarielaJFC'}
@@ -764,6 +772,9 @@ mat-lawrence: {bio: "Mathew is a Senior Research Fellow in the Economy team.\r\n
     \ between economic and technological change, political economy, and workplace\
     \ democracy.", confirmed: 'Yes', name: Mat Lawrence, organisation: IPPR, other: '',
   photo: true, sessions: digital-economy-101, tag: Researcher, twitter: 'https://twitter.com/DantonsHead'}
+matt-kerr: {bio: 'Councillor for Cardonald Ward, Glasgow', confirmed: '', name: Matt
+    Kerr, organisation: '', other: '', photo: false, sessions: post-brexit, tag: '',
+  twitter: ''}
 matt-nelmes: {bio: Activist at Long Live Southbank, confirmed: '', name: Matt Nelmes,
   organisation: LLSB, other: '', photo: false, sessions: creative-campaigning long-live-southbank,
   tag: Activist, twitter: ''}
@@ -778,8 +789,8 @@ maurilio-pirone: {bio: 'University of Bologna, Bologna UNIBO with expertise in R
   name: Maurilio Pirone, organisation: '', other: '', photo: true, sessions: the-gig-economy,
   tag: Researcher, twitter: 'https://twitter.com/mau_pirone'}
 maya-goodfellow: {bio: Journalist and academic, confirmed: 'Yes', name: Maya Goodfellow,
-  organisation: '', other: '', photo: true, sessions: migrant-political-voices, tag: Journalist,
-  twitter: 'https://twitter.com/MayaGoodfellow'}
+  organisation: '', other: '', photo: true, sessions: migrant-political-voices the-british-ruling-class,
+  tag: Journalist, twitter: 'https://twitter.com/MayaGoodfellow'}
 meirian-jump: {bio: Archivist & Library Manager at the Marx Memorial Library, confirmed: 'Yes',
   name: Meirian Jump, organisation: Marx Memorial Library, other: '', photo: true,
   sessions: marxism-101, tag: Archivist, twitter: ''}
@@ -788,8 +799,7 @@ melissa-benn: {bio: 'Writer & campaigner, founder of the Local Schools Network, 
     Education', confirmed: 'Yes', name: Melissa Benn, organisation: '', other: '',
   photo: true, sessions: a-socialist-story-of-modern-britain, tag: Author, twitter: 'https://twitter.com/Melissa_Benn'}
 michael-jacobs: {bio: '', confirmed: '', name: Michael Jacobs, organisation: IPPR,
-  other: '', photo: true, sessions: a-plan-for-the-new-economy global-finance-101,
-  tag: '', twitter: ''}
+  other: '', photo: true, sessions: global-finance-101, tag: '', twitter: ''}
 michael-roberts: {bio: 'Economist and author of The Great Recession: a Marxist view
     and The Long Depression', confirmed: 'Yes', name: Michael Roberts, organisation: '',
   other: '', photo: true, sessions: runaway-finance, tag: Economist, twitter: ''}
@@ -824,8 +834,8 @@ natalie-sharples: {bio: Head of Policy and Campaigns for Health Poverty Action, 
   sessions: a-global-nhs, tag: '', twitter: ''}
 neil-findlay-msp: {bio: 'Labour MSP for Lothians and Shadow Cabinet member leading
     on Brexit, Campaigns and Party engagement', confirmed: 'Yes', name: Neil Findlay
-    MSP, organisation: Labour Party, other: '', photo: true, sessions: class-justice,
-  tag: 'Politician ', twitter: 'https://twitter.com/NeilFindlay_MSP'}
+    MSP, organisation: Labour Party, other: '', photo: true, sessions: class-justice
+    post-brexit, tag: 'Politician ', twitter: 'https://twitter.com/NeilFindlay_MSP'}
 nelini-stamp: {bio: 'National Organizing Director at the Working Families Party and
     member of Resistance Revival Chorus ', confirmed: 'Yes', name: Nelini Stamp, organisation: Working
     Families Party, other: '', photo: true, sessions: feminism-for-the-many no-pasaran,
@@ -879,6 +889,8 @@ paul-williams: {bio: 'Co-Chair of ACORN Brighton, a community-based union of wor
 paulina-nicol: {bio: Organiser with English Collective of Prostitutes (ECP), confirmed: 'Yes',
   name: Paulina Nicol, organisation: English Collective of Prostitutes, other: '',
   photo: true, sessions: end-to-sex-work-criminalisation, tag: Activist, twitter: ''}
+pauline-bryan: {bio: '', confirmed: '', name: Baroness Pauline Bryan, organisation: '',
+  other: '', photo: false, sessions: post-brexit, tag: '', twitter: 'https://twitter.com/pauline_bryan'}
 pernille-skipper: {bio: Danish MP and Leader of Red-Green Alliance, confirmed: 'Yes',
   name: Pernille Skipper, organisation: Red-Green Alliance, other: '', photo: true,
   sessions: the-european-left, tag: Politician, twitter: 'https://twitter.com/PSkipperEL'}
@@ -1048,6 +1060,9 @@ siobhan-donnachie: {bio: Housing advisor and organiser with Greater Manchester H
     campaign for radical leftwing solutions to the housing crisis in Greater Manchester,
   confirmed: 'Yes', name: Siobhan Donnachie, organisation: GMHA, other: '', photo: true,
   sessions: rentquake, tag: Activist, twitter: 'https://twitter.com/siobhan_e_d'}
+siobhan-mccready: {bio: Campaign for Socialism Trade Union officer, confirmed: '',
+  name: Siobhan McCready, organisation: '', other: '', photo: false, sessions: post-brexit,
+  tag: '', twitter: ''}
 sivan-kartha: {bio: !!python/str "Sivan Kartha is a Senior Scientist at SEI and co-leader\
     \ of SEI\u2019s Gender and Social Equality\_Programme. He is also co-Director\
     \ of the Climate Equity Reference Project. His current work deals primarily with\
