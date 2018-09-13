@@ -382,8 +382,8 @@ communities-against-climate-change: {day: Tuesday, description: 'The climate cha
     clean power. Corbyn  has created space for a 21st century municipal socialism.
     Town hall politics can hand power back to communities; it''s time to get moving.',
   end_timestamp: 20180925T190000, final: true, image: climate, organiser: Labour Energy
-    Forum, room: Theatre, speakers: fliss-premru sakina-sheikh kevin-frea asima-shaikh
-    steve-battlemuch, start_timestamp: 20180925T173000, time: '17:30-19:00', title: Communities
+    Forum, room: Theatre, speakers: fliss-premru sakina-sheikh kevin-frea steve-battlemuch
+    mika-minio, start_timestamp: 20180925T173000, time: '17:30-19:00', title: Communities
     in the Fight Against Climate Change, venue: Hinterlands}
 conversation-with-jean-luc-melenchon: {day: Monday, description: !!python/str "Since\
     \ narrowly missing out in last year's presidential election, Jean-Luc M\xE9lenchon\
@@ -550,18 +550,11 @@ eco-corbynism-sunday: {day: Sunday, description: 'What would the convergence of 
   start_timestamp: 20180923T110000, time: '11:00-12:30', title: Eco-Corbynism Reading
     Group, venue: Black-E}
 eco-corbynism-tuesday: {day: Tuesday, description: 'What would the convergence of
-    the labour movement and the ecology
-
-    movements that Raymond Williams called for in 1984 look like today and
-
-    what are the blockages that need to be overcome? How can we ground contemporary
-    eco-socialism in anti-imperialist,
-
-    anti-racist and feminist as well as class struggles?
-
-    We will explore these questions through reading texts from Williams,
-
-    Mies, Jason W. Moore and Raj Patel and Andreas Malm.', end_timestamp: 20180925T123000,
+    the labour movement and the ecology movements that Raymond Williams called for
+    in 1984 look like today and what are the blockages that need to be overcome? How
+    can we ground contemporary eco-socialism in anti-imperialist, anti-racist and
+    feminist as well as class struggles? We will explore these questions through reading
+    texts from Williams, Mies, Jason W. Moore and Raj Patel and Andreas Malm.', end_timestamp: 20180925T123000,
   final: true, image: reading, organiser: New Socialist, room: Gallery, speakers: tom-gann,
   start_timestamp: 20180925T110000, time: '11:00-12:30', title: Eco-Corbynism Reading
     Group, venue: Black-E}
@@ -668,7 +661,7 @@ future-of-trade-unions: {day: Monday, description: !!python/str "After a decade 
     \ develop a bold new strategy to address the imbalance of power in today\u2019\
     s economy. Join trade union General Secretaries and activists to discuss strategies\
     \ for strengthening workers' power.", end_timestamp: 20180924T190000, final: false,
-  image: workplace, organiser: '', room: Theatre, speakers: dave-ward tim-roache,
+  image: workplace, organiser: '', room: Theatre, speakers: dave-ward tim-roache ewa-jasiewicz,
   start_timestamp: 20180924T173000, time: '17:30-19:00', title: The Future of the
     Trade Unions, venue: Hinterlands}
 future-visions: {day: Sunday, description: 'The 2017 general election demonstrated
@@ -1159,9 +1152,9 @@ runaway-finance: {day: Sunday, description: '10 years after the Great Crash, and
     the real economy? Do we need to take control of the banks? And what do we do about
     the offshore world and the global financial elite? Come and discuss.', end_timestamp: 20180923T190000,
   final: true, image: finance, organiser: Jubilee Debt Campaign & Fire Brigades Union,
-  room: Event Space, speakers: ann-pettifor sarah-jayne-clifton michael-roberts matt-wrack
+  room: Theatre, speakers: ann-pettifor sarah-jayne-clifton michael-roberts matt-wrack
     fran-boait, start_timestamp: 20180923T173000, time: '17:30-19:00', title: 'Runaway
-    Finance: Should We Take Over the Banks?', venue: Constellations}
+    Finance: Should We Take Over the Banks?', venue: Black-E}
 sacrifice-zones: {day: Sunday, description: !!python/str "Neo-liberalism, inequality\
     \ and climate change have led to a millions of people in the global\_South dying\
     \ or being forced from their homes. As the Planetary emergency tips us towards\

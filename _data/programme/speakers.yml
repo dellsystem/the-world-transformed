@@ -110,8 +110,7 @@ ash-sarkar: {bio: 'Senior editor at Novara Media, and lecturer in Global Politic
     red-white-blue-labour, tag: Journalist, twitter: 'https://twitter.com/AyoCaesar'}
 asima-shaikh: {bio: Labour Councillor for Finsbury Park and Cabinet Member for Economic
     Development, confirmed: '', name: Asima Shaikh, organisation: '', other: '', photo: true,
-  sessions: building-community-wealth communities-against-climate-change, tag: 'Politician ',
-  twitter: 'https://twitter.com/ashaikhn7'}
+  sessions: building-community-wealth, tag: 'Politician ', twitter: 'https://twitter.com/ashaikhn7'}
 ava-caradonna: {bio: 'Organiser with the x:talk project', confirmed: 'Yes', name: Ava
     Caradonna, organisation: 'The x:talk project', other: '', photo: false, sessions: end-to-sex-work-criminalisation,
   tag: Activist, twitter: ''}
@@ -355,6 +354,9 @@ evren-bh: {bio: Evren has been involved in trans activism for nearly a decade. T
     far-right rhetoric. They organise with several leftist and trans liberation groups
     around London., confirmed: '', name: Evren BH, organisation: '', other: '', photo: false,
   sessions: fighting-for-trans-liberation, tag: '', twitter: ''}
+ewa-jasiewicz: {bio: 'Is a trade unionist, activst and journalist.', confirmed: 'Yes',
+  name: Ewa Jasiewicz, organisation: '', other: '', photo: true, sessions: future-of-trade-unions,
+  tag: '', twitter: ''}
 fabian-hamilton-mp: {bio: Labour MP for Leeds North East and Shadow Minister for Peace
     and Disarmament, confirmed: 'Yes', name: Fabian Hamilton MP, organisation: '',
   other: '', photo: true, sessions: jobs-in-nuclear-weapons, tag: Politician, twitter: ''}
@@ -803,6 +805,9 @@ michael-jacobs: {bio: '', confirmed: '', name: Michael Jacobs, organisation: IPP
 michael-roberts: {bio: 'Economist and author of The Great Recession: a Marxist view
     and The Long Depression', confirmed: 'Yes', name: Michael Roberts, organisation: '',
   other: '', photo: true, sessions: runaway-finance, tag: Economist, twitter: ''}
+mika-minio: {bio: 'Energy Economist, Energy Democracy Project', confirmed: 'Yes',
+  name: Mika Minio-Paluello, organisation: Energy Democracy Project, other: '', photo: false,
+  sessions: communities-against-climate-change, tag: Economist, twitter: ''}
 miranda-hall: {bio: 'Miranda is a writer and activist interested in the intersections
     of work, gender and technology. She is excited about the development of new digital
     infrastructures built for people not profit while being
