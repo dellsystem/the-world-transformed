@@ -1,5 +1,7 @@
+# encoding: utf-8
 import collections
 import csv
+import unicodecsv
 import httplib2
 import io
 import os
@@ -40,10 +42,21 @@ sessions_csv = csv.reader(
     download_file('1_Abpuo5P6R4WKz9OxV8lveCFon7VqRpjL-U4ntdXorw')
 )
 
+print_columns = [
+    'title', 'organiser', 'day', 'time', 'venue', 'room', 'description',
+    'speakers',
+]
+venues = [
+    'Hinterlands', 'Constellations', 'Black-E', 'Baltic Creative',
+    'Baltic Cinema', 'Sports Hall'
+]
+
 session_header = next(sessions_csv)
 sessions = {}
+print_sessions = []
 speaker_sessions = collections.defaultdict(set)
 schedule = collections.defaultdict(list)
+statuses = {}  # have to store this separately to ensure deletion from yaml
 for row in sessions_csv:
     session = dict(zip(session_header, [cell.strip() for cell in row]))
 
@@ -55,6 +68,7 @@ for row in sessions_csv:
     status = session.pop('status')
     if status == 'TODO':
         continue
+    statuses[slug] = status
 
     session['final'] = False if status == 'WAITING' else True
 
@@ -87,6 +101,7 @@ for row in sessions_csv:
 
     sessions[slug] = session
     schedule[session['day'].lower().strip()].append(slug)
+    speaker_names = []
     for speaker_slug in session['speakers'].split(' '):
         if speaker_slug:
             speaker_sessions[speaker_slug].add(slug)
@@ -94,14 +109,6 @@ for row in sessions_csv:
         print "Missing image for", session['title'], session['image']
     if ' ' in session['day']:
         print "Bad day for", session['title']
-
-# Save saturday.csv, sunday.csv, monday.csv, tuesday.csv
-for day in schedule:
-    schedule_csv = csv.writer(open('%s.csv' % day, 'wt'))
-    schedule_csv.writerow(['slug'])
-    for slug in schedule[day]:
-        schedule_csv.writerow([slug])
-    print "%s: %d sessions" % (day, len(schedule[day]))
 
 # Save speakers.yml
 speaker_header = next(speakers_csv)
@@ -122,6 +129,82 @@ for row in speakers_csv:
         #print "No sessions for", speaker['name']
 
 yaml.dump(speakers, open('speakers.yml', 'wt'))
+
+# Save saturday.csv, sunday.csv, monday.csv, tuesday.csv
+# Also for the print programme.
+for day in schedule:
+    schedule_csv = csv.writer(open('%s.csv' % day, 'wt'))
+    schedule_csv.writerow(['slug'])
+
+    # Create the CSV for the printed program (one for each day)
+    print_csv_filename = 'print_%s.txt' % day
+    print_csv_file = open(print_csv_filename, 'wt')
+    print_csv = unicodecsv.writer(
+        print_csv_file,
+        quoting=csv.QUOTE_ALL,
+        delimiter='\t',
+    )
+    print_csv.writerow(print_columns + venues)
+
+    for slug in schedule[day]:
+        schedule_csv.writerow([slug])
+
+        # Only put it in the print programme if the "print" column is 1.
+        session = sessions[slug]
+        use_session = session.pop('print')  # Shouldn't be saved
+        if use_session != '1':
+            continue
+
+        print_row = {}
+        for print_column in print_columns:
+            print_row[print_column] = session[print_column]
+
+        # Remove the photo credit for the new far right session.
+        if print_row['title'] == "Britain's New Far Right":
+            print_row['description'] = print_row['description'].splitlines()[0]
+        print_row['description'] = print_row['description'].replace('\n', ' ')
+
+        speaker_slugs = [s for s in print_row['speakers'].split(' ') if s]
+        speaker_names = []
+        for speaker_slug in speaker_slugs:
+            speaker = speakers[speaker_slug]
+            speaker_name = speaker['name']
+            if speaker['affiliation']:
+                speaker_name += ' (' + speaker['affiliation'] + ')'
+            speaker_names.append(speaker_name)
+        print_row['speakers'] = ' • '.join(speaker_names)
+
+        # If there are still speakers to announced ...
+        if statuses[slug] == 'WAITING':
+            # If there are already speakers
+            if print_row['speakers']:
+                print_row['speakers'] += ' + more speakers TBA!'
+            else:
+                print_row['speakers'] = 'Speakers to be announced!'
+        row = [print_row[c] for c in print_columns]
+
+        # Split up the venue
+        session_venue = print_row['venue']
+        for venue in venues:
+            if venue == session_venue:
+                row.append(venue)
+            else:
+                row.append('')
+        print_csv.writerow(row)
+        if session_venue not in venues:
+            print session_venue, slug
+            raise SystemError
+
+    # Have to convert it to utf-16...
+    print_csv_file.close()
+    f1 = open(print_csv_filename)
+    s = f1.read().decode('utf-8').encode('utf-16')
+    f1.close()
+    f2 = open(print_csv_filename, 'wb')
+    f2.write(s)
+    f2.close()
+    print "%s: %d sessions" % (day, len(schedule[day]))
+
 
 # Store the full list of speakers in alphabetical order.
 speakers_list_csv = csv.writer(open('speakers_list.csv', 'wt'))
