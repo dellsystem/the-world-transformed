@@ -109,6 +109,7 @@ speakers = {}
 for row in speakers_csv:
     speaker = dict(zip(speaker_header, row))
     slug = speaker.pop('slug')
+    del speaker['affiliation']
     speaker['sessions'] = ' '.join(sorted(speaker_sessions[slug]))
     if speaker['sessions']:
         # Check if the speaker image file exists on the filesystem.
@@ -118,8 +119,7 @@ for row in speakers_csv:
 
         speakers[slug] = speaker
     else:
-        pass
-        #print "No sessions for", speaker['name']
+        print "No sessions for", speaker['name']
 
 yaml.dump(speakers, open('speakers.yml', 'wt'))
 
@@ -141,7 +141,7 @@ layout: session
 slug: {slug}
 title: "{title} // The World Transformed"
 image: "sessions/{image}.jpg"
-description: "A session at {time} on {day} in {venue}{details}"
+description: "A session at {time} on {day} in {venue}{room}{details}"
 ---"""
 for slug, session in sessions.iteritems():
     # If there's an organiser, mention that
@@ -160,6 +160,7 @@ for slug, session in sessions.iteritems():
             time=session['time'],
             day=session['day'],
             venue=session['venue'],
+            room=' ' + session['room'] if session['room'] else '',
             details=details
         )
     )
