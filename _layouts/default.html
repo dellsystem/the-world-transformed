@@ -49,5 +49,11 @@
     <script src="/semantic/dist/semantic.min.js"></script>
     <script src="/js/jquery.scrollie.min.js"></script>
     <script src="/js/scripts.js?1"></script>
+    <script>
+      $('.modal-open').click(function(e) {
+        e.preventDefault();
+        $('.ui.modal').modal('show');
+      });
+    </script>
 </body>
 </html>
