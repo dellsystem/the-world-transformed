@@ -1,1 +1,1 @@
-{% assign slugs=include.speakers|split:" " %}{% for slug in slugs %}{% assign speaker = site.data.programme.speakers[slug] %}{{ speaker.name }}{% unless forloop.last %}, {% endunless %}{% endfor %}
+{%- assign slugs=include.speakers|split:" " -%}{%- for slug in slugs -%}{%- assign speaker = site.data.programme.speakers[slug] -%}{{ speaker.name }}{%- unless forloop.last -%}, {%- endunless -%}{%- endfor -%}

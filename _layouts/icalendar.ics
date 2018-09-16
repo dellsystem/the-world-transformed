@@ -1,0 +1,17 @@
+---
+layout: none
+---
+{%- assign session = site.data.programme.sessions[page.slug] -%}
+{%- capture speakers -%}{%- include speakers.html speakers=session.speakers -%}{%- endcapture -%}
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+UID:{{ page.slug }}@theworldtransformed.org
+DTSTAMP;TZID=Europe/London:{{ session.start_timestamp }}
+DTSTART;TZID=Europe/London:{{ session.start_timestamp }}
+DTEND;TZID=Europe/London:{{ session.end_timestamp }}
+SUMMARY:{{ session.title }}
+DESCRIPTION:{% unless session.organiser == '' %}Organised by {{ session.organiser }}. {% endunless %}{% unless speakers == '' %}Featuring {{ speakers | strip_newlines }}. {% endunless %}Details on The World Transformed website at {{ site.url }}/sessions/{{ page.slug }}.html
+LOCATION:{{ session.venue }} {{ session.room }}
+END:VEVENT
+END:VCALENDAR
