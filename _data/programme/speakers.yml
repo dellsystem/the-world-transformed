@@ -1269,7 +1269,7 @@ toby-sinbad-walker: {bio: 'Toby Sinbad Walker is a Labour Party member, radio jo
   photo: true, sessions: fighting-for-trans-liberation, tag: Journalist, twitter: 'https://twitter.com/tobysinbad'}
 tom-gann: {bio: 'General Editor and Theory & Strategy Co-Editor at the New Socialist ',
   confirmed: '', name: Tom Gann, organisation: New Socialist, other: '', photo: true,
-  sessions: eco-corbynism-monday eco-corbynism-sunday eco-corbynism-tuesday, tag: 'Journalist ',
+  sessions: eco-corbynism-monday eco-corbynism-sunday eco-corbynism-tuesday, tag: '',
   twitter: 'https://twitter.com/Tom_Gann'}
 tom-kibasi: {bio: 'Director of IPPR ', confirmed: '', name: Tom Kibasi, organisation: IPPR,
   other: '', photo: true, sessions: a-plan-for-the-new-economy, tag: 'Think Tank Director ',

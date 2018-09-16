@@ -532,28 +532,59 @@ eco-corbynism-monday: {day: Monday, description: 'What would the convergence of 
     1984 look like today and what are the blockages that need to be overcome? How
     can we ground contemporary eco-socialism in anti-imperialist, anti-racist and
     feminist as well as class struggles? We will explore these questions through reading
-    texts from Williams, Mies, Jason W. Moore, Raj Patel and Andreas Malm.', end_timestamp: 20180924T123000,
-  final: true, image: reading, organiser: New Socialist, room: Gallery, speakers: tom-gann,
-  start_timestamp: 20180924T110000, time: '11:00-12:30', title: Eco-Corbynism Reading
-    Group, venue: Black-E}
-eco-corbynism-sunday: {day: Sunday, description: 'What would the convergence of the
-    labour movement and the ecology movements that Raymond Williams called for in
-    1984 look like today and what are the blockages that need to be overcome? How
-    can we ground contemporary eco-socialism in anti-imperialist, anti-racist and
-    feminist as well as class struggles? We will explore these questions through reading
-    texts from Williams, Mies, Jason W. Moore and Raj Patel and Andreas Malm.', end_timestamp: 20180923T123000,
-  final: true, image: reading, organiser: New Socialist, room: Gallery, speakers: tom-gann,
-  start_timestamp: 20180923T110000, time: '11:00-12:30', title: Eco-Corbynism Reading
-    Group, venue: Black-E}
+    texts from Williams, Mies, Jason W. Moore, Raj Patel and Andreas Malm.
+
+
+    ###: Monday: Eco-Feminism
+
+
+    * Maria Mies, "The Dialectics of ''Progress and Retrogression''" and "Subordination
+    of Women, Nature and Colonies: The underground of capitalist patriarchy or civilized
+    society", first two parts of Chapter 3 of  _Patriarchy and Capital Accumulation
+    on a World Scale: Women in the International Division of Labour_, available [here](https://caringlabor.wordpress.com/2010/12/29/maria-mies-colonization-and-housewifization/)
+
+    * Maria Mies and Vandana Shiva, "Why We Wrote this Book Together", Introduction
+    to _Ecofeminism_
+
+    * Sheena Wilson, "Energy Imaginaries: Feminist and Decolonial Futures" in _Materialism
+    and The Critique of Energy_, available [here](http://www.mcmprime.com/files/Materialism_Energy.pdf)',
+  end_timestamp: 20180924T123000, final: true, image: reading, organiser: New Socialist,
+  room: Gallery, speakers: tom-gann, start_timestamp: 20180924T110000, time: '11:00-12:30',
+  title: Eco-Corbynism Reading Group, venue: Black-E}
+eco-corbynism-sunday: {day: Sunday, description: !!python/str "What would the convergence\
+    \ of the labour movement and the ecology movements that Raymond Williams called\
+    \ for in 1984 look like today and what are the blockages that need to be overcome?\
+    \ How can we ground contemporary eco-socialism in anti-imperialist, anti-racist\
+    \ and feminist as well as class struggles? We will explore these questions through\
+    \ reading texts from Williams, Mies, Jason W. Moore and Raj Patel and Andreas\
+    \ Malm.\n\n### Sunday: Raymond Williams, Ecology and the Labour Movement\n\n*\
+    \ Raymond Williams, \u201CEcology and the Labour Movement\u201D, talk available\
+    \ [here](https://www.youtube.com/watch?v=EiFWHtKOcj0)\n* Raymond Williams, \u201C\
+    Socialism and Ecology\u201D in _Resources of Hope: Culture, Democracy, Socialism_",
+  end_timestamp: 20180923T123000, final: true, image: reading, organiser: New Socialist,
+  room: Gallery, speakers: tom-gann, start_timestamp: 20180923T110000, time: '11:00-12:30',
+  title: Eco-Corbynism Reading Group, venue: Black-E}
 eco-corbynism-tuesday: {day: Tuesday, description: 'What would the convergence of
     the labour movement and the ecology movements that Raymond Williams called for
     in 1984 look like today and what are the blockages that need to be overcome? How
     can we ground contemporary eco-socialism in anti-imperialist, anti-racist and
     feminist as well as class struggles? We will explore these questions through reading
-    texts from Williams, Mies, Jason W. Moore and Raj Patel and Andreas Malm.', end_timestamp: 20180925T123000,
-  final: true, image: reading, organiser: New Socialist, room: Gallery, speakers: tom-gann,
-  start_timestamp: 20180925T110000, time: '11:00-12:30', title: Eco-Corbynism Reading
-    Group, venue: Black-E}
+    texts from Williams, Mies, Jason W. Moore and Raj Patel and Andreas Malm.
+
+
+    ### Tuesday: Contemporary Eco-Marxism
+
+
+    * John Bellamy Foster, "The Long Ecological Revolution" in _Monthly Review_, available
+    [here](https://monthlyreview.org/2017/11/01/the-long-ecological-revolution/)
+
+    * Raj Patel and Jason W. Moore, "How the chicken nugget became the true symbol
+    of our era" from the _Guardian_, available [here](https://www.theguardian.com/news/2018/may/08/how-the-chicken-nugget-became-the-true-symbol-of-our-era)
+
+    * Andrew Key, "Eco-Socialism or Eco-Barbarism" in _New Socialist_, available [here](https://newsocialist.org.uk/eco-socialism-or-eco-barbarism/)',
+  end_timestamp: 20180925T123000, final: true, image: reading, organiser: New Socialist,
+  room: Gallery, speakers: tom-gann, start_timestamp: 20180925T110000, time: '11:00-12:30',
+  title: Eco-Corbynism Reading Group, venue: Black-E}
 ed-miliband-quiz: {day: Tuesday, description: 'Know your Karl Marx from your Kinnock?
     Your New Left from your New Labour? If you do, then this is the quiz for you!
     We''ll be taking a tour through UK political history and current affairs, mixing
