@@ -40,11 +40,10 @@ layout: default
                 <div class="three wide column">
                     {% capture speakers %}{% include speakers.html speakers=session.speakers %}
 {% endcapture %}
-                    <a class="ui icon blue button"
-                       href="http://www.google.com/calendar/render?action=TEMPLATE&text={{ session.title|url_encode }}&dates={{ session.start_timestamp }}/{{ session.end_timestamp }}&details={% unless session.organiser == '' %}Organised+by+{{ session.organiser|url_encode }}.+{% endunless %}{% unless session.speakers == '' %}Featuring {{ speakers|url_encode }}{% endunless %}Details+on+The+World+Transformed+website+at+{{ site.url }}{{ page.url }}&location={{ session.venue|url_encode }}+{{ session.room|url_encode }}&sf=true&output=xml"
-                       target="_blank" rel="nofollow">
+                    <a class="ui icon blue button modal-open"
+                       href="http://www.google.com/calendar/render?action=TEMPLATE&text={{ session.title|url_encode }}&dates={{ session.start_timestamp }}/{{ session.end_timestamp }}&details={% unless session.organiser == '' %}Organised+by+{{ session.organiser|url_encode }}.+{% endunless %}{% unless session.speakers == '' %}Featuring {{ speakers|url_encode }}{% endunless %}Details+on+The+World+Transformed+website+at+{{ site.url }}{{ page.url }}&location={{ session.venue|url_encode }}+{{ session.room|url_encode }}&sf=true&output=xml">
                        <i class="calendar alternate icon"></i>
-                       Add to Google calendar
+                       Add to calendar
                     </a>
                 </div>
             </div>
@@ -108,4 +107,24 @@ layout: default
             {% endif %}
         </div>
     </div>
+</div>
+<div class="ui modal tiny">
+  <div class="content">
+    <div class="ui list">
+      <div class="item">
+        <a href="http://www.google.com/calendar/render?action=TEMPLATE&text={{ session.title|url_encode }}&dates={{ session.start_timestamp }}/{{ session.end_timestamp }}&details={% unless session.organiser == '' %}Organised+by+{{ session.organiser|url_encode }}.+{% endunless %}{% unless session.speakers == '' %}Featuring {{ speakers|url_encode }}{% endunless %}Details+on+The+World+Transformed+website+at+{{ site.url }}{{ page.url }}&location={{ session.venue|url_encode }}+{{ session.room|url_encode }}&sf=true&output=xml"
+           target="_blank" rel="nofollow">
+          <i class="google alternate icon"></i>
+          Add to Google calendar
+        </a>
+      </div>
+      <div class="item">
+        <a href="/sessions/{{ page.slug }}.ics"
+           target="_blank" rel="nofollow">
+          <i class="apple alternate icon"></i>
+          Add to Apple calendar
+        </a>
+      </div>
+    </div>
+  </div>
 </div>
