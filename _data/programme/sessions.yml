@@ -58,7 +58,7 @@ a-new-populism: {day: Monday, description: 'We are in a populist moment, with ne
     on populism has influenced political parties across Europe, and Jon Trickett MP,
     Shadow Minister for the Cabinet Office and a driving force behind the Corbyn Project.',
   end_timestamp: 20180924T190000, final: true, image: movement, organiser: '', room: Main
-    Space, speakers: chantal-mouffe jon-trickett-mp, start_timestamp: 20180924T173000,
+    Space, speakers: chantal-mouffe jon-trickett-mp george-eaton, start_timestamp: 20180924T173000,
   time: '17:30-19:00', title: A New Populism, venue: Hinterlands}
 a-party-for-the-21st-century: {day: Sunday, description: !!python/str "As Conference\
     \ debates the recommendations of the Democracy Review and \u2018Open Selection,\u2018\
@@ -67,8 +67,9 @@ a-party-for-the-21st-century: {day: Sunday, description: !!python/str "As Confer
     \ how should that work in practice? What role should members have and how do we\
     \ ensure that a future Labour Government is accountable to party members and the\
     \ Trade Union movement?", end_timestamp: 20180923T211500, final: false, image: default,
-  organiser: '', room: Main Space, speakers: jon-lansman, start_timestamp: 20180923T193000,
-  time: '19:30-21:15', title: 'From Below: A Party Fit for the 21st Century?', venue: Hinterlands}
+  organiser: '', room: Main Space, speakers: jon-lansman leo-panitch hilary-wainwright
+    aaron-bastani huda-elmi, start_timestamp: 20180923T193000, time: '19:30-21:15',
+  title: 'From Below: A Party Fit for the 21st Century?', venue: Hinterlands}
 a-plan-for-the-new-economy: {day: Tuesday, description: 'The UK economy is not working.
     Living standards are not improving, young people are set to be poorer than their
     parents, the nations and regions of the country are pulling further apart, and
@@ -180,7 +181,7 @@ artists-4-corbyn: {day: Tuesday, description: On Sunday 23 September Artists4Cor
     known as Burbo Bank in order to kick-start the bringing of off shore wind energy
     into public ownership. Join us to find out how the trip went and to get involved
     in a creative intervention into taking the power of the wind into public ownership.,
-  end_timestamp: 20180925T143000, final: false, image: energy, organiser: Artists4Corbyn,
+  end_timestamp: 20180925T143000, final: true, image: energy, organiser: Artists4Corbyn,
   room: Entrance, speakers: '', start_timestamp: 20180925T130000, time: '13:00-14:30',
   title: !!python/str "Artists4Corbyn: \u2018The People Will Possess the Wind\u2019",
   venue: Hinterlands}
@@ -277,7 +278,7 @@ calais-jungle: {day: Tuesday, description: 'This exhibtion is an intimate portra
     situation. The passage of time in the images exemplifies that there has always
     been migration across the channel, and questions whether extreme practices of
     state violence are the only solutions to a migration pattern.', end_timestamp: 20180925T211500,
-  final: false, image: international, organiser: Brush & Bow, room: Gallery, speakers: '',
+  final: true, image: international, organiser: Brush & Bow, room: Gallery, speakers: '',
   start_timestamp: 20180925T190000, time: '19:00-21:15', title: 'Calais Jungle: A
     City Between Borders', venue: Black-E}
 campaign-building: {day: Saturday, description: '14yrs-18yrs old? Local or national
@@ -302,8 +303,8 @@ cities-in-common: {day: Monday, description: !!python/str "Across our cities, fo
     \ So what could we discover through looking into urban political struggles? Join\
     \ a range of thinkers to explore how exciting and dynamic urban projects - both\
     \ nationally and internationally - are demonstrating real alternatives to neoliberalism.",
-  end_timestamp: 20180924T163000, final: false, image: community, organiser: '', room: Main
-    Space, speakers: raquel-rolnik ben-beach james-murray st-anns, start_timestamp: 20180924T150000,
+  end_timestamp: 20180924T163000, final: true, image: community, organiser: '', room: Main
+    Space, speakers: raquel-rolnik ben-beach james-murray st-anns sean-farmelo, start_timestamp: 20180924T150000,
   time: '15:00-16:30', title: 'Cities in Common: Urban Resistance to Neoliberalism',
   venue: Black-E}
 class-justice: {day: Saturday, description: 'This event brings together groups who
@@ -444,9 +445,9 @@ decolonising-foreign-policy: {day: Monday, description: !!python/str "UK foreign
     \ global South. What role do trade, aid and development play in perpetuating this\
     \ legacy? This session will explore how the UK can advance justice and human rights\
     \ around the globe.", end_timestamp: 20180924T163000, final: true, image: international,
-  organiser: War on Want, room: Theatre, speakers: vijay-prashad anna-stavrianakis
-    ryvka-barnard gargi-bhattacharyya, start_timestamp: 20180924T150000, time: '15:00-16:30',
-  title: Empire 2.0, venue: Hinterlands}
+  organiser: War on Want, room: Theatre, speakers: vijay-prashad ryvka-barnard gargi-bhattacharyya
+    celia-mckeon, start_timestamp: 20180924T150000, time: '15:00-16:30', title: Empire
+    2.0, venue: Hinterlands}
 decolonising-yoga: {day: Monday, description: !!python/str "Far from offering an escape\
     \ from the world\u2019s problems, decolonising yoga empowers active compassion,\
     \ community-building, and opposition to capitalism and colonialism. A yoga class\
@@ -498,7 +499,7 @@ developing-labours-nes: {day: Sunday, description: !!python/str "The 2017 Labour
     \ the system so desperately needs - and what challenges confront us in making\
     \ this happen.", end_timestamp: 20180923T123000, final: true, image: education,
   organiser: Momentum Education, room: Theatre, speakers: kevin-courtney sharon-clancy
-    emma-hardy-mp robert-verkaik ali-mussell chloe-tomlinson, start_timestamp: 20180923T110000,
+    emma-hardy-mp robert-verkaik ali-mussell chloe-tomlinson holly-rigby, start_timestamp: 20180923T110000,
   time: '11:00-12:30', title: 'From Cradle to Grave: Developing Labour''s National
     Education Service', venue: Hinterlands}
 developing-movement-leaders: {day: Saturday, description: 'Democratic socialism requires
@@ -627,7 +628,7 @@ ending-the-drug-war: {day: Sunday, description: !!python/str "The so called \u20
     \ policy reform and how you can be part of our growing movement for change.",
   end_timestamp: 20180923T163000, final: true, image: smoke, organiser: 'Health Poverty
     Action, Transform Drug Policy Foundation', room: Main Space, speakers: anne-marie-cockburn
-    martin-drewry chris-williamson-mp jane-slater, start_timestamp: 20180923T150000,
+    martin-drewry chris-williamson-mp jane-slater youusef-el-ginghy, start_timestamp: 20180923T150000,
   time: '15:00-16:30', title: 'Drugs: Ending the War and Winning the Battle', venue: Black-E}
 feeling-the-bern: {day: Monday, description: !!python/str "The 2016 breakthrough of\
     \ Bernie Sanders \u2013 and the more recent success of Alexandria Ocasio-Cortez\
@@ -647,8 +648,8 @@ feminism-for-the-many: {day: Saturday, description: 'In the year that marks the 
     and exploitation based on class, race and nation. No socialism without feminism,
     no feminism without socialism!', end_timestamp: 20180922T211500, final: true,
   image: women, organiser: '', room: Main Space, speakers: tithi-bhattacharya nelini-stamp
-    sofia-brito elif-sarican eva-o-connor, start_timestamp: 20180922T193000, time: '19:30-21:15',
-  title: Feminism for the Many, venue: Black-E}
+    sofia-brito elif-sarican eva-o-connor holly-rigby, start_timestamp: 20180922T193000,
+  time: '19:30-21:15', title: Feminism for the Many, venue: Black-E}
 fighting-disabled-exclusion: {day: Monday, description: 'The Conservative Government
     has created a hostile environment for disabled people and their families. What
     action is required to challenge the discriminatory practices that disabled people
@@ -876,7 +877,7 @@ living-the-climate-crisis: {day: Saturday, description: 'Across the world people
     the Tory government. Join a panel of grassroots activists to discuss how we move
     from the climate crisis to Climate Justice.', end_timestamp: 20180922T123000,
   final: false, image: energy, organiser: Labour Energy Forum, room: Theatre, speakers: tahir-latif
-    louise-castro anna-markova, start_timestamp: 20180922T110000, time: '11:00-12:30',
+    louise-castro anna-markova simon-lewis, start_timestamp: 20180922T110000, time: '11:00-12:30',
   title: 'Floods and Forest Fires: Living the Climate Crisis', venue: Black-E}
 long-live-southbank: {day: Saturday, description: 'Long Live Southbank is a diverse,
     multi-generational grassroots organisation. Championing unique and youth-led direct
@@ -943,8 +944,8 @@ migrant-political-voices: {day: Sunday, description: 'Many migrants face politic
     we might put migrant voices at the front and centre of our political struggles.',
   end_timestamp: 20180923T190000, final: false, image: international, organiser: Labour
     International CLP, room: Theatre, speakers: steve-hudson rita-chadha grzegorz-rybak
-    maya-goodfellow, start_timestamp: 20180923T173000, time: '17:30-19:00', title: 'Migrant
-    Political Voices: Turning Up the Volume', venue: Hinterlands}
+    maya-goodfellow susana-benavides, start_timestamp: 20180923T173000, time: '17:30-19:00',
+  title: 'Migrant Political Voices: Turning Up the Volume', venue: Hinterlands}
 mind-the-gap: {day: Tuesday, description: !!python/str "Too few women are elected\
     \ to positions in the Labour Party, and if we want our movement to be truly radical,\
     \ progressive and reprsentative, we must strive to tackle this imbalance. This\
@@ -1035,7 +1036,7 @@ painting-the-towns-red: {day: Tuesday, description: !!python/str "In 2017 and 20
     \ have suggested a problem in \u2018towns\u2019 generally. This panel challenges\
     \ that narrative by discussing the needs of\_varied types of town, how to revive\
     \ and support local democracy,\_and what it will take for Labour to win everywhere.",
-  end_timestamp: 20180925T103000, final: false, image: community, organiser: New Socialist,
+  end_timestamp: 20180925T103000, final: true, image: community, organiser: New Socialist,
   room: Theatre, speakers: daniel-frost gareth-eales jawad-khan emily-owen sonya-ward,
   start_timestamp: 20180925T090000, time: '09:00-10:30', title: Painting the Towns
     Red, venue: Black-E}
@@ -1168,7 +1169,7 @@ red-white-blue-labour: {day: Saturday, description: !!python/str "From Diane Abb
     \ different attitudes towards immigration, can Labour win power on a platform\
     \ of progressive economic policy and radical anti-racism?", end_timestamp: 20180922T190000,
   final: false, image: international, organiser: Novara Media, room: Main Space, speakers: ash-sarkar
-    dalia-gebrial john-denham diane-abbott-mp maurice-glasman, start_timestamp: 20180922T173000,
+    dalia-gebrial john-denham diane-abbott-mp maurice-glasman kojo-koram, start_timestamp: 20180922T173000,
   time: '17:30-19:00', title: 'Red, White, and Blue Labour', venue: Hinterlands}
 regenerating-regeneration: {day: Sunday, description: 'How are arts and culture implicated
     in regeneration, gentrification and social cleansing in the UK? How can we respond
@@ -1184,7 +1185,7 @@ relative-poverty: {day: Tuesday, description: 'Relative Poverty is an ongoing bo
     of work being created by Les Monaghan with families defined as destitute in Doncaster,
     South Yorkshire. Both docmentary and collaborative, it is a process-led photographic
     investigation that deals with issues of agency, visibility, public engagement
-    and fairness of representation.', end_timestamp: 20180925T211500, final: false,
+    and fairness of representation.', end_timestamp: 20180925T211500, final: true,
   image: default, organiser: Les Monaghan, room: Gallery, speakers: '', start_timestamp: 20180925T190000,
   time: '19:00-21:15', title: Relative Poverty, venue: Black-E}
 rentquake: {day: Sunday, description: !!python/str "The number of private renters\
@@ -1199,6 +1200,12 @@ rentquake: {day: Sunday, description: !!python/str "The number of private renter
     Action', room: Studio, speakers: paul-williams siobhan-donnachie jacob-mukherjee,
   start_timestamp: 20180923T150000, time: '15:00-16:30', title: 'Rentquake: Strategies
     and Tactics for the New Private Renter Movement', venue: Black-E}
+representation-in-film: {day: Sunday, description: 'Charlotte Knowles (Independent
+    Film Fund and Newspeaks) joins artists from the Vertical Lab, an emerging multi
+    disciplinary cinema incubator, to explore the importance of representation in
+    film.', end_timestamp: 20180923T143000, final: true, image: film, organiser: Vertical
+    Lab, room: '', speakers: charlotte-knowles, start_timestamp: 20180923T130000,
+  time: '13:00-14:30', title: Representation in Film, venue: Baltic Cinema}
 runaway-finance: {day: Sunday, description: '10 years after the Great Crash, with
     the financial sector still reigning large, shadow banking, money laundering, and
     predatory lending are all out of control, at the expense of workers, states, and
@@ -1228,11 +1235,11 @@ saving-the-nhs: {day: Sunday, description: !!python/str "Our NHS has been under 
     \ full-blown staffing crisis. How can the NHS be saved? Can it be improved upon?\
     \ In this session we\u2019ll develop a plan to build the mass movement we need\
     \ to save our NHS, hearing from a wide-ranging set of speakers from the UK and\
-    \ further afield, and, most importantly, from you!", end_timestamp: 20180923T123000,
-  final: true, image: healthcare, organiser: NEON & Health Campaigns Together, room: Main
-    Space, speakers: bonnie-castillo john-lister simon-brasch felicity-dowling deborah-harrington,
-  start_timestamp: 20180923T110000, time: '11:00-12:30', title: 'Saving the NHS: Planning
-    our Fightback', venue: Black-E}
+    \ further afield, and, most importantly, from you! Please note this is a practical\
+    \ and participatory session.", end_timestamp: 20180923T123000, final: true, image: healthcare,
+  organiser: NEON & Health Campaigns Together, room: Main Space, speakers: bonnie-castillo
+    john-lister simon-brasch felicity-dowling deborah-harrington, start_timestamp: 20180923T110000,
+  time: '11:00-12:30', title: 'Saving the NHS: Planning our Fightback', venue: Black-E}
 screenprinting: {day: Sunday, description: 'Come and learn how to screenprint and
     make your own political posters with Constellations'' very own Print Moon Studios.
     Open to all ages, and no experience necessary!', end_timestamp: 20180923T150000,
@@ -1347,8 +1354,8 @@ the-british-ruling-class: {day: Tuesday, description: !!python/str "Something ve
     \ Party, to the media, to the banks. What happened to our ruling class? And how\
     \ should we react?", end_timestamp: 20180925T211500, final: true, image: default,
   organiser: '', room: Theatre, speakers: richard-seymour dawn-foster maya-goodfellow
-    adam-ramsay, start_timestamp: 20180925T193000, time: '19:30-21:15', title: 'What
-    happened to the British ruling class?', venue: Hinterlands}
+    adam-ramsay ellie-mae, start_timestamp: 20180925T193000, time: '19:30-21:15',
+  title: 'What happened to the British ruling class?', venue: Hinterlands}
 the-european-left: {day: Saturday, description: 'In recent years, Europe has seen
     austerity give way to political turmoil and the rise of the radical right. How
     should the left respond? Join MPs from across the European left to discuss the
@@ -1445,8 +1452,9 @@ transforming-the-global-economy: {day: Monday, description: 'In 2008, the world 
     the global economy, and how a radical Labour government can lead the way in building
     a new international economic order that works for the many, not the few.', end_timestamp: 20180924T211500,
   final: false, image: finance, organiser: '', room: Main Space, speakers: john-mcdonnell-mp
-    leo-panitch raquel-rolnik, start_timestamp: 20180924T193000, time: '19:30-21:15',
-  title: '10 Years Since the Financial Crisis: Transforming the Global Economy', venue: Hinterlands}
+    leo-panitch raquel-rolnik dorothy-grace-guerrero, start_timestamp: 20180924T193000,
+  time: '19:30-21:15', title: '10 Years Since the Financial Crisis: Transforming the
+    Global Economy', venue: Hinterlands}
 tribune-relaunch: {day: Saturday, description: 'Tribune is Britain''s oldest socialist
     magazine, started in 1937 in support of the Popular Front against fascism in Spain.
     Over the years its leading figures - from Nye Bevan and Jennie Lee to Barbara
