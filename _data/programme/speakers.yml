@@ -506,7 +506,7 @@ grace-blakeley: {bio: !!python/str "Writer and Research Fellow on IPPR\u2019s Co
   other: '', photo: true, sessions: a-new-economic-consensus global-finance-101 tribune-relaunch,
   tag: Researcher, twitter: 'https://twitter.com/graceblakeley'}
 grzegorz-rybak: {bio: Activist for Polish left-wing party Razem, confirmed: 'Yes',
-  name: Grzegorz Rybak, organisation: Razem, other: '', photo: false, sessions: migrant-political-voices,
+  name: Grzegorz Rybak, organisation: Razem, other: '', photo: true, sessions: migrant-political-voices,
   tag: Politician, twitter: ''}
 hasan-patel: {bio: young labour activist, confirmed: '', name: Hasan Patel, organisation: '',
   other: '', photo: true, sessions: question-time, tag: '', twitter: 'https://twitter.com/CorbynistaTeen'}
@@ -574,7 +574,7 @@ james-meadway: {bio: Senior Economics Adviser to John McDonnell, confirmed: 'Yes
   tag: Economist, twitter: ''}
 james-murray: {bio: Deputy Mayor of London for Housing and Residential Development,
   confirmed: 'Yes', name: James Murray, organisation: '', other: '', photo: true,
-  sessions: cities-in-common, tag: Politician, twitter: 'https://twitter.com/jamesmurray_ldn'}
+  sessions: cities-in-common housing-for-all, tag: Politician, twitter: 'https://twitter.com/jamesmurray_ldn'}
 james-snowball: {bio: Wetherspoons Worker, confirmed: '', name: James Snowball, organisation: '',
   other: '', photo: false, sessions: time-for-10, tag: '', twitter: ''}
 jamie-driscoll: {bio: '', confirmed: '', name: Jamie Driscoll, organisation: Talk

@@ -759,8 +759,8 @@ housing-for-all: {day: Saturday, description: !!python/str "As the housing crisi
     \ quality designs and constructions. How can we learn from these experiences to\
     \ build high-quality, affordable housing for all?\_And what would the architecture\_\
     of a radical housing programme look like? Come and collectively imagine it.",
-  end_timestamp: 20180922T211500, final: false, image: housing, organiser: '', room: Theatre,
-  speakers: kate-macintosh anna-minton ben-beach katya-nasim, start_timestamp: 20180922T193000,
+  end_timestamp: 20180922T211500, final: true, image: housing, organiser: '', room: Theatre,
+  speakers: kate-macintosh anna-minton ben-beach katya-nasim james-murray, start_timestamp: 20180922T193000,
   time: '19:30-21:15', title: 'Housing for All: Imagining the Homes of the Future',
   venue: Hinterlands}
 how-to-win-big: {day: Tuesday, description: !!python/str "To win the next election,\
