@@ -82,9 +82,9 @@ ann-pettifor: {bio: !!python/str "Ann Pettifor is a political economist, author,
     Pettifor, organisation: PRIME - Policy Research in Macroeconomics, other: '',
   photo: true, sessions: debunking-the-myths runaway-finance the-brexit-bind, tag: Economist,
   twitter: 'https://twitter.com/AnnPettifor'}
-anna-baum: {bio: Anna Baum is a member of the Free Workers Union in Germany., confirmed: 'Yes',
-  name: Anna Baum, organisation: '', other: '', photo: false, sessions: the-gig-economy,
-  tag: '', twitter: ''}
+anna-baum: {bio: 'Anna works as a film activist with labournet.tv, and has been involved
+    in organising delivery couriers in Berlin.', confirmed: 'Yes', name: Anna Baum,
+  organisation: '', other: '', photo: true, sessions: the-gig-economy, tag: '', twitter: 'https://twitter.com/labournettv'}
 anna-dent: {bio: !!python/str "Independent public policy consultant and RSA fellow\
     \ focusing on employment, skills and welfare issues. She is currently working\
     \ on welfare reform and basic income models.\_", confirmed: 'Yes', name: Anna
@@ -153,10 +153,11 @@ bonnie-castillo: {bio: Executive Director of National Nurses United union of the
     States, confirmed: 'Yes', name: Bonnie Castillo, organisation: National Nurses
     United, other: '', photo: true, sessions: future-visions saving-the-nhs, tag: Trade
     Unionist, twitter: 'https://twitter.com/NNUBonnie'}
-callum-cant: {bio: Member of Acorn and the IWGB. Editor of Notes From Below and is
-    currently writing 'Working for Deliveroo' (forthcoming on Polity Press., confirmed: '',
-  name: Callum Cant, organisation: Notes From Below, other: '', photo: true, sessions: the-gig-economy,
-  tag: Activist, twitter: 'https://twitter.com/CallumCant1'}
+callum-cant: {bio: !!python/str "Callum Cant is currently writing \u2018Working for\
+    \ Deliveroo\u2019 (forthcoming on Polity Press) and is an editor at Notes from\
+    \ Below. He worked at Deliveroo for eight months, during which time he was an\
+    \ IWGB rep.", confirmed: '', name: Callum Cant, organisation: Notes From Below,
+  other: '', photo: true, sessions: the-gig-economy, tag: Activist, twitter: 'https://twitter.com/CallumCant1'}
 camille-barbagallo: {bio: !!python/str "Academic, activist and Women\u2019s Strike\
     \ Assembly UK organiser", confirmed: 'Yes', name: Camille Barbagallo, organisation: !!python/str "Women\u2019\
     s Strike Assembly UK", other: '', photo: true, sessions: end-to-sex-work-criminalisation,
@@ -218,6 +219,10 @@ charlotte-riley: {bio: "Charlotte Lydia Riley is a lecturer in twentieth century
   photo: true, sessions: internationalist-labour-party, tag: '', twitter: 'https://twitter.com/lottelydia'}
 chloe-tomlinson: {bio: National Education Union Young Teachers, confirmed: '', name: Chloe
     Tomlinson, organisation: '', other: '', photo: true, sessions: developing-labours-nes,
+  tag: '', twitter: ''}
+chris-fear: {bio: 'Courier, General Organiser of the Industrial Workers of the World
+    union and a co-leader of the IWW Couriers Network campaign.', confirmed: '', name: Chris
+    Fear, organisation: Industrial Workers of the World, other: '', photo: true, sessions: the-gig-economy,
   tag: '', twitter: ''}
 chris-peace: {bio: 'Orgreave Truth and Justice Campaign and Labour PPC for North East
     Derbyshire ', confirmed: 'Yes', name: Chris Peace, organisation: '', other: '',
@@ -383,8 +388,8 @@ eliane-correa: {bio: Leader of Afro-Cuban/pan-Latin band Wara, confirmed: 'Yes',
   tag: Musician, twitter: 'https://twitter.com/_elianecorrea_'}
 elif-sarican: {bio: !!python/str "UK Coordinator of Kurdistan Students Union. Activist\
     \ of the Kurdish Women\u2019s Movement.", confirmed: 'Yes', name: Elif Sarican,
-  organisation: '', other: '', photo: true, sessions: feminism-for-the-many, tag: Activist,
-  twitter: ''}
+  organisation: '', other: '', photo: true, sessions: feminism-for-the-many no-pasaran,
+  tag: Activist, twitter: ''}
 ellie-mae: {bio: Freelance Journalist, confirmed: '', name: Ellie Mae O'Hagan, organisation: '',
   other: '', photo: true, sessions: the-british-ruling-class, tag: '', twitter: ''}
 emily-owen: {bio: Labour PPC for Aberconwy, confirmed: 'Yes', name: Emily Owen, organisation: '',
@@ -448,9 +453,6 @@ fran-boait: {bio: 'Executive Director of Positive Money, Fran is also a Director
     the UN, Greenpeace, and BP.  Fran is also the Labour Parliamentary candidate for
     Gloucester. ', confirmed: 'Yes', name: Fran Boait, organisation: Positive Money,
   other: '', photo: true, sessions: runaway-finance, tag: '', twitter: 'https://twitter.com/franboait'}
-frances-jones: {bio: Associate Director of the Centre for Local Economic Strategies,
-  confirmed: 'Yes', name: Frances Jones, organisation: '', other: '', photo: true,
-  sessions: building-community-wealth, tag: '', twitter: ''}
 frances-northrop: {bio: 'Frances is a freelance consultant, working with communities
     as an adviser for the the NEF/Co-ops UK Community Economic Development Programme',
   confirmed: 'yes', name: Frances Northrop, organisation: New Economics Foundation,
@@ -647,8 +649,8 @@ john-mcdonnell-mp: {bio: Shadow Chancellor of the Exchequer and Labour MP for Ha
     Party, other: '', photo: true, sessions: in-and-against-the-state towards-a-socialist-government
     transforming-the-global-economy why-political-education workers-control-in-economic-planning,
   tag: Politician, twitter: 'https://twitter.com/johnmcdonnellMP'}
-jon-lansman: {bio: '', confirmed: '', name: Jon Lansman, organisation: Momentum, other: '',
-  photo: false, sessions: a-party-for-the-21st-century, tag: '', twitter: ''}
+jon-lansman: {bio: Founder of Momentum, confirmed: '', name: Jon Lansman, organisation: Momentum,
+  other: '', photo: false, sessions: a-party-for-the-21st-century, tag: '', twitter: ''}
 jon-trickett-mp: {bio: 'Labour MP for Hemsworth and Shadow Minister for the Cabinet
     Office ', confirmed: 'Yes', name: Jon Trickett MP, organisation: Labour Party,
   other: '', photo: true, sessions: a-new-populism conversation-with-jean-luc-melenchon
@@ -855,8 +857,8 @@ luke-cooper: {bio: 'Dr Luke Cooper is Course Leader, BA (Hons) Politics and Seni
   name: Luke Cooper, organisation: '', other: '', photo: true, sessions: a-radical-alliance-for-europe,
   tag: '', twitter: 'https://twitter.com/lukecooper100'}
 lydia-hughes: {bio: Lydia is an editor at Notes From Below., confirmed: '', name: Lydia
-    Hughes, organisation: '', other: '', photo: false, sessions: tackling-the-tech-giants,
-  tag: '', twitter: 'https://twitter.com/lydiakathleenh'}
+    Hughes, organisation: '', other: '', photo: false, sessions: tackling-the-tech-giants
+    the-gig-economy, tag: '', twitter: 'https://twitter.com/lydiakathleenh'}
 lynne-segal: {bio: 'Academic and feminist writer, Lynne''s most recent book is Radical
     Happiness: Moment''s of Collective Joy', confirmed: 'Yes', name: Lynne Segal,
   organisation: '', other: '', photo: true, sessions: marx-at-200 mental-health-and-capitalism,
@@ -978,6 +980,14 @@ neil-findlay-msp: {bio: 'Labour MSP for Lothians and Shadow Cabinet member leadi
     on Brexit, Campaigns and Party engagement', confirmed: 'Yes', name: Neil Findlay
     MSP, organisation: Labour Party, other: '', photo: true, sessions: post-brexit,
   tag: 'Politician ', twitter: 'https://twitter.com/NeilFindlay_MSP'}
+neil-mcinroy: {bio: !!python/str "Chief Executive for the Centre for Local Economic\
+    \ Strategies (CLES). A leading commentator on economic development and public\
+    \ policy, Neil has featured in Local Government Chronicle\u2019s annual top 50\
+    \ most influential people in local government. He has been involved in public\
+    \ sector policy and delivery for over 25 years and has collaborated with a broad\
+    \ range of local, regional and national governments and agencies across UK and\
+    \ in Europe, Asia, US and Australasia.", confirmed: '', name: Neil McInroy, organisation: '',
+  other: '', photo: false, sessions: building-community-wealth, tag: '', twitter: ''}
 nelini-stamp: {bio: 'National Organizing Director at the Working Families Party and
     member of Resistance Revival Chorus ', confirmed: 'Yes', name: Nelini Stamp, organisation: Working
     Families Party, other: '', photo: true, sessions: feminism-for-the-many no-pasaran,
@@ -1058,6 +1068,9 @@ prof-ozlem-onaran: {bio: Author and Professor of Economics at the University of 
     and the director of the Greenwich Political Economy Research Centre, confirmed: 'Yes',
   name: !!python/str "Professor \xD6zlem Onaran", organisation: University of Greenwich,
   other: '', photo: true, sessions: debunking-the-myths, tag: '', twitter: ''}
+rachael-maskell: {bio: Shadow Rail Minister, confirmed: '', name: 'Rachael Maskell ',
+  organisation: '', other: '', photo: true, sessions: generation-solidarity, tag: '',
+  twitter: ''}
 rachael-o-byrne: {bio: '', confirmed: '', name: !!python/str "Rachael O\u2019Byrne",
   organisation: '', other: '', photo: true, sessions: transform-the-world-14-plus
     transform-the-world-8-to-13, tag: '', twitter: 'https://twitter.com/rachael_obyrne'}
@@ -1190,6 +1203,10 @@ satoko-kishimoto: {bio: Coordinator of the Public Alternative Project at the Tra
 sean-farmelo: {bio: 'Co-founder of students for co-operation, housing activist and
     member of Radical Routes', confirmed: '', name: Sean Farmelo, organisation: Radical
     Routes, other: '', photo: true, sessions: cities-in-common, tag: '', twitter: ''}
+selena: {bio: 'Selena is a Foodora worker and campaigner at the Riders Union Netherlands.
+    She''s currently facing redundancy as Foodora pulls out of the country. ', confirmed: '',
+  name: Selena, organisation: The Rider Union, other: '', photo: true, sessions: the-gig-economy,
+  tag: '', twitter: 'https://twitter.com/radunionrider'}
 seth-wheeler: {bio: 'Founder member of  Plan C, editor of the socialist journal ''Notes
     From Below'' and member of the IWGB Union. He is currently devising an educational
     project in conjunction with CAIWU, a member-led union and helped to program this
@@ -1356,10 +1373,17 @@ yohann-koshy: {bio: New Internationalist co-editor, confirmed: '', name: Yohann 
   organisation: New Internationalist, other: '', photo: false, sessions: internationalist-labour-party,
   tag: '', twitter: ''}
 youusef-el-ginghy: {bio: '', confirmed: '', name: Youusef El Ginghy, organisation: '',
-  other: '', photo: false, sessions: ending-the-drug-war, tag: '', twitter: ''}
+  other: '', photo: false, sessions: a-global-nhs, tag: '', twitter: ''}
 zita-holbourne: {bio: 'Activist, author & artist and PCS national vice-president',
   confirmed: 'Yes', name: Zita Holbourne, organisation: PCS, other: '', photo: true,
   sessions: black-women-transforming-politics sacrifice-zones, tag: Activist, twitter: ''}
-zitto-kabwe: {bio: '', confirmed: 'Yes', name: Zitto Kabwe, organisation: Alliance
+zitto-kabwe: {bio: "Party Leader, ACT Wazalendo. Member of Parliament, Tanzania. Zitto\
+    \ Kabwe studied economics, international trade and Law&Business in Tanzania and\
+    \ Germany. His expertise is in fiscal regimes of mining, oil and natural gas as\
+    \ well as governance of natural resources in sub-Saharan Africa. \r\nHe is the\
+    \ longest serving Chairman of parliamentary Public Accounts committees in Tanzanian\
+    \ parliament known for his fight against corruption and holding government leaders\
+    \ to account. \r\nSince March 2015, Zitto is The Leader of a leftist ACT Wazalendo,\
+    \ a political party in Tanzania.\r\n", confirmed: 'Yes', name: Zitto Kabwe, organisation: Alliance
     for Change and Transparency, other: '', photo: true, sessions: an-evening-of-internationalism,
   tag: Politician, twitter: 'https://twitter.com/zittokabwe'}
