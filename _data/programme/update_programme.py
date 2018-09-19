@@ -136,12 +136,16 @@ for speaker_slug in sorted(speakers.keys()):
 yaml.dump(sessions, open('sessions.yml', 'wt'))
 
 # For each session, make sure there is a corresponding .html page in sessions/
-front_matter = """---
+front_matter_html = """---
 layout: session
 slug: {slug}
 title: "{title} // The World Transformed"
 image: "sessions/{image}.jpg"
 description: "A session at {time} on {day} in {venue}{room}{details}"
+---"""
+front_matter_ics = """---
+layout: icalendar
+slug: {slug}
 ---"""
 for slug, session in sessions.iteritems():
     # If there's an organiser, mention that
@@ -150,10 +154,10 @@ for slug, session in sessions.iteritems():
     else:
         details = ''
 
-    filename = '../../sessions/%s.html' % slug
-    file = open(filename, 'wt')
-    file.write(
-        front_matter.format(
+    filename_html = '../../sessions/%s.html' % slug
+    file_html = open(filename_html, 'wt')
+    file_html.write(
+        front_matter_html.format(
             slug=slug,
             title=session['title'].replace('"', '\\"'),
             image=session['image'],
@@ -164,7 +168,12 @@ for slug, session in sessions.iteritems():
             details=details
         )
     )
-    file.close()
+    file_html.close()
+
+    filename_ics = '../../sessions/%s.ics' % slug
+    file_ics = open(filename_ics, 'wt')
+    file_ics.write(front_matter_ics.format(slug=slug))
+    file_ics.close()
 
 # If there are any speakers for whom we don't have data, print them
 for speaker_slug in speaker_sessions:
