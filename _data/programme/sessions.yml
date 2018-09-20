@@ -5,10 +5,10 @@
     and failing. With the Labour Party recently campaigning on their boldest election
     manifesto in a generation, a radical agenda for a new economy has never been closer
     to Westminster. It is time to grab this opportunity and move towards a 4 Day Week.',
-  end_timestamp: 20180925T163000, final: true, image: 4-day-week, organiser: '4 Day
+  end_timestamp: 20180925T164500, final: true, image: 4-day-week, organiser: '4 Day
     Week Campaign, Autonomy', room: Main Space, speakers: alice-martin carys-roberts
     aidan-harper will-stronge katja-kipping david-graeber, start_timestamp: 20180925T150000,
-  time: '15:00-16:30', title: 'A 4 Day Week: The Time is Now!', venue: Black-E}
+  time: '15:00-16:45', title: 'A 4 Day Week: The Time is Now!', venue: Black-E}
 a-global-nhs: {day: Tuesday, description: 'Each year governments are diverting vast
     amounts of resources away from citizens towards big companies. From cuts to the
     NHS to the denial of healthcare in parts of sub-Saharan Africa, the struggle for
@@ -1012,8 +1012,8 @@ no-pasaran: {day: Sunday, description: 'Though its devotees call themselves nati
     And most importantly - how do we stop them? Antifascists from around the world
     talk global tactics for a world in crisis.', end_timestamp: 20180923T143000, final: false,
   image: fascism, organiser: '', room: Event Space, speakers: nelini-stamp carina-book
-    elif-sarican, start_timestamp: 20180923T130000, time: '13:00-14:30', title: 'No
-    Pasaran: International Antifascism', venue: Constellations}
+    elif-sarican gary-younge james-butler, start_timestamp: 20180923T130000, time: '13:00-14:30',
+  title: 'No Pasaran: International Antifascism', venue: Constellations}
 occupy-fleet-street: {day: Sunday, description: !!python/str "Our media is in crisis\
     \ and transition. There is a crisis of funding, working conditions, quality, trust\
     \ and accountability in British journalism. Google and Facebook have rapidly acquired\
@@ -1059,6 +1059,15 @@ poets-corner: {day: Saturday, description: Come join in an hour of political poe
     and song performances by both local and national artists., end_timestamp: 20180922T173000,
   final: true, image: default, organiser: '', room: Garden, speakers: '', start_timestamp: 20180922T163000,
   time: '16:30-17:30', title: Poets Corner, venue: Constellations}
+political-scrapbook-making-disability: {day: Sunday, description: !!python/str "Is\
+    \ the left ableist? What would a non-ableist society look like? We will talk about\
+    \ the importance of recognising both those with visible and invisible disabilities\
+    \ in society and how we on the left can do more to incorporate their stories into\
+    \ our social movements. A relaxed session making posters and chatting about the\
+    \ important stuff\u2013 welcoming all children, adults, and those who think they\
+    \ can't make art!", end_timestamp: 20180923T150000, final: true, image: art, organiser: '',
+  room: Gallery, speakers: '', start_timestamp: 20180923T130000, time: '13:00-15:00',
+  title: 'Political Scrapbook Making: Disability', venue: Black-E}
 popular-education-forum: {day: Sunday, description: !!python/str "The World Transformed\
     \ is becoming more than just a festival. We want to help develop socialist education\
     \ all year round. To this end, we are hosting a special forum where you\u2019\
@@ -1211,8 +1220,9 @@ representation-in-film: {day: Sunday, description: 'How do you tackle the lack o
     underrepresented groups and breaking down doors. Come and join the discussion
     and watch films produced by a diverse range of artists that are making waves in
     UK film.', end_timestamp: 20180923T143000, final: true, image: film, organiser: Vertical
-    Lab, room: '', speakers: charlotte-knowles, start_timestamp: 20180923T130000,
-  time: '13:00-14:30', title: Representation in Film, venue: Baltic Cinema}
+    Lab, room: '', speakers: charlotte-knowles sumerah-srivastav leaphia-darko chloe-mamelok,
+  start_timestamp: 20180923T130000, time: '13:00-14:30', title: Representation in
+    Film, venue: Baltic Cinema}
 runaway-finance: {day: Sunday, description: '10 years after the Great Crash, with
     the financial sector still reigning large, shadow banking, money laundering, and
     predatory lending are all out of control, at the expense of workers, states, and
@@ -1458,10 +1468,10 @@ transforming-the-global-economy: {day: Monday, description: 'In 2008, the world 
     and international guests to discuss what''s wrong with the whole structure of
     the global economy, and how a radical Labour government can lead the way in building
     a new international economic order that works for the many, not the few.', end_timestamp: 20180924T211500,
-  final: false, image: finance, organiser: The World Transformed, room: Main Space,
-  speakers: john-mcdonnell-mp leo-panitch raquel-rolnik dorothy-grace-guerrero, start_timestamp: 20180924T193000,
-  time: '19:30-21:15', title: john-mcdonnell-mp leo-panitch raquel-rolnik dorothy-grace-guerrero
-    grace-blakeley, venue: Hinterlands}
+  final: true, image: finance, organiser: The World Transformed, room: Main Space,
+  speakers: john-mcdonnell-mp leo-panitch raquel-rolnik dorothy-grace-guerrero grace-blakeley,
+  start_timestamp: 20180924T193000, time: '19:30-21:15', title: '10 Years Since the
+    Financial Crisis: Transforming the Global Economy', venue: Hinterlands}
 tribune-relaunch: {day: Saturday, description: 'Tribune is Britain''s oldest socialist
     magazine, started in 1937 in support of the Popular Front against fascism in Spain.
     Over the years its leading figures - from Nye Bevan and Jennie Lee to Barbara
@@ -1470,8 +1480,8 @@ tribune-relaunch: {day: Saturday, description: 'Tribune is Britain''s oldest soc
     reflect on this history and the importance of winning the battle of ideas in an
     era of capitalist crisis.', end_timestamp: 20180922T190000, final: true, image: news,
   organiser: Tribune, room: Main Space, speakers: owen-jones david-harvey ronan-burtenshaw
-    grace-blakeley, start_timestamp: 20180922T173000, time: '17:30-19:00', title: 'Tribune:
-    The Relaunch', venue: Black-E}
+    grace-blakeley dawn-foster, start_timestamp: 20180922T173000, time: '17:30-19:00',
+  title: 'Tribune: The Relaunch', venue: Black-E}
 twt-football-final: {day: Sunday, description: 'Football has always been a sport inextricably
     tied to so many of the traditional bases of the labour movement. However, the
     rise of unaccountable millionaire club owners has led to fan alienation that is

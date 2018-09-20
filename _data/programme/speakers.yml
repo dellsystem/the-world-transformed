@@ -209,17 +209,30 @@ charlie-clarke: {bio: Charlie Clarke is a member of The World Transformed team a
 charlotte-grace: {bio: Charlotte teaches architecture and works for Novara Media.,
   confirmed: '', name: Charlotte Grace, organisation: '', other: '', photo: false,
   sessions: creative-class, tag: '', twitter: ''}
-charlotte-knowles: {bio: '', confirmed: '', name: Charlotte Knowles, organisation: 'Independent
-    Film Trust ', other: '', photo: false, sessions: representation-in-film, tag: '',
-  twitter: ''}
+charlotte-knowles: {bio: 'Write-up: How do you tackle the lack of representation in
+    UK cinema? Filmmaker and founder of the Vertical Lab, Charlotte Knowles is joined
+    by film artists, Leaphia Darko, Sumerah Srivastav and Chloe Mamelok to discuss
+    the the importance of mentoring, seeking out talent amongst underrepresented groups
+    and breaking down doors. Come and join the discussion and watch films produced
+    by a diverse range of artists that are making waves in UK film.', confirmed: '',
+  name: Charlotte Knowles, organisation: 'Independent Film Trust ', other: '', photo: false,
+  sessions: representation-in-film, tag: '', twitter: ''}
 charlotte-riley: {bio: "Charlotte Lydia Riley is a lecturer in twentieth century British\
     \ history at the University of Southampton. She works on the history of the Labour\
     \ Party, the end of the British Empire, overseas development, aid and humanitarianism.\
     \ \r\n", confirmed: 'yes', name: Charlotte Riley, organisation: '', other: '',
   photo: true, sessions: internationalist-labour-party, tag: '', twitter: 'https://twitter.com/lottelydia'}
-chloe-tomlinson: {bio: National Education Union Young Teachers, confirmed: '', name: Chloe
-    Tomlinson, organisation: '', other: '', photo: true, sessions: developing-labours-nes,
+chloe-mamelok: {bio: !!python/str "Chloe Mamelok is a documentary producer and journalist.\
+    \ She has recently worked at Vice media, producing and shooting on documentaries\
+    \ ranging from a series on international extremist groups to a feature-length\
+    \ film on assisted dying. She was recently selected as one of Sheffield Documentary\
+    \ Festival\u2019s \u2018Future Producers 2018\u2019 and is currently co-directing\
+    \ a short film about a rehabilitation program for drug-addicted mothers in New\
+    \ Jersey, supported by Glassbreaker Films in the US.", confirmed: 'yes', name: Chloe
+    Mamelok, organisation: '', other: '', photo: false, sessions: representation-in-film,
   tag: '', twitter: ''}
+chloe-tomlinson: {bio: '', confirmed: '', name: Chloe Tomlinson, organisation: '',
+  other: '', photo: true, sessions: developing-labours-nes, tag: '', twitter: ''}
 chris-fear: {bio: 'Courier, General Organiser of the Industrial Workers of the World
     union and a co-leader of the IWW Couriers Network campaign.', confirmed: '', name: Chris
     Fear, organisation: Industrial Workers of the World, other: '', photo: true, sessions: the-gig-economy,
@@ -308,8 +321,8 @@ dawn-butler-mp: {bio: Shadow Secretary of State for Women & Equalities and Labou
   twitter: 'https://twitter.com/DawnButlerBrent'}
 dawn-foster: {bio: 'Guardian columnist who writes on politics, social affairs and
     economics', confirmed: 'Yes', name: Dawn Foster, organisation: '', other: '',
-  photo: true, sessions: a-plan-for-the-new-economy the-british-ruling-class, tag: Journalist,
-  twitter: 'https://twitter.com/DawnHFoster'}
+  photo: true, sessions: a-plan-for-the-new-economy the-british-ruling-class tribune-relaunch,
+  tag: Journalist, twitter: 'https://twitter.com/DawnHFoster'}
 deborah-harrington: {bio: '', confirmed: '', name: Deborah Harrington, organisation: Public
     Matters, other: '', photo: false, sessions: saving-the-nhs, tag: '', twitter: ''}
 dennis-skinner-mp: {bio: Labour MP for Bolsover, confirmed: 'Yes', name: Dennis Skinner
@@ -370,10 +383,10 @@ ed-lewis: {bio: 'Campaigner for Global Justice Now and is involved in the London
     for 16-25 year olds and is a member of Hackney North LP.', confirmed: '', name: Ed
     Lewis, organisation: '', other: '', photo: false, sessions: popular-education-forum,
   tag: '', twitter: ''}
-ed-miliband-mp: {bio: 'Labour MP for Doncaster North and former leader of the Labour
-    Party, radio dj sensation.', confirmed: 'Yes', name: Ed Miliband MP, organisation: Labour
-    Party, other: '', photo: true, sessions: a-new-economic-consensus ed-miliband-quiz,
-  tag: Politician, twitter: 'https://twitter.com/Ed_Miliband'}
+ed-miliband-mp: {bio: Labour MP for Doncaster North and former leader of the Labour
+    Party., confirmed: 'Yes', name: Ed Miliband MP, organisation: Labour Party, other: '',
+  photo: true, sessions: a-new-economic-consensus ed-miliband-quiz, tag: Politician,
+  twitter: 'https://twitter.com/Ed_Miliband'}
 edd-mustill: {bio: Edd Mustill is a labour history nerd and co-presenter of the Labour
     Days podcast. He has written a history of the Sheffield Workers' Committee and
     is Vice-Chair of the Sheffield Heeley Constituency Labour Party., confirmed: 'Yes',
@@ -497,6 +510,9 @@ gary-anderson: {bio: 'Co-founder of the Free University of Liverpool, the Instit
     political education is as revolutionary as falling in love - it changes everything.',
   confirmed: 'Yes', name: Gary Anderson, organisation: '', other: '', photo: true,
   sessions: why-political-education, tag: '', twitter: ''}
+gary-younge: {bio: 'British journalist, author and broadcaster. He is editor-at-large
+    for The Guardian', confirmed: '', name: Gary Younge, organisation: '', other: '',
+  photo: false, sessions: no-pasaran, tag: '', twitter: 'https://twitter.com/garyyounge'}
 george-eaton: {bio: Political Editor of the New Statesman, confirmed: '', name: George
     Eaton, organisation: '', other: '', photo: true, sessions: a-new-populism, tag: '',
   twitter: ''}
@@ -505,8 +521,8 @@ gerry-byrne: {bio: '', confirmed: '', name: Gerry Byrne, organisation: Talk Soci
   tag: '', twitter: ''}
 grace-blakeley: {bio: !!python/str "Writer and Research Fellow on IPPR\u2019s Commission\
     \ on Economic Justice", confirmed: 'Yes', name: Grace Blakeley, organisation: IPPR,
-  other: '', photo: true, sessions: a-new-economic-consensus global-finance-101 tribune-relaunch,
-  tag: Researcher, twitter: 'https://twitter.com/graceblakeley'}
+  other: '', photo: true, sessions: a-new-economic-consensus global-finance-101 transforming-the-global-economy
+    tribune-relaunch, tag: Researcher, twitter: 'https://twitter.com/graceblakeley'}
 grzegorz-rybak: {bio: Activist for Polish left-wing party Razem, confirmed: 'Yes',
   name: Grzegorz Rybak, organisation: Razem, other: '', photo: true, sessions: migrant-political-voices,
   tag: Politician, twitter: ''}
@@ -569,8 +585,8 @@ jacqui-haynes: {bio: 'Chair of Lancaster West Residents Association and Grenfell
     activist ', confirmed: 'Yes', name: Jacqui Haynes, organisation: '', other: '',
   photo: true, sessions: class-justice future-visions, tag: Activist, twitter: ''}
 james-butler: {bio: 'Senior editor of Novara Media, writer and activist ', confirmed: '',
-  name: James Butler, organisation: Novara Media, other: '', photo: true, sessions: generation-solidarity,
-  tag: '', twitter: 'https://twitter.com/piercepenniless'}
+  name: James Butler, organisation: Novara Media, other: '', photo: true, sessions: generation-solidarity
+    no-pasaran, tag: '', twitter: 'https://twitter.com/piercepenniless'}
 james-meadway: {bio: Senior Economics Adviser to John McDonnell, confirmed: 'Yes',
   name: James Meadway, organisation: Labour Party, other: '', photo: true, sessions: a-plan-for-the-new-economy,
   tag: Economist, twitter: ''}
@@ -787,17 +803,23 @@ laurie-laybourn-langton: {bio: '', confirmed: '', name: Laurie Laybourn-Langton,
 leah-levane: {bio: Jewish Voice for Labour co-chair and Hastings councillor, confirmed: 'Yes',
   name: Leah Levane, organisation: Jewish Voice for Labour, other: '', photo: true,
   sessions: socialist-women-in-labour, tag: Politician, twitter: ''}
-lee-carter: {bio: DSA member of the Virginia House of Delegates, confirmed: 'Yes',
-  name: Lee Carter, organisation: '', other: '', photo: true, sessions: feeling-the-bern,
-  tag: Activist, twitter: 'https://twitter.com/carterforva'}
-lena-simic: {bio: !!python/str "Lena \u0160imi\u0107, Political Education Officer\
-    \ for Walton CLP, is a transnational performance practitioner, pedagogue and scholar.\
-    \ Lena works at Edge Hill University. Originally from Dubrovnik, Croatia, Lena\
-    \ came to live in Liverpool in 2000. Together with her family she co-organizes\
-    \ the Institute for the Art and Practice of Dissent at Home, an art activist initiative\
-    \ in Everton. She\u2019s a part of Artists4Corbyn collective.", confirmed: 'Yes',
-  name: !!python/str "Lena \u0160imi\u0107", organisation: '', other: '', photo: true,
-  sessions: education-in-the-labour-party, tag: Performance Practitioner, twitter: ''}
+leaphia-darko: {bio: !!python/str "Leaphia Darko is an actor, writer and life long\
+    \ Londoner. She trained at the Royal Academy of Dramatic Art after receiving scholarships.\
+    \ Since graduating from RADA in July 2017 she has appeared as Portia opposite\
+    \ Ben Wishaw\u2019s Brutus in Nick Hytner\u2019s production of Julius Caesar and\
+    \ as Katherine in Loves Labours Lost in The Sam Wanamaker Playhouse at The Shakespeare\u2019\
+    s Globe. This year, under the mentorship of The Prince\u2019s Trust, Leaphia founded\
+    \ the production company The London Rep which focuses on telling the stories of\
+    \ women and the working classes on stage, on screen and online. A strong focus\
+    \ of the company is making period pieces featuring people of colour who have been\
+    \ at the centre of 2000yrs of European History (thelondonrep.com).\r\r", confirmed: '',
+  name: Leaphia Darko, organisation: '', other: '', photo: false, sessions: representation-in-film,
+  tag: '', twitter: ''}
+lee-carter: {bio: '', confirmed: 'Yes', name: Lee Carter, organisation: '', other: '',
+  photo: true, sessions: feeling-the-bern, tag: Activist, twitter: 'https://twitter.com/carterforva'}
+lena-simic: {bio: '', confirmed: 'Yes', name: !!python/str "Lena \u0160imi\u0107",
+  organisation: '', other: '', photo: true, sessions: education-in-the-labour-party,
+  tag: Performance Practitioner, twitter: ''}
 leo-panitch: {bio: 'Editor of the Socialist Register and distinguished research professor
     at York University, Canada.', confirmed: 'Yes', name: Leo Panitch, organisation: '',
   other: 'Co-author, with Sam Gindin, of The Making of Global Capitalism: The Political
@@ -863,8 +885,9 @@ lynne-segal: {bio: 'Academic and feminist writer, Lynne''s most recent book is R
     Happiness: Moment''s of Collective Joy', confirmed: 'Yes', name: Lynne Segal,
   organisation: '', other: '', photo: true, sessions: marx-at-200 mental-health-and-capitalism,
   tag: '', twitter: 'https://twitter.com/lynne_segal'}
-mariela-kohon: {bio: '', confirmed: '', name: Mariela Kohon, organisation: '', other: '',
-  photo: true, sessions: colombia-the-human-rights-crisis, tag: '', twitter: 'https://twitter.com/MarielaJFC'}
+mariela-kohon: {bio: '', confirmed: '', name: Mariela Kohon, organisation: Director
+    of Justice for Colombia, other: '', photo: true, sessions: colombia-the-human-rights-crisis,
+  tag: '', twitter: 'https://twitter.com/MarielaJFC'}
 marisa-matias-mep: {bio: Marisa Isabel dos Santos Matias is a Portuguese sociologist
     and Member of the European Parliament., confirmed: '', name: Marisa Matias MEP,
   organisation: '', other: '', photo: true, sessions: a-radical-alliance-for-europe,
@@ -1301,6 +1324,15 @@ stewart-lansley: {bio: !!python/str "Stewart Lansley is an economist and financi
 stuart-maclure: {bio: Project manager at Long Live Southwark, confirmed: '', name: Stuart
     Maclure, organisation: '', other: '', photo: false, sessions: creative-campaigning
     long-live-southbank, tag: '', twitter: ''}
+sumerah-srivastav: {bio: !!python/str "\nSumerah Srivastav is a playwright and screenwriter.\
+    \ For the screen she has written for EastEnders and her short film Origami, starring\
+    \ Nicholas Pinnock and Pearl Mackie, is currently in post-production. In 2017\
+    \ she was identified as a rising star in the BBC\u2019s New Talent Hotlist. This\
+    \ year she is as a BAFTA Crew participant and is due to complete MediaXchange\
+    \ and Creative Skillset\u2019s Advanced Writing for TV drama programme. She is\
+    \ on Twitter @sumerahas and more info can be found at www.sumerah.com\n\n", confirmed: 'Yes',
+  name: Sumerah Srivastav, organisation: '', other: '', photo: false, sessions: representation-in-film,
+  tag: '', twitter: ''}
 susana-benavides: {bio: Member of the United Voices of the World union, confirmed: '',
   name: Susana Benavides, organisation: '', other: '', photo: false, sessions: migrant-political-voices,
   tag: '', twitter: ''}
