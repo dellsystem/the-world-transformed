@@ -6,8 +6,8 @@
     manifesto in a generation, a radical agenda for a new economy has never been closer
     to Westminster. It is time to grab this opportunity and move towards a 4 Day Week.',
   end_timestamp: 20180925T164500, final: true, image: 4-day-week, organiser: '4 Day
-    Week Campaign, Autonomy', room: Main Space, speakers: alice-martin carys-roberts
-    aidan-harper will-stronge katja-kipping david-graeber, start_timestamp: 20180925T150000,
+    Week Campaign, Autonomy, Rosa Luxemburg Stiftung Berlin', room: Main Space, speakers: alice-martin
+    carys-roberts aidan-harper will-stronge katja-kipping david-graeber, start_timestamp: 20180925T150000,
   time: '15:00-16:45', title: 'A 4 Day Week: The Time is Now!', venue: Black-E}
 a-global-nhs: {day: Tuesday, description: 'Each year governments are diverting vast
     amounts of resources away from citizens towards big companies. From cuts to the
@@ -686,9 +686,9 @@ future-of-trade-unions: {day: Monday, description: !!python/str "After a decade 
     \ develop a bold new strategy to address the imbalance of power in today\u2019\
     s economy. Join trade union General Secretaries and activists to discuss strategies\
     \ for strengthening workers' power.", end_timestamp: 20180924T190000, final: false,
-  image: workplace, organiser: '', room: Theatre, speakers: dave-ward tim-roache valery-alzaga
-    carolyn-jones, start_timestamp: 20180924T173000, time: '17:30-19:00', title: The
-    Future of the Trade Unions, venue: Black-E}
+  image: workplace, organiser: '', room: Theatre, speakers: dave-ward tim-roache carolyn-jones
+    lauren-townsend navendu-mishra, start_timestamp: 20180924T173000, time: '17:30-19:00',
+  title: The Future of the Trade Unions, venue: Black-E}
 future-visions: {day: Sunday, description: 'The 2017 General Election demonstrated
     that millions of people are desperate for a radical transformation of society.
     This impulse is not only restricted to the U.K, as the fight for social justice
@@ -706,7 +706,7 @@ generation-solidarity: {day: Tuesday, description: 'Increasingly age, not class,
     divide? Are things as simple as the statistics look? And how can we build intergenerational
     solidarity to overcome these divisions? Join five socialists from five different
     generations to discuss these questions and more.', end_timestamp: 20180925T190000,
-  final: false, image: default, organiser: The World Transformed, room: Main Space,
+  final: true, image: default, organiser: The World Transformed, room: Main Space,
   speakers: james-butler keir-milburn amal-bider julie-lyon-taylor rachael-maskell,
   start_timestamp: 20180925T173000, time: '17:30-19:00', title: Generation Solidarity,
   venue: Black-E}
@@ -880,8 +880,9 @@ living-the-climate-crisis: {day: Saturday, description: 'Across the world people
     the Tory government. Join a panel of grassroots activists to discuss how we move
     from the climate crisis to Climate Justice.', end_timestamp: 20180922T123000,
   final: false, image: energy, organiser: Labour Energy Forum, room: Theatre, speakers: tahir-latif
-    louise-castro anna-markova simon-lewis, start_timestamp: 20180922T110000, time: '11:00-12:30',
-  title: 'Floods and Forest Fires: Living the Climate Crisis', venue: Black-E}
+    louise-castro anna-markova simon-lewis tom-gann, start_timestamp: 20180922T110000,
+  time: '11:00-12:30', title: 'Floods and Forest Fires: Living the Climate Crisis',
+  venue: Black-E}
 long-live-southbank: {day: Saturday, description: 'Long Live Southbank is a diverse,
     multi-generational grassroots organisation. Championing unique and youth-led direct
     action, the initial campaign to save the beloved home of British skateboarding
@@ -1068,6 +1069,14 @@ political-scrapbook-making-disability: {day: Sunday, description: !!python/str "
     \ can't make art!", end_timestamp: 20180923T150000, final: true, image: art, organiser: '',
   room: Gallery, speakers: '', start_timestamp: 20180923T130000, time: '13:00-15:00',
   title: 'Political Scrapbook Making: Disability', venue: Black-E}
+political-scrapbook-making-education: {day: Tuesday, description: !!python/str "What\u2019\
+    s the point of university? Do you actually gain anything from formal education?\
+    \ What does inclusion even mean? In this session we will discuss our education\
+    \ system, its pitfalls, and start thinking about radical alternatives. A relaxed\
+    \ session making posters and chatting about the important stuff\u2013 welcoming\
+    \ all children, adults, and those who think they can't make art!", end_timestamp: 20180925T170000,
+  final: true, image: art, organiser: '', room: Gallery, speakers: '', start_timestamp: 20180925T150000,
+  time: '15:00-17:00', title: 'Political Scrapbook Making: Education', venue: Black-E}
 popular-education-forum: {day: Sunday, description: !!python/str "The World Transformed\
     \ is becoming more than just a festival. We want to help develop socialist education\
     \ all year round. To this end, we are hosting a special forum where you\u2019\
@@ -1185,6 +1194,16 @@ red-white-blue-labour: {day: Saturday, description: !!python/str "From Diane Abb
   final: false, image: international, organiser: Novara Media, room: Main Space, speakers: ash-sarkar
     dalia-gebrial john-denham diane-abbott-mp maurice-glasman kojo-koram, start_timestamp: 20180922T173000,
   time: '17:30-19:00', title: 'Red, White, and Blue Labour', venue: Hinterlands}
+reel-news: {day: Saturday, description: !!python/str "Reel News is a London based\
+    \ activist video collective, using film to help bring about social change. In\
+    \ a world where everyone is increasingly affected by austerity, climate change\
+    \ and war, we work with the growing number of campaigns (often ignored by mainstream\
+    \ media) which are not only fighting back, but winning too \u2013 not just in\
+    \ the UK, but across the world. Reel News present a series of films about climate\
+    \ change from around the world: Awake - Standing Rock, Black Snake - Standing\
+    \ Rock, Undercurrents", end_timestamp: 20180922T150000, final: true, image: film,
+  organiser: Reel News, room: '', speakers: '', start_timestamp: 20180922T140000,
+  time: '14:00-15:00', title: Reel News, venue: Baltic Cinema}
 regenerating-regeneration: {day: Sunday, description: 'How are arts and culture implicated
     in regeneration, gentrification and social cleansing in the UK? How can we respond
     to the ongoing neoliberalisation of arts and culture which has lead to what we
@@ -1409,9 +1428,9 @@ this-is-bate-bola: {day: Saturday, description: !!python/str "This is Bate Bola 
     \ Duarte who has lost nine close family members to gun violence in his favela\
     \ community in Rio de Janeiro. Now, through his boxing project, he\u2019s fighting\
     \ to build a better future for his son and his community. Directed by Ben Holman,\
-    \ Produced by Beija Films & Mother London.", end_timestamp: 20180922T130000, final: true,
-  image: film, organiser: '', room: '', speakers: '', start_timestamp: 20180922T120000,
-  time: '12:00-13:00', title: This Is Bate Bola & The Good Fight Film Screenings,
+    \ Produced by Beija Films & Mother London.", end_timestamp: 20180922T123000, final: true,
+  image: film, organiser: '', room: '', speakers: '', start_timestamp: 20180922T110000,
+  time: '11:00-12:30', title: This Is Bate Bola & The Good Fight Film Screenings,
   venue: Baltic Cinema}
 time-for-10: {day: Saturday, description: !!python/str "Workers at McDonald\u2019\
     s, TGI Fridays and Wetherspoons are coming together in trade unions to turn back\
@@ -1503,6 +1522,12 @@ update-the-welfare-state: {day: Saturday, description: !!python/str "It\u2019s c
   final: true, image: welfare, organiser: Autonomy, room: Theatre, speakers: stewart-lansley
     dan-carden-mp gail-ward anna-dent will-stronge, start_timestamp: 20180922T110000,
   time: '11:00-12:30', title: Update the Welfare State, venue: Hinterlands}
+video-training: {day: Sunday, description: 'Want to make viral videos that can be
+    seen by millions? Learn editing skills with Momentum''s video team and get tips
+    on how to make posts go further on social media. Basic editing/computer skills
+    helpful - bring a laptop if you can.', end_timestamp: 20180923T150000, final: false,
+  image: default, organiser: Momentum Video, room: Annex, speakers: '', start_timestamp: 20180923T130000,
+  time: '13:00-15:00', title: Viral Video Training, venue: Hinterlands}
 we-are-many: {day: Sunday, description: !!python/str "This fearless, thought-provoking\
     \ documentary is the remarkable inside story behind the first ever global demonstration,\
     \ and its surprising and unreported legacy. The film features testimony from a\
