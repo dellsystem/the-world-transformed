@@ -49,7 +49,7 @@ alice-martin: {bio: 'Alice is Head of Work and Pay at the New Economics Foundati
   photo: true, sessions: 4-day-week, tag: Researcher, twitter: 'https://twitter.com/AlicePMartin'}
 alison-mcgarry: {bio: 'Labour activist and chair of Islington North CLP. Alison is
     an International tradeUnion/NGO advisor and trainer. ', confirmed: 'yes', name: Alison
-    McGarry, organisation: '', other: '', photo: false, sessions: mind-the-gap, tag: '',
+    McGarry, organisation: '', other: '', photo: true, sessions: mind-the-gap, tag: '',
   twitter: ''}
 amal-bider: {bio: 'Amal has a focus on anti-racist and and anti-islamophobia organising.
     Recently, she has been working in communities particularly in response to the
@@ -57,7 +57,7 @@ amal-bider: {bio: 'Amal has a focus on anti-racist and and anti-islamophobia org
     people''s involvement in political activism. Amal has worked on documenting narratives
     from Eritrean refugees and their harsh journeys and has also ran workshops on
     tackling islamophobia.', confirmed: '', name: Amal Bider, organisation: '', other: '',
-  photo: false, sessions: generation-solidarity, tag: '', twitter: ''}
+  photo: true, sessions: generation-solidarity, tag: '', twitter: ''}
 andrew-cumbers: {bio: Political economist, confirmed: 'yes', name: Andrew Cumbers,
   organisation: '', other: '', photo: true, sessions: taking-whats-ours, tag: '',
   twitter: 'https://twitter.com/acumbers'}
@@ -519,7 +519,7 @@ gary-anderson: {bio: 'Co-founder of the Free University of Liverpool, the Instit
   sessions: why-political-education, tag: '', twitter: ''}
 gary-younge: {bio: 'British journalist, author and broadcaster. He is editor-at-large
     for The Guardian', confirmed: '', name: Gary Younge, organisation: '', other: '',
-  photo: false, sessions: no-pasaran, tag: '', twitter: 'https://twitter.com/garyyounge'}
+  photo: true, sessions: no-pasaran, tag: '', twitter: 'https://twitter.com/garyyounge'}
 george-eaton: {bio: Political Editor of the New Statesman, confirmed: '', name: George
     Eaton, organisation: '', other: '', photo: true, sessions: a-new-populism, tag: '',
   twitter: ''}
@@ -557,7 +557,7 @@ huda-elmi: {bio: Labour Party National Executive Committee, confirmed: '', name:
     Elmi, organisation: '', other: '', photo: true, sessions: a-party-for-the-21st-century,
   tag: '', twitter: ''}
 ian-lavery: {bio: Labour Party Chair and MP for Wansbeck, confirmed: '', name: Ian
-    Lavery, organisation: '', other: '', photo: false, sessions: how-to-win-big, tag: '',
+    Lavery, organisation: '', other: '', photo: true, sessions: how-to-win-big, tag: '',
   twitter: 'https://twitter.com/IanLaveryMP
 
     '}
@@ -673,7 +673,7 @@ john-mcdonnell-mp: {bio: Shadow Chancellor of the Exchequer and Labour MP for Ha
     transforming-the-global-economy why-political-education workers-control-in-economic-planning,
   tag: Politician, twitter: 'https://twitter.com/johnmcdonnellMP'}
 jon-lansman: {bio: Founder of Momentum, confirmed: '', name: Jon Lansman, organisation: Momentum,
-  other: '', photo: false, sessions: a-party-for-the-21st-century, tag: '', twitter: ''}
+  other: '', photo: true, sessions: a-party-for-the-21st-century, tag: '', twitter: ''}
 jon-trickett-mp: {bio: 'Labour MP for Hemsworth and Shadow Minister for the Cabinet
     Office ', confirmed: 'Yes', name: Jon Trickett MP, organisation: Labour Party,
   other: '', photo: true, sessions: a-new-populism conversation-with-jean-luc-melenchon
@@ -957,8 +957,8 @@ maurilio-pirone: {bio: 'University of Bologna, Bologna UNIBO with expertise in R
   name: Maurilio Pirone, organisation: '', other: '', photo: true, sessions: the-gig-economy,
   tag: Researcher, twitter: 'https://twitter.com/mau_pirone'}
 maya-goodfellow: {bio: Journalist and academic, confirmed: 'Yes', name: Maya Goodfellow,
-  organisation: '', other: '', photo: true, sessions: migrant-political-voices the-british-ruling-class,
-  tag: Journalist, twitter: 'https://twitter.com/MayaGoodfellow'}
+  organisation: '', other: '', photo: true, sessions: migrant-political-voices racisms-past-and-present
+    the-british-ruling-class, tag: Journalist, twitter: 'https://twitter.com/MayaGoodfellow'}
 meirian-jump: {bio: Archivist & Library Manager at the Marx Memorial Library, confirmed: 'Yes',
   name: Meirian Jump, organisation: Marx Memorial Library, other: '', photo: true,
   sessions: marxism-101, tag: Archivist, twitter: ''}
@@ -1341,7 +1341,7 @@ sumerah-srivastav: {bio: !!python/str "\nSumerah Srivastav is a playwright and s
   name: Sumerah Srivastav, organisation: '', other: '', photo: false, sessions: representation-in-film,
   tag: '', twitter: ''}
 susana-benavides: {bio: Member of the United Voices of the World union, confirmed: '',
-  name: Susana Benavides, organisation: '', other: '', photo: false, sessions: migrant-political-voices,
+  name: Susana Benavides, organisation: '', other: '', photo: true, sessions: migrant-political-voices,
   tag: '', twitter: ''}
 tahir-latif: {bio: Environmental campaigner and PCS activist, confirmed: 'Yes', name: Tahir
     Latif, organisation: PCS, other: '', photo: false, sessions: living-the-climate-crisis,

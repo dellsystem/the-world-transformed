@@ -1130,8 +1130,9 @@ racisms-past-and-present: {day: Monday, description: 'Join leading scholars for 
     should battle against it. We will look at how bigotries flourish and how the left
     has succeeded or failed in confronting and beating them.', end_timestamp: 20180924T143000,
   final: false, image: international, organiser: The World Transformed, room: Event
-    Space, speakers: jacqueline-rose karma-nabulsi robert-berkeley, start_timestamp: 20180924T130000,
-  time: '13:00-14:30', title: 'Invisible Histories: Racisms Past and Present', venue: Constellations}
+    Space, speakers: jacqueline-rose karma-nabulsi robert-berkeley maya-goodfellow,
+  start_timestamp: 20180924T130000, time: '13:00-14:30', title: 'Invisible Histories:
+    Racism''s Past and Present', venue: Constellations}
 radical-history-tour: {day: Sunday, description: !!python/str "Join Liverpool Walton\
     \ MP Dan Carden on a journey back into Liverpool\u2019s turbulent political past.\
     \ This bus tour will visit key locations of protest, struggle and social progress\
