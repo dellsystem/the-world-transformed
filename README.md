@@ -24,7 +24,8 @@ required if you simply wish to rebuild the website, as the data will have been
 committed already.)
 
 Follow [this guide](https://developers.google.com/drive/api/v3/quickstart/python)
-to get credentials.json, then run `_data/programme/update_programme.py`
+to get credentials.json, then run `_data/programme/update_programme.py`.
+Install Python dependencies with `pip -r requirements.txt` first.
 
 ## Adding new session images
 
