@@ -47,9 +47,16 @@ alice-martin: {bio: 'Alice is Head of Work and Pay at the New Economics Foundati
     and is author of Why We Need Trade Unions in the 21st Century (Polity Press, 2019).',
   confirmed: 'Yes', name: Alice Martin, organisation: New Economics Foundation, other: '',
   photo: true, sessions: 4-day-week, tag: Researcher, twitter: 'https://twitter.com/AlicePMartin'}
-alison-mcgarry: {bio: '', confirmed: 'yes', name: Alison McGarry, organisation: '',
-  other: '', photo: false, sessions: mind-the-gap, tag: '', twitter: ''}
-amal-bider: {bio: '', confirmed: '', name: Amal Bider, organisation: '', other: '',
+alison-mcgarry: {bio: 'Labour activist and chair of Islington North CLP. Alison is
+    an International tradeUnion/NGO advisor and trainer. ', confirmed: 'yes', name: Alison
+    McGarry, organisation: '', other: '', photo: false, sessions: mind-the-gap, tag: '',
+  twitter: ''}
+amal-bider: {bio: 'Amal has a focus on anti-racist and and anti-islamophobia organising.
+    Recently, she has been working in communities particularly in response to the
+    Grenfell Tragedy. She is particularly interested in youth empowerment and young
+    people''s involvement in political activism. Amal has worked on documenting narratives
+    from Eritrean refugees and their harsh journeys and has also ran workshops on
+    tackling islamophobia.', confirmed: '', name: Amal Bider, organisation: '', other: '',
   photo: false, sessions: generation-solidarity, tag: '', twitter: ''}
 andrew-cumbers: {bio: Political economist, confirmed: 'yes', name: Andrew Cumbers,
   organisation: '', other: '', photo: true, sessions: taking-whats-ours, tag: '',

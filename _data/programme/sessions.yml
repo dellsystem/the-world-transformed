@@ -593,9 +593,9 @@ ed-miliband-quiz: {day: Tuesday, description: 'Know your Karl Marx from your Kin
     drinks with gruelling quiz competition to find out who really knows their stuff.
     Join our quizmaster, Ed Miliband, and everyone under Labour''s big tent to fight
     it out for the honour of being crowned The World Transformed quiz champions.',
-  end_timestamp: 20180925T211500, final: true, image: default, organiser: '', room: Main
-    Space, speakers: ed-miliband-mp, start_timestamp: 20180925T193000, time: '19:30-21:15',
-  title: The World Transformed Pub Quiz, venue: Black-E}
+  end_timestamp: 20180925T211500, final: true, image: default, organiser: The World
+    Transformed, room: Main Space, speakers: ed-miliband-mp, start_timestamp: 20180925T193000,
+  time: '19:30-21:15', title: The World Transformed Pub Quiz, venue: Black-E}
 education-in-the-labour-party: {day: Saturday, description: 'Are you a current or
     prospective Political Education Officer, or just interested in getting something
     going in your CLP? If so, this is the session for you. Led by Political Education
@@ -784,8 +784,8 @@ in-and-against-the-state: {day: Tuesday, description: 'In recent decades the Bri
     their experiences of working in and against the state, as we seek to understand
     its nature, whether it can be democratised and how wortkers and communities can
     participate in organising the services they depend on.', end_timestamp: 20180925T163000,
-  final: true, image: movement, organiser: '', room: Main Space, speakers: john-mcdonnell-mp
-    mark-serwotka hilary-wainwright francesca-bria, start_timestamp: 20180925T150000,
+  final: true, image: movement, organiser: The World Transformed, room: Main Space,
+  speakers: john-mcdonnell-mp mark-serwotka hilary-wainwright francesca-bria, start_timestamp: 20180925T150000,
   time: '15:00-16:30', title: In and Against the State, venue: Hinterlands}
 internationalist-labour-party: {day: Saturday, description: !!python/str "Corbyn\u2019\
     s foreign policy is a huge source of his support, especially among younger members\
@@ -1010,10 +1010,10 @@ no-pasaran: {day: Sunday, description: 'Though its devotees call themselves nati
     are seeing similar upsurges of the far right, coordinating their street movements
     across borders - and sometimes winning big electorally. So why now? Why everywhere?
     And most importantly - how do we stop them? Antifascists from around the world
-    talk global tactics for a world in crisis.', end_timestamp: 20180923T143000, final: false,
-  image: fascism, organiser: '', room: Event Space, speakers: nelini-stamp carina-book
-    elif-sarican gary-younge james-butler, start_timestamp: 20180923T130000, time: '13:00-14:30',
-  title: 'No Pasaran: International Antifascism', venue: Constellations}
+    talk global tactics for a world in crisis.', end_timestamp: 20180923T143000, final: true,
+  image: fascism, organiser: The World Transformed, room: Event Space, speakers: nelini-stamp
+    carina-book elif-sarican gary-younge james-butler, start_timestamp: 20180923T130000,
+  time: '13:00-14:30', title: 'No Pasaran: International Antifascism', venue: Constellations}
 occupy-fleet-street: {day: Sunday, description: !!python/str "Our media is in crisis\
     \ and transition. There is a crisis of funding, working conditions, quality, trust\
     \ and accountability in British journalism. Google and Facebook have rapidly acquired\
@@ -1321,7 +1321,7 @@ tackling-the-tech-giants: {day: Tuesday, description: !!python/str "Big tech com
     \ part of the discussion. Come and hear more in this session!", end_timestamp: 20180925T143000,
   final: true, image: cybersyn, organiser: New Economics Foundation, room: Theatre,
   speakers: wendy-liu jason-prado duncan-mccann emma-black lydia-hughes, start_timestamp: 20180925T130000,
-  time: '13:00-14:30', title: Taking on the Tech Giants, venue: Black-E}
+  time: '13:00-14:30', title: Taking on the Tech Giants, venue: Hinterlands}
 taking-whats-ours: {day: Tuesday, description: 'On every continent, activists and
     political leaders are transforming struggles to resist privatisation into campaigns
     to restore and expand public ownership. The Labour Party is no exception. For
@@ -1387,7 +1387,7 @@ the-gig-economy: {day: Monday, description: !!python/str "On paper the gig econo
     \ the last two years have seen an international wave of workers\u2019 organisation\
     \ in this burgeoning sector. How were these struggles coordinated and can lessons\
     \ be applied elsewhere?", end_timestamp: 20180924T163000, final: false, image: uber,
-  organiser: Labour International CLP, room: Event Space, speakers: callum-cant maurilio-pirone
+  organiser: Momentum International, room: Event Space, speakers: callum-cant maurilio-pirone
     anna-baum chris-fear lydia-hughes selena, start_timestamp: 20180924T150000, time: '15:00-16:30',
   title: 'Deliveroo and Uber: Striking Beyond Borders', venue: Constellations}
 things-change: {day: Sunday, description: 'A project that builds a culture of solidarity
