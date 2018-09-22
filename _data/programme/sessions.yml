@@ -1156,33 +1156,42 @@ react-workshop: {day: Monday, description: For intermediate to advanced coders. 
 reading-group-antisemitism-monday: {day: Monday, description: 'What is antisemitism?
     Why has it proved such a longstanding feature of European history? Why does it
     appear at times on the left, as the "socialism of fools"? Join us to discuss these
-    questions and more through readings of some classic texts on the topic with expert
-    discussion leaders. Following our successful Stuart Hall reading group last year,
-    this year at The World Transformed we will aim to tackle a crucial question facing
-    the left by tapping into our best traditions of political education and leftwing
-    anti-racism.', end_timestamp: 20180924T103000, final: false, image: reading, organiser: '',
-  room: Meeting Room, speakers: '', start_timestamp: 20180924T090000, time: '09:00-10:30',
-  title: Reading Group on Anti-Semitism, venue: Black-E}
+    questions and more thorough readings of some classic texts on the topic, with
+    expert discussion leaders. Following our successful Stuart Hall reading group
+    last year, this year at The World Transformed we will aim to tackle a crucial
+    question facing the left by tapping into our best traditions of political education
+    and leftwing anti-racism.
+
+
+    **[Click here for readings](/reading-groups#anti-semitism)**', end_timestamp: 20180924T103000,
+  final: false, image: reading, organiser: '', room: Meeting Room, speakers: '', start_timestamp: 20180924T090000,
+  time: '09:00-10:30', title: Reading Group on Anti-Semitism, venue: Black-E}
 reading-group-antisemitism-sunday: {day: Sunday, description: 'What is antisemitism?
     Why has it proved such a longstanding feature of European history? Why does it
     appear at times on the left, as the "socialism of fools"? Join us to discuss these
-    questions and more through readings of some classic texts on the topic, with expert
-    discussion leaders. Following our successful Stuart Hall reading group last year,
-    this year at The World Transformed we will aim to tackle a crucial question facing
-    the left by tapping into our best traditions of political education and leftwing
-    anti-racism.', end_timestamp: 20180923T103000, final: false, image: reading, organiser: '',
-  room: Meeting Room, speakers: '', start_timestamp: 20180923T090000, time: '09:00-10:30',
-  title: Reading Group on Anti-Semitism, venue: Black-E}
+    questions and more thorough readings of some classic texts on the topic, with
+    expert discussion leaders. Following our successful Stuart Hall reading group
+    last year, this year at The World Transformed we will aim to tackle a crucial
+    question facing the left by tapping into our best traditions of political education
+    and leftwing anti-racism.
+
+
+    **[Click here for readings](/reading-groups#anti-semitism)**', end_timestamp: 20180923T103000,
+  final: false, image: reading, organiser: '', room: Meeting Room, speakers: '', start_timestamp: 20180923T090000,
+  time: '09:00-10:30', title: Reading Group on Anti-Semitism, venue: Black-E}
 reading-group-antisemitism-tuesday: {day: Tuesday, description: 'What is antisemitism?
     Why has it proved such a longstanding feature of European history? Why does it
     appear at times on the left, as the "socialism of fools"? Join us to discuss these
-    questions and more through readings of some classic texts on the topic, with expert
-    discussion leaders. Following our successful Stuart Hall reading group last year,
-    this year at The World Transformed we will aim to tackle a crucial question facing
-    the left by tapping into our best traditions of political education and leftwing
-    anti-racism.', end_timestamp: 20180925T103000, final: false, image: reading, organiser: '',
-  room: Meeting Room, speakers: '', start_timestamp: 20180925T090000, time: '09:00-10:30',
-  title: Reading Group on Anti-Semitism, venue: Black-E}
+    questions and more thorough readings of some classic texts on the topic, with
+    expert discussion leaders. Following our successful Stuart Hall reading group
+    last year, this year at The World Transformed we will aim to tackle a crucial
+    question facing the left by tapping into our best traditions of political education
+    and leftwing anti-racism.
+
+
+    **[Click here for readings](/reading-groups#anti-semitism)**', end_timestamp: 20180925T103000,
+  final: false, image: reading, organiser: '', room: Meeting Room, speakers: '', start_timestamp: 20180925T090000,
+  time: '09:00-10:30', title: Reading Group on Anti-Semitism, venue: Black-E}
 red-white-blue-labour: {day: Saturday, description: !!python/str "From Diane Abbott's\
     \ lifelong anti-racist activism to Neil Kinnock\u2019s efforts to block black\
     \ sections within the party, Labour has a polarised past when it comes to its\
