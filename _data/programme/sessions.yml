@@ -527,7 +527,8 @@ disrupting-the-status-quo: {day: Sunday, description: We all want to change the 
     - working out how to do it is the hard part. Join the conversation as a range
     of movement activists share their creative direct action strategies and tactics
     for transformative change., end_timestamp: 20180923T103000, final: true, image: default,
-  organiser: The World Transformed, room: Event Space, speakers: '', start_timestamp: 20180923T090000,
+  organiser: The World Transformed, room: Event Space, speakers: beth-foster-ogg josh-virusami
+    andy-greene tina-louise-rothery jo-beardsmore maya-evans, start_timestamp: 20180923T090000,
   time: '09:00-10:30', title: Disrupting the Status Quo, venue: Constellations}
 eco-corbynism-monday: {day: Monday, description: 'What would the convergence of the
     labour movement and the ecology movements that Raymond Williams called for in
@@ -775,7 +776,7 @@ how-to-win-big: {day: Tuesday, description: !!python/str "To win the next electi
     \ from outside the UK, to discuss how Labour members can transform their communities\
     \ and build support for a radical Labour government in the process.", end_timestamp: 20180925T190000,
   final: false, image: default, organiser: '', room: Main Space, speakers: ian-lavery
-    becky-bond, start_timestamp: 20180925T173000, time: '17:30-19:00', title: How
+    becky-bond ian-byrne, start_timestamp: 20180925T173000, time: '17:30-19:00', title: How
     to Win BIG, venue: Hinterlands}
 in-and-against-the-state: {day: Tuesday, description: 'In recent decades the British
     state has been transformed, with the private sector taking over many of its key

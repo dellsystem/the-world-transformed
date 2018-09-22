@@ -67,6 +67,9 @@ andrew-towers: {bio: Head of Political Strategy at CWU, confirmed: 'Yes', name: 
 andrew-whyment: {bio: 'Theatre director, facilitator of education and participation
     projects and Labour Party activist', confirmed: '', name: Andrew Whyment, organisation: '',
   other: '', photo: true, sessions: kids-write-plays, tag: '', twitter: 'https://twitter.com/whymeand'}
+andy-greene: {bio: Disabled People Against Cuts, confirmed: '', name: Andy Greene,
+  organisation: '', other: '', photo: false, sessions: disrupting-the-status-quo,
+  tag: '', twitter: ''}
 angela-phillips: {bio: 'Professor of Journalism at Goldsmiths, University of London
     and the co-author of Misunderstanding News Audiences, Seven Myths of the Social
     Media Era (2018) which considers the impact of news personalisation on media consumption
@@ -144,7 +147,7 @@ ben-westley-clarke: {bio: 'Ben Clarke is an artist who lives and works in Camden
   photo: true, sessions: good-and-bad-government, tag: Artist, twitter: ''}
 beth-foster-ogg: {bio: 'Beth Foster-Ogg is Momentum''s national training organiser ',
   confirmed: 'yes', name: Beth Foster Ogg, organisation: Momentum, other: '', photo: true,
-  sessions: campaign-building, tag: Activist, twitter: 'https://twitter.com/BethFosterOgg'}
+  sessions: campaign-building disrupting-the-status-quo, tag: Activist, twitter: 'https://twitter.com/BethFosterOgg'}
 beth-redmond: {bio: 'Beth Redmond helped to set up Chorlton Socialist Club, a space
     for local Labour Party members and supporters to explore political ideas through
     social events outside of meetings. ', confirmed: 'Yes ', name: Beth Redmond, organisation: Manchester
@@ -556,6 +559,8 @@ holly-rigby: {bio: Teacher and Momentum activist, confirmed: 'Yes', name: Holly 
 huda-elmi: {bio: Labour Party National Executive Committee, confirmed: '', name: Huda
     Elmi, organisation: '', other: '', photo: true, sessions: a-party-for-the-21st-century,
   tag: '', twitter: ''}
+ian-byrne: {bio: Fans Supporting Foodbanks, confirmed: '', name: Ian Byrne, organisation: '',
+  other: '', photo: false, sessions: how-to-win-big, tag: '', twitter: ''}
 ian-lavery: {bio: Labour Party Chair and MP for Wansbeck, confirmed: '', name: Ian
     Lavery, organisation: '', other: '', photo: true, sessions: how-to-win-big, tag: '',
   twitter: 'https://twitter.com/IanLaveryMP
@@ -650,6 +655,8 @@ jessica-buxton: {bio: 'Jess is actively working as an Actor, Facilitator and wri
 jill-rubery: {bio: Economist at Manchester University, confirmed: 'Yes', name: Jill
     Rubery, organisation: '', other: '', photo: false, sessions: a-plan-for-the-new-economy,
   tag: Academic, twitter: ''}
+jo-beardsmore: {bio: UK Uncut, confirmed: '', name: Jo Beardsmore, organisation: '',
+  other: '', photo: false, sessions: disrupting-the-status-quo, tag: '', twitter: ''}
 jo-mcneill: {bio: 'President of the University of Liverpool UCU branch, member of
     the UCU NEC. Recently elected as a National Negotiator for HE, sitting on the
     national Strategy and Finance Committee and Recruitment, Organising and Campaigns
@@ -694,6 +701,8 @@ joni-cohen: {bio: !!python/str "Joni Alizah Cohen is an independent writer and r
     \ Assembly -UK, and a member of Plan C and Action for Trans Health", confirmed: 'Yes',
   name: Joni Cohen, organisation: '', other: '', photo: true, sessions: fighting-for-trans-liberation,
   tag: Activist, twitter: 'https://twitter.com/diasporia'}
+josh-virusami: {bio: Black Lives Matter UK, confirmed: '', name: Josh Virusami, organisation: '',
+  other: '', photo: false, sessions: disrupting-the-status-quo, tag: '', twitter: ''}
 julia-salazar: {bio: DSA candidate for State Senate in Brooklyn, confirmed: 'Yes',
   name: Julia Salazar, organisation: '', other: '', photo: true, sessions: feeling-the-bern,
   tag: Activist, twitter: 'https://twitter.com/SalazarSenate18'}
@@ -956,6 +965,9 @@ maurilio-pirone: {bio: 'University of Bologna, Bologna UNIBO with expertise in R
     Ethnicity and Politics, Political Theory, Politics and History.', confirmed: 'Yes',
   name: Maurilio Pirone, organisation: '', other: '', photo: true, sessions: the-gig-economy,
   tag: Researcher, twitter: 'https://twitter.com/mau_pirone'}
+maya-evans: {bio: 'Voices for Creative Non Violence, and Labour councillor ', confirmed: '',
+  name: Maya Evans, organisation: '', other: '', photo: false, sessions: disrupting-the-status-quo,
+  tag: '', twitter: ''}
 maya-goodfellow: {bio: Journalist and academic, confirmed: 'Yes', name: Maya Goodfellow,
   organisation: '', other: '', photo: true, sessions: migrant-political-voices racisms-past-and-present
     the-british-ruling-class, tag: Journalist, twitter: 'https://twitter.com/MayaGoodfellow'}
@@ -1366,6 +1378,9 @@ thomas-hanna: {bio: 'Research Director at Democracy Collaborative ', confirmed: 
   sessions: taking-whats-ours, tag: Think Tank Director, twitter: 'https://twitter.com/thomasmhanna'}
 tim-roache: {bio: General Secretary of the GMB Union, confirmed: 'yes ', name: Tim
     Roache, organisation: GMB, other: '', photo: true, sessions: future-of-trade-unions,
+  tag: '', twitter: ''}
+tina-louise-rothery: {bio: Frack Free Lancashire, confirmed: '', name: Tina Louise
+    Rothery, organisation: '', other: '', photo: false, sessions: disrupting-the-status-quo,
   tag: '', twitter: ''}
 tithi-bhattacharya: {bio: 'Professor of South Asian history and Director of Global
     Studies at Purdue university, Indiana', confirmed: 'Yes', name: Tithi Bhattacharya,
