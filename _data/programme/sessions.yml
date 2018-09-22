@@ -1204,16 +1204,15 @@ red-white-blue-labour: {day: Saturday, description: !!python/str "From Diane Abb
   final: false, image: international, organiser: Novara Media, room: Main Space, speakers: ash-sarkar
     dalia-gebrial john-denham diane-abbott-mp maurice-glasman kojo-koram, start_timestamp: 20180922T173000,
   time: '17:30-19:00', title: 'Red, White, and Blue Labour', venue: Hinterlands}
-reel-news: {day: Saturday, description: !!python/str "Reel News is a London based\
-    \ activist video collective, using film to help bring about social change. In\
-    \ a world where everyone is increasingly affected by austerity, climate change\
-    \ and war, we work with the growing number of campaigns (often ignored by mainstream\
-    \ media) which are not only fighting back, but winning too \u2013 not just in\
-    \ the UK, but across the world. Reel News present a series of films about climate\
-    \ change from around the world: Awake - Standing Rock, Black Snake - Standing\
-    \ Rock, Undercurrents", end_timestamp: 20180922T150000, final: true, image: film,
-  organiser: Reel News, room: '', speakers: '', start_timestamp: 20180922T140000,
-  time: '14:00-15:00', title: Reel News, venue: Baltic Cinema}
+reel-news: {day: Sunday, description: 'All over the USA, people are ignoring trumps
+    decision to pull out of the Paris climate agreement and organising collectively
+    to make a just transition themselves. Featuring Jackson, Mississippi building
+    a solidarity economy; Richmond, California curbing the power and pollution of
+    oil giant Chevron; and coal miners in Kentucky fighting for renewables. Plus global
+    just transition struggles and the fight to stop global airport expansion.', end_timestamp: 20180923T190000,
+  final: true, image: film, organiser: Reel News, room: '', speakers: '', start_timestamp: 20180923T170000,
+  time: '17:00-19:00', title: 'Just transition, American climate rebels and global
+    aviation struggles', venue: Baltic Cinema}
 regenerating-regeneration: {day: Sunday, description: 'How are arts and culture implicated
     in regeneration, gentrification and social cleansing in the UK? How can we respond
     to the ongoing neoliberalisation of arts and culture which has lead to what we

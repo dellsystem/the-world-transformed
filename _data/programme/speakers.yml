@@ -1008,10 +1008,13 @@ nancy-platts: {bio: !!python/str "Labour Councillor in Brighton, former Trade Un
     \ the Many - Trade Unionists for Political Reform'", confirmed: 'Yes', name: Nancy
     Platts, organisation: Labour Party, other: '', photo: true, sessions: power-for-the-many,
   tag: 'Politician ', twitter: ''}
-naomi-klein: {bio: 'Canadian author, social activist, and filmmaker ', confirmed: 'Yes',
-  name: Naomi Klein (via video), organisation: '', other: Known for her political
-    analyses and criticism of corporate globalization and of capitalism., photo: true,
-  sessions: future-visions, tag: Author, twitter: 'https://twitter.com/NaomiAKlein'}
+naomi-klein: {bio: 'the Senior Correspondent at the Intercept, Bestselling author
+    (of No Logo, This Changes Everything, The Shock Doctrine and No is Not Enough),
+    and newly appointed the inaugural Gloria Steinem Chair of Media, Culture and Feminist
+    Studies at Rutgers University in New Jersey', confirmed: 'Yes', name: Naomi Klein
+    (via video), organisation: '', other: Known for her political analyses and criticism
+    of corporate globalization and of capitalism., photo: true, sessions: future-visions,
+  tag: Author, twitter: 'https://twitter.com/NaomiAKlein'}
 natalie-sharples: {bio: Head of Policy and Campaigns for Health Poverty Action, confirmed: 'Yes',
   name: Natalie Sharples, organisation: Health Poverty Action, other: '', photo: true,
   sessions: a-global-nhs, tag: '', twitter: ''}
