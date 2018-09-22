@@ -475,10 +475,9 @@ deconstructing-neoliberalism-sunday: {day: Sunday, description: !!python/str "Ne
     \ it tries to convince us that the social elite deserve their privilege; and how\
     \ it even co-opts the language of feminism.\n\n**Session 1**: Stuart Hall & Alan\
     \ O\u2019Shea, \u2018Common-Sense Neoliberalism\u2019 <https://www.lwbooks.co.uk/sites/default/files/s55_02hall_oshea.pdf>",
-  end_timestamp: 20180923T103000, final: true, image: reading, organiser: '', room: Shed,
+  end_timestamp: 20180923T103000, final: true, image: reading, organiser: '', room: Gallery,
   speakers: jeremy-gilbert, start_timestamp: 20180923T090000, time: '09:00-10:30',
-  title: 'Deconstructing Neoliberalism: An Easy Morning Reading Group', venue: Baltic
-    Creative}
+  title: 'Deconstructing Neoliberalism: An Easy Morning Reading Group', venue: Black-E}
 deconstructing-neoliberalism-tuesday: {day: Tuesday, description: !!python/str "Neoliberalism\
     \ isn\u2019t just an economic programme. It\u2019s a whole world-view, that has\
     \ very particular ideas about how we should  live. Over three days, we\u2019ll\
