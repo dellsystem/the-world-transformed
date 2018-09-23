@@ -915,7 +915,7 @@ marx-at-200: {day: Sunday, description: !!python/str "After the global financial
     s ideas still relevant and can they help us to overcome the crises englufing our\
     \ planet?", end_timestamp: 20180923T190000, final: true, image: default, organiser: The
     World Transformed, room: Main Space, speakers: vijay-prashad tithi-bhattacharya
-    aaron-bastani lynne-segal, start_timestamp: 20180923T173000, time: '17:30-19:00',
+    aaron-bastani lynne-segal wendy-liu, start_timestamp: 20180923T173000, time: '17:30-19:00',
   title: 'I''m Literally a Communist: Marx at 200', venue: Black-E}
 marxism-101: {day: Tuesday, description: !!python/str "Marxism is becoming popular\
     \ - even the Governor of the Bank of England has said that if the economic crisis\

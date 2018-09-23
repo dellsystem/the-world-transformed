@@ -1416,8 +1416,9 @@ vijay-prashad: {bio: Indian historian and Marxist who is Director of the Tricont
   organisation: '', other: '', photo: true, sessions: an-evening-of-internationalism
     decolonising-foreign-policy marx-at-200 sacrifice-zones, tag: '', twitter: 'https://twitter.com/vijayprashad'}
 wendy-liu: {bio: Economics co-editor at New Socialist, confirmed: 'Yes', name: Wendy
-    Liu, organisation: New Socialist, other: '', photo: true, sessions: occupy-fleet-street
-    tackling-the-tech-giants tech-workers-inquiry, tag: Writer, twitter: 'https://twitter.com/dellsystem'}
+    Liu, organisation: New Socialist, other: '', photo: true, sessions: marx-at-200
+    occupy-fleet-street tackling-the-tech-giants tech-workers-inquiry, tag: Writer,
+  twitter: 'https://twitter.com/dellsystem'}
 will-barker: {bio: Will Barker is from Leeds. He is a member of Plan C and co-creator
     of the Social Strike Game., confirmed: '', name: Will Barker, organisation: 'Plan
     C ', other: '', photo: true, sessions: social-strike-game, tag: '', twitter: ''}
