@@ -1134,14 +1134,18 @@ question-time: {day: Saturday, description: 'Its often said that young people ar
   end_timestamp: 20180922T144500, final: true, image: default, organiser: '', room: Studio,
   speakers: tracy-brabin-mp ann-o-byrne hasan-patel, start_timestamp: 20180922T140000,
   time: '14:00-14:45', title: 'Question Time: You Ask Them (8-18 years)', venue: Black-E}
-racisms-past-and-present: {day: Monday, description: 'Join leading scholars for a
-    discussion about racism in Britain, its long history and how the left can and
-    should battle against it. We will look at how bigotries flourish and how the left
-    has succeeded or failed in confronting and beating them.', end_timestamp: 20180924T143000,
-  final: false, image: international, organiser: The World Transformed, room: Event
-    Space, speakers: jacqueline-rose karma-nabulsi robert-berkeley maya-goodfellow,
-  start_timestamp: 20180924T130000, time: '13:00-14:30', title: 'Invisible Histories:
-    Racism''s Past and Present', venue: Constellations}
+racisms-past-and-present: {day: Monday, description: 'Public discourse on racism is
+    increasingly tribalised, focused on division, and subjected to legislation intent
+    on silencing public debate. Over the past year, terrible events - from the fatal
+    fire at Grenfell Tower to the shameful Windrush scandal - reveal active legacies
+    of British colonialism, where racism forms an integral part of British policies,
+    and render entire communities invisible. Together these factors place enormous
+    political pressures on citizens from black, migrant, refugee, and minority ethnic
+    communities. The speakers will explore routes to building a unified movement,
+    drawing on a long tradition of anti-racist principles and campaigning.', end_timestamp: 20180924T143000,
+  final: true, image: international, organiser: '', room: Event Space, speakers: jacqueline-rose
+    karma-nabulsi maya-goodfellow ash-sarkar lowkey elif-sarican akram-salhab, start_timestamp: 20180924T130000,
+  time: '13:00-14:30', title: 'Invisible Histories: Racism''s Past and Present', venue: Constellations}
 radical-history-tour: {day: Sunday, description: !!python/str "Join Liverpool Walton\
     \ MP Dan Carden on a journey back into Liverpool\u2019s turbulent political past.\
     \ This bus tour will visit key locations of protest, struggle and social progress\

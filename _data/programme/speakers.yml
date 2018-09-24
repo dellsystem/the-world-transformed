@@ -19,6 +19,8 @@ aidan-harper: {bio: 'Member of the 4 Day Week Campaign, and a researcher in work
     social policy for the New Economics Foundation (NEF)', confirmed: 'Yes', name: Aidan
     Harper, organisation: 4 Day Week Campaign, other: '', photo: true, sessions: 4-day-week,
   tag: Researcher, twitter: 'https://twitter.com/Aidan_Harper_'}
+akram-salhab: {bio: Migrants Organise, confirmed: '', name: Akram Salhab, organisation: '',
+  other: '', photo: false, sessions: racisms-past-and-present, tag: '', twitter: ''}
 alan-finlayson: {bio: Alan Finlayson is a British political theorist and political
     scientist. He is Professor of Political and Social Theory at The University of
     East Anglia in the United Kingdom, confirmed: 'Yes', name: Alan Finlayson, organisation: '',
@@ -122,7 +124,7 @@ asad-rehman: {bio: '', confirmed: 'Yes', name: Asad Rehman, organisation: War on
 ash-sarkar: {bio: 'Senior editor at Novara Media, and lecturer in Global Politics
     at Anglia Ruskin University and The Sandberg Instituut', confirmed: 'Yes', name: Ash
     Sarkar, organisation: Novara Media, other: '', photo: true, sessions: britains-new-far-right
-    red-white-blue-labour, tag: Journalist, twitter: 'https://twitter.com/AyoCaesar'}
+    racisms-past-and-present red-white-blue-labour, tag: Journalist, twitter: 'https://twitter.com/AyoCaesar'}
 asima-shaikh: {bio: Labour Councillor for Finsbury Park and Cabinet Member for Economic
     Development, confirmed: '', name: Asima Shaikh, organisation: '', other: '', photo: true,
   sessions: building-community-wealth, tag: 'Politician ', twitter: 'https://twitter.com/ashaikhn7'}
@@ -411,8 +413,8 @@ eliane-correa: {bio: Leader of Afro-Cuban/pan-Latin band Wara, confirmed: 'Yes',
   tag: Musician, twitter: 'https://twitter.com/_elianecorrea_'}
 elif-sarican: {bio: !!python/str "UK Coordinator of Kurdistan Students Union. Activist\
     \ of the Kurdish Women\u2019s Movement.", confirmed: 'Yes', name: Elif Sarican,
-  organisation: '', other: '', photo: true, sessions: feminism-for-the-many no-pasaran,
-  tag: Activist, twitter: ''}
+  organisation: '', other: '', photo: true, sessions: feminism-for-the-many no-pasaran
+    racisms-past-and-present, tag: Activist, twitter: ''}
 ellie-mae: {bio: Freelance Journalist, confirmed: '', name: Ellie Mae O'Hagan, organisation: '',
   other: '', photo: true, sessions: the-british-ruling-class, tag: '', twitter: ''}
 emily-owen: {bio: Labour PPC for Aberconwy, confirmed: 'Yes', name: Emily Owen, organisation: '',
@@ -885,7 +887,7 @@ louise-castro: {bio: Grassroots anti-fracking campaigner, confirmed: 'Yes', name
   tag: Activist, twitter: ''}
 lowkey: {bio: 'British rapper, hip-hop artist and activist', confirmed: 'Yes', name: Lowkey,
   organisation: '', other: '', photo: true, sessions: an-evening-of-internationalism
-    music-in-the-movement, tag: Musician, twitter: 'https://twitter.com/Lowkey0nline'}
+    music-in-the-movement racisms-past-and-present, tag: Musician, twitter: 'https://twitter.com/Lowkey0nline'}
 lucy-flores: {bio: 'Former Elected State Representative, New Media Executive and Entrepreneur,
     and Political Activist', confirmed: '', name: Lucy Flores, organisation: '', other: '',
   photo: true, sessions: an-evening-of-internationalism making-grassroots-media, tag: '',
@@ -1190,9 +1192,6 @@ rida-vaquas: {bio: "Rida Vaquas is a former Momentum NCG member. She is an edito
 rita-chadha: {bio: 'Director of Migrants'' Rights Network ', confirmed: 'Yes', name: Rita
     Chadha, organisation: Migrants' Rights Network, other: '', photo: true, sessions: migrant-political-voices,
   tag: Activist, twitter: 'https://twitter.com/migrants_rights'}
-robert-berkeley: {bio: Editor of Blackout UK, confirmed: '', name: Robert Berkeley,
-  organisation: '', other: '', photo: true, sessions: racisms-past-and-present, tag: '',
-  twitter: 'https://twitter.com/Berkeleythinks'}
 robert-verkaik: {bio: '
 
     Author of ''Posh Boys: How the English Public Schools Ruin Britain''', confirmed: '',
