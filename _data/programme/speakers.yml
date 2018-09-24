@@ -92,8 +92,8 @@ ann-pettifor: {bio: !!python/str "Ann Pettifor is a political economist, author,
     \ leading an international campaign which resulted in the cancellation of $100\
     \ billion of debt owed by the poorest countries.", confirmed: 'Yes', name: Ann
     Pettifor, organisation: PRIME - Policy Research in Macroeconomics, other: '',
-  photo: true, sessions: debunking-the-myths runaway-finance the-brexit-bind, tag: Economist,
-  twitter: 'https://twitter.com/AnnPettifor'}
+  photo: true, sessions: debunking-the-myths runaway-finance the-brexit-bind transforming-the-global-economy,
+  tag: Economist, twitter: 'https://twitter.com/AnnPettifor'}
 anna-baum: {bio: 'Anna works as a film activist with labournet.tv, and has been involved
     in organising delivery couriers in Berlin.', confirmed: 'Yes', name: Anna Baum,
   organisation: '', other: '', photo: true, sessions: the-gig-economy, tag: '', twitter: 'https://twitter.com/labournettv'}
@@ -422,8 +422,8 @@ emily-owen: {bio: Labour PPC for Aberconwy, confirmed: 'Yes', name: Emily Owen, 
 emine-ibrahim: {bio: 'Deputy leader of Haringey Council ', confirmed: 'Yes', name: Emine
     Ibrahim, organisation: Labour Party, other: '', photo: true, sessions: black-women-transforming-politics,
   tag: Politician, twitter: ''}
-emma-black: {bio: '', confirmed: 'Yes', name: Emma Black, organisation: Equal Care
-    Co-op, other: '', photo: true, sessions: tackling-the-tech-giants, tag: '', twitter: ''}
+emma-back: {bio: '', confirmed: 'Yes', name: Emma Back, organisation: Equal Care Co-op,
+  other: '', photo: false, sessions: tackling-the-tech-giants, tag: '', twitter: ''}
 emma-dent-coad-mp: {bio: Labour MP for Kensington, confirmed: 'Yes', name: Emma Dent
     Coad MP, organisation: Labour Party, other: '', photo: true, sessions: socialist-women-in-labour,
   tag: Politician, twitter: 'https://twitter.com/emmadentcoad'}
@@ -1433,8 +1433,14 @@ will-stronge: {bio: 'Will is co-director of Autonomy, a think-tank concerned wit
 yohann-koshy: {bio: New Internationalist co-editor, confirmed: '', name: Yohann Koshy,
   organisation: New Internationalist, other: '', photo: false, sessions: internationalist-labour-party,
   tag: '', twitter: ''}
-youusef-el-ginghy: {bio: '', confirmed: '', name: Youusef El Ginghy, organisation: '',
-  other: '', photo: false, sessions: a-global-nhs, tag: '', twitter: ''}
+youusef-el-gingihy: {bio: 'Author of How to Dismantle the NHS in 10 easy steps published
+    by Zero books. He is a GP working at the Bromley by Bow centre in Tower Hamlets.
+    He writes regularly for The Independent & other outlets. He also commentates on
+    television. In 2016 he was appointed on to a Labour Party Nhs think-tank.  He
+    collaborated on a documentary on the NHS called Sell-Off. He studied medicine,
+    neuroscience and English literature at Oxford University and King''s College,
+    London. ', confirmed: '', name: Dr Youssef El-Gingihy, organisation: '', other: '',
+  photo: false, sessions: a-global-nhs, tag: '', twitter: 'https://twitter.com/ElGingihy'}
 zita-holbourne: {bio: 'Activist, author & artist and PCS national vice-president',
   confirmed: 'Yes', name: Zita Holbourne, organisation: PCS, other: '', photo: true,
   sessions: black-women-transforming-politics sacrifice-zones, tag: Activist, twitter: ''}

@@ -18,7 +18,7 @@ a-global-nhs: {day: Tuesday, description: 'Each year governments are diverting v
     can redefine priorities and support access to public services for people across
     the world.', end_timestamp: 20180925T123000, final: true, image: healthcare, organiser: Global
     Justice Now & Health Poverty Action, room: Theatre, speakers: natalie-sharples
-    satoko-kishimoto heidi-chow jean-ross youusef-el-ginghy, start_timestamp: 20180925T110000,
+    satoko-kishimoto heidi-chow jean-ross youusef-el-gingihy, start_timestamp: 20180925T110000,
   time: '11:00-12:30', title: 'A Global NHS? Public Services Across Borders', venue: Black-E}
 a-movement-in-government: {day: Sunday, description: !!python/str "What will it take\
     \ to bring about a fundamental re-ordering of our economy \u2018for the many not\
@@ -274,14 +274,6 @@ building-local-campaigns-that-win: {day: Monday, description: 'Building local ca
   organiser: Momentum & Labour Community Organising, room: Event Space, speakers: '',
   start_timestamp: 20180924T090000, time: '09:00-10:30', title: Building local campaigns
     that win, venue: Constellations}
-calais-jungle: {day: Tuesday, description: 'This exhibtion is an intimate portrait
-    of the Calais Jungle, highlighting the resilience of people within a highly precarious
-    situation. The passage of time in the images exemplifies that there has always
-    been migration across the channel, and questions whether extreme practices of
-    state violence are the only solutions to a migration pattern.', end_timestamp: 20180925T211500,
-  final: true, image: international, organiser: Brush & Bow, room: Gallery, speakers: '',
-  start_timestamp: 20180925T190000, time: '19:00-21:15', title: 'Calais Jungle: A
-    City Between Borders', venue: Black-E}
 campaign-building: {day: Saturday, description: '14yrs-18yrs old? Local or national
     issues that make you angry? Want to cause some (organised) chaos? Come and talk
     tactics in this campaign building workshop which will help ensure your campaigns
@@ -1226,13 +1218,6 @@ regenerating-regeneration: {day: Sunday, description: 'How are arts and culture 
   final: true, image: housing, organiser: Movement for Cultural Democracy, room: Shed,
   speakers: stephen-pritchard liam-kelly, start_timestamp: 20180923T090000, time: '09:00-10:30',
   title: Regenerating Regeneration, venue: Baltic Creative}
-relative-poverty: {day: Tuesday, description: 'Relative Poverty is an ongoing body
-    of work being created by Les Monaghan with families defined as destitute in Doncaster,
-    South Yorkshire. Both docmentary and collaborative, it is a process-led photographic
-    investigation that deals with issues of agency, visibility, public engagement
-    and fairness of representation.', end_timestamp: 20180925T211500, final: true,
-  image: default, organiser: Les Monaghan, room: Gallery, speakers: '', start_timestamp: 20180925T190000,
-  time: '19:00-21:15', title: Relative Poverty, venue: Black-E}
 rentquake: {day: Sunday, description: !!python/str "The number of private renters\
     \ has doubled since 2004; many of us live in expensive housing with appalling\
     \ conditions, from which we could be forced to move at a moment\u2019s notice.\
@@ -1352,7 +1337,7 @@ tackling-the-tech-giants: {day: Tuesday, description: !!python/str "Big tech com
     \ lives and livelihoods will be shaped by these technologies, should be an important\
     \ part of the discussion. Come and hear more in this session!", end_timestamp: 20180925T143000,
   final: true, image: cybersyn, organiser: New Economics Foundation, room: Theatre,
-  speakers: wendy-liu jason-prado duncan-mccann emma-black lydia-hughes, start_timestamp: 20180925T130000,
+  speakers: wendy-liu jason-prado duncan-mccann emma-back lydia-hughes, start_timestamp: 20180925T130000,
   time: '13:00-14:30', title: Taking on the Tech Giants, venue: Hinterlands}
 taking-whats-ours: {day: Tuesday, description: 'On every continent, activists and
     political leaders are transforming struggles to resist privatisation into campaigns
@@ -1501,9 +1486,9 @@ transforming-the-global-economy: {day: Monday, description: 'In 2008, the world 
     the global economy, and how a radical Labour government can lead the way in building
     a new international economic order that works for the many, not the few.', end_timestamp: 20180924T211500,
   final: true, image: finance, organiser: The World Transformed, room: Main Space,
-  speakers: john-mcdonnell-mp leo-panitch raquel-rolnik dorothy-grace-guerrero grace-blakeley,
-  start_timestamp: 20180924T193000, time: '19:30-21:15', title: '10 Years Since the
-    Financial Crisis: Transforming the Global Economy', venue: Hinterlands}
+  speakers: john-mcdonnell-mp leo-panitch raquel-rolnik dorothy-grace-guerrero grace-blakeley
+    ann-pettifor, start_timestamp: 20180924T193000, time: '19:30-21:15', title: '10
+    Years Since the Financial Crisis: Transforming the Global Economy', venue: Hinterlands}
 tribune-relaunch: {day: Saturday, description: 'Tribune is Britain''s oldest socialist
     magazine, started in 1937 in support of the Popular Front against fascism in Spain.
     Over the years its leading figures - from Nye Bevan and Jennie Lee to Barbara
