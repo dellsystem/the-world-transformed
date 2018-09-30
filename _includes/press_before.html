@@ -1,0 +1,13 @@
+<div class="ui three stackable cards">
+    {% for article in site.data.press.before %}
+    <div class="card">
+        <div class="content">
+            <div class="header">{{ article.publication }}</div>
+            <a href="{{ article.url }}">
+                {{ article.title }}
+            </a>
+            <br /><strong>{{ article.author }}</strong>
+        </div>
+    </div>
+    {% endfor %}
+</div>

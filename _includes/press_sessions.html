@@ -1,0 +1,34 @@
+<div class="ui three stackable cards">
+    {% for row in site.data.press.sessions %}
+    {% assign session = site.data.programme.sessions[row.session] %}
+    <div class="card">
+        <a class="image" href="/sessions/{{ row.session }}">
+            <img src="/images/sessions/cropped/{{ session['image'] }}.jpg" />
+        </a>
+        <div class="content">
+            <a class="header" href="/sessions/{{ row.session }}">
+                {{ session.title }}
+            </a>
+            <div class="meta">
+                {% include speakers.html speakers=session.speakers %}
+            </div>
+            <div class="ui divider"></div>
+            {% for article in row.articles %}
+            {% include article_ribbon.html type=article.type %}
+            <span class="description">
+                <strong>{{ article.publication }}</strong>
+            </span>
+            <div class="description">
+                <a href="{{ article.url }}">
+                    <strong>{{ article.title }}</strong>
+                    <i class="external link icon"></i>
+                </a>
+                by {{ article.author }}.
+                {{ article.details }}
+                ({{ article.date }})
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    {% endfor %}
+</div>
