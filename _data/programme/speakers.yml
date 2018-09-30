@@ -94,9 +94,6 @@ ann-pettifor: {bio: !!python/str "Ann Pettifor is a political economist, author,
     Pettifor, organisation: PRIME - Policy Research in Macroeconomics, other: '',
   photo: true, sessions: debunking-the-myths runaway-finance the-brexit-bind transforming-the-global-economy,
   tag: Economist, twitter: 'https://twitter.com/AnnPettifor'}
-anna-baum: {bio: 'Anna works as a film activist with labournet.tv, and has been involved
-    in organising delivery couriers in Berlin.', confirmed: 'Yes', name: Anna Baum,
-  organisation: '', other: '', photo: true, sessions: the-gig-economy, tag: '', twitter: 'https://twitter.com/labournettv'}
 anna-dent: {bio: !!python/str "Independent public policy consultant and RSA fellow\
     \ focusing on employment, skills and welfare issues. She is currently working\
     \ on welfare reform and basic income models.\_", confirmed: 'Yes', name: Anna
@@ -274,8 +271,8 @@ claudia-webbe: {bio: Member of the Labour Party National Executive Committee and
     Webbe, organisation: Labour Party, other: '', photo: true, sessions: black-women-transforming-politics,
   tag: Politician, twitter: 'https://twitter.com/ClaudiaWebbe'}
 clive-lewis-mp: {bio: Labour MP for Norwich South, confirmed: 'Yes', name: Clive Lewis
-    MP, organisation: Labour Party, other: '', photo: true, sessions: a-socialist-story-of-modern-britain
-    sustainability-economics, tag: Politician, twitter: 'https://twitter.com/labourlewis'}
+    MP, organisation: Labour Party, other: '', photo: true, sessions: sustainability-economics,
+  tag: Politician, twitter: 'https://twitter.com/labourlewis'}
 colin-waugh: {bio: 'Colin Waugh is a co-founder of the Independent Working Class Education
     Network and author of Plebs: The lost legacy of independent working class education.
     He edits Post-16 Educator.', confirmed: 'Yes', name: Colin Waugh, organisation: '',
@@ -294,6 +291,9 @@ dalia-gebrial: {bio: 'Decolonisation activist, PhD candidate at LSE and co-edito
 dan-carden-mp: {bio: Labour MP for Liverpool Walton, confirmed: 'Yes', name: Dan Carden
     MP, organisation: Labour Party, other: '', photo: true, sessions: radical-history-tour
     update-the-welfare-state, tag: Politician, twitter: 'https://twitter.com/DanCardenMP'}
+dan-firth: {bio: Director of Community Organising - Labour Party, confirmed: '', name: Dan
+    Firth, organisation: '', other: '', photo: false, sessions: how-to-win-big, tag: '',
+  twitter: ''}
 dan-hind: {bio: 'Independent publisher and republican whose work focuses on the relationship
     between states and the communications regimes in which they are embedded. Dan
     is a fellow at the Democracy Collaborative, which recently published his paper
@@ -582,6 +582,8 @@ igor-felipe: {bio: !!python/str "Igor Felipe is a member of the National Council
   name: Igor Felipe, organisation: Landless Workers' Movement (MST), other: '', photo: false,
   sessions: an-evening-of-internationalism history-lessons sacrifice-zones, tag: '',
   twitter: ''}
+india-thorogood: {bio: Labour Community Organising, confirmed: '', name: India Thorogood,
+  organisation: '', other: '', photo: false, sessions: how-to-win-big, tag: '', twitter: ''}
 isaac-rose: {bio: 'Isaac Rose is a housing activist with Greater Manchester Housing
     Action, and has led great work holding Manchester City Council to account on their
     development plans.', confirmed: 'Yes', name: Isaac Rose, organisation: Greater
@@ -963,10 +965,6 @@ matthew-butcher: {bio: Head of Communications at the New Economy Organisers Netw
 maurice-glasman: {bio: 'Political theorist, Labour peer and founder of Blue Labour.',
   confirmed: '', name: 'Maurice Glasman, Baron Glasman', organisation: '', other: '',
   photo: true, sessions: red-white-blue-labour, tag: '', twitter: ''}
-maurilio-pirone: {bio: 'University of Bologna, Bologna UNIBO with expertise in Race,
-    Ethnicity and Politics, Political Theory, Politics and History.', confirmed: 'Yes',
-  name: Maurilio Pirone, organisation: '', other: '', photo: true, sessions: the-gig-economy,
-  tag: Researcher, twitter: 'https://twitter.com/mau_pirone'}
 maya-evans: {bio: 'Voices for Creative Non Violence, and Labour councillor ', confirmed: '',
   name: Maya Evans, organisation: '', other: '', photo: false, sessions: disrupting-the-status-quo,
   tag: '', twitter: ''}
@@ -1063,6 +1061,8 @@ nick-mahony: {bio: 'Organiser with Movement for Cultural Democracy; independent 
 niki-adams: {bio: Organiser with English Collective of Prostitutes, confirmed: 'Yes',
   name: Niki Adams, organisation: English Collective of Prostitutes, other: '', photo: true,
   sessions: end-to-sex-work-criminalisation, tag: Activist, twitter: ''}
+orry: {bio: Chair of a deliveroo workers' council in Germany., confirmed: '', name: Orry,
+  organisation: '', other: '', photo: false, sessions: the-gig-economy, tag: '', twitter: ''}
 owen-jones: {bio: !!python/str "Guardian columnist, left-wing political activist and\
     \ author of Chavs: The Demonisation of the Working Class and The Establishment\
     \ \u2013 And How They Get Away With It", confirmed: 'Yes', name: Owen Jones, organisation: '',

@@ -97,10 +97,9 @@ a-socialist-story-of-modern-britain: {day: Sunday, description: 'For Labour to b
     and comprehensive story about how the country got into the state it is in, and
     how we think we can get out of it. What should that story be? Come and discuss!',
   end_timestamp: 20180923T143000, final: true, image: history, organiser: Soundings,
-  room: Theatre, speakers: melissa-benn alan-finlayson jeremy-gilbert clive-lewis-mp
-    francis-foley, start_timestamp: 20180923T130000, time: '13:00-14:30', title: 'How
-    Did We Get Here and Where Are We Going? Telling a Socialist Story of Modern Britain',
-  venue: Black-E}
+  room: Theatre, speakers: melissa-benn alan-finlayson jeremy-gilbert francis-foley,
+  start_timestamp: 20180923T130000, time: '13:00-14:30', title: 'How Did We Get Here
+    and Where Are We Going? Telling a Socialist Story of Modern Britain', venue: Black-E}
 a-very-british-coup: {day: Sunday, description: 'In a game based on the acclaimed
     novel, A Very British Coup, fifty players take on the roles of the different factions
     of the 1980s Labour party. They must compete and collaborate to ensure that their
@@ -628,7 +627,7 @@ feeling-the-bern: {day: Monday, description: !!python/str "The 2016 breakthrough
     \ \u2013 has put the American left in its strongest position for decades. Join\
     \ a panel of American socialists to discuss the potential of this growing movement,\
     \ what demands it should be making, and the obstacles it faces in making socialism\
-    \ mainstream in America.", end_timestamp: 20180924T143000, final: true, image: america,
+    \ mainstream in America.", end_timestamp: 20180924T143000, final: true, image: bernie,
   organiser: Jacobin, room: Main Space, speakers: saikat-chakrabarti julia-salazar
     lee-carter bhaskar-sunkara, start_timestamp: 20180924T130000, time: '13:00-14:30',
   title: 'Feeling the Bern: The Rise of the American Left', venue: Black-E}
@@ -649,7 +648,7 @@ fighting-disabled-exclusion: {day: Monday, description: 'The Conservative Govern
     face? Join activists and parliamentarians to explore the ways disabled people
     are portrayed as a problem in society, how this contributes to their marginilisation
     and what the left can do about it.', end_timestamp: 20180924T143000, final: true,
-  image: default, organiser: Outside Centre, room: Theatre, speakers: miro-griffiths
+  image: accessibility, organiser: Outside Centre, room: Theatre, speakers: miro-griffiths
     dr-paul-darke julie-ward-mep simon-mckeown dr-janet-price marsha-de-cordova-mp,
   start_timestamp: 20180924T130000, time: '13:00-14:30', title: Fighting Disabled
     People's Exclusion, venue: Black-E}
@@ -767,8 +766,8 @@ how-to-win-big: {day: Tuesday, description: !!python/str "To win the next electi
     \ from outside the UK, to discuss how Labour members can transform their communities\
     \ and build support for a radical Labour government in the process.", end_timestamp: 20180925T190000,
   final: false, image: default, organiser: '', room: Main Space, speakers: ian-lavery
-    becky-bond ian-byrne, start_timestamp: 20180925T173000, time: '17:30-19:00', title: How
-    to Win BIG, venue: Hinterlands}
+    becky-bond ian-byrne dan-firth india-thorogood, start_timestamp: 20180925T173000,
+  time: '17:30-19:00', title: How to Win BIG, venue: Hinterlands}
 in-and-against-the-state: {day: Tuesday, description: 'In recent decades the British
     state has been transformed, with the private sector taking over many of its key
     functions. Can what remains be radically changed? Or are we confronted by institutions
@@ -905,7 +904,7 @@ marx-at-200: {day: Sunday, description: !!python/str "After the global financial
     \ to be a communist today. Is it possible to separate the idea of communism from\
     \ gulags and secret police? Two hundred years after his birth, are Marx\u2019\
     s ideas still relevant and can they help us to overcome the crises englufing our\
-    \ planet?", end_timestamp: 20180923T190000, final: true, image: default, organiser: The
+    \ planet?", end_timestamp: 20180923T190000, final: true, image: marx, organiser: The
     World Transformed, room: Main Space, speakers: vijay-prashad tithi-bhattacharya
     aaron-bastani lynne-segal wendy-liu, start_timestamp: 20180923T173000, time: '17:30-19:00',
   title: 'I''m Literally a Communist: Marx at 200', venue: Black-E}
@@ -1096,7 +1095,7 @@ power-for-the-many: {day: Sunday, description: 'Democracy is about much more tha
     Through exploring ideas such as municipalism, decentralisation, and electoral
     reform, and hearing from innovative projects in Scotland, Spain and places in
     England, this session will help imagine how we can bring about a new democracy.',
-  end_timestamp: 20180923T143000, final: true, image: default, organiser: Electoral
+  end_timestamp: 20180923T143000, final: true, image: crowd, organiser: Electoral
     Reform Society & Politics for the Many, room: Main Space, speakers: jon-trickett-mp
     nancy-platts jonathan-shafi alice-kinghorn-gray kate-shea-baird paul-mason, start_timestamp: 20180923T130000,
   time: '13:00-14:30', title: 'Power for the Many: A Radical Agenda for Democracy',
@@ -1386,7 +1385,7 @@ the-british-ruling-class: {day: Tuesday, description: !!python/str "Something ve
     \ stable and successful in the entire world. Yet in 2018, the institutions underpinning\
     \ their rule seem to be in a state of permanent crisis - from the Conservative\
     \ Party, to the media, to the banks. What happened to our ruling class? And how\
-    \ should we react?", end_timestamp: 20180925T211500, final: true, image: default,
+    \ should we react?", end_timestamp: 20180925T211500, final: true, image: suits,
   organiser: The World Transformed, room: Theatre, speakers: richard-seymour dawn-foster
     maya-goodfellow adam-ramsay ellie-mae, start_timestamp: 20180925T193000, time: '19:30-21:15',
   title: 'What happened to the British ruling class?', venue: Hinterlands}
@@ -1404,8 +1403,8 @@ the-gig-economy: {day: Monday, description: !!python/str "On paper the gig econo
     \ the last two years have seen an international wave of workers\u2019 organisation\
     \ in this burgeoning sector. How were these struggles coordinated and can lessons\
     \ be applied elsewhere?", end_timestamp: 20180924T163000, final: false, image: uber,
-  organiser: Momentum International, room: Event Space, speakers: callum-cant maurilio-pirone
-    anna-baum chris-fear lydia-hughes selena, start_timestamp: 20180924T150000, time: '15:00-16:30',
+  organiser: Momentum International, room: Event Space, speakers: callum-cant orry
+    chris-fear lydia-hughes selena, start_timestamp: 20180924T150000, time: '15:00-16:30',
   title: 'Deliveroo and Uber: Striking Beyond Borders', venue: Constellations}
 things-change: {day: Sunday, description: 'A project that builds a culture of solidarity
     within music, THINGS CHANGE brings together local musicians from varying cultural
