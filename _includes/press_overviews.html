@@ -6,6 +6,9 @@
             <a href="{{ article.url }}">
                 {{ article.details }}
             </a>
+            {% if article.author %}
+            <br /><strong>{{ article.author }}</strong>
+            {% endif %}
         </div>
     </div>
     {% endfor %}
