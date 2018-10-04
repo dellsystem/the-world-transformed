@@ -205,6 +205,7 @@
       details: ""
       title: "Full session recording"
       date: 2018-09-27
+
 - session: occupy-fleet-street
   articles:
     - url: https://www.theguardian.com/politics/2018/sep/27/propaganda-of-privilege-how-labour-went-to-war-with-the-media
@@ -214,3 +215,13 @@
       details: ""
       title: "'Propaganda of privilege': how Labour went to war with the media"
       date: 2018-09-27
+
+- session: a-radical-alliance-for-europe
+  articles:
+  - url: https://soundcloud.com/theworldtransformed/a-radical-alliance-for-europe
+    type: recording
+    publication: SoundCloud
+    author: The World Transformed
+    details:
+    title: "Full session recording"
+    date: 2018-10-03
