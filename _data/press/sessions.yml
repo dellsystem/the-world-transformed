@@ -1,66 +1,12 @@
-- session: the-british-ruling-class
+- session: a-global-nhs
   articles:
-    - url: https://www.patreon.com/posts/what-has-to-21641230
-      type: transcript
-      publication: Patreon
-      author: Richard Seymour
-      details: "An expanded version of his talk."
-      title: "What has happened to Britain's ruling class?"
-      date: 2018-09-25
-- session: the-gig-economy
-  articles:
-    - url: https://www.newstatesman.com/politics/uk/2018/09/slaveroo-how-riders-are-standing-uber-deliveroo-and-gig-economy
-      type: coverage
-      publication: The New Statesman
-      author: Anoosh Chakelian
-      details: ""
-      title: "“Slaveroo”: How riders are standing up to Uber, Deliveroo and the gig economy"
-      date: 2018-09-24
-- session: a-socialist-story-of-modern-britain
-  articles:
-  - url: https://soundcloud.com/theworldtransformed/how-did-we-get-here-and-where-are-we-going-telling-a-socialist-story-of-modern-britain
+  - url: https://soundcloud.com/theworldtransformed/a-global-nhs-public-services-across-borders
     type: recording
     publication: SoundCloud
     author: The World Transformed
     details:
     title: "Full session recording"
-    date: 2018-09-23
-- session: power-for-the-many
-  articles:
-  - url: https://soundcloud.com/theworldtransformed/power-for-the-many-a-radical-agenda-for-democracy
-    type: recording
-    publication: SoundCloud
-    author: The World Transformed
-    details:
-    title: "Full session recording"
-    date: 2018-09-23
-- session: workers-control-in-economic-planning
-  articles:
-  - url: https://soundcloud.com/theworldtransformed/workers-control-in-economic-planning
-    type: recording
-    publication: SoundCloud
-    author: The World Transformed
-    details:
-    title: "Full session recording"
-    date: 2018-09-23
-- session: runaway-finance
-  articles:
-  - url: https://soundcloud.com/theworldtransformed/should-we-take-over-the-banks
-    type: recording
-    publication: SoundCloud
-    author: The World Transformed
-    details:
-    title: "Full session recording"
-    date: 2018-09-23
-- session: marx-at-200
-  articles:
-  - url: https://soundcloud.com/theworldtransformed/im-literally-a-communist-marx-at-200
-    type: recording
-    publication: SoundCloud
-    author: The World Transformed
-    details:
-    title: "Full session recording"
-    date: 2018-09-24
+    date: 2018-09-25
 - session: a-movement-in-government
   articles:
   - url: https://soundcloud.com/theworldtransformed/a-movement-in-government-bad-audio-quality
@@ -70,18 +16,54 @@
     details:
     title: "Full session recording (poor quality)"
     date: 2018-09-24
-- session: feeling-the-bern
+- session: movement-for-cultural-democracy
   articles:
-  - url: https://soundcloud.com/theworldtransformed/feeling-the-bern-the-rise-of-the-american-left
+  - url: https://soundcloud.com/theworldtransformed/a-people-powered-manifesto-for-radical-cultural-democracy-what-next
     type: recording
     publication: SoundCloud
     author: The World Transformed
     details:
     title: "Full session recording"
     date: 2018-09-24
-- session: music-in-the-movement
+- session: a-radical-alliance-for-europe
   articles:
-  - url: https://soundcloud.com/theworldtransformed/soundtrack-of-the-movement-why-music-matters
+  - url: https://soundcloud.com/theworldtransformed/a-radical-alliance-for-europe
+    type: recording
+    publication: SoundCloud
+    author: The World Transformed
+    details:
+    title: "Full session recording"
+    date: 2018-10-03
+- session: internationalist-labour-party
+  articles:
+    - url: https://soundcloud.com/newint/an-internationalist-labour-party-hosted-by-new-internationalist-the-world-transformed-2018
+      type: recording
+      publication: SoundCloud
+      author: New Internationalist
+      details: ""
+      title: "Full session recording"
+      date: 2018-09-27
+- session: cities-in-common
+  articles:
+  - url: https://soundcloud.com/theworldtransformed/cities-in-common-urban-resistance-to-neoliberalism
+    type: recording
+    publication: SoundCloud
+    author: The World Transformed
+    details:
+    title: "Full session recording"
+    date: 2018-09-24
+- session: the-gig-economy
+  articles:
+    - url: https://www.newstatesman.com/politics/uk/2018/09/slaveroo-how-riders-are-standing-uber-deliveroo-and-gig-economy
+      type: coverage
+      publication: The New Statesman
+      author: Anoosh Chakelian
+      details: ""
+      title: "“Slaveroo”: How riders are standing up to Uber, Deliveroo and the gig economy"
+      date: 2018-09-24
+- session: feeling-the-bern
+  articles:
+  - url: https://soundcloud.com/theworldtransformed/feeling-the-bern-the-rise-of-the-american-left
     type: recording
     publication: SoundCloud
     author: The World Transformed
@@ -97,18 +79,27 @@
     details:
     title: "Full session recording"
     date: 2018-09-24
-- session: movement-for-cultural-democracy
+- session: fighting-for-trans-liberation
   articles:
-  - url: https://soundcloud.com/theworldtransformed/a-people-powered-manifesto-for-radical-cultural-democracy-what-next
+  - url: https://soundcloud.com/theworldtransformed/fighting-for-trans-liberation
     type: recording
     publication: SoundCloud
     author: The World Transformed
     details:
     title: "Full session recording"
-    date: 2018-09-24
-- session: cities-in-common
+    date: 2018-09-25
+- session: a-socialist-story-of-modern-britain
   articles:
-  - url: https://soundcloud.com/theworldtransformed/cities-in-common-urban-resistance-to-neoliberalism
+  - url: https://soundcloud.com/theworldtransformed/how-did-we-get-here-and-where-are-we-going-telling-a-socialist-story-of-modern-britain
+    type: recording
+    publication: SoundCloud
+    author: The World Transformed
+    details:
+    title: "Full session recording"
+    date: 2018-09-23
+- session: marx-at-200
+  articles:
+  - url: https://soundcloud.com/theworldtransformed/im-literally-a-communist-marx-at-200
     type: recording
     publication: SoundCloud
     author: The World Transformed
@@ -124,51 +115,6 @@
     details:
     title: "Full session recording"
     date: 2018-09-24
-- session: mental-health-and-capitalism
-  articles:
-  - url: https://soundcloud.com/theworldtransformed/lets-talk-about-mental-healthand-capitalism
-    type: recording
-    publication: SoundCloud
-    author: The World Transformed
-    details:
-    title: "Full session recording"
-    date: 2018-09-25
-- session: fighting-for-trans-liberation
-  articles:
-  - url: https://soundcloud.com/theworldtransformed/fighting-for-trans-liberation
-    type: recording
-    publication: SoundCloud
-    author: The World Transformed
-    details:
-    title: "Full session recording"
-    date: 2018-09-25
-- session: future-of-trade-unions
-  articles:
-  - url: https://soundcloud.com/theworldtransformed/the-future-of-the-trade-unions
-    type: recording
-    publication: SoundCloud
-    author: The World Transformed
-    details:
-    title: "Full session recording"
-    date: 2018-09-25
-- session: taking-whats-ours
-  articles:
-  - url: https://soundcloud.com/theworldtransformed/taking-whats-ours-public-ownership-from-below
-    type: recording
-    publication: SoundCloud
-    author: The World Transformed
-    details:
-    title: "Full session recording"
-    date: 2018-09-25
-- session: a-global-nhs
-  articles:
-  - url: https://soundcloud.com/theworldtransformed/a-global-nhs-public-services-across-borders
-    type: recording
-    publication: SoundCloud
-    author: The World Transformed
-    details:
-    title: "Full session recording"
-    date: 2018-09-25
 - session: end-to-sex-work-criminalisation
   articles:
   - url: https://soundcloud.com/theworldtransformed/labour4decrim-end-the-criminalisation-of-sex-work
@@ -178,6 +124,42 @@
     details:
     title: "Full session recording"
     date: 2018-09-25
+- session: mental-health-and-capitalism
+  articles:
+  - url: https://soundcloud.com/theworldtransformed/lets-talk-about-mental-healthand-capitalism
+    type: recording
+    publication: SoundCloud
+    author: The World Transformed
+    details:
+    title: "Full session recording"
+    date: 2018-09-25
+- session: occupy-fleet-street
+  articles:
+    - url: https://www.theguardian.com/politics/2018/sep/27/propaganda-of-privilege-how-labour-went-to-war-with-the-media
+      type: coverage
+      publication: The Guardian
+      author: Jim Waterson and Peter Walker
+      details: ""
+      title: "'Propaganda of privilege': how Labour went to war with the media"
+      date: 2018-09-27
+- session: power-for-the-many
+  articles:
+  - url: https://soundcloud.com/theworldtransformed/power-for-the-many-a-radical-agenda-for-democracy
+    type: recording
+    publication: SoundCloud
+    author: The World Transformed
+    details:
+    title: "Full session recording"
+    date: 2018-09-23
+- session: runaway-finance
+  articles:
+  - url: https://soundcloud.com/theworldtransformed/should-we-take-over-the-banks
+    type: recording
+    publication: SoundCloud
+    author: The World Transformed
+    details:
+    title: "Full session recording"
+    date: 2018-09-23
 - session: saving-the-nhs
   articles:
   - url: https://www.sochealth.co.uk/2018/09/29/the-world-transformed-speech-given-by-jean-hardiman-smith-sha-secretary/
@@ -196,32 +178,48 @@
       details: ""
       title: "Freezing arms sales to Israel is just a first step"
       date: 2018-09-27
-- session: internationalist-labour-party
+- session: music-in-the-movement
   articles:
-    - url: https://soundcloud.com/newint/an-internationalist-labour-party-hosted-by-new-internationalist-the-world-transformed-2018
-      type: recording
-      publication: SoundCloud
-      author: New Internationalist
-      details: ""
-      title: "Full session recording"
-      date: 2018-09-27
-
-- session: occupy-fleet-street
-  articles:
-    - url: https://www.theguardian.com/politics/2018/sep/27/propaganda-of-privilege-how-labour-went-to-war-with-the-media
-      type: coverage
-      publication: The Guardian
-      author: Jim Waterson and Peter Walker
-      details: ""
-      title: "'Propaganda of privilege': how Labour went to war with the media"
-      date: 2018-09-27
-
-- session: a-radical-alliance-for-europe
-  articles:
-  - url: https://soundcloud.com/theworldtransformed/a-radical-alliance-for-europe
+  - url: https://soundcloud.com/theworldtransformed/soundtrack-of-the-movement-why-music-matters
     type: recording
     publication: SoundCloud
     author: The World Transformed
     details:
     title: "Full session recording"
-    date: 2018-10-03
+    date: 2018-09-24
+- session: taking-whats-ours
+  articles:
+  - url: https://soundcloud.com/theworldtransformed/taking-whats-ours-public-ownership-from-below
+    type: recording
+    publication: SoundCloud
+    author: The World Transformed
+    details:
+    title: "Full session recording"
+    date: 2018-09-25
+- session: future-of-trade-unions
+  articles:
+  - url: https://soundcloud.com/theworldtransformed/the-future-of-the-trade-unions
+    type: recording
+    publication: SoundCloud
+    author: The World Transformed
+    details:
+    title: "Full session recording"
+    date: 2018-09-25
+- session: workers-control-in-economic-planning
+  articles:
+  - url: https://soundcloud.com/theworldtransformed/workers-control-in-economic-planning
+    type: recording
+    publication: SoundCloud
+    author: The World Transformed
+    details:
+    title: "Full session recording"
+    date: 2018-09-23
+- session: the-british-ruling-class
+  articles:
+    - url: https://www.patreon.com/posts/what-has-to-21641230
+      type: transcript
+      publication: Patreon
+      author: Richard Seymour
+      details: "An expanded version of his talk."
+      title: "What has happened to Britain's ruling class?"
+      date: 2018-09-25

@@ -8,16 +8,6 @@
   url: https://newint.org/features/2018/09/28/what-we-saw-world-transformed
   author: "Husna Rizvi"
 
-- publication: Sin Permiso
-  details: "[ESPAÑOL] The World Transformed: todas las esperanzas puestas en Momentum y Corbyn"
-  url: http://www.sinpermiso.info/textos/the-world-transformed-todas-las-esperanzas-puestas-en-momentum-y-corbyn
-  author: ""
-
-- publication: Reel Politik
-  details: A podcast episode recorded at TWT
-  url: https://soundcloud.com/reelpolitikpodcast/episode-69-gone-legit-at-twt-ft-george-eaton-juliet-jacques-stephen-smith
-  author: "George Eaton, Juliet Jacques, Stephen Smith"
-
 - publication: Novara Media's TyskySour
   details: An episode recorded at TWT and discussing John McDonnell's policies
   url: https://soundcloud.com/novaramedia/tyskysour-live-from-the-world-transformed-mcdonnells-britain
@@ -28,32 +18,42 @@
   url: https://soundcloud.com/novaramedia/tyskysour-live-from-the-world-transformed-a-party-of-remain
   author: ""
 
+- publication: Reel Politik
+  details: A podcast episode recorded at TWT
+  url: https://soundcloud.com/reelpolitikpodcast/episode-69-gone-legit-at-twt-ft-george-eaton-juliet-jacques-stephen-smith
+  author: "George Eaton, Juliet Jacques, Stephen Smith"
+
 - publication: Red Pepper
   details: The power of collective joy
   url: https://www.redpepper.org.uk/the-power-of-collective-joy/
   author: Sam Swann
 
-- publication: The Times
-  details: John McDonnell has opened the door to a new type of party conference
-  url: https://www.thetimes.co.uk/edition/news/john-mcdonnell-has-opened-the-door-to-a-new-type-of-party-conference-zgz3tpznk
-  author: Jade Frances Azim
-
-- publication: The Guardian
-  details: How Momentum is tapping into the new US socialism
-  url: https://www.theguardian.com/politics/2018/sep/26/momentum-plan-tap-into-new-us-socialism-labour-conference
-  author: Jessica Elgot
-
-- publication: The New Statesman
-  details: "Factions, fudge and fashion: How Momentum went mainstream"
-  url: https://www.newstatesman.com/politics/elections/2018/09/factions-fudge-and-fashion-how-momentum-went-mainstream
-  author: Anoosh Chakelian
+- publication: Sin Permiso
+  details: "[ESPAÑOL] The World Transformed: todas las esperanzas puestas en Momentum y Corbyn"
+  url: http://www.sinpermiso.info/textos/the-world-transformed-todas-las-esperanzas-puestas-en-momentum-y-corbyn
+  author: ""
 
 - publication: Sky News
   details: "The World Transformed: How Momentum festival is challenging for the 'mainstream' Labour conference"
   url: https://news.sky.com/story/the-world-transformed-how-momentum-festival-is-challenging-for-the-mainstream-labour-conference-11505328
   author: Aubrey Allegretti
 
+- publication: The Guardian
+  details: How Momentum is tapping into the new US socialism
+  url: https://www.theguardian.com/politics/2018/sep/26/momentum-plan-tap-into-new-us-socialism-labour-conference
+  author: Jessica Elgot
+
 - publication: The Nation
   details: "‘We Are Not Here to Manage Capitalism’: Labour Takes a Socialist Turn"
   url: https://www.thenation.com/article/we-are-not-here-to-manage-capitalism-labour-takes-a-socialist-turn/
   author: Rachel Shabi
+
+- publication: The New Statesman
+  details: "Factions, fudge and fashion: How Momentum went mainstream"
+  url: https://www.newstatesman.com/politics/elections/2018/09/factions-fudge-and-fashion-how-momentum-went-mainstream
+  author: Anoosh Chakelian
+
+- publication: The Times
+  details: John McDonnell has opened the door to a new type of party conference
+  url: https://www.thetimes.co.uk/edition/news/john-mcdonnell-has-opened-the-door-to-a-new-type-of-party-conference-zgz3tpznk
+  author: Jade Frances Azim
