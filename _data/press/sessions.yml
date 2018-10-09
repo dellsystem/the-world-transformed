@@ -151,6 +151,15 @@
     details:
     title: "Full session recording"
     date: 2018-09-23
+- session: red-white-blue-labour
+  articles:
+  - url: https://www.youtube.com/watch?v=jdGE3RH4o7o
+    type: video
+    publication: YouTube
+    author: Novara Media
+    details:
+    title: "Full session video"
+    date: 2018-09-23
 - session: runaway-finance
   articles:
   - url: https://soundcloud.com/theworldtransformed/should-we-take-over-the-banks
