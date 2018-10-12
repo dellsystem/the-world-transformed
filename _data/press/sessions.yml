@@ -34,6 +34,22 @@
     details:
     title: "Full session recording"
     date: 2018-10-03
+  - url: https://newsocialist.org.uk/notes-on-radical-citizenship/
+    type: coverage
+    publication: New Socialist
+    author: "Hettie O'Brien"
+    details: "On what a left governmentality could look like, inspired by Barcelona"
+    title: "Notes on radical citizenship"
+    date: 2018-10-03
+- session: future-visions
+  articles:
+  - url: https://www.youtube.com/watch?v=QWFpEGBZE3Q
+    type: video
+    publication: YouTube
+    author: The World Transformed
+    details:
+    title: "Full session recording"
+    date: 2018-10-10
 - session: internationalist-labour-party
   articles:
     - url: https://soundcloud.com/newint/an-internationalist-labour-party-hosted-by-new-internationalist-the-world-transformed-2018
@@ -106,6 +122,15 @@
     details:
     title: "Full session recording"
     date: 2018-09-24
+- session: in-and-against-the-state
+  articles:
+  - url: https://www.youtube.com/watch?v=AY9AIuzY82k&feature=youtu.be
+    type: video
+    publication: YouTube
+    author: The World Transformed
+    details:
+    title: "Full session recording"
+    date: 2018-10-11
 - session: conversation-with-jean-luc-melenchon
   articles:
   - url: https://soundcloud.com/theworldtransformed/in-conversation-with-jean-luc-melenchon

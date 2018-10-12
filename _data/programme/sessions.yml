@@ -687,8 +687,8 @@ future-visions: {day: Sunday, description: 'The 2017 General Election demonstrat
     of a different society, but working concretely to build it. Join Jeremy Corbyn
     and inspiring activists from the U.K. and beyond to share their visions for the
     future and how, together, we can see a world transformed.', end_timestamp: 20180923T190000,
-  final: false, image: default, organiser: The World Transformed, room: Main Space,
-  speakers: jeremy-corbyn-mp bonnie-castillo naomi-klein jacqui-haynes ertugrul-kurkcu,
+  final: true, image: default, organiser: The World Transformed, room: Main Space,
+  speakers: jeremy-corbyn-mp bonnie-castillo naomi-klein jacqui-haynes ertugrul-kurkcu owen-jones,
   start_timestamp: 20180923T173000, time: '17:30-19:00', title: A World for the Many,
   venue: Hinterlands}
 generation-solidarity: {day: Tuesday, description: 'Increasingly age, not class, appears
