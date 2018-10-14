@@ -23,12 +23,20 @@ title: "Press coverage // The World Transformed"
             <p>
                 Last updated: October 12, 2018
             </p>
-            <h2>Before TWT</h2>
-            {% include press_before.html %}
-            <h2>General overviews</h2>
-            {% include press_overviews.html %}
-            <h2 id="sessions">Specific sessions</h2>
-            {% include press_sessions.html %}
+            <div class="ui three item stackable tabs menu">
+                <a class="active item" data-tab="before">Before TWT</a>
+                <a class="item" data-tab="overviews">General overviews</a>
+                <a class="item" data-tab="sessions">Session write-ups and recordings</a>
+            </div>
+            <div class="ui active tab segment" data-tab="before">
+                {% include press_before.html %}
+            </div>
+            <div class="ui tab segment" data-tab="overviews">
+                {% include press_overviews.html %}
+            </div>
+            <div class="ui tab segment" data-tab="sessions">
+                {% include press_sessions.html %}
+            </div>
         </div>
     </div>
 </div>
