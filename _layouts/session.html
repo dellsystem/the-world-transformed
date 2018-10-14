@@ -61,6 +61,31 @@ layout: default
                     {{ session.description|markdownify }}
                 </div>
             </div>
+            {% assign press = site.data.press.sessions[page.slug] %}
+            {% if press %}
+            <hr />
+            <h2 class="ui header">
+                Press coverage
+                <div class="sub header">Write-ups and recordings</div>
+            </h2>
+            <div class="ui three cards">
+                {% for article in press.articles %}
+                <div class="card">
+                    <div class="content">
+                        <div class="header">
+                            {% include article_ribbon.html type=article.type %}
+                            {{ article.publication }}
+                        </div>
+                        <div class="description">
+                            <a href="{{ article.url }}">{{ article.title }} <i class="external link icon"></i></a>
+                            by {{ article.author }}. {{ article.details }}
+                            ({{ article.date }})
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+            {% endif %}
             {% if session.speakers == '' %}
             {% unless session.final %}
             <br />
