@@ -1,3 +1,12 @@
+4-day-week:
+  articles:
+    - url: https://soundcloud.com/theworldtransformed/a-4-day-week-the-time-is-now
+      type: recording
+      publication: SoundCloud
+      author: The World Transformed
+      details:
+      title: "Full session recording"
+      date: 2018-10-10
 a-global-nhs:
   articles:
     - url: https://soundcloud.com/theworldtransformed/a-global-nhs-public-services-across-borders
@@ -160,13 +169,20 @@ mental-health-and-capitalism:
     date: 2018-09-25
 occupy-fleet-street:
   articles:
-    - url: https://www.theguardian.com/politics/2018/sep/27/propaganda-of-privilege-how-labour-went-to-war-with-the-media
-      type: coverage
-      publication: The Guardian
-      author: Jim Waterson and Peter Walker
-      details: ""
-      title: "'Propaganda of privilege': how Labour went to war with the media"
-      date: 2018-09-27
+  - url: https://www.theguardian.com/politics/2018/sep/27/propaganda-of-privilege-how-labour-went-to-war-with-the-media
+    type: coverage
+    publication: The Guardian
+    author: Jim Waterson and Peter Walker
+    details: ""
+    title: "'Propaganda of privilege': how Labour went to war with the media"
+    date: 2018-09-27
+  - url: https://soundcloud.com/theworldtransformed/occup-fleet-street-how-to-democratise-the-british-media
+    type: recording
+    publication: SoundCloud
+    author: The World Transformed
+    details: "The first two speakers were not recorded due to logistical problems."
+    title: "Partial session recording"
+    date: 2018-09-23
 power-for-the-many:
   articles:
   - url: https://soundcloud.com/theworldtransformed/power-for-the-many-a-radical-agenda-for-democracy
