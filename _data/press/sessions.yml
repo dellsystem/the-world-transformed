@@ -176,6 +176,13 @@ occupy-fleet-street:
     details: ""
     title: "'Propaganda of privilege': how Labour went to war with the media"
     date: 2018-09-27
+  - url: /transcripts/occupy-fleet-street-angela-phillips
+    type: transcript
+    publication: The World Transformed
+    author: Angela Phillips
+    details: 
+    title: "Abridged transcript"
+    date: 2018-10-14
   - url: https://soundcloud.com/theworldtransformed/occup-fleet-street-how-to-democratise-the-british-media
     type: recording
     publication: SoundCloud

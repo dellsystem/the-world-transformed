@@ -1,0 +1,57 @@
+---
+layout: default
+---
+{% assign session = site.data.programme.sessions[page.session] %}
+{% assign speaker = site.data.programme.speakers[page.speaker] %}
+<div class="masthead section">
+</div>
+<div class="content section" data-background="#ea506e">
+    <div class="ui container">
+        <div id="page-content">
+            <p>
+                <a href="/sessions/{{ page.session }}">
+                    &laquo; Back to session
+                </a>
+            </p>
+            <h2 class="ui header">
+                {{ page.title }}
+                <div class="sub header">
+                    by {{ speaker.name }}
+                </div>
+            </h2>
+            <p>
+                Transcript of a talk delivered at the <a href="/sessions/{{ page.session }}">{{ session.title }}</a>
+                session of The World Transformed.
+            </p>
+            <div class="ui divider"></div>
+            {{ content }}
+            <div class="ui divider"></div>
+            <div class="ui grid">
+                <div class="three wide column">
+                    <img src="/images/speakers/{% if speaker['photo'] %}{{ page.speaker }}.jpg{% else %}default.png{% endif %}"
+                         class="ui fluid image" />
+                </div>
+                <div class="thirteen wide column">
+                    <h3 class="ui header">
+                        <a href="/speakers#{{ page.speaker }}">
+                            {{ speaker.name }}
+                        </a>
+                        {% unless speaker.twitter == '' %}
+                        <a href="{{ speaker.twitter }}">
+                            <i class="twitter icon"></i>
+                        </a>
+                        {% endunless %}
+                        <div class="sub header">
+                            {% unless speaker.tag == '' %}
+                            {{ speaker.tag }}
+                            {% unless speaker.organisation == '' %}//{% endunless %}
+                            {% endunless %}
+                            {{ speaker.organisation }}
+                        </div>
+                    </h3>
+                    {{ speaker.bio|markdownify }}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
