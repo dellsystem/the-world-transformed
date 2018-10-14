@@ -26,6 +26,7 @@
     background-position: right top;
     background-repeat: no-repeat;
     padding: 60px 0;
+    margin-top: 200px;
 }
 
 /* Maybe a more appropriate way to add this styling with semantic ui */
