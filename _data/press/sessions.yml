@@ -95,6 +95,22 @@ feeling-the-bern:
     details:
     title: "Full session recording"
     date: 2018-09-24
+  - url: https://www.youtube.com/watch?v=zx2PiAkNdGo
+    type: video
+    publication: YouTube
+    author: The World Transformed
+    details:
+    title: "Full session recording"
+    date: 2018-10-16
+feminism-for-the-many:
+  articles:
+  - url: https://www.youtube.com/watch?v=dLdypu0WWgU
+    type: video
+    publication: YouTube
+    author: The World Transformed
+    details:
+    title: "Full session recording"
+    date: 2018-10-15
 fighting-disabled-exclusion:
   articles:
   - url: https://soundcloud.com/theworldtransformed/fighting-disabled-peoples-exclusion
@@ -122,6 +138,15 @@ a-socialist-story-of-modern-britain:
     details:
     title: "Full session recording"
     date: 2018-09-23
+how-to-win-big:
+  articles:
+  - url: https://www.youtube.com/watch?v=PUeWQa6aW5k&feature=youtu.be
+    type: video
+    publication: YouTube
+    author: The World Transformed
+    details:
+    title: "Full session recording"
+    date: 2018-10-18
 marx-at-200:
   articles:
   - url: https://soundcloud.com/theworldtransformed/im-literally-a-communist-marx-at-200
@@ -167,6 +192,15 @@ mental-health-and-capitalism:
     details:
     title: "Full session recording"
     date: 2018-09-25
+why-political-education:
+  articles:
+  - url: https://www.youtube.com/watch?v=ZaiN5vtWFjA&feature=youtu.be
+    type: video
+    publication: YouTube
+    author: The World Transformed
+    details:
+    title: "Full session recording"
+    date: 2018-10-12
 occupy-fleet-street:
   articles:
   - url: https://www.theguardian.com/politics/2018/sep/27/propaganda-of-privilege-how-labour-went-to-war-with-the-media
@@ -262,6 +296,15 @@ future-of-trade-unions:
     details:
     title: "Full session recording"
     date: 2018-09-25
+the-european-left:
+  articles:
+  - url: https://www.youtube.com/watch?v=rq_ljcjl02c
+    type: video
+    publication: YouTube
+    author: The World Transformed
+    details:
+    title: "Full session recording"
+    date: 2018-10-17
 workers-control-in-economic-planning:
   articles:
   - url: https://soundcloud.com/theworldtransformed/workers-control-in-economic-planning

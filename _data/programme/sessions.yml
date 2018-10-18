@@ -765,7 +765,7 @@ how-to-win-big: {day: Tuesday, description: !!python/str "To win the next electi
     \ community empowerment. Join Labour politicians and activists, as well as organisers\
     \ from outside the UK, to discuss how Labour members can transform their communities\
     \ and build support for a radical Labour government in the process.", end_timestamp: 20180925T190000,
-  final: false, image: default, organiser: '', room: Main Space, speakers: ian-lavery
+  final: true, image: default, organiser: '', room: Main Space, speakers: ian-lavery
     becky-bond ian-byrne dan-firth india-thorogood, start_timestamp: 20180925T173000,
   time: '17:30-19:00', title: How to Win BIG, venue: Hinterlands}
 in-and-against-the-state: {day: Tuesday, description: 'In recent decades the British
@@ -1541,8 +1541,7 @@ why-political-education: {day: Saturday, description: !!python/str "Winning elec
     \ is it important now? And who\u2019s educating who anyway?", end_timestamp: 20180922T123000,
   final: true, image: mcdonnell, organiser: The World Transformed, room: Main Space,
   speakers: john-mcdonnell-mp lindsey-mcdowell gary-anderson dalia-gebrial holly-rigby,
-  start_timestamp: 20180922T110000, time: '11:00-12:30', title: 'Opening Session:
-    Making the Case for Political Education', venue: Black-E}
+  start_timestamp: 20180922T110000, time: '11:00-12:30', title: 'Making the Case for Political Education', venue: Black-E}
 workers-control-in-economic-planning: {day: Sunday, description: 'The Lucas Plan is
     one of the most radical alternative models to economic planning ever drawn up
     by workers. By demanding the right to socially useful production, the plan reopened
