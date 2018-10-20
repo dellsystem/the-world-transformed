@@ -1,0 +1,21 @@
+<div class="ui three stackable cards">
+    {% for video in site.data.press.speakers %}
+    <div class="card">
+        <a class="image" href="{{ video.url }}">
+            <img src="/images/press/{{ video.image }}" />
+        </a>
+        <div class="content">
+            <a class="header" href="{{ video.url }}">
+                {{ video.title }}
+            </a>
+            <div class="meta">
+                {{ video.publication }}
+            </div>
+            <div class="ui divider"></div>
+            <div class="description">
+                {{ video.details }}
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
