@@ -25,6 +25,13 @@ a-movement-in-government:
       details:
       title: "Full session recording (poor quality)"
       date: 2018-09-24
+  - url: https://www.jacobinmag.com/2018/10/ruling-class-elites-conspiracies-antisemitism-marxism
+    type: coverage
+    publication: Jacobin
+    author: Tom Mills
+    details: "How analysis of concentrated social power can feel like conspiracy theory."
+    title: "Can the Ruling Class Speak?"
+    date: 2018-10-14
 movement-for-cultural-democracy:
   articles:
   - url: https://soundcloud.com/theworldtransformed/a-people-powered-manifesto-for-radical-cultural-democracy-what-next
@@ -59,7 +66,7 @@ future-visions:
     details:
     title: "Full session recording"
     date: 2018-10-10
-  - url: Ertuğrul Kürkçü
+  - url: https://www.jacobinmag.com/2018/10/hdp-turkey-kurdistan-labour-party-corbyn
     type: transcript
     publication: Jacobin
     author: Ertuğrul Kürkçü
