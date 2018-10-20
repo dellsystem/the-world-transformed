@@ -1,30 +1,30 @@
 4-day-week:
   articles:
-    - url: https://soundcloud.com/theworldtransformed/a-4-day-week-the-time-is-now
-      type: recording
-      publication: SoundCloud
-      author: The World Transformed
-      details:
-      title: "Full session recording"
-      date: 2018-10-10
+  - url: https://soundcloud.com/theworldtransformed/a-4-day-week-the-time-is-now
+    type: recording
+    publication: SoundCloud
+    author: The World Transformed
+    details:
+    title: "Full session recording"
+    date: 2018-10-10
 a-global-nhs:
   articles:
-    - url: https://soundcloud.com/theworldtransformed/a-global-nhs-public-services-across-borders
-      type: recording
-      publication: SoundCloud
-      author: The World Transformed
-      details:
-      title: "Full session recording"
-      date: 2018-09-25
+  - url: https://soundcloud.com/theworldtransformed/a-global-nhs-public-services-across-borders
+    type: recording
+    publication: SoundCloud
+    author: The World Transformed
+    details:
+    title: "Full session recording"
+    date: 2018-09-25
 a-movement-in-government:
   articles:
-    - url: https://soundcloud.com/theworldtransformed/a-movement-in-government-bad-audio-quality
-      type: recording
-      publication: SoundCloud
-      author: The World Transformed
-      details:
-      title: "Full session recording (poor quality)"
-      date: 2018-09-24
+  - url: https://soundcloud.com/theworldtransformed/a-movement-in-government-bad-audio-quality
+    type: recording
+    publication: SoundCloud
+    author: The World Transformed
+    details:
+    title: "Full session recording (poor quality)"
+    date: 2018-09-24
   - url: https://www.jacobinmag.com/2018/10/ruling-class-elites-conspiracies-antisemitism-marxism
     type: coverage
     publication: Jacobin
@@ -75,13 +75,13 @@ future-visions:
     date: 2018-10-18
 internationalist-labour-party:
   articles:
-    - url: https://soundcloud.com/newint/an-internationalist-labour-party-hosted-by-new-internationalist-the-world-transformed-2018
-      type: recording
-      publication: SoundCloud
-      author: New Internationalist
-      details: ""
-      title: "Full session recording"
-      date: 2018-09-27
+  - url: https://soundcloud.com/newint/an-internationalist-labour-party-hosted-by-new-internationalist-the-world-transformed-2018
+    type: recording
+    publication: SoundCloud
+    author: New Internationalist
+    details: ""
+    title: "Full session recording"
+    date: 2018-09-27
 cities-in-common:
   articles:
   - url: https://soundcloud.com/theworldtransformed/cities-in-common-urban-resistance-to-neoliberalism
@@ -93,13 +93,13 @@ cities-in-common:
     date: 2018-09-24
 the-gig-economy:
   articles:
-    - url: https://www.newstatesman.com/politics/uk/2018/09/slaveroo-how-riders-are-standing-uber-deliveroo-and-gig-economy
-      type: coverage
-      publication: The New Statesman
-      author: Anoosh Chakelian
-      details: ""
-      title: "“Slaveroo”: How riders are standing up to Uber, Deliveroo and the gig economy"
-      date: 2018-09-24
+  - url: https://www.newstatesman.com/politics/uk/2018/09/slaveroo-how-riders-are-standing-uber-deliveroo-and-gig-economy
+    type: coverage
+    publication: The New Statesman
+    author: Anoosh Chakelian
+    details: ""
+    title: "“Slaveroo”: How riders are standing up to Uber, Deliveroo and the gig economy"
+    date: 2018-09-24
 feeling-the-bern:
   articles:
   - url: https://soundcloud.com/theworldtransformed/feeling-the-bern-the-rise-of-the-american-left
@@ -276,13 +276,13 @@ saving-the-nhs:
     date: 2018-09-29
 solidarity-with-palestinians:
   articles:
-    - url: https://newint.org/features/2018/09/27/freezing-arms-sales-israel-just-first-step
-      type: coverage
-      publication: New Internationalist
-      author: Husna Rizvi
-      details: ""
-      title: "Freezing arms sales to Israel is just a first step"
-      date: 2018-09-27
+  - url: https://newint.org/features/2018/09/27/freezing-arms-sales-israel-just-first-step
+    type: coverage
+    publication: New Internationalist
+    author: Husna Rizvi
+    details: ""
+    title: "Freezing arms sales to Israel is just a first step"
+    date: 2018-09-27
 music-in-the-movement:
   articles:
   - url: https://soundcloud.com/theworldtransformed/soundtrack-of-the-movement-why-music-matters
@@ -330,10 +330,10 @@ workers-control-in-economic-planning:
     date: 2018-09-23
 the-british-ruling-class:
   articles:
-    - url: https://www.patreon.com/posts/what-has-to-21641230
-      type: transcript
-      publication: Patreon
-      author: Richard Seymour
-      details: "An expanded version of his talk."
-      title: "What has happened to Britain's ruling class?"
-      date: 2018-09-25
+  - url: https://www.patreon.com/posts/what-has-to-21641230
+    type: transcript
+    publication: Patreon
+    author: Richard Seymour
+    details: "An expanded version of his talk."
+    title: "What has happened to Britain's ruling class?"
+    date: 2018-09-25
