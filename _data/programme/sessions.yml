@@ -1352,7 +1352,7 @@ taking-whats-ours: {day: Tuesday, description: 'On every continent, activists an
 tech-workers-inquiry: {day: Sunday, description: 'Why are unionisation rates so low
     within the tech industry? Are tech workers really workers? We encourage anyone
     who works in tech to come to this small session on building worker power within
-    the tech industry.', end_timestamp: 20180923T143000, final: false, image: cybersyn,
+    the tech industry.', end_timestamp: 20180923T143000, final: true, image: cybersyn,
   organiser: Tech Workers Coalition, room: Gallery, speakers: jason-prado joe-corcoran
     wendy-liu, start_timestamp: 20180923T130000, time: '13:00-14:30', title: Tech
     Workers' Inquiry, venue: Black-E}
