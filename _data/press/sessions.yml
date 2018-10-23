@@ -247,6 +247,15 @@ occupy-fleet-street:
     details: "The first two speakers were not recorded due to logistical problems."
     title: "Partial session recording"
     date: 2018-09-23
+parties-and-picket-lines:
+  articles:
+  - url: https://www.youtube.com/watch?v=ddT81NfvyZI
+    type: video
+    publication: YouTube
+    author: The World Transformed
+    details:
+    title: "Full session recording"
+    date: 2018-10-23
 power-for-the-many:
   articles:
   - url: https://soundcloud.com/theworldtransformed/power-for-the-many-a-radical-agenda-for-democracy
