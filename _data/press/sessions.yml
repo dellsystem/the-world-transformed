@@ -319,6 +319,15 @@ taking-whats-ours:
     details:
     title: "Full session recording"
     date: 2018-09-25
+tech-workers-inquiry:
+  articles:
+  - url: https://newsocialist.org.uk/tech-workers-inquiry-at-twt/
+    type: transcript
+    publication: New Socialist
+    author: Wendy Liu
+    details: "An abridged transcript of the entire session."
+    title: "Tech Workers' Inquiry at The World Transformed"
+    date: 2018-10-30
 future-of-trade-unions:
   articles:
   - url: https://soundcloud.com/theworldtransformed/the-future-of-the-trade-unions
