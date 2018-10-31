@@ -59,7 +59,7 @@ a-new-populism: {day: Monday, description: 'We are in a populist moment, with ne
     on populism has influenced political parties across Europe, and Jon Trickett MP,
     Shadow Minister for the Cabinet Office and a driving force behind the Corbyn Project.',
   end_timestamp: 20180924T190000, final: true, image: movement, organiser: The World
-    Transformed, room: Main Space, speakers: chantal-mouffe jon-trickett-mp george-eaton,
+    Transformed, room: Main Space, speakers: chantal-mouffe jon-trickett-mp michael-walker,
   start_timestamp: 20180924T173000, time: '17:30-19:00', title: A New Populism, venue: Hinterlands}
 a-party-for-the-21st-century: {day: Sunday, description: !!python/str "As Conference\
     \ debates the recommendations of the Democracy Review and \u2018Open Selection,\u2018\

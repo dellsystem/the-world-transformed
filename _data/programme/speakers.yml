@@ -525,9 +525,6 @@ gary-anderson: {bio: 'Co-founder of the Free University of Liverpool, the Instit
 gary-younge: {bio: 'British journalist, author and broadcaster. He is editor-at-large
     for The Guardian', confirmed: '', name: Gary Younge, organisation: '', other: '',
   photo: true, sessions: no-pasaran, tag: '', twitter: 'https://twitter.com/garyyounge'}
-george-eaton: {bio: Political Editor of the New Statesman, confirmed: '', name: George
-    Eaton, organisation: '', other: '', photo: true, sessions: a-new-populism, tag: '',
-  twitter: ''}
 gerry-byrne: {bio: '', confirmed: '', name: Gerry Byrne, organisation: Talk Socialism,
   other: '', photo: false, sessions: developing-movement-leaders group-dynamics-and-movement-building,
   tag: '', twitter: ''}
@@ -983,6 +980,8 @@ michael-jacobs: {bio: '', confirmed: '', name: Michael Jacobs, organisation: IPP
 michael-roberts: {bio: 'Economist and author of The Great Recession: a Marxist view
     and The Long Depression', confirmed: 'Yes', name: Michael Roberts, organisation: '',
   other: '', photo: true, sessions: runaway-finance, tag: Economist, twitter: ''}
+michael-walker: {bio: '', confirmed: '', name: Michael Walker, organisation: Novara Media,
+  other: '', photo: true, sessions: a-new-populism, tag: '', twitter: 'https://twitter.com/michaeljswalker'}
 mika-minio: {bio: 'Energy Economist, Energy Democracy Project', confirmed: 'Yes',
   name: Mika Minio-Paluello, organisation: Energy Democracy Project, other: '', photo: false,
   sessions: communities-against-climate-change, tag: Economist, twitter: ''}
