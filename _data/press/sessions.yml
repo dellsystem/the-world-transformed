@@ -66,6 +66,15 @@ a-radical-alliance-for-europe:
     details: "On what a left governmentality could look like, inspired by Barcelona"
     title: "Notes on radical citizenship"
     date: 2018-10-03
+a-very-british-coup:
+  articles:
+  - url: https://newsocialist.org.uk/very-british-coup-megagame-world-transformed/
+    type: coverage
+    publication: New Socialist
+    author: John Foster
+    details: 
+    title: "A Very British Coup Megagame at The World Transformed"
+    date: 2018-11-23
 future-visions:
   articles:
   - url: https://www.youtube.com/watch?v=QWFpEGBZE3Q
@@ -235,6 +244,13 @@ no-pasaran:
     date: 2018-10-11
 occupy-fleet-street:
   articles:
+  - url: https://dellsystem.me/speaking/occupy-fleet-street
+    type: coverage
+    publication: dellsystem.me
+    author: Wendy Liu
+    details: "A write-up of the session + Wendy's opening remarks."
+    title: "Occupy Fleet Street"
+    date: 2018-11-23
   - url: https://www.theguardian.com/politics/2018/sep/27/propaganda-of-privilege-how-labour-went-to-war-with-the-media
     type: coverage
     publication: The Guardian
@@ -319,6 +335,15 @@ music-in-the-movement:
     details:
     title: "Full session recording"
     date: 2018-09-24
+tackling-the-tech-giants:
+  articles:
+  - url: https://dellsystem.me/speaking/taking-on-the-tech-giants
+    type: coverage
+    publication: dellsystem.me
+    author: Wendy Liu
+    details: "Wendy's opening remarks + questions + recommended reading"
+    title: "Taking on the Tech Giants"
+    date: 2018-11-23
 taking-whats-ours:
   articles:
   - url: https://soundcloud.com/theworldtransformed/taking-whats-ours-public-ownership-from-below
